@@ -1,0 +1,4502 @@
+[
+  {
+    "word_a": "तुम",
+    "word_b": "تُمَ",
+    "token_a": "▁तुम",
+    "token_b": "▁ت",
+    "logit_a": 7.316877365112305,
+    "logit_b": 9.70036506652832,
+    "prefers_a": false
+  },
+  {
+    "word_a": "एक",
+    "word_b": "ایکَ",
+    "token_a": "▁एक",
+    "token_b": "▁ایک",
+    "logit_a": 14.075949668884277,
+    "logit_b": 10.007827758789062,
+    "prefers_a": true
+  },
+  {
+    "word_a": "कमांडर",
+    "word_b": "کَمَان٘ڈَرَ",
+    "token_a": "▁कमा",
+    "token_b": "▁ک",
+    "logit_a": 15.78205680847168,
+    "logit_b": 15.338871955871582,
+    "prefers_a": true
+  },
+  {
+    "word_a": "कभी",
+    "word_b": "کَبھِی",
+    "token_a": "▁कभी",
+    "token_b": "▁ک",
+    "logit_a": 9.408120155334473,
+    "logit_b": 2.9194533824920654,
+    "prefers_a": true
+  },
+  {
+    "word_a": "नहीं",
+    "word_b": "نَہِیں",
+    "token_a": "▁नहीं",
+    "token_b": "▁ن",
+    "logit_a": 16.747787475585938,
+    "logit_b": 5.2364373207092285,
+    "prefers_a": true
+  },
+  {
+    "word_a": "होगा!",
+    "word_b": "ہوگَا!",
+    "token_a": "▁होगा",
+    "token_b": "▁ہو",
+    "logit_a": 12.83837604522705,
+    "logit_b": 10.259184837341309,
+    "prefers_a": true
+  },
+  {
+    "word_a": "और",
+    "word_b": "اَورَ",
+    "token_a": "▁और",
+    "token_b": "▁ا",
+    "logit_a": 16.923063278198242,
+    "logit_b": 6.385586738586426,
+    "prefers_a": true
+  },
+  {
+    "word_a": "तारे",
+    "word_b": "تَارے",
+    "token_a": "▁तार",
+    "token_b": "▁ت",
+    "logit_a": 18.50406265258789,
+    "logit_b": 12.017677307128906,
+    "prefers_a": true
+  },
+  {
+    "word_a": "वृक्ष",
+    "word_b": "وْرِکْشَ",
+    "token_a": "▁वृ",
+    "token_b": "▁و",
+    "logit_a": 19.762405395507812,
+    "logit_b": 21.63190460205078,
+    "prefers_a": false
+  },
+  {
+    "word_a": "सजदा",
+    "word_b": "سَجَدَا",
+    "token_a": "▁स",
+    "token_b": "▁س",
+    "logit_a": 28.145938873291016,
+    "logit_b": 20.538616180419922,
+    "prefers_a": true
+  },
+  {
+    "word_a": "करते",
+    "word_b": "کَرَتے",
+    "token_a": "▁करते",
+    "token_b": "▁ک",
+    "logit_a": 11.419008255004883,
+    "logit_b": 2.9194533824920654,
+    "prefers_a": true
+  },
+  {
+    "word_a": "है;",
+    "word_b": "ہَے؛",
+    "token_a": "▁है",
+    "token_b": "▁ہ",
+    "logit_a": 15.967694282531738,
+    "logit_b": 3.883683681488037,
+    "prefers_a": true
+  },
+  {
+    "word_a": "ऑफ़लाइन",
+    "word_b": "آفَلَائِنَ",
+    "token_a": "▁ऑफ़",
+    "token_b": "▁آف",
+    "logit_a": 31.28295135498047,
+    "logit_b": 25.048370361328125,
+    "prefers_a": true
+  },
+  {
+    "word_a": "प्रयोग",
+    "word_b": "پْرَیوگَ",
+    "token_a": "▁प्रयोग",
+    "token_b": "▁پ",
+    "logit_a": 15.64954662322998,
+    "logit_b": 2.22291898727417,
+    "prefers_a": true
+  },
+  {
+    "word_a": "के",
+    "word_b": "کے",
+    "token_a": "▁के",
+    "token_b": "▁کے",
+    "logit_a": 14.433826446533203,
+    "logit_b": 11.745820045471191,
+    "prefers_a": true
+  },
+  {
+    "word_a": "लिए",
+    "word_b": "لِئے",
+    "token_a": "▁लिए",
+    "token_b": "▁ل",
+    "logit_a": 14.837963104248047,
+    "logit_b": 6.487849712371826,
+    "prefers_a": true
+  },
+  {
+    "word_a": "संदेश",
+    "word_b": "سَن٘دیشَ",
+    "token_a": "▁संदेश",
+    "token_b": "▁س",
+    "logit_a": 11.677906036376953,
+    "logit_b": 4.756198883056641,
+    "prefers_a": true
+  },
+  {
+    "word_a": "डाउनलोड",
+    "word_b": "ڈَاؤُنَلوڈَ",
+    "token_a": "▁डाउनलोड",
+    "token_b": "▁ڈ",
+    "logit_a": 20.100008010864258,
+    "logit_b": 0.9678922295570374,
+    "prefers_a": true
+  },
+  {
+    "word_a": "करें",
+    "word_b": "کَریں",
+    "token_a": "▁करें",
+    "token_b": "▁ک",
+    "logit_a": 17.042444229125977,
+    "logit_b": 2.9194533824920654,
+    "prefers_a": true
+  },
+  {
+    "word_a": "(_D)",
+    "word_b": "(_D)",
+    "token_a": "▁(",
+    "token_b": "▁(",
+    "logit_a": 22.556415557861328,
+    "logit_b": 22.556415557861328,
+    "prefers_a": false
+  },
+  {
+    "word_a": "किसी",
+    "word_b": "نَ",
+    "token_a": "▁किसी",
+    "token_b": "▁ن",
+    "logit_a": 9.92633056640625,
+    "logit_b": 5.2364373207092285,
+    "prefers_a": true
+  },
+  {
+    "word_a": "काहिन",
+    "word_b": "کِسِی",
+    "token_a": "▁का",
+    "token_b": "▁ک",
+    "logit_a": 27.97970962524414,
+    "logit_b": 16.288223266601562,
+    "prefers_a": true
+  },
+  {
+    "word_a": "की",
+    "word_b": "کَاہِنَ",
+    "token_a": "▁की",
+    "token_b": "▁ک",
+    "logit_a": 15.533392906188965,
+    "logit_b": 2.9194533824920654,
+    "prefers_a": true
+  },
+  {
+    "word_a": "(ख्याली)",
+    "word_b": "کِی",
+    "token_a": "▁(",
+    "token_b": "▁ک",
+    "logit_a": 41.87742614746094,
+    "logit_b": 23.45773696899414,
+    "prefers_a": true
+  },
+  {
+    "word_a": "बात",
+    "word_b": "(کھْیَالِی)",
+    "token_a": "▁बात",
+    "token_b": "▁(",
+    "logit_a": 12.16928482055664,
+    "logit_b": 17.336881637573242,
+    "prefers_a": false
+  },
+  {
+    "word_a": "है",
+    "word_b": "بَاتَ",
+    "token_a": "▁है",
+    "token_b": "▁ب",
+    "logit_a": 14.926410675048828,
+    "logit_b": 7.505509376525879,
+    "prefers_a": true
+  },
+  {
+    "word_a": "लोग",
+    "word_b": "ہَے",
+    "token_a": "▁लोग",
+    "token_b": "▁ہ",
+    "logit_a": 9.506609916687012,
+    "logit_b": -0.5066743493080139,
+    "prefers_a": true
+  },
+  {
+    "word_a": "तो",
+    "word_b": "لوگَ",
+    "token_a": "▁तो",
+    "token_b": "▁لوگ",
+    "logit_a": 17.616878509521484,
+    "logit_b": 5.118199348449707,
+    "prefers_a": true
+  },
+  {
+    "word_a": "बहुत",
+    "word_b": "تو",
+    "token_a": "▁बहुत",
+    "token_b": "▁تو",
+    "logit_a": 12.956104278564453,
+    "logit_b": 10.64791488647461,
+    "prefers_a": true
+  },
+  {
+    "word_a": "कम",
+    "word_b": "بَہُتَ",
+    "token_a": "▁कम",
+    "token_b": "▁ب",
+    "logit_a": 9.308595657348633,
+    "logit_b": 7.505509376525879,
+    "prefers_a": true
+  },
+  {
+    "word_a": "ग़ौर",
+    "word_b": "کَمَ",
+    "token_a": "▁",
+    "token_b": "▁ک",
+    "logit_a": 27.56552505493164,
+    "logit_b": 15.517589569091797,
+    "prefers_a": true
+  },
+  {
+    "word_a": "हो",
+    "word_b": "غَورَ",
+    "token_a": "▁हो",
+    "token_b": "▁غ",
+    "logit_a": 12.571596145629883,
+    "logit_b": 5.058895111083984,
+    "prefers_a": true
+  },
+  {
+    "word_a": "\"{1}\"",
+    "word_b": "ہو",
+    "token_a": "▁\"",
+    "token_b": "▁ہو",
+    "logit_a": 30.17922019958496,
+    "logit_b": 14.632975578308105,
+    "prefers_a": true
+  },
+  {
+    "word_a": "नाम",
+    "word_b": "\"{1}\"",
+    "token_a": "▁नाम",
+    "token_b": "▁\"",
+    "logit_a": 11.587470054626465,
+    "logit_b": 20.023941040039062,
+    "prefers_a": false
+  },
+  {
+    "word_a": "से",
+    "word_b": "نَامَ",
+    "token_a": "▁से",
+    "token_b": "▁ن",
+    "logit_a": 10.77049732208252,
+    "logit_b": 5.2364373207092285,
+    "prefers_a": true
+  },
+  {
+    "word_a": "फ़ोल्डर",
+    "word_b": "سے",
+    "token_a": "▁फ़",
+    "token_b": "▁سے",
+    "logit_a": 26.79251480102539,
+    "logit_b": 24.35988998413086,
+    "prefers_a": true
+  },
+  {
+    "word_a": "पहले",
+    "word_b": "فولْڈَرَ",
+    "token_a": "▁पहले",
+    "token_b": "▁فول",
+    "logit_a": 14.627180099487305,
+    "logit_b": 6.568726539611816,
+    "prefers_a": true
+  },
+  {
+    "word_a": "उपस्थित",
+    "word_b": "پَہَلے",
+    "token_a": "▁उपस्थित",
+    "token_b": "▁پ",
+    "logit_a": 15.590804100036621,
+    "logit_b": 2.22291898727417,
+    "prefers_a": true
+  },
+  {
+    "word_a": "है.",
+    "word_b": "اُپَسْتھِتَ",
+    "token_a": "▁है",
+    "token_b": "▁ا",
+    "logit_a": 18.509153366088867,
+    "logit_b": 15.644733428955078,
+    "prefers_a": true
+  },
+  {
+    "word_a": "कृपया",
+    "word_b": "ہَے۔",
+    "token_a": "▁कृपया",
+    "token_b": "▁ہ",
+    "logit_a": 10.76484489440918,
+    "logit_b": -0.5066743493080139,
+    "prefers_a": true
+  },
+  {
+    "word_a": "दूसरे",
+    "word_b": "کْرِپَیَا",
+    "token_a": "▁दूसरे",
+    "token_b": "▁ک",
+    "logit_a": 13.335735321044922,
+    "logit_b": 2.9194533824920654,
+    "prefers_a": true
+  },
+  {
+    "word_a": "का",
+    "word_b": "دُوسَرے",
+    "token_a": "▁का",
+    "token_b": "▁د",
+    "logit_a": 11.213922500610352,
+    "logit_b": 10.594326972961426,
+    "prefers_a": true
+  },
+  {
+    "word_a": "उपयोग",
+    "word_b": "کَا",
+    "token_a": "▁उपयोग",
+    "token_b": "▁ک",
+    "logit_a": 14.745697975158691,
+    "logit_b": 2.9194533824920654,
+    "prefers_a": true
+  },
+  {
+    "word_a": "करें.",
+    "word_b": "اُپَیوگَ",
+    "token_a": "▁करें",
+    "token_b": "▁ا",
+    "logit_a": 15.8113431930542,
+    "logit_b": 15.644733428955078,
+    "prefers_a": true
+  },
+  {
+    "word_a": "अनुप्रयोग",
+    "word_b": "کَریں۔",
+    "token_a": "▁अनु",
+    "token_b": "▁ک",
+    "logit_a": 26.964597702026367,
+    "logit_b": 22.892301559448242,
+    "prefers_a": true
+  },
+  {
+    "word_a": "'%s'",
+    "word_b": "اَنُپْرَیوگَ",
+    "token_a": "▁'",
+    "token_b": "▁ا",
+    "logit_a": 24.433944702148438,
+    "logit_b": 14.018354415893555,
+    "prefers_a": true
+  },
+  {
+    "word_a": "इस्तेमाल",
+    "word_b": "'%s'",
+    "token_a": "▁इस्तेमाल",
+    "token_b": "▁'",
+    "logit_a": 14.468515396118164,
+    "logit_b": 19.87965965270996,
+    "prefers_a": false
+  },
+  {
+    "word_a": "किया",
+    "word_b": "اِسْتیمَالَ",
+    "token_a": "▁किया",
+    "token_b": "▁ا",
+    "logit_a": 11.308347702026367,
+    "logit_b": 6.385586738586426,
+    "prefers_a": true
+  },
+  {
+    "word_a": "जा",
+    "word_b": "کِیَا",
+    "token_a": "▁जा",
+    "token_b": "▁ک",
+    "logit_a": 8.643722534179688,
+    "logit_b": 2.9194533824920654,
+    "prefers_a": true
+  },
+  {
+    "word_a": "तैयार",
+    "word_b": "جَا",
+    "token_a": "▁तैयार",
+    "token_b": "▁ج",
+    "logit_a": 10.896770477294922,
+    "logit_b": 6.636977672576904,
+    "prefers_a": true
+  },
+  {
+    "word_a": "या",
+    "word_b": "تَییَارَ",
+    "token_a": "▁या",
+    "token_b": "▁ت",
+    "logit_a": 13.543919563293457,
+    "logit_b": 9.70036506652832,
+    "prefers_a": true
+  },
+  {
+    "word_a": "नसीहत",
+    "word_b": "یَا",
+    "token_a": "▁न",
+    "token_b": "▁ی",
+    "logit_a": 30.08514404296875,
+    "logit_b": 24.549827575683594,
+    "prefers_a": true
+  },
+  {
+    "word_a": "हासिल",
+    "word_b": "نَسِیہَتَ",
+    "token_a": "▁हासिल",
+    "token_b": "▁ن",
+    "logit_a": 4.912415981292725,
+    "logit_b": 5.2364373207092285,
+    "prefers_a": false
+  },
+  {
+    "word_a": "करता",
+    "word_b": "ہَاسِلَ",
+    "token_a": "▁करता",
+    "token_b": "▁ہ",
+    "logit_a": 10.9881010055542,
+    "logit_b": -0.5066743493080139,
+    "prefers_a": true
+  },
+  {
+    "word_a": "उसके",
+    "word_b": "کَرَتَا",
+    "token_a": "▁उसके",
+    "token_b": "▁ک",
+    "logit_a": 13.722940444946289,
+    "logit_b": 2.9194533824920654,
+    "prefers_a": true
+  },
+  {
+    "word_a": "लाभदायक",
+    "word_b": "اُسَکے",
+    "token_a": "▁लाभ",
+    "token_b": "▁ا",
+    "logit_a": 38.89909744262695,
+    "logit_b": 20.576217651367188,
+    "prefers_a": true
+  },
+  {
+    "word_a": "हो?",
+    "word_b": "لَابھَدَایَکَ",
+    "token_a": "▁हो",
+    "token_b": "▁ل",
+    "logit_a": 11.16915225982666,
+    "logit_b": 6.585702896118164,
+    "prefers_a": true
+  },
+  {
+    "word_a": "हुक्म",
+    "word_b": "ہو؟",
+    "token_a": "▁हु",
+    "token_b": "▁ہو",
+    "logit_a": 22.787946701049805,
+    "logit_b": 20.830129623413086,
+    "prefers_a": true
+  },
+  {
+    "word_a": "अल्लाह",
+    "word_b": "ہُکْمَ",
+    "token_a": "▁अ",
+    "token_b": "▁ہ",
+    "logit_a": 36.83564376831055,
+    "logit_b": 27.61282730102539,
+    "prefers_a": true
+  },
+  {
+    "word_a": "ही",
+    "word_b": "اَلَّاہَ",
+    "token_a": "▁ही",
+    "token_b": "▁ا",
+    "logit_a": 8.624910354614258,
+    "logit_b": 6.385586738586426,
+    "prefers_a": true
+  },
+  {
+    "word_a": "भी",
+    "word_b": "ہِی",
+    "token_a": "▁भी",
+    "token_b": "▁ہ",
+    "logit_a": 9.540104866027832,
+    "logit_b": -0.5066743493080139,
+    "prefers_a": true
+  },
+  {
+    "word_a": "बाद",
+    "word_b": "بھِی",
+    "token_a": "▁बाद",
+    "token_b": "▁بھ",
+    "logit_a": 13.840948104858398,
+    "logit_b": 2.860553503036499,
+    "prefers_a": true
+  },
+  {
+    "word_a": "भी।",
+    "word_b": "بَادَ",
+    "token_a": "▁भी",
+    "token_b": "▁ب",
+    "logit_a": 13.00625991821289,
+    "logit_b": 14.920129776000977,
+    "prefers_a": false
+  },
+  {
+    "word_a": "उस",
+    "word_b": "بھِی۔",
+    "token_a": "▁उस",
+    "token_b": "▁بھ",
+    "logit_a": 5.686491966247559,
+    "logit_b": 2.860553503036499,
+    "prefers_a": true
+  },
+  {
+    "word_a": "दिन",
+    "word_b": "اُسَ",
+    "token_a": "▁दिन",
+    "token_b": "▁ا",
+    "logit_a": 12.185601234436035,
+    "logit_b": 6.385586738586426,
+    "prefers_a": true
+  },
+  {
+    "word_a": "ईमानवाले",
+    "word_b": "دِنَ",
+    "token_a": "▁ई",
+    "token_b": "▁د",
+    "logit_a": 31.275489807128906,
+    "logit_b": 26.644065856933594,
+    "prefers_a": true
+  },
+  {
+    "word_a": "सहायता",
+    "word_b": "اِیمَانَوَالے",
+    "token_a": "▁सहायता",
+    "token_b": "▁ا",
+    "logit_a": 12.450841903686523,
+    "logit_b": 6.385586738586426,
+    "prefers_a": true
+  },
+  {
+    "word_a": "प्रसन्न",
+    "word_b": "سَہَایَتَا",
+    "token_a": "▁प्रसन्न",
+    "token_b": "▁س",
+    "logit_a": 7.404538154602051,
+    "logit_b": 4.756198883056641,
+    "prefers_a": true
+  },
+  {
+    "word_a": "होंगे।",
+    "word_b": "پْرَسَنَّ",
+    "token_a": "▁होंगे",
+    "token_b": "▁پ",
+    "logit_a": 13.419356346130371,
+    "logit_b": 11.00999927520752,
+    "prefers_a": true
+  },
+  {
+    "word_a": "मुझे",
+    "word_b": "ہون٘گے۔",
+    "token_a": "▁मुझे",
+    "token_b": "▁ہو",
+    "logit_a": 9.483053207397461,
+    "logit_b": 7.018521308898926,
+    "prefers_a": true
+  },
+  {
+    "word_a": "पता",
+    "word_b": "مُجھے",
+    "token_a": "▁पता",
+    "token_b": "▁م",
+    "logit_a": 11.034303665161133,
+    "logit_b": 8.288911819458008,
+    "prefers_a": true
+  },
+  {
+    "word_a": "क्या",
+    "word_b": "پَتَا",
+    "token_a": "▁क्या",
+    "token_b": "▁پ",
+    "logit_a": 10.976239204406738,
+    "logit_b": 2.22291898727417,
+    "prefers_a": true
+  },
+  {
+    "word_a": "रहा",
+    "word_b": "کْیَا",
+    "token_a": "▁रहा",
+    "token_b": "▁ک",
+    "logit_a": 11.169108390808105,
+    "logit_b": 2.9194533824920654,
+    "prefers_a": true
+  },
+  {
+    "word_a": "चाहता",
+    "word_b": "رَہَا",
+    "token_a": "▁चाहता",
+    "token_b": "▁ر",
+    "logit_a": 15.048818588256836,
+    "logit_b": 4.639527320861816,
+    "prefers_a": true
+  },
+  {
+    "word_a": "हूँ.",
+    "word_b": "چَاہَتَا",
+    "token_a": "▁हूँ",
+    "token_b": "▁چ",
+    "logit_a": 13.676498413085938,
+    "logit_b": 13.466846466064453,
+    "prefers_a": true
+  },
+  {
+    "word_a": "केनेबंकCity",
+    "word_b": "ہُوں۔",
+    "token_a": "▁के",
+    "token_b": "▁ہ",
+    "logit_a": 31.588424682617188,
+    "logit_b": 23.264480590820312,
+    "prefers_a": true
+  },
+  {
+    "word_a": "name",
+    "word_b": "کینیبَن٘کَCity",
+    "token_a": "▁name",
+    "token_b": "▁کی",
+    "logit_a": 14.541296005249023,
+    "logit_b": 8.381914138793945,
+    "prefers_a": true
+  },
+  {
+    "word_a": "(optional,",
+    "word_b": "name",
+    "token_a": "▁(",
+    "token_b": "▁name",
+    "logit_a": 29.49494171142578,
+    "logit_b": 26.315685272216797,
+    "prefers_a": true
+  },
+  {
+    "word_a": "probably",
+    "word_b": "(optional،",
+    "token_a": "▁probably",
+    "token_b": "▁(",
+    "logit_a": 11.73122501373291,
+    "logit_b": 17.336881637573242,
+    "prefers_a": false
+  },
+  {
+    "word_a": "does",
+    "word_b": "probably",
+    "token_a": "▁does",
+    "token_b": "▁probably",
+    "logit_a": 5.31695556640625,
+    "logit_b": 11.73122501373291,
+    "prefers_a": false
+  },
+  {
+    "word_a": "not",
+    "word_b": "does",
+    "token_a": "▁not",
+    "token_b": "▁does",
+    "logit_a": 13.12353515625,
+    "logit_b": 5.31695556640625,
+    "prefers_a": true
+  },
+  {
+    "word_a": "need",
+    "word_b": "not",
+    "token_a": "▁need",
+    "token_b": "▁not",
+    "logit_a": 12.164064407348633,
+    "logit_b": 13.12353515625,
+    "prefers_a": false
+  },
+  {
+    "word_a": "translation)",
+    "word_b": "need",
+    "token_a": "▁translation",
+    "token_b": "▁need",
+    "logit_a": 16.521154403686523,
+    "logit_b": 12.73854923248291,
+    "prefers_a": true
+  },
+  {
+    "word_a": "अनुक्रिया",
+    "word_b": "translation)",
+    "token_a": "▁अनु",
+    "token_b": "▁translation",
+    "logit_a": 24.17229652404785,
+    "logit_b": 21.70643424987793,
+    "prefers_a": true
+  },
+  {
+    "word_a": "तत्व",
+    "word_b": "اَنُکْرِیَا",
+    "token_a": "▁तत्व",
+    "token_b": "▁ا",
+    "logit_a": 9.743630409240723,
+    "logit_b": 6.385586738586426,
+    "prefers_a": true
+  },
+  {
+    "word_a": "ढूढ़ने",
+    "word_b": "تَتْوَ",
+    "token_a": "▁ढ",
+    "token_b": "▁ت",
+    "logit_a": 31.64441680908203,
+    "logit_b": 22.689041137695312,
+    "prefers_a": true
+  },
+  {
+    "word_a": "में",
+    "word_b": "ڈھُوڑھَنے",
+    "token_a": "▁में",
+    "token_b": "▁ڈھ",
+    "logit_a": 14.29809284210205,
+    "logit_b": 0.857343316078186,
+    "prefers_a": true
+  },
+  {
+    "word_a": "विफल",
+    "word_b": "میں",
+    "token_a": "▁वि",
+    "token_b": "▁میں",
+    "logit_a": 22.927614212036133,
+    "logit_b": 22.806241989135742,
+    "prefers_a": true
+  },
+  {
+    "word_a": "FIB(",
+    "word_b": "وِپھَلَ",
+    "token_a": "▁F",
+    "token_b": "▁و",
+    "logit_a": 24.442092895507812,
+    "logit_b": 19.39253044128418,
+    "prefers_a": true
+  },
+  {
+    "word_a": "9)",
+    "word_b": "FIB(",
+    "token_a": "▁9)",
+    "token_b": "▁F",
+    "logit_a": 13.95552921295166,
+    "logit_b": 16.946426391601562,
+    "prefers_a": false
+  },
+  {
+    "word_a": "परिणाम",
+    "word_b": "9)",
+    "token_a": "▁परिणाम",
+    "token_b": "▁9)",
+    "logit_a": 16.177207946777344,
+    "logit_b": 13.95552921295166,
+    "prefers_a": true
+  },
+  {
+    "word_a": "होगा",
+    "word_b": "پَرِنَامَ",
+    "token_a": "▁होगा",
+    "token_b": "▁پ",
+    "logit_a": 12.580463409423828,
+    "logit_b": 2.22291898727417,
+    "prefers_a": true
+  },
+  {
+    "word_a": "34",
+    "word_b": "ہوگَا",
+    "token_a": "▁34",
+    "token_b": "▁ہو",
+    "logit_a": 18.255102157592773,
+    "logit_b": 7.018521308898926,
+    "prefers_a": true
+  },
+  {
+    "word_a": "तुम्हारे",
+    "word_b": "34",
+    "token_a": "▁तुम्हारे",
+    "token_b": "▁34",
+    "logit_a": 13.878097534179688,
+    "logit_b": 18.255102157592773,
+    "prefers_a": false
+  },
+  {
+    "word_a": "परवरदिगार",
+    "word_b": "تُمْہَارے",
+    "token_a": "▁पर",
+    "token_b": "▁ت",
+    "logit_a": 30.06353187561035,
+    "logit_b": 25.38672637939453,
+    "prefers_a": true
+  },
+  {
+    "word_a": "ख़ज़ाने",
+    "word_b": "پَرَوَرَدِگَارَ",
+    "token_a": "▁",
+    "token_b": "▁پ",
+    "logit_a": 27.602750778198242,
+    "logit_b": 19.17850112915039,
+    "prefers_a": true
+  },
+  {
+    "word_a": "इन्हीं",
+    "word_b": "خَزَانے",
+    "token_a": "▁इन्",
+    "token_b": "▁خ",
+    "logit_a": 37.12957000732422,
+    "logit_b": 24.423126220703125,
+    "prefers_a": true
+  },
+  {
+    "word_a": "पास",
+    "word_b": "اِنْہِیں",
+    "token_a": "▁पास",
+    "token_b": "▁ا",
+    "logit_a": 7.342482566833496,
+    "logit_b": 6.385586738586426,
+    "prefers_a": true
+  },
+  {
+    "word_a": "हैं",
+    "word_b": "پَاسَ",
+    "token_a": "▁हैं",
+    "token_b": "▁پ",
+    "logit_a": 12.947450637817383,
+    "logit_b": 2.22291898727417,
+    "prefers_a": true
+  },
+  {
+    "word_a": "यही",
+    "word_b": "ہَیں",
+    "token_a": "▁यही",
+    "token_b": "▁ہ",
+    "logit_a": 9.32918930053711,
+    "logit_b": -0.5066743493080139,
+    "prefers_a": true
+  },
+  {
+    "word_a": "हाकिम",
+    "word_b": "یَہِی",
+    "token_a": "▁हा",
+    "token_b": "▁ی",
+    "logit_a": 17.838008880615234,
+    "logit_b": 16.290508270263672,
+    "prefers_a": true
+  },
+  {
+    "word_a": "जाओ",
+    "word_b": "ہَاکِمَ",
+    "token_a": "▁जाओ",
+    "token_b": "▁ہ",
+    "logit_a": 7.552337646484375,
+    "logit_b": -0.5066743493080139,
+    "prefers_a": true
+  },
+  {
+    "word_a": "दोनों,",
+    "word_b": "جَاؤ",
+    "token_a": "▁दोनों",
+    "token_b": "▁ج",
+    "logit_a": 13.709025382995605,
+    "logit_b": 16.206430435180664,
+    "prefers_a": false
+  },
+  {
+    "word_a": "फ़िरऔन",
+    "word_b": "دونوں،",
+    "token_a": "▁फ़",
+    "token_b": "▁دونوں",
+    "logit_a": 31.149425506591797,
+    "logit_b": 21.1256046295166,
+    "prefers_a": true
+  },
+  {
+    "word_a": "पास,",
+    "word_b": "فِرَءاَونَ",
+    "token_a": "▁पास",
+    "token_b": "▁ف",
+    "logit_a": 9.89864444732666,
+    "logit_b": 14.443944931030273,
+    "prefers_a": false
+  },
+  {
+    "word_a": "वह",
+    "word_b": "پَاسَ،",
+    "token_a": "▁वह",
+    "token_b": "▁پ",
+    "logit_a": 8.228310585021973,
+    "logit_b": 2.22291898727417,
+    "prefers_a": true
+  },
+  {
+    "word_a": "सरकश",
+    "word_b": "وَہَ",
+    "token_a": "▁सर",
+    "token_b": "▁و",
+    "logit_a": 25.968420028686523,
+    "logit_b": 25.603670120239258,
+    "prefers_a": true
+  },
+  {
+    "word_a": "गया",
+    "word_b": "سَرَکَشَ",
+    "token_a": "▁गया",
+    "token_b": "▁س",
+    "logit_a": 13.723023414611816,
+    "logit_b": 4.756198883056641,
+    "prefers_a": true
+  },
+  {
+    "word_a": "वही",
+    "word_b": "گَیَا",
+    "token_a": "▁वही",
+    "token_b": "▁گ",
+    "logit_a": 6.918106555938721,
+    "logit_b": 2.837761163711548,
+    "prefers_a": true
+  },
+  {
+    "word_a": "ख़ुदा",
+    "word_b": "وَہِی",
+    "token_a": "▁",
+    "token_b": "▁و",
+    "logit_a": 31.099454879760742,
+    "logit_b": 26.007888793945312,
+    "prefers_a": true
+  },
+  {
+    "word_a": "जो",
+    "word_b": "خُدَا",
+    "token_a": "▁जो",
+    "token_b": "▁خ",
+    "logit_a": 13.392114639282227,
+    "logit_b": 5.415657997131348,
+    "prefers_a": true
+  },
+  {
+    "word_a": "माँ",
+    "word_b": "جو",
+    "token_a": "▁माँ",
+    "token_b": "▁جو",
+    "logit_a": 13.79216194152832,
+    "logit_b": 7.668215751647949,
+    "prefers_a": true
+  },
+  {
+    "word_a": "पेट",
+    "word_b": "مَاں",
+    "token_a": "▁पेट",
+    "token_b": "▁م",
+    "logit_a": 5.002344608306885,
+    "logit_b": 8.288911819458008,
+    "prefers_a": false
+  },
+  {
+    "word_a": "तुम्हारी",
+    "word_b": "پیٹَ",
+    "token_a": "▁तुम्हारी",
+    "token_b": "▁پیٹ",
+    "logit_a": 8.664979934692383,
+    "logit_b": -2.3162519931793213,
+    "prefers_a": true
+  },
+  {
+    "word_a": "सूरत",
+    "word_b": "تُمْہَارِی",
+    "token_a": "▁सू",
+    "token_b": "▁ت",
+    "logit_a": 22.534212112426758,
+    "logit_b": 13.622669219970703,
+    "prefers_a": true
+  },
+  {
+    "word_a": "जैसी",
+    "word_b": "سُورَتَ",
+    "token_a": "▁जैसी",
+    "token_b": "▁س",
+    "logit_a": 6.399747371673584,
+    "logit_b": 4.756198883056641,
+    "prefers_a": true
+  },
+  {
+    "word_a": "बनाता",
+    "word_b": "جَیسِی",
+    "token_a": "▁बना",
+    "token_b": "▁ج",
+    "logit_a": 19.121450424194336,
+    "logit_b": 16.098548889160156,
+    "prefers_a": true
+  },
+  {
+    "word_a": "हे",
+    "word_b": "بَنَاتَا",
+    "token_a": "▁हे",
+    "token_b": "▁ب",
+    "logit_a": 12.155577659606934,
+    "logit_b": 7.505509376525879,
+    "prefers_a": true
+  },
+  {
+    "word_a": "सिवा",
+    "word_b": "ہے",
+    "token_a": "▁सि",
+    "token_b": "▁ہے",
+    "logit_a": 19.818462371826172,
+    "logit_b": 18.776338577270508,
+    "prefers_a": true
+  },
+  {
+    "word_a": "कोई",
+    "word_b": "سِوَا",
+    "token_a": "▁कोई",
+    "token_b": "▁س",
+    "logit_a": 7.42874002456665,
+    "logit_b": 4.756198883056641,
+    "prefers_a": true
+  },
+  {
+    "word_a": "माबूद",
+    "word_b": "کوئِی",
+    "token_a": "▁मा",
+    "token_b": "▁کو",
+    "logit_a": 27.638587951660156,
+    "logit_b": 19.672237396240234,
+    "prefers_a": true
+  },
+  {
+    "word_a": "तृतीय",
+    "word_b": "مَابُودَ",
+    "token_a": "▁तृतीय",
+    "token_b": "▁م",
+    "logit_a": 9.69643783569336,
+    "logit_b": 8.288911819458008,
+    "prefers_a": true
+  },
+  {
+    "word_a": "घातx",
+    "word_b": "تْرِتِییَ",
+    "token_a": "▁",
+    "token_b": "▁ت",
+    "logit_a": 26.13454246520996,
+    "logit_b": 18.85951042175293,
+    "prefers_a": true
+  },
+  {
+    "word_a": "to",
+    "word_b": "گھَاتَx",
+    "token_a": "▁to",
+    "token_b": "▁گھ",
+    "logit_a": 14.01270580291748,
+    "logit_b": 1.5875920057296753,
+    "prefers_a": true
+  },
+  {
+    "word_a": "the",
+    "word_b": "to",
+    "token_a": "▁the",
+    "token_b": "▁to",
+    "logit_a": 15.89617919921875,
+    "logit_b": 14.01270580291748,
+    "prefers_a": true
+  },
+  {
+    "word_a": "power",
+    "word_b": "the",
+    "token_a": "▁power",
+    "token_b": "▁the",
+    "logit_a": 10.428340911865234,
+    "logit_b": 15.89617919921875,
+    "prefers_a": false
+  },
+  {
+    "word_a": "of",
+    "word_b": "power",
+    "token_a": "▁of",
+    "token_b": "▁power",
+    "logit_a": 14.09630298614502,
+    "logit_b": 10.428340911865234,
+    "prefers_a": true
+  },
+  {
+    "word_a": "जिसने",
+    "word_b": "of",
+    "token_a": "▁जिस",
+    "token_b": "▁of",
+    "logit_a": 22.790870666503906,
+    "logit_b": 18.93842315673828,
+    "prefers_a": true
+  },
+  {
+    "word_a": "धरती",
+    "word_b": "جِسَنے",
+    "token_a": "▁धर",
+    "token_b": "▁ج",
+    "logit_a": 24.435203552246094,
+    "logit_b": 20.42621612548828,
+    "prefers_a": true
+  },
+  {
+    "word_a": "को",
+    "word_b": "دھَرَتِی",
+    "token_a": "▁को",
+    "token_b": "▁",
+    "logit_a": 10.118799209594727,
+    "logit_b": 22.887454986572266,
+    "prefers_a": false
+  },
+  {
+    "word_a": "वशीभूत",
+    "word_b": "کو",
+    "token_a": "▁व",
+    "token_b": "▁کو",
+    "logit_a": 27.55437469482422,
+    "logit_b": 21.345237731933594,
+    "prefers_a": true
+  },
+  {
+    "word_a": "किया।",
+    "word_b": "وَشِیبھُوتَ",
+    "token_a": "▁किया",
+    "token_b": "▁و",
+    "logit_a": 13.4613676071167,
+    "logit_b": 15.892945289611816,
+    "prefers_a": false
+  },
+  {
+    "word_a": "अतः",
+    "word_b": "کِیَا۔",
+    "token_a": "▁अतः",
+    "token_b": "▁ک",
+    "logit_a": 9.117484092712402,
+    "logit_b": 2.9194533824920654,
+    "prefers_a": true
+  },
+  {
+    "word_a": "(धरती",
+    "word_b": "اَتَہ",
+    "token_a": "▁(",
+    "token_b": "▁ا",
+    "logit_a": 35.272911071777344,
+    "logit_b": 26.446500778198242,
+    "prefers_a": true
+  },
+  {
+    "word_a": "के)",
+    "word_b": "(دھَرَتِی",
+    "token_a": "▁के",
+    "token_b": "▁(",
+    "logit_a": 14.250774383544922,
+    "logit_b": 26.61418914794922,
+    "prefers_a": false
+  },
+  {
+    "word_a": "कन्धों",
+    "word_b": "کے)",
+    "token_a": "▁क",
+    "token_b": "▁کے",
+    "logit_a": 31.30586051940918,
+    "logit_b": 27.09217071533203,
+    "prefers_a": true
+  },
+  {
+    "word_a": "पर",
+    "word_b": "کَنْدھوں",
+    "token_a": "▁पर",
+    "token_b": "▁ک",
+    "logit_a": 10.472460746765137,
+    "logit_b": 2.9194533824920654,
+    "prefers_a": true
+  },
+  {
+    "word_a": "चलो",
+    "word_b": "پَرَ",
+    "token_a": "▁च",
+    "token_b": "▁پ",
+    "logit_a": 25.28459358215332,
+    "logit_b": 15.457755088806152,
+    "prefers_a": true
+  },
+  {
+    "word_a": "उसकी",
+    "word_b": "چَلو",
+    "token_a": "▁उसकी",
+    "token_b": "▁چ",
+    "logit_a": 8.079041481018066,
+    "logit_b": 2.5286929607391357,
+    "prefers_a": true
+  },
+  {
+    "word_a": "रोज़ी",
+    "word_b": "اُسَکِی",
+    "token_a": "▁रो",
+    "token_b": "▁ا",
+    "logit_a": 24.785661697387695,
+    "logit_b": 19.29448699951172,
+    "prefers_a": true
+  },
+  {
+    "word_a": "खाओ,",
+    "word_b": "روزِی",
+    "token_a": "▁खा",
+    "token_b": "▁روز",
+    "logit_a": 18.174501419067383,
+    "logit_b": 16.611499786376953,
+    "prefers_a": true
+  },
+  {
+    "word_a": "उसी",
+    "word_b": "کھَاؤ،",
+    "token_a": "▁उसी",
+    "token_b": "▁کھ",
+    "logit_a": 9.164714813232422,
+    "logit_b": 0.360579252243042,
+    "prefers_a": true
+  },
+  {
+    "word_a": "ओर",
+    "word_b": "اُسِی",
+    "token_a": "▁ओर",
+    "token_b": "▁ا",
+    "logit_a": 8.664726257324219,
+    "logit_b": 6.385586738586426,
+    "prefers_a": true
+  },
+  {
+    "word_a": "दोबारा",
+    "word_b": "اورَ",
+    "token_a": "▁दो",
+    "token_b": "▁اور",
+    "logit_a": 27.705381393432617,
+    "logit_b": 22.614849090576172,
+    "prefers_a": true
+  },
+  {
+    "word_a": "उठकर",
+    "word_b": "دوبَارَا",
+    "token_a": "▁उठ",
+    "token_b": "▁د",
+    "logit_a": 34.53472900390625,
+    "logit_b": 24.964763641357422,
+    "prefers_a": true
+  },
+  {
+    "word_a": "(जीवित",
+    "word_b": "اُٹھَکَرَ",
+    "token_a": "▁(",
+    "token_b": "▁ا",
+    "logit_a": 22.403854370117188,
+    "logit_b": 17.139816284179688,
+    "prefers_a": true
+  },
+  {
+    "word_a": "होकर)",
+    "word_b": "(جِیوِتَ",
+    "token_a": "▁होकर",
+    "token_b": "▁(",
+    "logit_a": 9.270280838012695,
+    "logit_b": 26.61418914794922,
+    "prefers_a": false
+  },
+  {
+    "word_a": "जाना",
+    "word_b": "ہوکَرَ)",
+    "token_a": "▁जाना",
+    "token_b": "▁ہو",
+    "logit_a": 10.27297306060791,
+    "logit_b": 7.018521308898926,
+    "prefers_a": true
+  },
+  {
+    "word_a": "नीचे",
+    "word_b": "جَانَا",
+    "token_a": "▁नीचे",
+    "token_b": "▁ج",
+    "logit_a": 9.82483196258545,
+    "logit_b": 6.636977672576904,
+    "prefers_a": true
+  },
+  {
+    "word_a": "दी",
+    "word_b": "نِیچے",
+    "token_a": "▁दी",
+    "token_b": "▁ن",
+    "logit_a": 12.559337615966797,
+    "logit_b": 5.2364373207092285,
+    "prefers_a": true
+  },
+  {
+    "word_a": "गई",
+    "word_b": "دِی",
+    "token_a": "▁गई",
+    "token_b": "▁د",
+    "logit_a": 9.655313491821289,
+    "logit_b": 10.594326972961426,
+    "prefers_a": false
+  },
+  {
+    "word_a": "सउदी",
+    "word_b": "گَئِی",
+    "token_a": "▁स",
+    "token_b": "▁گ",
+    "logit_a": 25.87541389465332,
+    "logit_b": 19.120418548583984,
+    "prefers_a": true
+  },
+  {
+    "word_a": "अरब",
+    "word_b": "سَؤُدِی",
+    "token_a": "▁अरब",
+    "token_b": "▁س",
+    "logit_a": 8.491706848144531,
+    "logit_b": 4.756198883056641,
+    "prefers_a": true
+  },
+  {
+    "word_a": "लेखक,",
+    "word_b": "اَرَبَ",
+    "token_a": "▁लेखक",
+    "token_b": "▁ا",
+    "logit_a": 12.724570274353027,
+    "logit_b": 14.143197059631348,
+    "prefers_a": false
+  },
+  {
+    "word_a": "कलाकार",
+    "word_b": "لیکھَکَ،",
+    "token_a": "▁कलाकार",
+    "token_b": "▁لی",
+    "logit_a": 10.768345832824707,
+    "logit_b": 5.935556888580322,
+    "prefers_a": true
+  },
+  {
+    "word_a": "अन्य",
+    "word_b": "کَلَاکَارَ",
+    "token_a": "▁अन्य",
+    "token_b": "▁ک",
+    "logit_a": 17.028915405273438,
+    "logit_b": 2.9194533824920654,
+    "prefers_a": true
+  },
+  {
+    "word_a": "लोगों",
+    "word_b": "اَنْیَ",
+    "token_a": "▁लोगों",
+    "token_b": "▁ا",
+    "logit_a": 12.366958618164062,
+    "logit_b": 6.385586738586426,
+    "prefers_a": true
+  },
+  {
+    "word_a": "भर्त्सना",
+    "word_b": "لوگوں",
+    "token_a": "▁भर्",
+    "token_b": "▁لوگوں",
+    "logit_a": 27.120710372924805,
+    "logit_b": 15.804780960083008,
+    "prefers_a": true
+  },
+  {
+    "word_a": "करती",
+    "word_b": "بھَرْتْسَنَا",
+    "token_a": "▁करती",
+    "token_b": "▁بھ",
+    "logit_a": 10.158727645874023,
+    "logit_b": 2.860553503036499,
+    "prefers_a": true
+  },
+  {
+    "word_a": "प्रतिक्रियाएं,",
+    "word_b": "کَرَتِی",
+    "token_a": "▁प्रतिक्रिया",
+    "token_b": "▁ک",
+    "logit_a": 25.631492614746094,
+    "logit_b": 13.95676040649414,
+    "prefers_a": true
+  },
+  {
+    "word_a": "उनके",
+    "word_b": "پْرَتِکْرِیَائیں،",
+    "token_a": "▁उनके",
+    "token_b": "▁پ",
+    "logit_a": 11.259725570678711,
+    "logit_b": 2.22291898727417,
+    "prefers_a": true
+  },
+  {
+    "word_a": "साथ",
+    "word_b": "اُنَکے",
+    "token_a": "▁साथ",
+    "token_b": "▁ا",
+    "logit_a": 12.194780349731445,
+    "logit_b": 6.385586738586426,
+    "prefers_a": true
+  },
+  {
+    "word_a": "एकजुटता",
+    "word_b": "سَاتھَ",
+    "token_a": "▁एक",
+    "token_b": "▁س",
+    "logit_a": 37.067588806152344,
+    "logit_b": 22.09223747253418,
+    "prefers_a": true
+  },
+  {
+    "word_a": "प्रदर्शित",
+    "word_b": "ایکَجُٹَتَا",
+    "token_a": "▁प्रदर्शित",
+    "token_b": "▁ایک",
+    "logit_a": 11.363260269165039,
+    "logit_b": 10.007827758789062,
+    "prefers_a": true
+  },
+  {
+    "word_a": "हुए",
+    "word_b": "پْرَدَرْشِتَ",
+    "token_a": "▁हुए",
+    "token_b": "▁پ",
+    "logit_a": 10.472354888916016,
+    "logit_b": 2.22291898727417,
+    "prefers_a": true
+  },
+  {
+    "word_a": "मामले",
+    "word_b": "ہُئے",
+    "token_a": "▁मामले",
+    "token_b": "▁ہ",
+    "logit_a": 9.996522903442383,
+    "logit_b": -0.5066743493080139,
+    "prefers_a": true
+  },
+  {
+    "word_a": "स्पष्ट",
+    "word_b": "مَامَلے",
+    "token_a": "▁स्पष्ट",
+    "token_b": "▁م",
+    "logit_a": 12.741283416748047,
+    "logit_b": 8.288911819458008,
+    "prefers_a": true
+  },
+  {
+    "word_a": "हैं।",
+    "word_b": "سْپَشْٹَ",
+    "token_a": "▁हैं",
+    "token_b": "▁س",
+    "logit_a": 16.796438217163086,
+    "logit_b": 12.868049621582031,
+    "prefers_a": true
+  },
+  {
+    "word_a": "जैसे",
+    "word_b": "ہَیں۔",
+    "token_a": "▁जैसे",
+    "token_b": "▁ہ",
+    "logit_a": 8.506397247314453,
+    "logit_b": -0.5066743493080139,
+    "prefers_a": true
+  },
+  {
+    "word_a": "मैं",
+    "word_b": "جَیسے",
+    "token_a": "▁मैं",
+    "token_b": "▁ج",
+    "logit_a": 11.312103271484375,
+    "logit_b": 6.636977672576904,
+    "prefers_a": true
+  },
+  {
+    "word_a": "यहाँ",
+    "word_b": "مَیں",
+    "token_a": "▁यहाँ",
+    "token_b": "▁م",
+    "logit_a": 10.301405906677246,
+    "logit_b": 8.288911819458008,
+    "prefers_a": true
+  },
+  {
+    "word_a": "बाहर",
+    "word_b": "یَہَاں",
+    "token_a": "▁बाहर",
+    "token_b": "▁ی",
+    "logit_a": 12.551023483276367,
+    "logit_b": 9.692647933959961,
+    "prefers_a": true
+  },
+  {
+    "word_a": "निकलूं",
+    "word_b": "بَاہَرَ",
+    "token_a": "▁निकल",
+    "token_b": "▁ب",
+    "logit_a": 19.78917121887207,
+    "logit_b": 21.123689651489258,
+    "prefers_a": false
+  },
+  {
+    "word_a": "स्थिति",
+    "word_b": "نِکَلُوں",
+    "token_a": "▁स्थिति",
+    "token_b": "▁ن",
+    "logit_a": 11.707542419433594,
+    "logit_b": 5.2364373207092285,
+    "prefers_a": true
+  },
+  {
+    "word_a": "संभाल",
+    "word_b": "سْتھِتِ",
+    "token_a": "▁संभाल",
+    "token_b": "▁س",
+    "logit_a": 9.720298767089844,
+    "logit_b": 4.756198883056641,
+    "prefers_a": true
+  },
+  {
+    "word_a": "लूंगा.",
+    "word_b": "سَن٘بھَالَ",
+    "token_a": "▁ल",
+    "token_b": "▁س",
+    "logit_a": 17.152257919311523,
+    "logit_b": 16.362680435180664,
+    "prefers_a": true
+  },
+  {
+    "word_a": "उनकी",
+    "word_b": "لُون٘گَا۔",
+    "token_a": "▁उनकी",
+    "token_b": "▁ل",
+    "logit_a": 9.82763671875,
+    "logit_b": 6.487849712371826,
+    "prefers_a": true
+  },
+  {
+    "word_a": "मदद",
+    "word_b": "اُنَکِی",
+    "token_a": "▁मदद",
+    "token_b": "▁ا",
+    "logit_a": 9.418490409851074,
+    "logit_b": 6.385586738586426,
+    "prefers_a": true
+  },
+  {
+    "word_a": "कुदरत",
+    "word_b": "مَدَدَ",
+    "token_a": "▁कु",
+    "token_b": "▁م",
+    "logit_a": 27.63612937927246,
+    "logit_b": 25.451107025146484,
+    "prefers_a": true
+  },
+  {
+    "word_a": "रखते",
+    "word_b": "کُدَرَتَ",
+    "token_a": "▁रखते",
+    "token_b": "▁ک",
+    "logit_a": 4.876491546630859,
+    "logit_b": 2.9194533824920654,
+    "prefers_a": true
+  },
+  {
+    "word_a": "आप",
+    "word_b": "رَکھَتے",
+    "token_a": "▁आप",
+    "token_b": "▁ر",
+    "logit_a": 13.537601470947266,
+    "logit_b": 4.639527320861816,
+    "prefers_a": true
+  },
+  {
+    "word_a": "अपनी",
+    "word_b": "آپَ",
+    "token_a": "▁अपनी",
+    "token_b": "▁آپ",
+    "logit_a": 10.517972946166992,
+    "logit_b": 6.2147955894470215,
+    "prefers_a": true
+  },
+  {
+    "word_a": "कर",
+    "word_b": "اَپَنِی",
+    "token_a": "▁कर",
+    "token_b": "▁ا",
+    "logit_a": 9.857044219970703,
+    "logit_b": 6.385586738586426,
+    "prefers_a": true
+  },
+  {
+    "word_a": "सकते",
+    "word_b": "کَرَ",
+    "token_a": "▁सकते",
+    "token_b": "▁ک",
+    "logit_a": 10.532753944396973,
+    "logit_b": 2.9194533824920654,
+    "prefers_a": true
+  },
+  {
+    "word_a": "मैंने",
+    "word_b": "سَکَتے",
+    "token_a": "▁मैंने",
+    "token_b": "▁س",
+    "logit_a": 9.17762565612793,
+    "logit_b": 4.756198883056641,
+    "prefers_a": true
+  },
+  {
+    "word_a": "(रात",
+    "word_b": "مَین٘نے",
+    "token_a": "▁(",
+    "token_b": "▁م",
+    "logit_a": 27.477907180786133,
+    "logit_b": 20.550811767578125,
+    "prefers_a": true
+  },
+  {
+    "word_a": "का)",
+    "word_b": "(رَاتَ",
+    "token_a": "▁का",
+    "token_b": "▁(",
+    "logit_a": 13.060914039611816,
+    "logit_b": 26.61418914794922,
+    "prefers_a": false
+  },
+  {
+    "word_a": "खाना",
+    "word_b": "کَا)",
+    "token_a": "▁खाना",
+    "token_b": "▁ک",
+    "logit_a": 9.978968620300293,
+    "logit_b": 2.9194533824920654,
+    "prefers_a": true
+  },
+  {
+    "word_a": "पकाया।",
+    "word_b": "کھَانَا",
+    "token_a": "▁",
+    "token_b": "▁کھ",
+    "logit_a": 36.24247741699219,
+    "logit_b": 26.214466094970703,
+    "prefers_a": true
+  },
+  {
+    "word_a": "खजूरों",
+    "word_b": "پَکَایَا۔",
+    "token_a": "▁ख",
+    "token_b": "▁پ",
+    "logit_a": 26.064050674438477,
+    "logit_b": 17.68170928955078,
+    "prefers_a": true
+  },
+  {
+    "word_a": "अंगूरों",
+    "word_b": "کھَجُوروں",
+    "token_a": "▁अंग",
+    "token_b": "▁کھ",
+    "logit_a": 35.1690673828125,
+    "logit_b": 23.657821655273438,
+    "prefers_a": true
+  },
+  {
+    "word_a": "फलों",
+    "word_b": "اَن٘گُوروں",
+    "token_a": "▁फल",
+    "token_b": "▁ا",
+    "logit_a": 27.605396270751953,
+    "logit_b": 21.113466262817383,
+    "prefers_a": true
+  },
+  {
+    "word_a": "भी,",
+    "word_b": "پھَلوں",
+    "token_a": "▁भी",
+    "token_b": "▁پھ",
+    "logit_a": 14.412887573242188,
+    "logit_b": 4.792349338531494,
+    "prefers_a": true
+  },
+  {
+    "word_a": "जिससे",
+    "word_b": "بھِی،",
+    "token_a": "▁जिससे",
+    "token_b": "▁بھ",
+    "logit_a": 7.413864612579346,
+    "logit_b": 2.860553503036499,
+    "prefers_a": true
+  },
+  {
+    "word_a": "मादक",
+    "word_b": "جِسَسے",
+    "token_a": "▁मा",
+    "token_b": "▁ج",
+    "logit_a": 27.7394962310791,
+    "logit_b": 18.21497917175293,
+    "prefers_a": true
+  },
+  {
+    "word_a": "चीज़",
+    "word_b": "مَادَکَ",
+    "token_a": "▁चीज़",
+    "token_b": "▁م",
+    "logit_a": 7.025301456451416,
+    "logit_b": 8.288911819458008,
+    "prefers_a": false
+  },
+  {
+    "word_a": "लेते",
+    "word_b": "چِیزَ",
+    "token_a": "▁लेते",
+    "token_b": "▁چ",
+    "logit_a": 9.341617584228516,
+    "logit_b": 2.5286929607391357,
+    "prefers_a": true
+  },
+  {
+    "word_a": "अच्छी",
+    "word_b": "لیتے",
+    "token_a": "▁अच्छी",
+    "token_b": "▁لیتے",
+    "logit_a": 8.648791313171387,
+    "logit_b": -0.4798664450645447,
+    "prefers_a": true
+  },
+  {
+    "word_a": "निश्चय",
+    "word_b": "اَچھِّی",
+    "token_a": "▁",
+    "token_b": "▁ا",
+    "logit_a": 25.805301666259766,
+    "logit_b": 20.129562377929688,
+    "prefers_a": true
+  },
+  {
+    "word_a": "इसमें",
+    "word_b": "نِشْچَیَ",
+    "token_a": "▁इसमें",
+    "token_b": "▁ن",
+    "logit_a": 7.05141544342041,
+    "logit_b": 5.2364373207092285,
+    "prefers_a": true
+  },
+  {
+    "word_a": "बुद्धि",
+    "word_b": "اِسَمیں",
+    "token_a": "▁बुद्धि",
+    "token_b": "▁ا",
+    "logit_a": 7.4548444747924805,
+    "logit_b": 6.385586738586426,
+    "prefers_a": true
+  },
+  {
+    "word_a": "काम",
+    "word_b": "بُدھِّ",
+    "token_a": "▁काम",
+    "token_b": "▁ب",
+    "logit_a": 11.264878273010254,
+    "logit_b": 7.505509376525879,
+    "prefers_a": true
+  },
+  {
+    "word_a": "लेनेवाले",
+    "word_b": "کَامَ",
+    "token_a": "▁लेने",
+    "token_b": "▁ک",
+    "logit_a": 31.250995635986328,
+    "logit_b": 15.41952896118164,
+    "prefers_a": true
+  },
+  {
+    "word_a": "बड़ी",
+    "word_b": "لینیوَالے",
+    "token_a": "▁बड़ी",
+    "token_b": "▁لی",
+    "logit_a": 11.60021686553955,
+    "logit_b": 5.935556888580322,
+    "prefers_a": true
+  },
+  {
+    "word_a": "निशानी",
+    "word_b": "بَڑِی",
+    "token_a": "▁निशान",
+    "token_b": "▁ب",
+    "logit_a": 19.47736930847168,
+    "logit_b": 20.38523292541504,
+    "prefers_a": false
+  },
+  {
+    "word_a": "खाली",
+    "word_b": "نِشَانِی",
+    "token_a": "▁खाली",
+    "token_b": "▁ن",
+    "logit_a": 10.828365325927734,
+    "logit_b": 5.2364373207092285,
+    "prefers_a": true
+  },
+  {
+    "word_a": "मिटाया",
+    "word_b": "کھَالِی",
+    "token_a": "▁",
+    "token_b": "▁کھ",
+    "logit_a": 29.98617935180664,
+    "logit_b": 20.499378204345703,
+    "prefers_a": true
+  },
+  {
+    "word_a": "उनसे",
+    "word_b": "مِٹَایَا",
+    "token_a": "▁उनसे",
+    "token_b": "▁م",
+    "logit_a": 7.698081970214844,
+    "logit_b": 8.288911819458008,
+    "prefers_a": false
+  },
+  {
+    "word_a": "हमने",
+    "word_b": "اُنَسے",
+    "token_a": "▁हमने",
+    "token_b": "▁ا",
+    "logit_a": 3.8569140434265137,
+    "logit_b": 6.385586738586426,
+    "prefers_a": false
+  },
+  {
+    "word_a": "क़ौमे",
+    "word_b": "ہَمَنے",
+    "token_a": "▁",
+    "token_b": "▁ہ",
+    "logit_a": 29.096378326416016,
+    "logit_b": 20.412296295166016,
+    "prefers_a": true
+  },
+  {
+    "word_a": "फिरऔन",
+    "word_b": "قَومے",
+    "token_a": "▁फिर",
+    "token_b": "▁ق",
+    "logit_a": 29.088947296142578,
+    "logit_b": 23.773422241210938,
+    "prefers_a": true
+  },
+  {
+    "word_a": "आज़माइश",
+    "word_b": "پھِرَءاَونَ",
+    "token_a": "▁आ",
+    "token_b": "▁پھ",
+    "logit_a": 26.74620246887207,
+    "logit_b": 18.932491302490234,
+    "prefers_a": true
+  },
+  {
+    "word_a": "आली",
+    "word_b": "آزَمَائِشَ",
+    "token_a": "▁आली",
+    "token_b": "▁آ",
+    "logit_a": 9.45114517211914,
+    "logit_b": 4.506420612335205,
+    "prefers_a": true
+  },
+  {
+    "word_a": "क़दर",
+    "word_b": "آلِی",
+    "token_a": "▁",
+    "token_b": "▁آل",
+    "logit_a": 24.920127868652344,
+    "logit_b": 17.59200096130371,
+    "prefers_a": true
+  },
+  {
+    "word_a": "पैग़म्बर",
+    "word_b": "قَدَرَ",
+    "token_a": "▁पै",
+    "token_b": "▁ق",
+    "logit_a": 18.528831481933594,
+    "logit_b": 19.27179718017578,
+    "prefers_a": false
+  },
+  {
+    "word_a": "(मूसा)",
+    "word_b": "پَیغَمْبَرَ",
+    "token_a": "▁(",
+    "token_b": "▁پ",
+    "logit_a": 39.88661193847656,
+    "logit_b": 21.63239288330078,
+    "prefers_a": true
+  },
+  {
+    "word_a": "आए",
+    "word_b": "(مُوسَا)",
+    "token_a": "▁आए",
+    "token_b": "▁(",
+    "logit_a": 8.990747451782227,
+    "logit_b": 17.336881637573242,
+    "prefers_a": false
+  },
+  {
+    "word_a": "कुछ",
+    "word_b": "آئے",
+    "token_a": "▁कुछ",
+    "token_b": "▁آئے",
+    "logit_a": 11.551872253417969,
+    "logit_b": 1.7343230247497559,
+    "prefers_a": true
+  },
+  {
+    "word_a": "आपके",
+    "word_b": "کُچھَ",
+    "token_a": "▁आपके",
+    "token_b": "▁ک",
+    "logit_a": 10.060554504394531,
+    "logit_b": 2.9194533824920654,
+    "prefers_a": true
+  },
+  {
+    "word_a": "कान",
+    "word_b": "آپَکے",
+    "token_a": "▁का",
+    "token_b": "▁آپ",
+    "logit_a": 24.195173263549805,
+    "logit_b": 18.19903564453125,
+    "prefers_a": true
+  },
+  {
+    "word_a": "फुसफुसाते",
+    "word_b": "کَانَ",
+    "token_a": "▁फु",
+    "token_b": "▁ک",
+    "logit_a": 33.90473937988281,
+    "logit_b": 23.44204330444336,
+    "prefers_a": true
+  },
+  {
+    "word_a": "आदेश",
+    "word_b": "پھُسَپھُسَاتے",
+    "token_a": "▁आदेश",
+    "token_b": "▁پھ",
+    "logit_a": 11.930614471435547,
+    "logit_b": -0.6001368165016174,
+    "prefers_a": true
+  },
+  {
+    "word_a": "विश्वास",
+    "word_b": "آدیشَ",
+    "token_a": "▁विश्वास",
+    "token_b": "▁آ",
+    "logit_a": 11.781020164489746,
+    "logit_b": 4.506420612335205,
+    "prefers_a": true
+  },
+  {
+    "word_a": "पालन",
+    "word_b": "وِشْوَاسَ",
+    "token_a": "▁पालन",
+    "token_b": "▁و",
+    "logit_a": 16.897886276245117,
+    "logit_b": 12.19484806060791,
+    "prefers_a": true
+  },
+  {
+    "word_a": "करना।",
+    "word_b": "پَالَنَ",
+    "token_a": "▁करना",
+    "token_b": "▁پ",
+    "logit_a": 13.487117767333984,
+    "logit_b": 11.00999927520752,
+    "prefers_a": true
+  },
+  {
+    "word_a": "कोण",
+    "word_b": "کَرَنَا۔",
+    "token_a": "▁कोण",
+    "token_b": "▁ک",
+    "logit_a": 11.215323448181152,
+    "logit_b": 2.9194533824920654,
+    "prefers_a": true
+  },
+  {
+    "word_a": "चुनें",
+    "word_b": "کونَ",
+    "token_a": "▁चुन",
+    "token_b": "▁کون",
+    "logit_a": 19.33542823791504,
+    "logit_b": 10.53470516204834,
+    "prefers_a": true
+  },
+  {
+    "word_a": "जिसका",
+    "word_b": "چُنیں",
+    "token_a": "▁जिसका",
+    "token_b": "▁چ",
+    "logit_a": 7.817497253417969,
+    "logit_b": 2.5286929607391357,
+    "prefers_a": true
+  },
+  {
+    "word_a": "द्विभाजक",
+    "word_b": "جِسَکَا",
+    "token_a": "▁द्वि",
+    "token_b": "▁ج",
+    "logit_a": 24.119903564453125,
+    "logit_b": 25.603530883789062,
+    "prefers_a": false
+  },
+  {
+    "word_a": "बनाना",
+    "word_b": "دْوِبھَاجَکَ",
+    "token_a": "▁बना",
+    "token_b": "▁د",
+    "logit_a": 17.752361297607422,
+    "logit_b": 13.342496871948242,
+    "prefers_a": true
+  },
+  {
+    "word_a": "हो...",
+    "word_b": "بَنَانَا",
+    "token_a": "▁हो",
+    "token_b": "▁ب",
+    "logit_a": 11.471090316772461,
+    "logit_b": 9.89244556427002,
+    "prefers_a": true
+  },
+  {
+    "word_a": "ठीक",
+    "word_b": "ہو۔۔۔",
+    "token_a": "▁ठीक",
+    "token_b": "▁ہو",
+    "logit_a": 9.32902717590332,
+    "logit_b": 7.018521308898926,
+    "prefers_a": true
+  },
+  {
+    "word_a": "बस",
+    "word_b": "ٹھِیکَ",
+    "token_a": "▁बस",
+    "token_b": "▁",
+    "logit_a": 6.978021621704102,
+    "logit_b": 22.887454986572266,
+    "prefers_a": false
+  },
+  {
+    "word_a": "शांत",
+    "word_b": "بَسَ",
+    "token_a": "▁शांत",
+    "token_b": "▁ب",
+    "logit_a": 7.446313858032227,
+    "logit_b": 7.505509376525879,
+    "prefers_a": false
+  },
+  {
+    "word_a": "जाओ,",
+    "word_b": "شَان٘تَ",
+    "token_a": "▁जाओ",
+    "token_b": "▁ش",
+    "logit_a": 11.693299293518066,
+    "logit_b": 15.271987915039062,
+    "prefers_a": false
+  },
+  {
+    "word_a": "हम",
+    "word_b": "جَاؤ،",
+    "token_a": "▁हम",
+    "token_b": "▁ج",
+    "logit_a": 14.463571548461914,
+    "logit_b": 6.636977672576904,
+    "prefers_a": true
+  },
+  {
+    "word_a": "इसकी",
+    "word_b": "ہَمَ",
+    "token_a": "▁इसकी",
+    "token_b": "▁ہ",
+    "logit_a": 5.333371639251709,
+    "logit_b": -0.5066743493080139,
+    "prefers_a": true
+  },
+  {
+    "word_a": "तह",
+    "word_b": "اِسَکِی",
+    "token_a": "▁तह",
+    "token_b": "▁ا",
+    "logit_a": 8.781649589538574,
+    "logit_b": 6.385586738586426,
+    "prefers_a": true
+  },
+  {
+    "word_a": "तक",
+    "word_b": "تَہَ",
+    "token_a": "▁तक",
+    "token_b": "▁ت",
+    "logit_a": 10.268235206604004,
+    "logit_b": 9.70036506652832,
+    "prefers_a": true
+  },
+  {
+    "word_a": "मिलेगा.",
+    "word_b": "تَکَ",
+    "token_a": "▁मिलेगा",
+    "token_b": "▁ت",
+    "logit_a": 12.248852729797363,
+    "logit_b": 16.715946197509766,
+    "prefers_a": false
+  },
+  {
+    "word_a": "कच्चे",
+    "word_b": "مِلیگَا۔",
+    "token_a": "▁क",
+    "token_b": "▁م",
+    "logit_a": 30.901700973510742,
+    "logit_b": 22.95286750793457,
+    "prefers_a": true
+  },
+  {
+    "word_a": "लोहे",
+    "word_b": "کَچّے",
+    "token_a": "▁लोह",
+    "token_b": "▁ک",
+    "logit_a": 14.77932071685791,
+    "logit_b": 10.816974639892578,
+    "prefers_a": true
+  },
+  {
+    "word_a": "ढलाई",
+    "word_b": "لوہے",
+    "token_a": "▁ढ",
+    "token_b": "▁لو",
+    "logit_a": 19.08245086669922,
+    "logit_b": 18.519329071044922,
+    "prefers_a": true
+  },
+  {
+    "word_a": "खाना!",
+    "word_b": "ڈھَلَائِی",
+    "token_a": "▁खाना",
+    "token_b": "▁ڈھ",
+    "logit_a": 7.903385162353516,
+    "logit_b": 4.003738880157471,
+    "prefers_a": true
+  },
+  {
+    "word_a": "सभी",
+    "word_b": "کھَانَا!",
+    "token_a": "▁सभी",
+    "token_b": "▁کھ",
+    "logit_a": 12.458793640136719,
+    "logit_b": 0.360579252243042,
+    "prefers_a": true
+  },
+  {
+    "word_a": "पाठ",
+    "word_b": "سَبھِی",
+    "token_a": "▁पाठ",
+    "token_b": "▁س",
+    "logit_a": 9.308201789855957,
+    "logit_b": 4.756198883056641,
+    "prefers_a": true
+  },
+  {
+    "word_a": "इंच",
+    "word_b": "پَاٹھَ",
+    "token_a": "▁इंच",
+    "token_b": "▁پ",
+    "logit_a": 2.7708523273468018,
+    "logit_b": 2.22291898727417,
+    "prefers_a": true
+  },
+  {
+    "word_a": "इन",
+    "word_b": "اِن٘چَ",
+    "token_a": "▁इन",
+    "token_b": "▁ا",
+    "logit_a": 9.220266342163086,
+    "logit_b": 6.385586738586426,
+    "prefers_a": true
+  },
+  {
+    "word_a": "जोकर",
+    "word_b": "اِنَ",
+    "token_a": "▁जो",
+    "token_b": "▁ا",
+    "logit_a": 35.511985778808594,
+    "logit_b": 25.660688400268555,
+    "prefers_a": true
+  },
+  {
+    "word_a": "भरोसा",
+    "word_b": "جوکَرَ",
+    "token_a": "▁भरोसा",
+    "token_b": "▁جو",
+    "logit_a": 7.6782121658325195,
+    "logit_b": 7.668215751647949,
+    "prefers_a": true
+  },
+  {
+    "word_a": "है?",
+    "word_b": "بھَروسَا",
+    "token_a": "▁है",
+    "token_b": "▁بھ",
+    "logit_a": 11.73377513885498,
+    "logit_b": 3.9041709899902344,
+    "prefers_a": true
+  },
+  {
+    "word_a": "क़ौम",
+    "word_b": "ہَے؟",
+    "token_a": "▁",
+    "token_b": "▁ہ",
+    "logit_a": 35.972835540771484,
+    "logit_b": 26.971553802490234,
+    "prefers_a": true
+  },
+  {
+    "word_a": "उत्तर",
+    "word_b": "قَومَ",
+    "token_a": "▁उत्तर",
+    "token_b": "▁ق",
+    "logit_a": 17.731924057006836,
+    "logit_b": 6.762967586517334,
+    "prefers_a": true
+  },
+  {
+    "word_a": "इसके",
+    "word_b": "اُتَّرَ",
+    "token_a": "▁इसके",
+    "token_b": "▁ا",
+    "logit_a": 11.749490737915039,
+    "logit_b": 6.385586738586426,
+    "prefers_a": true
+  },
+  {
+    "word_a": "अतिरिक्त",
+    "word_b": "اِسَکے",
+    "token_a": "▁अतिरिक्त",
+    "token_b": "▁ا",
+    "logit_a": 12.851045608520508,
+    "logit_b": 6.385586738586426,
+    "prefers_a": true
+  },
+  {
+    "word_a": "था",
+    "word_b": "اَتِرِکْتَ",
+    "token_a": "▁था",
+    "token_b": "▁ا",
+    "logit_a": 12.851932525634766,
+    "logit_b": 6.385586738586426,
+    "prefers_a": true
+  },
+  {
+    "word_a": "कि",
+    "word_b": "تھَا",
+    "token_a": "▁कि",
+    "token_b": "▁تھ",
+    "logit_a": 10.096956253051758,
+    "logit_b": 0.5553738474845886,
+    "prefers_a": true
+  },
+  {
+    "word_a": "वे",
+    "word_b": "کِ",
+    "token_a": "▁वे",
+    "token_b": "▁ک",
+    "logit_a": 9.360145568847656,
+    "logit_b": 2.9194533824920654,
+    "prefers_a": true
+  },
+  {
+    "word_a": "बोले,",
+    "word_b": "وے",
+    "token_a": "▁बोले",
+    "token_b": "▁و",
+    "logit_a": 7.918623447418213,
+    "logit_b": 17.924253463745117,
+    "prefers_a": false
+  },
+  {
+    "word_a": "\"निकालो,",
+    "word_b": "بولے،",
+    "token_a": "▁\"",
+    "token_b": "▁بول",
+    "logit_a": 35.44083023071289,
+    "logit_b": 28.924694061279297,
+    "prefers_a": true
+  },
+  {
+    "word_a": "उन",
+    "word_b": "\"نِکَالو،",
+    "token_a": "▁उन",
+    "token_b": "▁\"",
+    "logit_a": 4.226861000061035,
+    "logit_b": 20.023941040039062,
+    "prefers_a": false
+  },
+  {
+    "word_a": "बस्ती",
+    "word_b": "اُنَ",
+    "token_a": "▁बस्ती",
+    "token_b": "▁ا",
+    "logit_a": 12.988083839416504,
+    "logit_b": 6.385586738586426,
+    "prefers_a": true
+  },
+  {
+    "word_a": "से।",
+    "word_b": "بَسْتِی",
+    "token_a": "▁से",
+    "token_b": "▁ب",
+    "logit_a": 14.199024200439453,
+    "logit_b": 14.920129776000977,
+    "prefers_a": false
+  },
+  {
+    "word_a": "ये",
+    "word_b": "سے۔",
+    "token_a": "▁ये",
+    "token_b": "▁سے",
+    "logit_a": 4.963191509246826,
+    "logit_b": 10.074422836303711,
+    "prefers_a": false
+  },
+  {
+    "word_a": "ऐसे",
+    "word_b": "یے",
+    "token_a": "▁ऐसे",
+    "token_b": "▁ی",
+    "logit_a": 9.717670440673828,
+    "logit_b": 9.692647933959961,
+    "prefers_a": true
+  },
+  {
+    "word_a": "बड़े",
+    "word_b": "اَیسے",
+    "token_a": "▁बड़े",
+    "token_b": "▁ا",
+    "logit_a": 11.225013732910156,
+    "logit_b": 6.385586738586426,
+    "prefers_a": true
+  },
+  {
+    "word_a": "पाक-साफ़",
+    "word_b": "بَڑے",
+    "token_a": "▁पाक",
+    "token_b": "▁ب",
+    "logit_a": 24.45159149169922,
+    "logit_b": 21.15891456604004,
+    "prefers_a": true
+  },
+  {
+    "word_a": "है!\"",
+    "word_b": "پَاکَ-سَافَ",
+    "token_a": "▁है",
+    "token_b": "▁پ",
+    "logit_a": 20.258953094482422,
+    "logit_b": 10.532794952392578,
+    "prefers_a": true
+  },
+  {
+    "word_a": "खाता",
+    "word_b": "ہَے!\"",
+    "token_a": "▁खाता",
+    "token_b": "▁ہ",
+    "logit_a": 9.251232147216797,
+    "logit_b": -0.5066743493080139,
+    "prefers_a": true
+  },
+  {
+    "word_a": "प्रबंधक",
+    "word_b": "کھَاتَا",
+    "token_a": "▁प्र",
+    "token_b": "▁کھ",
+    "logit_a": 31.589624404907227,
+    "logit_b": 17.143007278442383,
+    "prefers_a": true
+  },
+  {
+    "word_a": "संपर्क",
+    "word_b": "پْرَبَن٘دھَکَ",
+    "token_a": "▁संपर्क",
+    "token_b": "▁پ",
+    "logit_a": 16.726696014404297,
+    "logit_b": 2.22291898727417,
+    "prefers_a": true
+  },
+  {
+    "word_a": "करने",
+    "word_b": "سَن٘پَرْکَ",
+    "token_a": "▁करने",
+    "token_b": "▁س",
+    "logit_a": 13.017927169799805,
+    "logit_b": 4.756198883056641,
+    "prefers_a": true
+  },
+  {
+    "word_a": "त्रुटि",
+    "word_b": "کَرَنے",
+    "token_a": "▁त",
+    "token_b": "▁ک",
+    "logit_a": 35.071319580078125,
+    "logit_b": 24.739696502685547,
+    "prefers_a": true
+  },
+  {
+    "word_a": "ईमान",
+    "word_b": "تْرُٹِ",
+    "token_a": "▁ई",
+    "token_b": "▁ت",
+    "logit_a": 22.188907623291016,
+    "logit_b": 17.807649612426758,
+    "prefers_a": true
+  },
+  {
+    "word_a": "लानेवालो!",
+    "word_b": "اَے",
+    "token_a": "▁ला",
+    "token_b": "▁ا",
+    "logit_a": 31.59748077392578,
+    "logit_b": 25.586612701416016,
+    "prefers_a": true
+  },
+  {
+    "word_a": "यदि",
+    "word_b": "اِیمَانَ",
+    "token_a": "▁यदि",
+    "token_b": "▁ا",
+    "logit_a": 9.093409538269043,
+    "logit_b": 6.385586738586426,
+    "prefers_a": true
+  },
+  {
+    "word_a": "डर",
+    "word_b": "لَانیوَالو!",
+    "token_a": "▁डर",
+    "token_b": "▁ل",
+    "logit_a": 4.332157135009766,
+    "logit_b": 6.487849712371826,
+    "prefers_a": false
+  },
+  {
+    "word_a": "रखोगे",
+    "word_b": "یَدِ",
+    "token_a": "▁र",
+    "token_b": "▁ی",
+    "logit_a": 27.36423683166504,
+    "logit_b": 24.05777931213379,
+    "prefers_a": true
+  },
+  {
+    "word_a": "तुम्हें",
+    "word_b": "ڈَرَ",
+    "token_a": "▁तुम्हें",
+    "token_b": "▁ڈ",
+    "logit_a": 9.106298446655273,
+    "logit_b": 0.9678922295570374,
+    "prefers_a": true
+  },
+  {
+    "word_a": "विशिष्टता",
+    "word_b": "رَکھوگے",
+    "token_a": "▁विशिष्ट",
+    "token_b": "▁ر",
+    "logit_a": 19.036497116088867,
+    "logit_b": 16.21039390563965,
+    "prefers_a": true
+  },
+  {
+    "word_a": "प्रदान",
+    "word_b": "تُمْہیں",
+    "token_a": "▁प्रदान",
+    "token_b": "▁ت",
+    "logit_a": 11.675518989562988,
+    "logit_b": 9.70036506652832,
+    "prefers_a": true
+  },
+  {
+    "word_a": "करेगा",
+    "word_b": "وِشِشْٹَتَا",
+    "token_a": "▁करेगा",
+    "token_b": "▁و",
+    "logit_a": 5.315687656402588,
+    "logit_b": 12.19484806060791,
+    "prefers_a": false
+  },
+  {
+    "word_a": "तुमसे",
+    "word_b": "پْرَدَانَ",
+    "token_a": "▁तुम",
+    "token_b": "▁پ",
+    "logit_a": 21.88494110107422,
+    "logit_b": 11.919482231140137,
+    "prefers_a": true
+  },
+  {
+    "word_a": "बुराइयाँ",
+    "word_b": "کَریگَا",
+    "token_a": "▁बुरा",
+    "token_b": "▁ک",
+    "logit_a": 26.087556838989258,
+    "logit_b": 22.000764846801758,
+    "prefers_a": true
+  },
+  {
+    "word_a": "दूर",
+    "word_b": "تُمَسے",
+    "token_a": "▁दूर",
+    "token_b": "▁ت",
+    "logit_a": 11.703030586242676,
+    "logit_b": 9.70036506652832,
+    "prefers_a": true
+  },
+  {
+    "word_a": "तुम्हे",
+    "word_b": "بُرَائِیَاں",
+    "token_a": "▁",
+    "token_b": "▁ب",
+    "logit_a": 33.56707763671875,
+    "logit_b": 24.90872573852539,
+    "prefers_a": true
+  },
+  {
+    "word_a": "क्षमा",
+    "word_b": "دُورَ",
+    "token_a": "▁क्ष",
+    "token_b": "▁د",
+    "logit_a": 19.595422744750977,
+    "logit_b": 18.41946029663086,
+    "prefers_a": true
+  },
+  {
+    "word_a": "करेगा।",
+    "word_b": "تُمْہے",
+    "token_a": "▁करेगा",
+    "token_b": "▁ت",
+    "logit_a": 9.050979614257812,
+    "logit_b": 14.185150146484375,
+    "prefers_a": false
+  },
+  {
+    "word_a": "बड़ा",
+    "word_b": "کْشَمَا",
+    "token_a": "▁बड़ा",
+    "token_b": "▁ک",
+    "logit_a": 11.224959373474121,
+    "logit_b": 2.9194533824920654,
+    "prefers_a": true
+  },
+  {
+    "word_a": "अनुग्राहक",
+    "word_b": "کَریگَا۔",
+    "token_a": "▁अनु",
+    "token_b": "▁ک",
+    "logit_a": 27.60554313659668,
+    "logit_b": 24.680631637573242,
+    "prefers_a": true
+  },
+  {
+    "word_a": "माफी",
+    "word_b": "بَڑَا",
+    "token_a": "▁माफी",
+    "token_b": "▁ب",
+    "logit_a": 6.0065741539001465,
+    "logit_b": 7.505509376525879,
+    "prefers_a": false
+  },
+  {
+    "word_a": "डौग",
+    "word_b": "اَنُگْرَاہَکَ",
+    "token_a": "▁ड",
+    "token_b": "▁ا",
+    "logit_a": 21.310035705566406,
+    "logit_b": 18.438053131103516,
+    "prefers_a": true
+  },
+  {
+    "word_a": "उनमें",
+    "word_b": "مَاپھِی",
+    "token_a": "▁उनमें",
+    "token_b": "▁م",
+    "logit_a": 4.62122917175293,
+    "logit_b": 8.288911819458008,
+    "prefers_a": false
+  },
+  {
+    "word_a": "जिन्होने",
+    "word_b": "ڈَوگَ",
+    "token_a": "▁जि",
+    "token_b": "▁ڈ",
+    "logit_a": 25.66064453125,
+    "logit_b": 17.641555786132812,
+    "prefers_a": true
+  },
+  {
+    "word_a": "वचन",
+    "word_b": "اُنَمیں",
+    "token_a": "▁",
+    "token_b": "▁ا",
+    "logit_a": 28.1856746673584,
+    "logit_b": 22.432540893554688,
+    "prefers_a": true
+  },
+  {
+    "word_a": "दिया",
+    "word_b": "جِنْہونے",
+    "token_a": "▁दिया",
+    "token_b": "▁ج",
+    "logit_a": 11.196399688720703,
+    "logit_b": 6.636977672576904,
+    "prefers_a": true
+  },
+  {
+    "word_a": "\"यदि",
+    "word_b": "وَچَنَ",
+    "token_a": "▁\"",
+    "token_b": "▁و",
+    "logit_a": 26.1166934967041,
+    "logit_b": 21.87468147277832,
+    "prefers_a": true
+  },
+  {
+    "word_a": "उसने",
+    "word_b": "دِیَا",
+    "token_a": "▁उसने",
+    "token_b": "▁د",
+    "logit_a": 8.041284561157227,
+    "logit_b": 10.594326972961426,
+    "prefers_a": false
+  },
+  {
+    "word_a": "हमें",
+    "word_b": "\"یَدِ",
+    "token_a": "▁हमें",
+    "token_b": "▁\"",
+    "logit_a": 9.208200454711914,
+    "logit_b": 20.023941040039062,
+    "prefers_a": false
+  },
+  {
+    "word_a": "अपने",
+    "word_b": "اُسَنے",
+    "token_a": "▁अपने",
+    "token_b": "▁ا",
+    "logit_a": 12.74755859375,
+    "logit_b": 6.385586738586426,
+    "prefers_a": true
+  },
+  {
+    "word_a": "अनुग्रह",
+    "word_b": "ہَمیں",
+    "token_a": "▁अनु",
+    "token_b": "▁ہ",
+    "logit_a": 26.225709915161133,
+    "logit_b": 18.3138370513916,
+    "prefers_a": true
+  },
+  {
+    "word_a": "अवश्य",
+    "word_b": "اَپَنے",
+    "token_a": "▁अवश्य",
+    "token_b": "▁ا",
+    "logit_a": 11.34997844696045,
+    "logit_b": 6.385586738586426,
+    "prefers_a": true
+  },
+  {
+    "word_a": "दान",
+    "word_b": "اَنُگْرَہَ",
+    "token_a": "▁दान",
+    "token_b": "▁ا",
+    "logit_a": 7.56020450592041,
+    "logit_b": 6.385586738586426,
+    "prefers_a": true
+  },
+  {
+    "word_a": "करेंगे",
+    "word_b": "اَوَشْیَ",
+    "token_a": "▁करेंगे",
+    "token_b": "▁ا",
+    "logit_a": 10.484579086303711,
+    "logit_b": 6.385586738586426,
+    "prefers_a": true
+  },
+  {
+    "word_a": "नेक",
+    "word_b": "دَانَ",
+    "token_a": "▁ने",
+    "token_b": "▁د",
+    "logit_a": 24.897884368896484,
+    "logit_b": 16.787153244018555,
+    "prefers_a": true
+  },
+  {
+    "word_a": "होकर",
+    "word_b": "کَرین٘گے",
+    "token_a": "▁होकर",
+    "token_b": "▁ک",
+    "logit_a": 5.799244403839111,
+    "logit_b": 2.9194533824920654,
+    "prefers_a": true
+  },
+  {
+    "word_a": "रहेंगे।\"",
+    "word_b": "نیکَ",
+    "token_a": "▁रहेंगे",
+    "token_b": "▁نیک",
+    "logit_a": 12.592324256896973,
+    "logit_b": 5.670514106750488,
+    "prefers_a": true
+  },
+  {
+    "word_a": "%s",
+    "word_b": "ہوکَرَ",
+    "token_a": "▁%",
+    "token_b": "▁ہو",
+    "logit_a": 18.49957847595215,
+    "logit_b": 11.41364860534668,
+    "prefers_a": true
+  },
+  {
+    "word_a": "ने",
+    "word_b": "رَہین٘گے۔\"",
+    "token_a": "▁ने",
+    "token_b": "▁ر",
+    "logit_a": 10.03853988647461,
+    "logit_b": 4.639527320861816,
+    "prefers_a": true
+  },
+  {
+    "word_a": "द्वारा",
+    "word_b": "%s",
+    "token_a": "▁द्वारा",
+    "token_b": "▁%",
+    "logit_a": 13.66953182220459,
+    "logit_b": 15.152029991149902,
+    "prefers_a": false
+  },
+  {
+    "word_a": "निम्न",
+    "word_b": "نے",
+    "token_a": "▁निम्न",
+    "token_b": "▁نے",
+    "logit_a": 9.735857009887695,
+    "logit_b": 5.223731517791748,
+    "prefers_a": true
+  },
+  {
+    "word_a": "दिये",
+    "word_b": "دْوَارَا",
+    "token_a": "▁दि",
+    "token_b": "▁د",
+    "logit_a": 20.19133186340332,
+    "logit_b": 18.606590270996094,
+    "prefers_a": true
+  },
+  {
+    "word_a": "गये",
+    "word_b": "نِمْنَ",
+    "token_a": "▁गये",
+    "token_b": "▁ن",
+    "logit_a": 10.340116500854492,
+    "logit_b": 5.2364373207092285,
+    "prefers_a": true
+  },
+  {
+    "word_a": "कार्य",
+    "word_b": "دِیے",
+    "token_a": "▁कार्य",
+    "token_b": "▁د",
+    "logit_a": 14.941411972045898,
+    "logit_b": 10.594326972961426,
+    "prefers_a": true
+  },
+  {
+    "word_a": "अद्यतन",
+    "word_b": "گَیے",
+    "token_a": "▁अद्य",
+    "token_b": "▁گ",
+    "logit_a": 24.004613876342773,
+    "logit_b": 15.637518882751465,
+    "prefers_a": true
+  },
+  {
+    "word_a": "सूचना",
+    "word_b": "کَارْیَ",
+    "token_a": "▁सूचना",
+    "token_b": "▁ک",
+    "logit_a": 17.65847396850586,
+    "logit_b": 2.9194533824920654,
+    "prefers_a": true
+  },
+  {
+    "word_a": "पाना",
+    "word_b": "اَدْیَتَنَ",
+    "token_a": "▁पाना",
+    "token_b": "▁ا",
+    "logit_a": 9.89315414428711,
+    "logit_b": 6.385586738586426,
+    "prefers_a": true
+  },
+  {
+    "word_a": "है:",
+    "word_b": "سُوچَنَا",
+    "token_a": "▁है",
+    "token_b": "▁س",
+    "logit_a": 13.486564636230469,
+    "logit_b": 7.199763298034668,
+    "prefers_a": true
+  },
+  {
+    "word_a": "Ashitaka",
+    "word_b": "پَانَا",
+    "token_a": "▁A",
+    "token_b": "▁پ",
+    "logit_a": 28.577892303466797,
+    "logit_b": 15.836201667785645,
+    "prefers_a": true
+  },
+  {
+    "word_a": "सामुराई",
+    "word_b": "ہَے:",
+    "token_a": "▁साम",
+    "token_b": "▁ہ",
+    "logit_a": 23.323287963867188,
+    "logit_b": 18.80443572998047,
+    "prefers_a": true
+  },
+  {
+    "word_a": "ironworks",
+    "word_b": "Ashitaka",
+    "token_a": "▁ir",
+    "token_b": "▁A",
+    "logit_a": 31.63242530822754,
+    "logit_b": 37.472225189208984,
+    "prefers_a": false
+  },
+  {
+    "word_a": "हमला",
+    "word_b": "سَامُرَائِی",
+    "token_a": "▁हमला",
+    "token_b": "▁س",
+    "logit_a": 10.578901290893555,
+    "logit_b": 4.756198883056641,
+    "prefers_a": true
+  },
+  {
+    "word_a": "रहे",
+    "word_b": "ironworks",
+    "token_a": "▁रहे",
+    "token_b": "▁ir",
+    "logit_a": 12.35011100769043,
+    "logit_b": 13.827179908752441,
+    "prefers_a": false
+  },
+  {
+    "word_a": "हैं!",
+    "word_b": "ہَمَلَا",
+    "token_a": "▁हैं",
+    "token_b": "▁ہ",
+    "logit_a": 13.615527153015137,
+    "logit_b": 1.6141407489776611,
+    "prefers_a": true
+  },
+  {
+    "word_a": "तब",
+    "word_b": "رَہے",
+    "token_a": "▁तब",
+    "token_b": "▁ر",
+    "logit_a": 8.94628620147705,
+    "logit_b": 4.639527320861816,
+    "prefers_a": true
+  },
+  {
+    "word_a": "एहसास",
+    "word_b": "ہَیں!",
+    "token_a": "▁ए",
+    "token_b": "▁ہ",
+    "logit_a": 30.171279907226562,
+    "logit_b": 23.863046646118164,
+    "prefers_a": true
+  },
+  {
+    "word_a": "हुआ",
+    "word_b": "تَبَ",
+    "token_a": "▁हुआ",
+    "token_b": "▁ت",
+    "logit_a": 9.374336242675781,
+    "logit_b": 9.70036506652832,
+    "prefers_a": false
+  },
+  {
+    "word_a": "कमजोर",
+    "word_b": "ایہَسَاسَ",
+    "token_a": "▁कमजोर",
+    "token_b": "▁ای",
+    "logit_a": 9.931087493896484,
+    "logit_b": 11.077535629272461,
+    "prefers_a": false
+  },
+  {
+    "word_a": "जगह",
+    "word_b": "ہُءآ",
+    "token_a": "▁जगह",
+    "token_b": "▁ہ",
+    "logit_a": 5.143498420715332,
+    "logit_b": -0.5066743493080139,
+    "prefers_a": true
+  },
+  {
+    "word_a": "वास्तव",
+    "word_b": "کَمَجورَ",
+    "token_a": "▁वास्तव",
+    "token_b": "▁ک",
+    "logit_a": 7.601419448852539,
+    "logit_b": 2.9194533824920654,
+    "prefers_a": true
+  },
+  {
+    "word_a": "मेरे",
+    "word_b": "جَگَہَ",
+    "token_a": "▁मेरे",
+    "token_b": "▁ج",
+    "logit_a": 13.819525718688965,
+    "logit_b": 6.636977672576904,
+    "prefers_a": true
+  },
+  {
+    "word_a": "स्वयं",
+    "word_b": "وَاسْتَوَ",
+    "token_a": "▁स्वयं",
+    "token_b": "▁و",
+    "logit_a": 11.324482917785645,
+    "logit_b": 12.19484806060791,
+    "prefers_a": false
+  },
+  {
+    "word_a": "निर्माण",
+    "word_b": "میرے",
+    "token_a": "▁निर्माण",
+    "token_b": "▁میرے",
+    "logit_a": 15.432928085327148,
+    "logit_b": 4.785839080810547,
+    "prefers_a": true
+  },
+  {
+    "word_a": "वैसे",
+    "word_b": "سْوَیَں",
+    "token_a": "▁वैसे",
+    "token_b": "▁س",
+    "logit_a": 6.444118022918701,
+    "logit_b": 4.756198883056641,
+    "prefers_a": true
+  },
+  {
+    "word_a": "देख",
+    "word_b": "نِرْمَانَ",
+    "token_a": "▁देख",
+    "token_b": "▁ن",
+    "logit_a": 10.185661315917969,
+    "logit_b": 5.2364373207092285,
+    "prefers_a": true
+  },
+  {
+    "word_a": "आकाशों",
+    "word_b": "وَیسے",
+    "token_a": "▁आकाश",
+    "token_b": "▁و",
+    "logit_a": 24.521163940429688,
+    "logit_b": 24.10841178894043,
+    "prefers_a": true
+  },
+  {
+    "word_a": "है।",
+    "word_b": "دیکھَ",
+    "token_a": "▁है",
+    "token_b": "▁دیکھ",
+    "logit_a": 18.177885055541992,
+    "logit_b": 7.413830757141113,
+    "prefers_a": true
+  },
+  {
+    "word_a": "निस्संदेह",
+    "word_b": "آکَاشوں",
+    "token_a": "▁नि",
+    "token_b": "▁آ",
+    "logit_a": 32.953067779541016,
+    "logit_b": 24.69290542602539,
+    "prefers_a": true
+  },
+  {
+    "word_a": "निस्पृह",
+    "word_b": "نِسَّن٘دیہَ",
+    "token_a": "▁नि",
+    "token_b": "▁ن",
+    "logit_a": 29.039535522460938,
+    "logit_b": 24.079540252685547,
+    "prefers_a": true
+  },
+  {
+    "word_a": "प्रशंसनीय",
+    "word_b": "نِسْپْرِہَ",
+    "token_a": "▁प्र",
+    "token_b": "▁ن",
+    "logit_a": 35.45408630371094,
+    "logit_b": 26.647079467773438,
+    "prefers_a": true
+  },
+  {
+    "word_a": "फिर",
+    "word_b": "پْرَشَن٘سَنِییَ",
+    "token_a": "▁फिर",
+    "token_b": "▁پ",
+    "logit_a": 10.64531135559082,
+    "logit_b": 2.22291898727417,
+    "prefers_a": true
+  },
+  {
+    "word_a": "दोनों",
+    "word_b": "پھِرَ",
+    "token_a": "▁दोनों",
+    "token_b": "▁پھ",
+    "logit_a": 10.854040145874023,
+    "logit_b": -0.6001368165016174,
+    "prefers_a": true
+  },
+  {
+    "word_a": "रब",
+    "word_b": "دونوں",
+    "token_a": "▁र",
+    "token_b": "▁دونوں",
+    "logit_a": 23.084060668945312,
+    "logit_b": 12.15384578704834,
+    "prefers_a": true
+  },
+  {
+    "word_a": "महानताओं",
+    "word_b": "رَبَ",
+    "token_a": "▁महान",
+    "token_b": "▁ر",
+    "logit_a": 33.63420867919922,
+    "logit_b": 24.982908248901367,
+    "prefers_a": true
+  },
+  {
+    "word_a": "किस-किस",
+    "word_b": "مَہَانَتَاؤں",
+    "token_a": "▁किस",
+    "token_b": "▁م",
+    "logit_a": 20.819007873535156,
+    "logit_b": 21.618043899536133,
+    "prefers_a": false
+  },
+  {
+    "word_a": "झुठलाओगे?",
+    "word_b": "کِسَ-کِسَ",
+    "token_a": "▁झु",
+    "token_b": "▁ک",
+    "logit_a": 32.813819885253906,
+    "logit_b": 28.312753677368164,
+    "prefers_a": true
+  },
+  {
+    "word_a": "पुकार",
+    "word_b": "جھُٹھَلَاؤگے؟",
+    "token_a": "▁पु",
+    "token_b": "▁جھ",
+    "logit_a": 24.13039207458496,
+    "logit_b": 9.706465721130371,
+    "prefers_a": true
+  },
+  {
+    "word_a": "उठे,",
+    "word_b": "پُکَارَ",
+    "token_a": "▁उठ",
+    "token_b": "▁پ",
+    "logit_a": 18.255922317504883,
+    "logit_b": 15.756538391113281,
+    "prefers_a": true
+  },
+  {
+    "word_a": "\"महान",
+    "word_b": "اُٹھے،",
+    "token_a": "▁\"",
+    "token_b": "▁ا",
+    "logit_a": 31.39754867553711,
+    "logit_b": 22.54262924194336,
+    "prefers_a": true
+  },
+  {
+    "word_a": "उच्च",
+    "word_b": "\"مَہَانَ",
+    "token_a": "▁उच्च",
+    "token_b": "▁\"",
+    "logit_a": 12.12302017211914,
+    "logit_b": 20.023941040039062,
+    "prefers_a": false
+  },
+  {
+    "word_a": "हमारा",
+    "word_b": "اُچَّ",
+    "token_a": "▁हमारा",
+    "token_b": "▁ا",
+    "logit_a": 12.867003440856934,
+    "logit_b": 6.385586738586426,
+    "prefers_a": true
+  },
+  {
+    "word_a": "रब!",
+    "word_b": "ہَمَارَا",
+    "token_a": "▁र",
+    "token_b": "▁ہ",
+    "logit_a": 20.41800880432129,
+    "logit_b": 14.707651138305664,
+    "prefers_a": true
+  },
+  {
+    "word_a": "ज़ालिम",
+    "word_b": "رَبَ!",
+    "token_a": "▁ज़",
+    "token_b": "▁ر",
+    "logit_a": 24.96142578125,
+    "logit_b": 21.720060348510742,
+    "prefers_a": true
+  },
+  {
+    "word_a": "थे।\"",
+    "word_b": "زَالِمَ",
+    "token_a": "▁थे",
+    "token_b": "▁ز",
+    "logit_a": 13.493111610412598,
+    "logit_b": 8.996190071105957,
+    "prefers_a": true
+  },
+  {
+    "word_a": "भरें",
+    "word_b": "تھے۔\"",
+    "token_a": "▁भर",
+    "token_b": "▁تھے۔",
+    "logit_a": 22.376361846923828,
+    "logit_b": 12.172182083129883,
+    "prefers_a": true
+  },
+  {
+    "word_a": "छवि",
+    "word_b": "بھَریں",
+    "token_a": "▁छ",
+    "token_b": "▁بھ",
+    "logit_a": 23.887216567993164,
+    "logit_b": 15.30362606048584,
+    "prefers_a": true
+  },
+  {
+    "word_a": "प्रविष्ट",
+    "word_b": "چھَوِ",
+    "token_a": "▁प्र",
+    "token_b": "▁چھ",
+    "logit_a": 16.976898193359375,
+    "logit_b": 11.041024208068848,
+    "prefers_a": true
+  },
+  {
+    "word_a": "करना",
+    "word_b": "پْرَوِشْٹَ",
+    "token_a": "▁करना",
+    "token_b": "▁پ",
+    "logit_a": 11.292159080505371,
+    "logit_b": 2.22291898727417,
+    "prefers_a": true
+  },
+  {
+    "word_a": "चाहते",
+    "word_b": "کَرَنَا",
+    "token_a": "▁चाहते",
+    "token_b": "▁ک",
+    "logit_a": 14.59990119934082,
+    "logit_b": 2.9194533824920654,
+    "prefers_a": true
+  },
+  {
+    "word_a": "हैं.",
+    "word_b": "چَاہَتے",
+    "token_a": "▁हैं",
+    "token_b": "▁چ",
+    "logit_a": 16.51142692565918,
+    "logit_b": 13.466846466064453,
+    "prefers_a": true
+  },
+  {
+    "word_a": "बेजाने",
+    "word_b": "بیجَانے",
+    "token_a": "▁बे",
+    "token_b": "▁بی",
+    "logit_a": 23.876340866088867,
+    "logit_b": 22.59589958190918,
+    "prefers_a": true
+  },
+  {
+    "word_a": "बूझे",
+    "word_b": "بُوجھے",
+    "token_a": "▁",
+    "token_b": "▁ب",
+    "logit_a": 29.50676918029785,
+    "logit_b": 24.400856018066406,
+    "prefers_a": true
+  },
+  {
+    "word_a": "बे",
+    "word_b": "بے",
+    "token_a": "▁बे",
+    "token_b": "▁بے",
+    "logit_a": 7.5398030281066895,
+    "logit_b": 6.123004913330078,
+    "prefers_a": true
+  },
+  {
+    "word_a": "हिदायत",
+    "word_b": "ہِدَایَتَ",
+    "token_a": "▁हि",
+    "token_b": "▁ہ",
+    "logit_a": 26.212024688720703,
+    "logit_b": 15.497096061706543,
+    "prefers_a": true
+  },
+  {
+    "word_a": "पाए",
+    "word_b": "پَائے",
+    "token_a": "▁पाए",
+    "token_b": "▁پ",
+    "logit_a": 7.990823745727539,
+    "logit_b": 2.22291898727417,
+    "prefers_a": true
+  },
+  {
+    "word_a": "बगैर",
+    "word_b": "بَگَیرَ",
+    "token_a": "▁बग",
+    "token_b": "▁ب",
+    "logit_a": 22.996910095214844,
+    "logit_b": 21.439184188842773,
+    "prefers_a": true
+  },
+  {
+    "word_a": "रौशन",
+    "word_b": "رَوشَنَ",
+    "token_a": "▁",
+    "token_b": "▁ر",
+    "logit_a": 34.39760208129883,
+    "logit_b": 23.085336685180664,
+    "prefers_a": true
+  },
+  {
+    "word_a": "किताब",
+    "word_b": "کِتَابَ",
+    "token_a": "▁किताब",
+    "token_b": "▁ک",
+    "logit_a": 14.449487686157227,
+    "logit_b": 2.9194533824920654,
+    "prefers_a": true
+  },
+  {
+    "word_a": "(जो",
+    "word_b": "(جو",
+    "token_a": "▁(",
+    "token_b": "▁(",
+    "logit_a": 29.57602310180664,
+    "logit_b": 29.57602310180664,
+    "prefers_a": false
+  },
+  {
+    "word_a": "उसे",
+    "word_b": "اُسے",
+    "token_a": "▁उसे",
+    "token_b": "▁ا",
+    "logit_a": 6.4249162673950195,
+    "logit_b": 6.385586738586426,
+    "prefers_a": true
+  },
+  {
+    "word_a": "राह",
+    "word_b": "رَاہَ",
+    "token_a": "▁राह",
+    "token_b": "▁ر",
+    "logit_a": 7.65455436706543,
+    "logit_b": 4.639527320861816,
+    "prefers_a": true
+  },
+  {
+    "word_a": "बताए)",
+    "word_b": "بَتَائے)",
+    "token_a": "▁बताए",
+    "token_b": "▁ب",
+    "logit_a": 11.985974311828613,
+    "logit_b": 10.993683815002441,
+    "prefers_a": true
+  },
+  {
+    "word_a": "खुदा",
+    "word_b": "کھُدَا",
+    "token_a": "▁खुद",
+    "token_b": "▁کھ",
+    "logit_a": 12.564138412475586,
+    "logit_b": 8.451454162597656,
+    "prefers_a": true
+  },
+  {
+    "word_a": "आयतों",
+    "word_b": "آیَتوں",
+    "token_a": "▁आय",
+    "token_b": "▁آی",
+    "logit_a": 31.320919036865234,
+    "logit_b": 21.782135009765625,
+    "prefers_a": true
+  },
+  {
+    "word_a": "मुँह",
+    "word_b": "مُن٘ہَ",
+    "token_a": "▁मुँह",
+    "token_b": "▁م",
+    "logit_a": 5.262975215911865,
+    "logit_b": 8.288911819458008,
+    "prefers_a": false
+  },
+  {
+    "word_a": "मोडे",
+    "word_b": "موڈے",
+    "token_a": "▁मोड",
+    "token_b": "▁م",
+    "logit_a": 16.08244514465332,
+    "logit_b": 11.551063537597656,
+    "prefers_a": true
+  },
+  {
+    "word_a": "बाज़",
+    "word_b": "بَازَ",
+    "token_a": "▁बा",
+    "token_b": "▁ب",
+    "logit_a": 13.992942810058594,
+    "logit_b": 17.282747268676758,
+    "prefers_a": false
+  },
+  {
+    "word_a": "(ज़बान",
+    "word_b": "(زَبَانَ",
+    "token_a": "▁(",
+    "token_b": "▁(",
+    "logit_a": 24.506175994873047,
+    "logit_b": 24.506175994873047,
+    "prefers_a": false
+  },
+  {
+    "word_a": "तो)",
+    "word_b": "تو)",
+    "token_a": "▁तो",
+    "token_b": "▁تو",
+    "logit_a": 14.355803489685059,
+    "logit_b": 9.51806926727295,
+    "prefers_a": true
+  },
+  {
+    "word_a": "कहते",
+    "word_b": "کَہَتے",
+    "token_a": "▁कहते",
+    "token_b": "▁ک",
+    "logit_a": 8.171797752380371,
+    "logit_b": 2.9194533824920654,
+    "prefers_a": true
+  },
+  {
+    "word_a": "क़यामत",
+    "word_b": "قَیَامَتَ",
+    "token_a": "▁",
+    "token_b": "▁ق",
+    "logit_a": 29.374588012695312,
+    "logit_b": 22.83155059814453,
+    "prefers_a": true
+  },
+  {
+    "word_a": "लाए",
+    "word_b": "لَائے",
+    "token_a": "▁ला",
+    "token_b": "▁ل",
+    "logit_a": 21.6492862701416,
+    "logit_b": 17.38188362121582,
+    "prefers_a": true
+  },
+  {
+    "word_a": "हालाँकि",
+    "word_b": "ہَالَان٘کِ",
+    "token_a": "▁हाल",
+    "token_b": "▁ہ",
+    "logit_a": 26.34494972229004,
+    "logit_b": 20.612504959106445,
+    "prefers_a": true
+  },
+  {
+    "word_a": "दिल",
+    "word_b": "دِلَ",
+    "token_a": "▁दिल",
+    "token_b": "▁د",
+    "logit_a": 6.968985557556152,
+    "logit_b": 10.594326972961426,
+    "prefers_a": false
+  },
+  {
+    "word_a": "आसपड़ोस",
+    "word_b": "آسَپَڑوسَ",
+    "token_a": "▁आस",
+    "token_b": "▁آس",
+    "logit_a": 29.147287368774414,
+    "logit_b": 23.404314041137695,
+    "prefers_a": true
+  },
+  {
+    "word_a": "धुंधweather",
+    "word_b": "دھُن٘دھَweather",
+    "token_a": "▁धु",
+    "token_b": "▁",
+    "logit_a": 15.96983814239502,
+    "logit_b": 27.969799041748047,
+    "prefers_a": false
+  },
+  {
+    "word_a": "condition",
+    "word_b": "condition",
+    "token_a": "▁condition",
+    "token_b": "▁condition",
+    "logit_a": 15.285436630249023,
+    "logit_b": 15.285436630249023,
+    "prefers_a": false
+  },
+  {
+    "word_a": "सोचा",
+    "word_b": "سوچَا",
+    "token_a": "▁सोच",
+    "token_b": "▁سوچ",
+    "logit_a": 14.47581672668457,
+    "logit_b": 8.335204124450684,
+    "prefers_a": true
+  },
+  {
+    "word_a": "मार",
+    "word_b": "مَارَ",
+    "token_a": "▁मार",
+    "token_b": "▁م",
+    "logit_a": 7.975832939147949,
+    "logit_b": 8.288911819458008,
+    "prefers_a": false
+  },
+  {
+    "word_a": "डाला।",
+    "word_b": "ڈَالَا۔",
+    "token_a": "▁डा",
+    "token_b": "▁ڈ",
+    "logit_a": 22.96312141418457,
+    "logit_b": 15.976153373718262,
+    "prefers_a": true
+  },
+  {
+    "word_a": "बेशक",
+    "word_b": "بیشَکَ",
+    "token_a": "▁बे",
+    "token_b": "▁بیش",
+    "logit_a": 19.994874954223633,
+    "logit_b": 17.395244598388672,
+    "prefers_a": true
+  },
+  {
+    "word_a": "बरसों",
+    "word_b": "بَرَسوں",
+    "token_a": "▁बरस",
+    "token_b": "▁ب",
+    "logit_a": 23.44649314880371,
+    "logit_b": 21.866865158081055,
+    "prefers_a": true
+  },
+  {
+    "word_a": "कहत",
+    "word_b": "کَہَتَ",
+    "token_a": "▁कह",
+    "token_b": "▁ک",
+    "logit_a": 17.755115509033203,
+    "logit_b": 19.76215362548828,
+    "prefers_a": false
+  },
+  {
+    "word_a": "पैदावार",
+    "word_b": "پَیدَاوَارَ",
+    "token_a": "▁पैदा",
+    "token_b": "▁پ",
+    "logit_a": 19.706993103027344,
+    "logit_b": 13.666285514831543,
+    "prefers_a": true
+  },
+  {
+    "word_a": "(के",
+    "word_b": "(کے",
+    "token_a": "▁(",
+    "token_b": "▁(",
+    "logit_a": 27.441682815551758,
+    "logit_b": 27.441682815551758,
+    "prefers_a": false
+  },
+  {
+    "word_a": "अज़ाब)",
+    "word_b": "اَزَابَ)",
+    "token_a": "▁अ",
+    "token_b": "▁ا",
+    "logit_a": 26.308696746826172,
+    "logit_b": 19.814252853393555,
+    "prefers_a": true
+  },
+  {
+    "word_a": "गिरफ्तार",
+    "word_b": "گِرَپھْتَارَ",
+    "token_a": "▁गिरफ्तार",
+    "token_b": "▁گ",
+    "logit_a": 12.049181938171387,
+    "logit_b": 2.837761163711548,
+    "prefers_a": true
+  },
+  {
+    "word_a": "ताकि",
+    "word_b": "تَاکِ",
+    "token_a": "▁ताकि",
+    "token_b": "▁ت",
+    "logit_a": 7.16437292098999,
+    "logit_b": 9.70036506652832,
+    "prefers_a": false
+  },
+  {
+    "word_a": "इबरत",
+    "word_b": "اِبَرَتَ",
+    "token_a": "▁इ",
+    "token_b": "▁ا",
+    "logit_a": 26.892488479614258,
+    "logit_b": 21.26946258544922,
+    "prefers_a": true
+  },
+  {
+    "word_a": "is",
+    "word_b": "is",
+    "token_a": "▁is",
+    "token_b": "▁is",
+    "logit_a": 13.945127487182617,
+    "logit_b": 13.945127487182617,
+    "prefers_a": false
+  },
+  {
+    "word_a": "distributed",
+    "word_b": "distributed",
+    "token_a": "▁distribu",
+    "token_b": "▁distribu",
+    "logit_a": 23.56267547607422,
+    "logit_b": 23.56267547607422,
+    "prefers_a": false
+  },
+  {
+    "word_a": "in",
+    "word_b": "in",
+    "token_a": "▁in",
+    "token_b": "▁in",
+    "logit_a": 13.96850299835205,
+    "logit_b": 13.96850299835205,
+    "prefers_a": false
+  },
+  {
+    "word_a": "hope",
+    "word_b": "hope",
+    "token_a": "▁hope",
+    "token_b": "▁hope",
+    "logit_a": 11.574126243591309,
+    "logit_b": 11.574126243591309,
+    "prefers_a": false
+  },
+  {
+    "word_a": "that",
+    "word_b": "that",
+    "token_a": "▁that",
+    "token_b": "▁that",
+    "logit_a": 12.711292266845703,
+    "logit_b": 12.711292266845703,
+    "prefers_a": false
+  },
+  {
+    "word_a": "it",
+    "word_b": "it",
+    "token_a": "▁it",
+    "token_b": "▁it",
+    "logit_a": 10.05883502960205,
+    "logit_b": 10.05883502960205,
+    "prefers_a": false
+  },
+  {
+    "word_a": "will",
+    "word_b": "will",
+    "token_a": "▁will",
+    "token_b": "▁will",
+    "logit_a": 12.888518333435059,
+    "logit_b": 12.888518333435059,
+    "prefers_a": false
+  },
+  {
+    "word_a": "be",
+    "word_b": "be",
+    "token_a": "▁be",
+    "token_b": "▁be",
+    "logit_a": 16.032466888427734,
+    "logit_b": 16.032466888427734,
+    "prefers_a": false
+  },
+  {
+    "word_a": "useful,",
+    "word_b": "useful،",
+    "token_a": "▁useful",
+    "token_b": "▁useful",
+    "logit_a": 16.070451736450195,
+    "logit_b": 16.070451736450195,
+    "prefers_a": false
+  },
+  {
+    "word_a": "but",
+    "word_b": "but",
+    "token_a": "▁but",
+    "token_b": "▁but",
+    "logit_a": 11.629586219787598,
+    "logit_b": 11.629586219787598,
+    "prefers_a": false
+  },
+  {
+    "word_a": "WITHOUT",
+    "word_b": "WITHOUT",
+    "token_a": "▁WI",
+    "token_b": "▁WI",
+    "logit_a": 30.087486267089844,
+    "logit_b": 30.087486267089844,
+    "prefers_a": false
+  },
+  {
+    "word_a": "ANY",
+    "word_b": "ANY",
+    "token_a": "▁",
+    "token_b": "▁",
+    "logit_a": 29.1151123046875,
+    "logit_b": 29.1151123046875,
+    "prefers_a": false
+  },
+  {
+    "word_a": "WARRANTY;",
+    "word_b": "WARRANTY؛",
+    "token_a": "▁",
+    "token_b": "▁",
+    "logit_a": 30.067964553833008,
+    "logit_b": 30.067964553833008,
+    "prefers_a": false
+  },
+  {
+    "word_a": "without",
+    "word_b": "without",
+    "token_a": "▁without",
+    "token_b": "▁without",
+    "logit_a": 9.395075798034668,
+    "logit_b": 9.395075798034668,
+    "prefers_a": false
+  },
+  {
+    "word_a": "even",
+    "word_b": "even",
+    "token_a": "▁even",
+    "token_b": "▁even",
+    "logit_a": 10.977867126464844,
+    "logit_b": 10.977867126464844,
+    "prefers_a": false
+  },
+  {
+    "word_a": "implied",
+    "word_b": "implied",
+    "token_a": "▁impli",
+    "token_b": "▁impli",
+    "logit_a": 22.42171859741211,
+    "logit_b": 22.42171859741211,
+    "prefers_a": false
+  },
+  {
+    "word_a": "warranty",
+    "word_b": "warranty",
+    "token_a": "▁warrant",
+    "token_b": "▁warrant",
+    "logit_a": 14.872906684875488,
+    "logit_b": 14.872906684875488,
+    "prefers_a": false
+  },
+  {
+    "word_a": "MERCHANTABILITY",
+    "word_b": "MERCHANTABILITY",
+    "token_a": "▁MERC",
+    "token_b": "▁MERC",
+    "logit_a": 29.055530548095703,
+    "logit_b": 29.055530548095703,
+    "prefers_a": false
+  },
+  {
+    "word_a": "or",
+    "word_b": "or",
+    "token_a": "▁or",
+    "token_b": "▁or",
+    "logit_a": 14.14318561553955,
+    "logit_b": 14.14318561553955,
+    "prefers_a": false
+  },
+  {
+    "word_a": "FITNESS",
+    "word_b": "FITNESS",
+    "token_a": "▁FIT",
+    "token_b": "▁FIT",
+    "logit_a": 33.1697998046875,
+    "logit_b": 33.1697998046875,
+    "prefers_a": false
+  },
+  {
+    "word_a": "FOR",
+    "word_b": "FOR",
+    "token_a": "▁FOR",
+    "token_b": "▁FOR",
+    "logit_a": 16.438087463378906,
+    "logit_b": 16.438087463378906,
+    "prefers_a": false
+  },
+  {
+    "word_a": "PARTICULAR",
+    "word_b": "PARTICULAR",
+    "token_a": "▁PARTI",
+    "token_b": "▁PARTI",
+    "logit_a": 36.135215759277344,
+    "logit_b": 36.135215759277344,
+    "prefers_a": false
+  },
+  {
+    "word_a": "PURPOSE.",
+    "word_b": "PURPOSE۔",
+    "token_a": "▁",
+    "token_b": "▁",
+    "logit_a": 34.524314880371094,
+    "logit_b": 34.524314880371094,
+    "prefers_a": false
+  },
+  {
+    "word_a": "See",
+    "word_b": "See",
+    "token_a": "▁See",
+    "token_b": "▁See",
+    "logit_a": 12.7866849899292,
+    "logit_b": 12.7866849899292,
+    "prefers_a": false
+  },
+  {
+    "word_a": "GNU",
+    "word_b": "GNU",
+    "token_a": "▁GNU",
+    "token_b": "▁GNU",
+    "logit_a": 9.472689628601074,
+    "logit_b": 9.472689628601074,
+    "prefers_a": false
+  },
+  {
+    "word_a": "General",
+    "word_b": "General",
+    "token_a": "▁General",
+    "token_b": "▁General",
+    "logit_a": 20.995119094848633,
+    "logit_b": 20.995119094848633,
+    "prefers_a": false
+  },
+  {
+    "word_a": "Public",
+    "word_b": "Public",
+    "token_a": "▁Public",
+    "token_b": "▁Public",
+    "logit_a": 20.09453582763672,
+    "logit_b": 20.09453582763672,
+    "prefers_a": false
+  },
+  {
+    "word_a": "License",
+    "word_b": "License",
+    "token_a": "▁License",
+    "token_b": "▁License",
+    "logit_a": 15.827524185180664,
+    "logit_b": 15.827524185180664,
+    "prefers_a": false
+  },
+  {
+    "word_a": "for",
+    "word_b": "for",
+    "token_a": "▁for",
+    "token_b": "▁for",
+    "logit_a": 15.492770195007324,
+    "logit_b": 15.492770195007324,
+    "prefers_a": false
+  },
+  {
+    "word_a": "more",
+    "word_b": "more",
+    "token_a": "▁more",
+    "token_b": "▁more",
+    "logit_a": 13.61550521850586,
+    "logit_b": 13.61550521850586,
+    "prefers_a": false
+  },
+  {
+    "word_a": "details.",
+    "word_b": "details۔",
+    "token_a": "▁details",
+    "token_b": "▁details",
+    "logit_a": 19.997039794921875,
+    "logit_b": 19.997039794921875,
+    "prefers_a": false
+  },
+  {
+    "word_a": "बतौर",
+    "word_b": "بَتَورَ",
+    "token_a": "▁ब",
+    "token_b": "▁ب",
+    "logit_a": 21.448556900024414,
+    "logit_b": 20.84151268005371,
+    "prefers_a": true
+  },
+  {
+    "word_a": "सत्यापन",
+    "word_b": "سَتْیَاپَنَ",
+    "token_a": "▁सत्य",
+    "token_b": "▁س",
+    "logit_a": 26.366016387939453,
+    "logit_b": 20.6568603515625,
+    "prefers_a": true
+  },
+  {
+    "word_a": "आगे",
+    "word_b": "آگے",
+    "token_a": "▁आगे",
+    "token_b": "▁آگے",
+    "logit_a": 11.429976463317871,
+    "logit_b": 3.214533805847168,
+    "prefers_a": true
+  },
+  {
+    "word_a": "जाने",
+    "word_b": "جَانے",
+    "token_a": "▁जाने",
+    "token_b": "▁ج",
+    "logit_a": 11.437796592712402,
+    "logit_b": 6.636977672576904,
+    "prefers_a": true
+  },
+  {
+    "word_a": "कूटशब्द",
+    "word_b": "کُوٹَشَبْدَ",
+    "token_a": "▁",
+    "token_b": "▁ک",
+    "logit_a": 26.312774658203125,
+    "logit_b": 17.93658447265625,
+    "prefers_a": true
+  },
+  {
+    "word_a": "जब",
+    "word_b": "جَبَ",
+    "token_a": "▁जब",
+    "token_b": "▁ج",
+    "logit_a": 12.300738334655762,
+    "logit_b": 6.636977672576904,
+    "prefers_a": true
+  },
+  {
+    "word_a": "HTTP",
+    "word_b": "HTTP",
+    "token_a": "▁HTTP",
+    "token_b": "▁HTTP",
+    "logit_a": 15.473011016845703,
+    "logit_b": 15.473011016845703,
+    "prefers_a": false
+  },
+  {
+    "word_a": "प्रॉक्सी",
+    "word_b": "پْرَاکْسِی",
+    "token_a": "▁प्र",
+    "token_b": "▁پ",
+    "logit_a": 37.72875213623047,
+    "logit_b": 28.183013916015625,
+    "prefers_a": true
+  },
+  {
+    "word_a": "रिश्ते",
+    "word_b": "رِشْتے",
+    "token_a": "▁रिश्ते",
+    "token_b": "▁ر",
+    "logit_a": 8.618170738220215,
+    "logit_b": 4.639527320861816,
+    "prefers_a": true
+  },
+  {
+    "word_a": "नाते",
+    "word_b": "نَاتے",
+    "token_a": "▁ना",
+    "token_b": "▁ن",
+    "logit_a": 23.84844207763672,
+    "logit_b": 16.851285934448242,
+    "prefers_a": true
+  },
+  {
+    "word_a": "आएँगे",
+    "word_b": "آئین٘گے",
+    "token_a": "▁आए",
+    "token_b": "▁آئین",
+    "logit_a": 23.347368240356445,
+    "logit_b": 14.538591384887695,
+    "prefers_a": true
+  },
+  {
+    "word_a": "औलाद",
+    "word_b": "اَولَادَ",
+    "token_a": "▁औ",
+    "token_b": "▁ا",
+    "logit_a": 27.65692138671875,
+    "logit_b": 24.950963973999023,
+    "prefers_a": true
+  },
+  {
+    "word_a": "(उस",
+    "word_b": "(اُسَ",
+    "token_a": "▁(",
+    "token_b": "▁(",
+    "logit_a": 26.545866012573242,
+    "logit_b": 26.545866012573242,
+    "prefers_a": false
+  },
+  {
+    "word_a": "दिन)",
+    "word_b": "دِنَ)",
+    "token_a": "▁दिन",
+    "token_b": "▁د",
+    "logit_a": 13.131683349609375,
+    "logit_b": 11.014095306396484,
+    "prefers_a": true
+  },
+  {
+    "word_a": "फ़ैसला",
+    "word_b": "فَیسَلَا",
+    "token_a": "▁",
+    "token_b": "▁ف",
+    "logit_a": 28.392980575561523,
+    "logit_b": 20.394399642944336,
+    "prefers_a": true
+  },
+  {
+    "word_a": "देगा",
+    "word_b": "دیگَا",
+    "token_a": "▁देगा",
+    "token_b": "▁دی",
+    "logit_a": 5.1476545333862305,
+    "logit_b": 8.514507293701172,
+    "prefers_a": false
+  },
+  {
+    "word_a": "सूची",
+    "word_b": "سُوچِی",
+    "token_a": "▁सूची",
+    "token_b": "▁س",
+    "logit_a": 13.118280410766602,
+    "logit_b": 4.756198883056641,
+    "prefers_a": true
+  },
+  {
+    "word_a": "(आर-पार",
+    "word_b": "(آرَ-پَارَ",
+    "token_a": "▁(",
+    "token_b": "▁(",
+    "logit_a": 30.2894287109375,
+    "logit_b": 30.2894287109375,
+    "prefers_a": false
+  },
+  {
+    "word_a": "काटे",
+    "word_b": "کَاٹے",
+    "token_a": "▁का",
+    "token_b": "▁ک",
+    "logit_a": 19.21797752380371,
+    "logit_b": 12.456758499145508,
+    "prefers_a": true
+  },
+  {
+    "word_a": "मिटाए",
+    "word_b": "مِٹَائے",
+    "token_a": "▁",
+    "token_b": "▁م",
+    "logit_a": 36.532752990722656,
+    "logit_b": 25.97329330444336,
+    "prefers_a": true
+  },
+  {
+    "word_a": "दिखाएँ.",
+    "word_b": "دِکھَائیں۔",
+    "token_a": "▁दिखा",
+    "token_b": "▁د",
+    "logit_a": 22.85101318359375,
+    "logit_b": 19.735490798950195,
+    "prefers_a": true
+  },
+  {
+    "word_a": "ATANH(",
+    "word_b": "ATANH(",
+    "token_a": "▁",
+    "token_b": "▁",
+    "logit_a": 34.675743103027344,
+    "logit_b": 34.675743103027344,
+    "prefers_a": false
+  },
+  {
+    "word_a": "0.",
+    "word_b": "0۔",
+    "token_a": "▁0",
+    "token_b": "▁0",
+    "logit_a": 25.60063934326172,
+    "logit_b": 25.60063934326172,
+    "prefers_a": false
+  },
+  {
+    "word_a": "8)",
+    "word_b": "8)",
+    "token_a": "▁8)",
+    "token_b": "▁8)",
+    "logit_a": 13.270781517028809,
+    "logit_b": 13.270781517028809,
+    "prefers_a": false
+  },
+  {
+    "word_a": "बराबर",
+    "word_b": "بَرَابَرَ",
+    "token_a": "▁बराबर",
+    "token_b": "▁ب",
+    "logit_a": 8.504356384277344,
+    "logit_b": 7.505509376525879,
+    "prefers_a": true
+  },
+  {
+    "word_a": "1.",
+    "word_b": "1۔",
+    "token_a": "▁1.",
+    "token_b": "▁1",
+    "logit_a": 18.496601104736328,
+    "logit_b": 20.122560501098633,
+    "prefers_a": false
+  },
+  {
+    "word_a": "09861229",
+    "word_b": "09861229",
+    "token_a": "▁09",
+    "token_b": "▁09",
+    "logit_a": 16.29357147216797,
+    "logit_b": 16.29357147216797,
+    "prefers_a": false
+  },
+  {
+    "word_a": "साक्षी",
+    "word_b": "سَاکْشِی",
+    "token_a": "▁साक्षी",
+    "token_b": "▁س",
+    "logit_a": 8.893990516662598,
+    "logit_b": 4.756198883056641,
+    "prefers_a": true
+  },
+  {
+    "word_a": "चढ़ता",
+    "word_b": "چَڑھَتَا",
+    "token_a": "▁च",
+    "token_b": "▁چ",
+    "logit_a": 37.87816619873047,
+    "logit_b": 27.829484939575195,
+    "prefers_a": true
+  },
+  {
+    "word_a": "दिन,",
+    "word_b": "دِنَ،",
+    "token_a": "▁दिन",
+    "token_b": "▁د",
+    "logit_a": 15.423564910888672,
+    "logit_b": 17.340145111083984,
+    "prefers_a": false
+  },
+  {
+    "word_a": "You",
+    "word_b": "You",
+    "token_a": "▁You",
+    "token_b": "▁You",
+    "logit_a": 15.936920166015625,
+    "logit_b": 15.936920166015625,
+    "prefers_a": false
+  },
+  {
+    "word_a": "should",
+    "word_b": "should",
+    "token_a": "▁should",
+    "token_b": "▁should",
+    "logit_a": 12.004090309143066,
+    "logit_b": 12.004090309143066,
+    "prefers_a": false
+  },
+  {
+    "word_a": "have",
+    "word_b": "have",
+    "token_a": "▁have",
+    "token_b": "▁have",
+    "logit_a": 12.316344261169434,
+    "logit_b": 12.316344261169434,
+    "prefers_a": false
+  },
+  {
+    "word_a": "received",
+    "word_b": "received",
+    "token_a": "▁received",
+    "token_b": "▁received",
+    "logit_a": 11.72654914855957,
+    "logit_b": 11.72654914855957,
+    "prefers_a": false
+  },
+  {
+    "word_a": "copy",
+    "word_b": "copy",
+    "token_a": "▁copy",
+    "token_b": "▁copy",
+    "logit_a": 14.187921524047852,
+    "logit_b": 14.187921524047852,
+    "prefers_a": false
+  },
+  {
+    "word_a": "along",
+    "word_b": "along",
+    "token_a": "▁along",
+    "token_b": "▁along",
+    "logit_a": 7.911941051483154,
+    "logit_b": 7.911941051483154,
+    "prefers_a": false
+  },
+  {
+    "word_a": "with",
+    "word_b": "with",
+    "token_a": "▁with",
+    "token_b": "▁with",
+    "logit_a": 12.362431526184082,
+    "logit_b": 12.362431526184082,
+    "prefers_a": false
+  },
+  {
+    "word_a": "Brasero;",
+    "word_b": "Brasero؛",
+    "token_a": "▁Bra",
+    "token_b": "▁Bra",
+    "logit_a": 22.427902221679688,
+    "logit_b": 22.427902221679688,
+    "prefers_a": false
+  },
+  {
+    "word_a": "if",
+    "word_b": "if",
+    "token_a": "▁if",
+    "token_b": "▁if",
+    "logit_a": 9.970174789428711,
+    "logit_b": 9.970174789428711,
+    "prefers_a": false
+  },
+  {
+    "word_a": "not,",
+    "word_b": "not،",
+    "token_a": "▁not",
+    "token_b": "▁not",
+    "logit_a": 18.824399948120117,
+    "logit_b": 18.824399948120117,
+    "prefers_a": false
+  },
+  {
+    "word_a": "write",
+    "word_b": "write",
+    "token_a": "▁write",
+    "token_b": "▁write",
+    "logit_a": 8.391532897949219,
+    "logit_b": 8.391532897949219,
+    "prefers_a": false
+  },
+  {
+    "word_a": "Free",
+    "word_b": "Free",
+    "token_a": "▁Free",
+    "token_b": "▁Free",
+    "logit_a": 15.94533634185791,
+    "logit_b": 15.94533634185791,
+    "prefers_a": false
+  },
+  {
+    "word_a": "Software",
+    "word_b": "Software",
+    "token_a": "▁Software",
+    "token_b": "▁Software",
+    "logit_a": 21.820499420166016,
+    "logit_b": 21.820499420166016,
+    "prefers_a": false
+  },
+  {
+    "word_a": "Foundation,",
+    "word_b": "Foundation،",
+    "token_a": "▁Foundation",
+    "token_b": "▁Foundation",
+    "logit_a": 21.72349739074707,
+    "logit_b": 21.72349739074707,
+    "prefers_a": false
+  },
+  {
+    "word_a": "Inc.,",
+    "word_b": "Inc۔،",
+    "token_a": "▁Inc",
+    "token_b": "▁Inc",
+    "logit_a": 18.252010345458984,
+    "logit_b": 18.252010345458984,
+    "prefers_a": false
+  },
+  {
+    "word_a": "51",
+    "word_b": "51",
+    "token_a": "▁51",
+    "token_b": "▁51",
+    "logit_a": 20.237272262573242,
+    "logit_b": 20.237272262573242,
+    "prefers_a": false
+  },
+  {
+    "word_a": "Franklin",
+    "word_b": "Franklin",
+    "token_a": "▁Franklin",
+    "token_b": "▁Franklin",
+    "logit_a": 16.639530181884766,
+    "logit_b": 16.639530181884766,
+    "prefers_a": false
+  },
+  {
+    "word_a": "Street,",
+    "word_b": "Street،",
+    "token_a": "▁Street",
+    "token_b": "▁Street",
+    "logit_a": 19.503799438476562,
+    "logit_b": 19.503799438476562,
+    "prefers_a": false
+  },
+  {
+    "word_a": "Fifth",
+    "word_b": "Fifth",
+    "token_a": "▁Fi",
+    "token_b": "▁Fi",
+    "logit_a": 22.576690673828125,
+    "logit_b": 22.576690673828125,
+    "prefers_a": false
+  },
+  {
+    "word_a": "Floor,",
+    "word_b": "Floor،",
+    "token_a": "▁Floor",
+    "token_b": "▁Floor",
+    "logit_a": 15.790138244628906,
+    "logit_b": 15.790138244628906,
+    "prefers_a": false
+  },
+  {
+    "word_a": "Boston,",
+    "word_b": "Boston،",
+    "token_a": "▁Boston",
+    "token_b": "▁Boston",
+    "logit_a": 19.468616485595703,
+    "logit_b": 19.468616485595703,
+    "prefers_a": false
+  },
+  {
+    "word_a": "MA",
+    "word_b": "MA",
+    "token_a": "▁MA",
+    "token_b": "▁MA",
+    "logit_a": 14.090290069580078,
+    "logit_b": 14.090290069580078,
+    "prefers_a": false
+  },
+  {
+    "word_a": "02110-1301,",
+    "word_b": "02110-1301،",
+    "token_a": "▁02",
+    "token_b": "▁02",
+    "logit_a": 16.31925392150879,
+    "logit_b": 16.31925392150879,
+    "prefers_a": false
+  },
+  {
+    "word_a": "USA",
+    "word_b": "USA",
+    "token_a": "▁USA",
+    "token_b": "▁USA",
+    "logit_a": 16.13260269165039,
+    "logit_b": 16.13260269165039,
+    "prefers_a": false
+  },
+  {
+    "word_a": "अधिकतर",
+    "word_b": "اَدھِکَتَرَ",
+    "token_a": "▁अधिक",
+    "token_b": "▁ا",
+    "logit_a": 27.49037742614746,
+    "logit_b": 21.481645584106445,
+    "prefers_a": true
+  },
+  {
+    "word_a": "लोगो",
+    "word_b": "لوگو",
+    "token_a": "▁लोगो",
+    "token_b": "▁لوگ",
+    "logit_a": 8.061860084533691,
+    "logit_b": 5.118199348449707,
+    "prefers_a": true
+  },
+  {
+    "word_a": "प्रतिज्ञा",
+    "word_b": "پْرَتِجْنَا",
+    "token_a": "▁प्रति",
+    "token_b": "▁پ",
+    "logit_a": 30.570072174072266,
+    "logit_b": 15.980117797851562,
+    "prefers_a": true
+  },
+  {
+    "word_a": "निर्वाह",
+    "word_b": "نِرْوَاہَ",
+    "token_a": "▁निर्वाह",
+    "token_b": "▁ن",
+    "logit_a": 10.823416709899902,
+    "logit_b": 5.2364373207092285,
+    "prefers_a": true
+  },
+  {
+    "word_a": "पाया,",
+    "word_b": "پَایَا،",
+    "token_a": "▁पाया",
+    "token_b": "▁پ",
+    "logit_a": 13.547040939331055,
+    "logit_b": 13.394171714782715,
+    "prefers_a": true
+  },
+  {
+    "word_a": "बल्कि",
+    "word_b": "بَلْکِ",
+    "token_a": "▁बल्कि",
+    "token_b": "▁ب",
+    "logit_a": 4.713242053985596,
+    "logit_b": 7.505509376525879,
+    "prefers_a": false
+  },
+  {
+    "word_a": "बहुतों",
+    "word_b": "بَہُتوں",
+    "token_a": "▁बहुत",
+    "token_b": "▁ب",
+    "logit_a": 29.694534301757812,
+    "logit_b": 21.866865158081055,
+    "prefers_a": true
+  },
+  {
+    "word_a": "उल्लंघनकारी",
+    "word_b": "اُلَّن٘گھَنَکَارِی",
+    "token_a": "▁उल्लंघन",
+    "token_b": "▁ا",
+    "logit_a": 26.939346313476562,
+    "logit_b": 17.278244018554688,
+    "prefers_a": true
+  },
+  {
+    "word_a": "पाया",
+    "word_b": "پَایَا",
+    "token_a": "▁पाया",
+    "token_b": "▁پ",
+    "logit_a": 11.873804092407227,
+    "logit_b": 2.22291898727417,
+    "prefers_a": true
+  },
+  {
+    "word_a": "शीर्ष",
+    "word_b": "شِیرْشَ",
+    "token_a": "▁शीर्ष",
+    "token_b": "▁ش",
+    "logit_a": 11.324420928955078,
+    "logit_b": 5.743991851806641,
+    "prefers_a": true
+  },
+  {
+    "word_a": "पैनल",
+    "word_b": "پَینَلَ",
+    "token_a": "▁पैनल",
+    "token_b": "▁پ",
+    "logit_a": 6.56795072555542,
+    "logit_b": 2.22291898727417,
+    "prefers_a": true
+  },
+  {
+    "word_a": "pluginview",
+    "word_b": "pluginview",
+    "token_a": "▁plugin",
+    "token_b": "▁plugin",
+    "logit_a": 20.235782623291016,
+    "logit_b": 20.235782623291016,
+    "prefers_a": false
+  },
+  {
+    "word_a": "लेआउट.",
+    "word_b": "لےءآؤُٹَ۔",
+    "token_a": "▁ले",
+    "token_b": "▁لے",
+    "logit_a": 30.09870147705078,
+    "logit_b": 20.154197692871094,
+    "prefers_a": true
+  },
+  {
+    "word_a": "(ऐ",
+    "word_b": "(اَے",
+    "token_a": "▁(",
+    "token_b": "▁(",
+    "logit_a": 23.02545928955078,
+    "logit_b": 23.02545928955078,
+    "prefers_a": false
+  },
+  {
+    "word_a": "रसूल)",
+    "word_b": "رَسُولَ)",
+    "token_a": "▁रस",
+    "token_b": "▁ر",
+    "logit_a": 18.45020294189453,
+    "logit_b": 15.788230895996094,
+    "prefers_a": true
+  },
+  {
+    "word_a": "हसमें",
+    "word_b": "ہَسَمیں",
+    "token_a": "▁हस",
+    "token_b": "▁ہ",
+    "logit_a": 21.47035026550293,
+    "logit_b": 15.940896987915039,
+    "prefers_a": true
+  }
+]

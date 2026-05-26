@@ -1,0 +1,48 @@
+{
+  "table": [
+    {
+      "Language": "kazakh",
+      "FL cosim": 0.732,
+      "MRR": 0.893,
+      "Silhouette": "0.087",
+      "Tok. overlap": 0.209
+    },
+    {
+      "Language": "serbian",
+      "FL cosim": 0.865,
+      "MRR": 1.0,
+      "Silhouette": "0.001",
+      "Tok. overlap": 0.179
+    },
+    {
+      "Language": "chinese",
+      "FL cosim": 1.0,
+      "MRR": 0.984,
+      "Silhouette": "-0.0",
+      "Tok. overlap": 0.987
+    },
+    {
+      "Language": "uyghur",
+      "FL cosim": 0.571,
+      "MRR": 0.862,
+      "Silhouette": "0.044",
+      "Tok. overlap": 0.032
+    },
+    {
+      "Language": "japanese",
+      "FL cosim": 0.817,
+      "MRR": 0.969,
+      "Silhouette": "0.025",
+      "Tok. overlap": 0.583
+    },
+    {
+      "Language": "hindi_urdu",
+      "FL cosim": 0.626,
+      "MRR": 0.722,
+      "Silhouette": "0.116",
+      "Tok. overlap": 0.012
+    }
+  ],
+  "data_volume_sil_gap": "0.086471796",
+  "data_volume_mrr_gap": 0.10666719819752446
+}

@@ -1,0 +1,4502 @@
+[
+  {
+    "word_a": "英語で教育を行う学校でアルファベットを復唱する場合、その文字自体が単語となる文字（\"A\",",
+    "word_b": "えいごできょういくをおこなうがっこうであるふぁべっとをふくしょうするばあい、そのもじじたいがたんごとなるもじ（\"A\",",
+    "token_a": "▁",
+    "token_b": "▁",
+    "logit_a": 34.876609802246094,
+    "logit_b": 34.876609802246094,
+    "prefers_a": false
+  },
+  {
+    "word_a": "\"I\",",
+    "word_b": "\"I\",",
+    "token_a": "▁\"",
+    "token_b": "▁\"",
+    "logit_a": 24.947052001953125,
+    "logit_b": 24.947052001953125,
+    "prefers_a": false
+  },
+  {
+    "word_a": "かつては",
+    "word_b": "かつては",
+    "token_a": "▁",
+    "token_b": "▁",
+    "logit_a": 32.96086120605469,
+    "logit_b": 32.96086120605469,
+    "prefers_a": false
+  },
+  {
+    "word_a": "\"O\"",
+    "word_b": "\"O\"",
+    "token_a": "▁\"",
+    "token_b": "▁\"",
+    "logit_a": 23.908973693847656,
+    "logit_b": 23.908973693847656,
+    "prefers_a": false
+  },
+  {
+    "word_a": "も）については、伝統的にラテン語の",
+    "word_b": "も）については、でんとうてきにらてんごの",
+    "token_a": "▁",
+    "token_b": "▁",
+    "logit_a": 35.27570343017578,
+    "logit_b": 35.27570343017578,
+    "prefers_a": false
+  },
+  {
+    "word_a": "per",
+    "word_b": "per",
+    "token_a": "▁per",
+    "token_b": "▁per",
+    "logit_a": 14.759912490844727,
+    "logit_b": 14.759912490844727,
+    "prefers_a": false
+  },
+  {
+    "word_a": "se（それ自体）を用いて",
+    "word_b": "se（それじたい）をもちいて",
+    "token_a": "▁se",
+    "token_b": "▁se",
+    "logit_a": 25.927663803100586,
+    "logit_b": 25.927663803100586,
+    "prefers_a": false
+  },
+  {
+    "word_a": "\"A",
+    "word_b": "\"A",
+    "token_a": "▁\"",
+    "token_b": "▁\"",
+    "logit_a": 20.735328674316406,
+    "logit_b": 20.735328674316406,
+    "prefers_a": false
+  },
+  {
+    "word_a": "se",
+    "word_b": "se",
+    "token_a": "▁se",
+    "token_b": "▁se",
+    "logit_a": 13.13251781463623,
+    "logit_b": 13.13251781463623,
+    "prefers_a": false
+  },
+  {
+    "word_a": "A\"",
+    "word_b": "A\"",
+    "token_a": "▁A",
+    "token_b": "▁A",
+    "logit_a": 17.02814483642578,
+    "logit_b": 17.02814483642578,
+    "prefers_a": false
+  },
+  {
+    "word_a": "のように唱えられていた",
+    "word_b": "のようにとなえられていた",
+    "token_a": "▁",
+    "token_b": "▁",
+    "logit_a": 31.235275268554688,
+    "logit_b": 31.235275268554688,
+    "prefers_a": false
+  },
+  {
+    "word_a": "\"&\"",
+    "word_b": "\"&\"",
+    "token_a": "▁\"",
+    "token_b": "▁\"",
+    "logit_a": 25.928232192993164,
+    "logit_b": 25.928232192993164,
+    "prefers_a": false
+  },
+  {
+    "word_a": "はラテン語で",
+    "word_b": "はらてんごで",
+    "token_a": "▁",
+    "token_b": "▁",
+    "logit_a": 26.227842330932617,
+    "logit_b": 26.227842330932617,
+    "prefers_a": false
+  },
+  {
+    "word_a": "et",
+    "word_b": "et",
+    "token_a": "▁et",
+    "token_b": "▁et",
+    "logit_a": 12.624855995178223,
+    "logit_b": 12.624855995178223,
+    "prefers_a": false
+  },
+  {
+    "word_a": "と読まれていたが、のちに英語で",
+    "word_b": "とよまれていたが、のちにえいごで",
+    "token_a": "▁",
+    "token_b": "▁",
+    "logit_a": 28.675495147705078,
+    "logit_b": 28.675495147705078,
+    "prefers_a": false
+  },
+  {
+    "word_a": "and",
+    "word_b": "and",
+    "token_a": "▁and",
+    "token_b": "▁and",
+    "logit_a": 16.074859619140625,
+    "logit_b": 16.074859619140625,
+    "prefers_a": false
+  },
+  {
+    "word_a": "と読まれるようになった",
+    "word_b": "とよまれるようになった",
+    "token_a": "▁",
+    "token_b": "▁",
+    "logit_a": 22.731956481933594,
+    "logit_b": 22.731956481933594,
+    "prefers_a": false
+  },
+  {
+    "word_a": "結果として、アルファベットの復唱の最後は",
+    "word_b": "けっかとして、あるふぁべっとのふくしょうのさいごは",
+    "token_a": "▁",
+    "token_b": "▁",
+    "logit_a": 38.488529205322266,
+    "logit_b": 38.488529205322266,
+    "prefers_a": false
+  },
+  {
+    "word_a": "\"X,",
+    "word_b": "\"X,",
+    "token_a": "▁\"",
+    "token_b": "▁\"",
+    "logit_a": 18.873233795166016,
+    "logit_b": 18.873233795166016,
+    "prefers_a": false
+  },
+  {
+    "word_a": "Y,",
+    "word_b": "Y,",
+    "token_a": "▁Y",
+    "token_b": "▁Y",
+    "logit_a": 20.996679306030273,
+    "logit_b": 20.996679306030273,
+    "prefers_a": false
+  },
+  {
+    "word_a": "Z,",
+    "word_b": "Z,",
+    "token_a": "▁Z",
+    "token_b": "▁Z",
+    "logit_a": 17.51738739013672,
+    "logit_b": 17.51738739013672,
+    "prefers_a": false
+  },
+  {
+    "word_a": "and\"",
+    "word_b": "and\"",
+    "token_a": "▁and",
+    "token_b": "▁and",
+    "logit_a": 15.514165878295898,
+    "logit_b": 15.514165878295898,
+    "prefers_a": false
+  },
+  {
+    "word_a": "という形になった",
+    "word_b": "というかたちになった",
+    "token_a": "▁",
+    "token_b": "▁",
+    "logit_a": 32.195579528808594,
+    "logit_b": 32.195579528808594,
+    "prefers_a": false
+  },
+  {
+    "word_a": "1863年の",
+    "word_b": "1863ねんの",
+    "token_a": "▁1863",
+    "token_b": "▁1863",
+    "logit_a": 18.67881965637207,
+    "logit_b": 18.67881965637207,
+    "prefers_a": false
+  },
+  {
+    "word_a": "M.",
+    "word_b": "M.",
+    "token_a": "▁M",
+    "token_b": "▁M",
+    "logit_a": 21.67323112487793,
+    "logit_b": 21.67323112487793,
+    "prefers_a": false
+  },
+  {
+    "word_a": "B.",
+    "word_b": "B.",
+    "token_a": "▁B",
+    "token_b": "▁B",
+    "logit_a": 23.61474609375,
+    "logit_b": 23.61474609375,
+    "prefers_a": false
+  },
+  {
+    "word_a": "Moore",
+    "word_b": "Moore",
+    "token_a": "▁Moore",
+    "token_b": "▁Moore",
+    "logit_a": 12.008414268493652,
+    "logit_b": 12.008414268493652,
+    "prefers_a": false
+  },
+  {
+    "word_a": "の著書",
+    "word_b": "のちょしょ",
+    "token_a": "▁",
+    "token_b": "▁",
+    "logit_a": 29.09532928466797,
+    "logit_b": 29.09532928466797,
+    "prefers_a": false
+  },
+  {
+    "word_a": "The",
+    "word_b": "The",
+    "token_a": "▁The",
+    "token_b": "▁The",
+    "logit_a": 18.6179256439209,
+    "logit_b": 18.6179256439209,
+    "prefers_a": false
+  },
+  {
+    "word_a": "Dixie",
+    "word_b": "Dixie",
+    "token_a": "▁Di",
+    "token_b": "▁Di",
+    "logit_a": 29.255279541015625,
+    "logit_b": 29.255279541015625,
+    "prefers_a": false
+  },
+  {
+    "word_a": "Primer,",
+    "word_b": "Primer,",
+    "token_a": "▁Primer",
+    "token_b": "▁Primer",
+    "logit_a": 18.58070945739746,
+    "logit_b": 18.58070945739746,
+    "prefers_a": false
+  },
+  {
+    "word_a": "for",
+    "word_b": "for",
+    "token_a": "▁for",
+    "token_b": "▁for",
+    "logit_a": 15.492770195007324,
+    "logit_b": 15.492770195007324,
+    "prefers_a": false
+  },
+  {
+    "word_a": "the",
+    "word_b": "the",
+    "token_a": "▁the",
+    "token_b": "▁the",
+    "logit_a": 15.89617919921875,
+    "logit_b": 15.89617919921875,
+    "prefers_a": false
+  },
+  {
+    "word_a": "Little",
+    "word_b": "Little",
+    "token_a": "▁Little",
+    "token_b": "▁Little",
+    "logit_a": 12.597590446472168,
+    "logit_b": 12.597590446472168,
+    "prefers_a": false
+  },
+  {
+    "word_a": "Folks",
+    "word_b": "Folks",
+    "token_a": "▁Folk",
+    "token_b": "▁Folk",
+    "logit_a": 19.423067092895508,
+    "logit_b": 19.423067092895508,
+    "prefers_a": false
+  },
+  {
+    "word_a": "にその一例を見ることができる",
+    "word_b": "にそのいちれいをみることができる",
+    "token_a": "▁",
+    "token_b": "▁",
+    "logit_a": 32.7596549987793,
+    "logit_b": 32.7596549987793,
+    "prefers_a": false
+  },
+  {
+    "word_a": "アンパサンドは、ティロ式記号の",
+    "word_b": "あんぱさんどは、てぃろしききごうの",
+    "token_a": "▁",
+    "token_b": "▁",
+    "logit_a": 34.63569259643555,
+    "logit_b": 34.63569259643555,
+    "prefers_a": false
+  },
+  {
+    "word_a": "(\"⁊\",",
+    "word_b": "(\"⁊\",",
+    "token_a": "▁(\"",
+    "token_b": "▁(\"",
+    "logit_a": 24.222402572631836,
+    "logit_b": 24.222402572631836,
+    "prefers_a": false
+  },
+  {
+    "word_a": "Unicode",
+    "word_b": "Unicode",
+    "token_a": "▁Unicode",
+    "token_b": "▁Unicode",
+    "logit_a": 13.017391204833984,
+    "logit_b": 13.017391204833984,
+    "prefers_a": false
+  },
+  {
+    "word_a": "U+204A)",
+    "word_b": "U+204A)",
+    "token_a": "▁U",
+    "token_b": "▁U",
+    "logit_a": 18.474246978759766,
+    "logit_b": 18.474246978759766,
+    "prefers_a": false
+  },
+  {
+    "word_a": "とは別のものである",
+    "word_b": "とはべつのものである",
+    "token_a": "▁",
+    "token_b": "▁",
+    "logit_a": 27.333393096923828,
+    "logit_b": 27.333393096923828,
+    "prefers_a": false
+  },
+  {
+    "word_a": "&&",
+    "word_b": "&&",
+    "token_a": "▁&",
+    "token_b": "▁&",
+    "logit_a": 25.798221588134766,
+    "logit_b": 25.798221588134766,
+    "prefers_a": false
+  },
+  {
+    "word_a": "のように2個重ねたものは論理",
+    "word_b": "のように2こおもねたものはろんり",
+    "token_a": "▁",
+    "token_b": "▁",
+    "logit_a": 34.049537658691406,
+    "logit_b": 34.049537658691406,
+    "prefers_a": false
+  },
+  {
+    "word_a": "AND",
+    "word_b": "AND",
+    "token_a": "▁AND",
+    "token_b": "▁AND",
+    "logit_a": 16.294361114501953,
+    "logit_b": 16.294361114501953,
+    "prefers_a": false
+  },
+  {
+    "word_a": "を表す",
+    "word_b": "をあらわす",
+    "token_a": "▁",
+    "token_b": "▁",
+    "logit_a": 31.6220703125,
+    "logit_b": 31.6220703125,
+    "prefers_a": false
+  },
+  {
+    "word_a": "この場合",
+    "word_b": "このばあい",
+    "token_a": "▁この",
+    "token_b": "▁この",
+    "logit_a": 28.151668548583984,
+    "logit_b": 28.151668548583984,
+    "prefers_a": false
+  },
+  {
+    "word_a": "A,",
+    "word_b": "A,",
+    "token_a": "▁A",
+    "token_b": "▁A",
+    "logit_a": 22.91776466369629,
+    "logit_b": 22.91776466369629,
+    "prefers_a": false
+  },
+  {
+    "word_a": "がともに真ならば",
+    "word_b": "がともにまことならば",
+    "token_a": "▁",
+    "token_b": "▁",
+    "logit_a": 34.994117736816406,
+    "logit_b": 34.994117736816406,
+    "prefers_a": false
+  },
+  {
+    "word_a": "も真、それ以外は偽である",
+    "word_b": "もまこと、それいがいはにせである",
+    "token_a": "▁",
+    "token_b": "▁",
+    "logit_a": 35.97515869140625,
+    "logit_b": 35.97515869140625,
+    "prefers_a": false
+  },
+  {
+    "word_a": "0x12345678",
+    "word_b": "0x12345678",
+    "token_a": "▁0",
+    "token_b": "▁0",
+    "logit_a": 22.39141845703125,
+    "logit_b": 22.39141845703125,
+    "prefers_a": false
+  },
+  {
+    "word_a": "0x0f0f0f0f",
+    "word_b": "0x0f0f0f0f",
+    "token_a": "▁0",
+    "token_b": "▁0",
+    "logit_a": 25.677873611450195,
+    "logit_b": 25.677873611450195,
+    "prefers_a": false
+  },
+  {
+    "word_a": "のように1個であればビット",
+    "word_b": "のように1こであればびっと",
+    "token_a": "▁",
+    "token_b": "▁",
+    "logit_a": 34.75642776489258,
+    "logit_b": 34.75642776489258,
+    "prefers_a": false
+  },
+  {
+    "word_a": "\"foo\"",
+    "word_b": "\"foo\"",
+    "token_a": "▁\"",
+    "token_b": "▁\"",
+    "logit_a": 36.69504928588867,
+    "logit_b": 36.69504928588867,
+    "prefers_a": false
+  },
+  {
+    "word_a": "\"bar\"",
+    "word_b": "\"bar\"",
+    "token_a": "▁\"",
+    "token_b": "▁\"",
+    "logit_a": 29.390445709228516,
+    "logit_b": 29.390445709228516,
+    "prefers_a": false
+  },
+  {
+    "word_a": "\"foobar\"",
+    "word_b": "\"foobar\"",
+    "token_a": "▁\"",
+    "token_b": "▁\"",
+    "logit_a": 32.211585998535156,
+    "logit_b": 32.211585998535156,
+    "prefers_a": false
+  },
+  {
+    "word_a": "を返す",
+    "word_b": "をかえす",
+    "token_a": "▁",
+    "token_b": "▁",
+    "logit_a": 33.143829345703125,
+    "logit_b": 33.143829345703125,
+    "prefers_a": false
+  },
+  {
+    "word_a": "1939年にアメリカのルイス・ハーバート・グレイ（:en:Louis",
+    "word_b": "1939ねんにあめりかのるいす・はーばーと・ぐれい（:en:Louis",
+    "token_a": "▁1939",
+    "token_b": "▁1939",
+    "logit_a": 33.620513916015625,
+    "logit_b": 33.620513916015625,
+    "prefers_a": false
+  },
+  {
+    "word_a": "Herbert",
+    "word_b": "Herbert",
+    "token_a": "▁Herbert",
+    "token_b": "▁Herbert",
+    "logit_a": 16.999801635742188,
+    "logit_b": 16.999801635742188,
+    "prefers_a": false
+  },
+  {
+    "word_a": "Gray）は著書",
+    "word_b": "Gray）はちょしょ",
+    "token_a": "▁Gray",
+    "token_b": "▁Gray",
+    "logit_a": 24.24880599975586,
+    "logit_b": 24.24880599975586,
+    "prefers_a": false
+  },
+  {
+    "word_a": "Foundations",
+    "word_b": "Foundations",
+    "token_a": "▁Foundation",
+    "token_b": "▁Foundation",
+    "logit_a": 17.003067016601562,
+    "logit_b": 17.003067016601562,
+    "prefers_a": false
+  },
+  {
+    "word_a": "of",
+    "word_b": "of",
+    "token_a": "▁of",
+    "token_b": "▁of",
+    "logit_a": 14.09630298614502,
+    "logit_b": 14.09630298614502,
+    "prefers_a": false
+  },
+  {
+    "word_a": "Language",
+    "word_b": "Language",
+    "token_a": "▁Language",
+    "token_b": "▁Language",
+    "logit_a": 16.61438751220703,
+    "logit_b": 16.61438751220703,
+    "prefers_a": false
+  },
+  {
+    "word_a": "において「2796言語」と唱え、1979年にドイツのマイヤーが4200から5600言語と唱えており、三省堂の『言語学大辞典』「世界言語編」では8000超の言語を扱っている",
+    "word_b": "において「2796げんご」ととなえ、1979ねんにどいつのまいやーが4200から5600げんごととなえており、さんせいどうの『げんごがくだいじてん』「せかいげんごへん」では8000ちょうのげんごをあつかっている",
+    "token_a": "▁",
+    "token_b": "▁",
+    "logit_a": 35.5677604675293,
+    "logit_b": 35.5677604675293,
+    "prefers_a": false
+  },
+  {
+    "word_a": "は中舌寄り、̠",
+    "word_b": "はなかじたより、、",
+    "token_a": "▁",
+    "token_b": "▁",
+    "logit_a": 28.08318519592285,
+    "logit_b": 28.08318519592285,
+    "prefers_a": false
+  },
+  {
+    "word_a": "は後寄り、̜",
+    "word_b": "はのちより、、",
+    "token_a": "▁",
+    "token_b": "▁",
+    "logit_a": 30.37734031677246,
+    "logit_b": 30.37734031677246,
+    "prefers_a": false
+  },
+  {
+    "word_a": "は弱めの円唇、̹",
+    "word_b": "はよわめのえんしん、、",
+    "token_a": "▁",
+    "token_b": "▁",
+    "logit_a": 30.613563537597656,
+    "logit_b": 30.613563537597656,
+    "prefers_a": false
+  },
+  {
+    "word_a": "は強めの円唇、˕",
+    "word_b": "はつよめのえんしん、、",
+    "token_a": "▁",
+    "token_b": "▁",
+    "logit_a": 30.529682159423828,
+    "logit_b": 30.529682159423828,
+    "prefers_a": false
+  },
+  {
+    "word_a": "は下寄り、˔",
+    "word_b": "はしたより、、",
+    "token_a": "▁",
+    "token_b": "▁",
+    "logit_a": 28.050987243652344,
+    "logit_b": 28.050987243652344,
+    "prefers_a": false
+  },
+  {
+    "word_a": "は上寄りを示す補助記号である",
+    "word_b": "はうえよりをしめすほじょきごうである",
+    "token_a": "▁",
+    "token_b": "▁",
+    "logit_a": 31.900487899780273,
+    "logit_b": 31.900487899780273,
+    "prefers_a": false
+  },
+  {
+    "word_a": "日本語の「あ」は、国際音声記号",
+    "word_b": "にほんごの「あ」は、こくさいおんせいきごう",
+    "token_a": "▁",
+    "token_b": "▁",
+    "logit_a": 33.74856948852539,
+    "logit_b": 33.74856948852539,
+    "prefers_a": false
+  },
+  {
+    "word_a": "(IPA)",
+    "word_b": "(IPA)",
+    "token_a": "▁(",
+    "token_b": "▁(",
+    "logit_a": 35.21688461303711,
+    "logit_b": 35.21688461303711,
+    "prefers_a": false
+  },
+  {
+    "word_a": "では前舌母音",
+    "word_b": "ではぜんぜつぼいん",
+    "token_a": "▁",
+    "token_b": "▁",
+    "logit_a": 29.40938949584961,
+    "logit_b": 29.40938949584961,
+    "prefers_a": false
+  },
+  {
+    "word_a": "と後舌母音",
+    "word_b": "とこうぜつぼいん",
+    "token_a": "▁",
+    "token_b": "▁",
+    "logit_a": 31.401628494262695,
+    "logit_b": 31.401628494262695,
+    "prefers_a": false
+  },
+  {
+    "word_a": "の中間音",
+    "word_b": "のちゅうかんおん",
+    "token_a": "▁",
+    "token_b": "▁",
+    "logit_a": 28.839574813842773,
+    "logit_b": 28.839574813842773,
+    "prefers_a": false
+  },
+  {
+    "word_a": "に当たる",
+    "word_b": "にあたる",
+    "token_a": "▁",
+    "token_b": "▁",
+    "logit_a": 31.54650115966797,
+    "logit_b": 31.54650115966797,
+    "prefers_a": false
+  },
+  {
+    "word_a": "基本的に「か行」は",
+    "word_b": "きほんてきに「かぎょう」は",
+    "token_a": "▁",
+    "token_b": "▁",
+    "logit_a": 35.52589416503906,
+    "logit_b": 35.52589416503906,
+    "prefers_a": false
+  },
+  {
+    "word_a": "、「さ行」は",
+    "word_b": "、「さぎょう」は",
+    "token_a": "▁",
+    "token_b": "▁",
+    "logit_a": 31.528858184814453,
+    "logit_b": 31.528858184814453,
+    "prefers_a": false
+  },
+  {
+    "word_a": "を用いる地方・話者もある）、「た行」は",
+    "word_b": "をもちいるちほう・わしゃもある）、「たぎょう」は",
+    "token_a": "▁",
+    "token_b": "▁",
+    "logit_a": 33.55121612548828,
+    "logit_b": 33.55121612548828,
+    "prefers_a": false
+  },
+  {
+    "word_a": "、「な行」は",
+    "word_b": "、「なぎょう」は",
+    "token_a": "▁",
+    "token_b": "▁",
+    "logit_a": 29.895816802978516,
+    "logit_b": 29.895816802978516,
+    "prefers_a": false
+  },
+  {
+    "word_a": "、「は行」は",
+    "word_b": "、「はぎょう」は",
+    "token_a": "▁",
+    "token_b": "▁",
+    "logit_a": 27.90586280822754,
+    "logit_b": 27.90586280822754,
+    "prefers_a": false
+  },
+  {
+    "word_a": "、「ま行」は",
+    "word_b": "、「まぎょう」は",
+    "token_a": "▁",
+    "token_b": "▁",
+    "logit_a": 31.714040756225586,
+    "logit_b": 31.714040756225586,
+    "prefers_a": false
+  },
+  {
+    "word_a": "、「や行」は",
+    "word_b": "、「やぎょう」は",
+    "token_a": "▁",
+    "token_b": "▁",
+    "logit_a": 29.482627868652344,
+    "logit_b": 29.482627868652344,
+    "prefers_a": false
+  },
+  {
+    "word_a": "、「だ行」は",
+    "word_b": "、「だぎょう」は",
+    "token_a": "▁",
+    "token_b": "▁",
+    "logit_a": 30.007247924804688,
+    "logit_b": 30.007247924804688,
+    "prefers_a": false
+  },
+  {
+    "word_a": "、「ば行」は",
+    "word_b": "、「ばぎょう」は",
+    "token_a": "▁",
+    "token_b": "▁",
+    "logit_a": 30.05714225769043,
+    "logit_b": 30.05714225769043,
+    "prefers_a": false
+  },
+  {
+    "word_a": "、「ぱ行」は",
+    "word_b": "、「ぱぎょう」は",
+    "token_a": "▁",
+    "token_b": "▁",
+    "logit_a": 32.17630386352539,
+    "logit_b": 32.17630386352539,
+    "prefers_a": false
+  },
+  {
+    "word_a": "を用いる",
+    "word_b": "をもちいる",
+    "token_a": "▁",
+    "token_b": "▁",
+    "logit_a": 28.70771598815918,
+    "logit_b": 28.70771598815918,
+    "prefers_a": false
+  },
+  {
+    "word_a": "このため、",
+    "word_b": "このため、",
+    "token_a": "▁この",
+    "token_b": "▁この",
+    "logit_a": 24.603322982788086,
+    "logit_b": 24.603322982788086,
+    "prefers_a": false
+  },
+  {
+    "word_a": "に対応する接近音",
+    "word_b": "にたいおうするせっきんおと",
+    "token_a": "▁",
+    "token_b": "▁",
+    "logit_a": 30.066556930541992,
+    "logit_b": 30.066556930541992,
+    "prefers_a": false
+  },
+  {
+    "word_a": "と、",
+    "word_b": "と、",
+    "token_a": "▁",
+    "token_b": "▁",
+    "logit_a": 24.03777503967285,
+    "logit_b": 24.03777503967285,
+    "prefers_a": false
+  },
+  {
+    "word_a": "の中間、もしくは微円唇という点で僅かに",
+    "word_b": "のちゅうかん、もしくはびえんしんというてんでわずかに",
+    "token_a": "▁",
+    "token_b": "▁",
+    "logit_a": 35.84029769897461,
+    "logit_b": 35.84029769897461,
+    "prefers_a": false
+  },
+  {
+    "word_a": "に近いと言え、軟口蓋（後舌母音の舌の位置）の少し前よりの部分を主な調音点とし、両唇も僅かに使って調音する二重調音の接近音といえる",
+    "word_b": "にちかいといえ、なんこうがい（こうぜつぼいんのしたのいち）のすこしまえよりのぶぶんをおもなちょうおんてんとし、りょうくちびるもわずかにつかってちょうおんするにじゅうちょうおんのせっきんおとといえる",
+    "token_a": "▁",
+    "token_b": "▁",
+    "logit_a": 30.688913345336914,
+    "logit_b": 30.688913345336914,
+    "prefers_a": false
+  },
+  {
+    "word_a": "アクセント核を",
+    "word_b": "あくせんとかくを",
+    "token_a": "▁",
+    "token_b": "▁",
+    "logit_a": 33.56843185424805,
+    "logit_b": 33.56843185424805,
+    "prefers_a": false
+  },
+  {
+    "word_a": "で表すと、2拍語には",
+    "word_b": "であらわすと、2はくごには",
+    "token_a": "▁",
+    "token_b": "▁",
+    "logit_a": 29.99987030029297,
+    "logit_b": 29.99987030029297,
+    "prefers_a": false
+  },
+  {
+    "word_a": "○○（核なし）、○、○",
+    "word_b": "○○（かくなし）、○、○",
+    "token_a": "▁",
+    "token_b": "▁",
+    "logit_a": 24.083457946777344,
+    "logit_b": 24.083457946777344,
+    "prefers_a": false
+  },
+  {
+    "word_a": "の3種類、3拍語には",
+    "word_b": "の3しゅるい、3はくごには",
+    "token_a": "▁",
+    "token_b": "▁",
+    "logit_a": 29.98755645751953,
+    "logit_b": 29.98755645751953,
+    "prefers_a": false
+  },
+  {
+    "word_a": "○○○、○○、○○、○○",
+    "word_b": "○○○、○○、○○、○○",
+    "token_a": "▁○",
+    "token_b": "▁○",
+    "logit_a": 26.057371139526367,
+    "logit_b": 26.057371139526367,
+    "prefers_a": false
+  },
+  {
+    "word_a": "の4種類のアクセントがあり、拍数が増えるにつれてアクセントの型の種類も増える",
+    "word_b": "の4しゅるいのあくせんとがあり、はくすうがふえるにつれてあくせんとのかたのしゅるいもふえる",
+    "token_a": "▁",
+    "token_b": "▁",
+    "logit_a": 37.20752716064453,
+    "logit_b": 37.20752716064453,
+    "prefers_a": false
+  },
+  {
+    "word_a": "属句（例：他の名詞によって修飾された名詞）―",
+    "word_b": "ぞくく（れい：ほかのめいしによってしゅうしょくされためいし）―",
+    "token_a": "▁",
+    "token_b": "▁",
+    "logit_a": 29.368776321411133,
+    "logit_b": 29.368776321411133,
+    "prefers_a": false
+  },
+  {
+    "word_a": "\"the",
+    "word_b": "\"the",
+    "token_a": "▁\"",
+    "token_b": "▁\"",
+    "logit_a": 35.89627456665039,
+    "logit_b": 35.89627456665039,
+    "prefers_a": false
+  },
+  {
+    "word_a": "cover",
+    "word_b": "cover",
+    "token_a": "▁cover",
+    "token_b": "▁cover",
+    "logit_a": 12.312171936035156,
+    "logit_b": 12.312171936035156,
+    "prefers_a": false
+  },
+  {
+    "word_a": "book\"、\"the",
+    "word_b": "book\"、\"the",
+    "token_a": "▁book",
+    "token_b": "▁book",
+    "logit_a": 22.065818786621094,
+    "logit_b": 22.065818786621094,
+    "prefers_a": false
+  },
+  {
+    "word_a": "book's",
+    "word_b": "book's",
+    "token_a": "▁book",
+    "token_b": "▁book",
+    "logit_a": 22.049518585205078,
+    "logit_b": 22.049518585205078,
+    "prefers_a": false
+  },
+  {
+    "word_a": "cover\"など",
+    "word_b": "cover\"など",
+    "token_a": "▁cover",
+    "token_b": "▁cover",
+    "logit_a": 22.436063766479492,
+    "logit_b": 22.436063766479492,
+    "prefers_a": false
+  },
+  {
+    "word_a": "接置詞に支配された名詞",
+    "word_b": "せっちしにしはいされためいし",
+    "token_a": "▁",
+    "token_b": "▁",
+    "logit_a": 32.93245315551758,
+    "logit_b": 32.93245315551758,
+    "prefers_a": false
+  },
+  {
+    "word_a": "\"on",
+    "word_b": "\"on",
+    "token_a": "▁\"",
+    "token_b": "▁\"",
+    "logit_a": 22.703571319580078,
+    "logit_b": 22.703571319580078,
+    "prefers_a": false
+  },
+  {
+    "word_a": "table\"、\"underneath",
+    "word_b": "table\"、\"underneath",
+    "token_a": "▁table",
+    "token_b": "▁table",
+    "logit_a": 23.847368240356445,
+    "logit_b": 23.847368240356445,
+    "prefers_a": false
+  },
+  {
+    "word_a": "table\"",
+    "word_b": "table\"",
+    "token_a": "▁table",
+    "token_b": "▁table",
+    "logit_a": 14.995040893554688,
+    "logit_b": 14.995040893554688,
+    "prefers_a": false
+  },
+  {
+    "word_a": "比較",
+    "word_b": "ひかく",
+    "token_a": "▁",
+    "token_b": "▁",
+    "logit_a": 28.716829299926758,
+    "logit_b": 28.716829299926758,
+    "prefers_a": false
+  },
+  {
+    "word_a": "\"[X",
+    "word_b": "\"[X",
+    "token_a": "▁\"",
+    "token_b": "▁\"",
+    "logit_a": 19.952625274658203,
+    "logit_b": 19.952625274658203,
+    "prefers_a": false
+  },
+  {
+    "word_a": "is]",
+    "word_b": "is]",
+    "token_a": "▁is",
+    "token_b": "▁is",
+    "logit_a": 12.19135856628418,
+    "logit_b": 12.19135856628418,
+    "prefers_a": false
+  },
+  {
+    "word_a": "bigger",
+    "word_b": "bigger",
+    "token_a": "▁bigger",
+    "token_b": "▁bigger",
+    "logit_a": 8.608467102050781,
+    "logit_b": 8.608467102050781,
+    "prefers_a": false
+  },
+  {
+    "word_a": "than",
+    "word_b": "than",
+    "token_a": "▁than",
+    "token_b": "▁than",
+    "logit_a": 10.951936721801758,
+    "logit_b": 10.951936721801758,
+    "prefers_a": false
+  },
+  {
+    "word_a": "Y\"、例：\"compared",
+    "word_b": "Y\"、れい：\"compared",
+    "token_a": "▁Y",
+    "token_b": "▁Y",
+    "logit_a": 19.903850555419922,
+    "logit_b": 19.903850555419922,
+    "prefers_a": false
+  },
+  {
+    "word_a": "to",
+    "word_b": "to",
+    "token_a": "▁to",
+    "token_b": "▁to",
+    "logit_a": 14.01270580291748,
+    "logit_b": 14.01270580291748,
+    "prefers_a": false
+  },
+  {
+    "word_a": "is",
+    "word_b": "is",
+    "token_a": "▁is",
+    "token_b": "▁is",
+    "logit_a": 13.945127487182617,
+    "logit_b": 13.945127487182617,
+    "prefers_a": false
+  },
+  {
+    "word_a": "big\"",
+    "word_b": "big\"",
+    "token_a": "▁big",
+    "token_b": "▁big",
+    "logit_a": 11.1332426071167,
+    "logit_b": 11.1332426071167,
+    "prefers_a": false
+  },
+  {
+    "word_a": "例えば、英語と比較した場合、次の英文「the",
+    "word_b": "たとえば、えいごとひかくしたばあい、つぎのえいぶん「the",
+    "token_a": "▁",
+    "token_b": "▁",
+    "logit_a": 33.586517333984375,
+    "logit_b": 33.586517333984375,
+    "prefers_a": false
+  },
+  {
+    "word_a": "man",
+    "word_b": "man",
+    "token_a": "▁man",
+    "token_b": "▁man",
+    "logit_a": 15.516973495483398,
+    "logit_b": 15.516973495483398,
+    "prefers_a": false
+  },
+  {
+    "word_a": "who",
+    "word_b": "who",
+    "token_a": "▁who",
+    "token_b": "▁who",
+    "logit_a": 10.131811141967773,
+    "logit_b": 10.131811141967773,
+    "prefers_a": false
+  },
+  {
+    "word_a": "was",
+    "word_b": "was",
+    "token_a": "▁was",
+    "token_b": "▁was",
+    "logit_a": 11.00943374633789,
+    "logit_b": 11.00943374633789,
+    "prefers_a": false
+  },
+  {
+    "word_a": "walking",
+    "word_b": "walking",
+    "token_a": "▁walking",
+    "token_b": "▁walking",
+    "logit_a": 8.293197631835938,
+    "logit_b": 8.293197631835938,
+    "prefers_a": false
+  },
+  {
+    "word_a": "down",
+    "word_b": "down",
+    "token_a": "▁down",
+    "token_b": "▁down",
+    "logit_a": 9.2147798538208,
+    "logit_b": 9.2147798538208,
+    "prefers_a": false
+  },
+  {
+    "word_a": "street",
+    "word_b": "street",
+    "token_a": "▁street",
+    "token_b": "▁street",
+    "logit_a": 10.621397972106934,
+    "logit_b": 10.621397972106934,
+    "prefers_a": false
+  },
+  {
+    "word_a": "」を日本語に訳す時、英語の従属節（関係代名詞節）である",
+    "word_b": "」をにほんごにやくすとき、えいごのじゅうぞくふし（かんけいだいめいしふし）である",
+    "token_a": "▁",
+    "token_b": "▁",
+    "logit_a": 34.80480194091797,
+    "logit_b": 34.80480194091797,
+    "prefers_a": false
+  },
+  {
+    "word_a": "「(who)",
+    "word_b": "「(who)",
+    "token_a": "▁「",
+    "token_b": "▁「",
+    "logit_a": 14.888766288757324,
+    "logit_b": 14.888766288757324,
+    "prefers_a": false
+  },
+  {
+    "word_a": "street」を主要部である",
+    "word_b": "street」をしゅようぶである",
+    "token_a": "▁street",
+    "token_b": "▁street",
+    "logit_a": 26.976791381835938,
+    "logit_b": 26.976791381835938,
+    "prefers_a": false
+  },
+  {
+    "word_a": "「the",
+    "word_b": "「the",
+    "token_a": "▁「",
+    "token_b": "▁「",
+    "logit_a": 29.365985870361328,
+    "logit_b": 29.365985870361328,
+    "prefers_a": false
+  },
+  {
+    "word_a": "man」",
+    "word_b": "man」",
+    "token_a": "▁man",
+    "token_b": "▁man",
+    "logit_a": 15.68089485168457,
+    "logit_b": 15.68089485168457,
+    "prefers_a": false
+  },
+  {
+    "word_a": "の前に位置させなければ、自然な日本語の文章にはならない",
+    "word_b": "のまえにいちさせなければ、しぜんなにほんごのぶんしょうにはならない",
+    "token_a": "▁",
+    "token_b": "▁",
+    "logit_a": 31.375038146972656,
+    "logit_b": 31.375038146972656,
+    "prefers_a": false
+  },
+  {
+    "word_a": "例えば、英語の場合、「Bob",
+    "word_b": "たとえば、えいごのばあい、「Bob",
+    "token_a": "▁",
+    "token_b": "▁",
+    "logit_a": 32.60995101928711,
+    "logit_b": 32.60995101928711,
+    "prefers_a": false
+  },
+  {
+    "word_a": "bought",
+    "word_b": "bought",
+    "token_a": "▁bought",
+    "token_b": "▁bought",
+    "logit_a": 4.533583641052246,
+    "logit_b": 4.533583641052246,
+    "prefers_a": false
+  },
+  {
+    "word_a": "his",
+    "word_b": "his",
+    "token_a": "▁his",
+    "token_b": "▁his",
+    "logit_a": 9.361250877380371,
+    "logit_b": 9.361250877380371,
+    "prefers_a": false
+  },
+  {
+    "word_a": "mother",
+    "word_b": "mother",
+    "token_a": "▁mother",
+    "token_b": "▁mother",
+    "logit_a": 13.266786575317383,
+    "logit_b": 13.266786575317383,
+    "prefers_a": false
+  },
+  {
+    "word_a": "some",
+    "word_b": "some",
+    "token_a": "▁some",
+    "token_b": "▁some",
+    "logit_a": 8.323699951171875,
+    "logit_b": 8.323699951171875,
+    "prefers_a": false
+  },
+  {
+    "word_a": "flowers",
+    "word_b": "flowers",
+    "token_a": "▁flowers",
+    "token_b": "▁flowers",
+    "logit_a": 8.541072845458984,
+    "logit_b": 8.541072845458984,
+    "prefers_a": false
+  },
+  {
+    "word_a": "father",
+    "word_b": "father",
+    "token_a": "▁father",
+    "token_b": "▁father",
+    "logit_a": 10.944526672363281,
+    "logit_b": 10.944526672363281,
+    "prefers_a": false
+  },
+  {
+    "word_a": "tie」の文を2番目の「bought」を省略し、「Bob",
+    "word_b": "tie」のぶんを2ばんめの「bought」をしょうりゃくし、「Bob",
+    "token_a": "▁tie",
+    "token_b": "▁tie",
+    "logit_a": 25.396732330322266,
+    "logit_b": 25.396732330322266,
+    "prefers_a": false
+  },
+  {
+    "word_a": "tie」とすることが一般的である",
+    "word_b": "tie」とすることがいっぱんてきである",
+    "token_a": "▁tie",
+    "token_b": "▁tie",
+    "logit_a": 23.852807998657227,
+    "logit_b": 23.852807998657227,
+    "prefers_a": false
+  },
+  {
+    "word_a": "英語文法では「I",
+    "word_b": "えいごぶんほうでは「I",
+    "token_a": "▁",
+    "token_b": "▁",
+    "logit_a": 32.3626708984375,
+    "logit_b": 32.3626708984375,
+    "prefers_a": false
+  },
+  {
+    "word_a": "read",
+    "word_b": "read",
+    "token_a": "▁read",
+    "token_b": "▁read",
+    "logit_a": 15.02470588684082,
+    "logit_b": 15.02470588684082,
+    "prefers_a": false
+  },
+  {
+    "word_a": "book.」の「a",
+    "word_b": "book.」の「a",
+    "token_a": "▁book",
+    "token_b": "▁book",
+    "logit_a": 23.749677658081055,
+    "logit_b": 23.749677658081055,
+    "prefers_a": false
+  },
+  {
+    "word_a": "book」はSVO文型の一部をなす目的語であり、また「I",
+    "word_b": "book」はSVOぶんけいのいちぶをなすもくてきごであり、また「I",
+    "token_a": "▁book",
+    "token_b": "▁book",
+    "logit_a": 26.34923553466797,
+    "logit_b": 26.34923553466797,
+    "prefers_a": false
+  },
+  {
+    "word_a": "go",
+    "word_b": "go",
+    "token_a": "▁go",
+    "token_b": "▁go",
+    "logit_a": 14.565629959106445,
+    "logit_b": 14.565629959106445,
+    "prefers_a": false
+  },
+  {
+    "word_a": "library.」の「the",
+    "word_b": "library.」の「the",
+    "token_a": "▁libra",
+    "token_b": "▁libra",
+    "logit_a": 21.941837310791016,
+    "logit_b": 21.941837310791016,
+    "prefers_a": false
+  },
+  {
+    "word_a": "library」は前置詞とともに付け加えられた修飾語と考えられる",
+    "word_b": "library」はぜんちしとともにつけくわえられたしゅうしょくごとかんがえられる",
+    "token_a": "▁libra",
+    "token_b": "▁libra",
+    "logit_a": 30.57135772705078,
+    "logit_b": 30.57135772705078,
+    "prefers_a": false
+  },
+  {
+    "word_a": "具体的には、この英文の途中「The",
+    "word_b": "ぐたいてきには、このえいぶんのとちゅう「The",
+    "token_a": "▁",
+    "token_b": "▁",
+    "logit_a": 36.28203582763672,
+    "logit_b": 36.28203582763672,
+    "prefers_a": false
+  },
+  {
+    "word_a": "horse",
+    "word_b": "horse",
+    "token_a": "▁horse",
+    "token_b": "▁horse",
+    "logit_a": 7.509747505187988,
+    "logit_b": 7.509747505187988,
+    "prefers_a": false
+  },
+  {
+    "word_a": "raced",
+    "word_b": "raced",
+    "token_a": "▁race",
+    "token_b": "▁race",
+    "logit_a": 13.504035949707031,
+    "logit_b": 13.504035949707031,
+    "prefers_a": false
+  },
+  {
+    "word_a": "past",
+    "word_b": "past",
+    "token_a": "▁past",
+    "token_b": "▁past",
+    "logit_a": 7.505827903747559,
+    "logit_b": 7.505827903747559,
+    "prefers_a": false
+  },
+  {
+    "word_a": "barn」までしか読んでいない状況では、文の成分としての動詞（主語は「The",
+    "word_b": "barn」までしかよんでいないじょうきょうでは、ぶんのせいぶんとしてのどうし（しゅごは「The",
+    "token_a": "▁barn",
+    "token_b": "▁barn",
+    "logit_a": 25.962631225585938,
+    "logit_b": 25.962631225585938,
+    "prefers_a": false
+  },
+  {
+    "word_a": "horse」）は「raced」であるように感じられるが、「fell」まで行き着くと、文の成分としての動詞は、文法上、これまで唯一の候補だった(1)「raced」に加え、(2)「fell」が出てくることになり、それぞれの候補ごとに(1)「【（習慣的に、または一般法則に従って）】崩れる納屋のそばを馬が素早く走り抜けた」なのか(2)「納屋のそばを走らされた馬が倒れた」なのかを検討しなければならなくなる",
+    "word_b": "horse」）は「raced」であるようにかんじられるが、「fell」までいきつくと、ぶんのせいぶんとしてのどうしは、ぶんぽうじょう、これまでゆいいつのこうほだった(1)「raced」にくわえ、(2)「fell」がでてくることになり、それぞれのこうほごとに(1)「【（しゅうかんてきに、またはいっぱんほうそくにしたがって）】くずれるなやのそばをうまがすばやくはしりぬけた」なのか(2)「なやのそばをはしらされたうまがたおれた」なのかをけんとうしなければならなくなる",
+    "token_a": "▁horse",
+    "token_b": "▁horse",
+    "logit_a": 23.911897659301758,
+    "logit_b": 23.911897659301758,
+    "prefers_a": false
+  },
+  {
+    "word_a": "上の事実は、現代英語の一人称・二人称代名詞がほぼ",
+    "word_b": "うえのじじつは、げんだいえいごのいちにんしょう・ににんしょうだいめいしがほぼ",
+    "token_a": "▁",
+    "token_b": "▁",
+    "logit_a": 42.95829391479492,
+    "logit_b": 42.95829391479492,
+    "prefers_a": false
+  },
+  {
+    "word_a": "\"I\"",
+    "word_b": "\"I\"",
+    "token_a": "▁\"",
+    "token_b": "▁\"",
+    "logit_a": 24.45598602294922,
+    "logit_b": 24.45598602294922,
+    "prefers_a": false
+  },
+  {
+    "word_a": "\"you\"",
+    "word_b": "\"you\"",
+    "token_a": "▁\"",
+    "token_b": "▁\"",
+    "logit_a": 27.363941192626953,
+    "logit_b": 27.363941192626953,
+    "prefers_a": false
+  },
+  {
+    "word_a": "のみであり、フランス語の一人称代名詞が",
+    "word_b": "のみであり、ふらんすごのいちにんしょうだいめいしが",
+    "token_a": "▁",
+    "token_b": "▁",
+    "logit_a": 32.82769012451172,
+    "logit_b": 32.82769012451172,
+    "prefers_a": false
+  },
+  {
+    "word_a": "\"je\"、二人称代名詞が",
+    "word_b": "\"je\"、ににんしょうだいめいしが",
+    "token_a": "▁\"",
+    "token_b": "▁\"",
+    "logit_a": 35.06340026855469,
+    "logit_b": 35.06340026855469,
+    "prefers_a": false
+  },
+  {
+    "word_a": "\"tu\"",
+    "word_b": "\"tu\"",
+    "token_a": "▁\"",
+    "token_b": "▁\"",
+    "logit_a": 35.7242431640625,
+    "logit_b": 35.7242431640625,
+    "prefers_a": false
+  },
+  {
+    "word_a": "\"vous\"",
+    "word_b": "\"vous\"",
+    "token_a": "▁\"",
+    "token_b": "▁\"",
+    "logit_a": 29.09899139404297,
+    "logit_b": 29.09899139404297,
+    "prefers_a": false
+  },
+  {
+    "word_a": "のみ、またドイツ語の一人称代名詞が\"ich\"、二人称代名詞が\"du\"",
+    "word_b": "のみ、またどいつごのいちにんしょうだいめいしが\"ich\"、ににんしょうだいめいしが\"du\"",
+    "token_a": "▁",
+    "token_b": "▁",
+    "logit_a": 28.87044906616211,
+    "logit_b": 28.87044906616211,
+    "prefers_a": false
+  },
+  {
+    "word_a": "\"Sie\"",
+    "word_b": "\"Sie\"",
+    "token_a": "▁\"",
+    "token_b": "▁\"",
+    "logit_a": 31.628223419189453,
+    "logit_b": 31.628223419189453,
+    "prefers_a": false
+  },
+  {
+    "word_a": "\"ihr\"のみであることと比較すれば、特徴的ということができる",
+    "word_b": "\"ihr\"のみであることとひかくすれば、とくちょうてきということができる",
+    "token_a": "▁\"",
+    "token_b": "▁\"",
+    "logit_a": 42.664794921875,
+    "logit_b": 42.664794921875,
+    "prefers_a": false
+  },
+  {
+    "word_a": "このように、「は行」子音は語頭でおおむね",
+    "word_b": "このように、「はぎょう」しいんはごとうでおおむね",
+    "token_a": "▁",
+    "token_b": "▁",
+    "logit_a": 35.805850982666016,
+    "logit_b": 35.805850982666016,
+    "prefers_a": false
+  },
+  {
+    "word_a": "、語中で",
+    "word_b": "、ごちゅうで",
+    "token_a": "▁",
+    "token_b": "▁",
+    "logit_a": 26.6602783203125,
+    "logit_b": 26.6602783203125,
+    "prefers_a": false
+  },
+  {
+    "word_a": "と唇音が衰退する方向で推移した",
+    "word_b": "としんおんがすいたいするほうこうですいいした",
+    "token_a": "▁",
+    "token_b": "▁",
+    "logit_a": 35.90302276611328,
+    "logit_b": 35.90302276611328,
+    "prefers_a": false
+  },
+  {
+    "word_a": "「じ・ぢ」「ず・づ」の四つ仮名は、室町時代前期の京都ではそれぞれ",
+    "word_b": "「じ・ぢ」「ず・づ」のよつかなは、むろまちじだいぜんきのきょうとではそれぞれ",
+    "token_a": "▁「",
+    "token_b": "▁「",
+    "logit_a": 48.790550231933594,
+    "logit_b": 48.790550231933594,
+    "prefers_a": false
+  },
+  {
+    "word_a": "と発音されていたが、16世紀初め頃に「ち」「ぢ」が口蓋化し、「つ」「づ」が破擦音化した結果、「ぢ」「づ」の発音がそれぞれ",
+    "word_b": "とはつおんされていたが、16せいきはじめごろに「ち」「ぢ」がこうがいかし、「つ」「づ」がはさつおんかしたけっか、「ぢ」「づ」のはつおんがそれぞれ",
+    "token_a": "▁",
+    "token_b": "▁",
+    "logit_a": 32.90800857543945,
+    "logit_b": 32.90800857543945,
+    "prefers_a": false
+  },
+  {
+    "word_a": "となり、「じ」「ず」の音に近づいた",
+    "word_b": "となり、「じ」「ず」のおとにちかづいた",
+    "token_a": "▁",
+    "token_b": "▁",
+    "logit_a": 35.193885803222656,
+    "logit_b": 35.193885803222656,
+    "prefers_a": false
+  },
+  {
+    "word_a": "入声韻尾の",
+    "word_b": "にっしょういんびの",
+    "token_a": "▁",
+    "token_b": "▁",
+    "logit_a": 31.89661979675293,
+    "logit_b": 31.89661979675293,
+    "prefers_a": false
+  },
+  {
+    "word_a": "鼻音韻尾の",
+    "word_b": "びいんいんびの",
+    "token_a": "▁",
+    "token_b": "▁",
+    "logit_a": 33.08460235595703,
+    "logit_b": 33.08460235595703,
+    "prefers_a": false
+  },
+  {
+    "word_a": "なども原音にかなり忠実に発音されていたと見られる",
+    "word_b": "などもげんおんにかなりちゅうじつにはつおんされていたとみられる",
+    "token_a": "▁",
+    "token_b": "▁",
+    "logit_a": 26.686397552490234,
+    "logit_b": 26.686397552490234,
+    "prefers_a": false
+  },
+  {
+    "word_a": "「タモリのジャポニカロゴス」（フジテレビ",
+    "word_b": "「たもりのじゃぽにかろごす」（ふじてれび",
+    "token_a": "▁「",
+    "token_b": "▁「",
+    "logit_a": 45.74716567993164,
+    "logit_b": 45.74716567993164,
+    "prefers_a": false
+  },
+  {
+    "word_a": "2005〜2008）、「クイズ!日本語王」（TBS",
+    "word_b": "2005〜2008）、「くいず!にほんごおう」（TBS",
+    "token_a": "▁2005",
+    "token_b": "▁2005",
+    "logit_a": 37.84944534301758,
+    "logit_b": 37.84944534301758,
+    "prefers_a": false
+  },
+  {
+    "word_a": "2005〜2006）、「三宅式こくごドリル」（テレビ東京",
+    "word_b": "2005〜2006）、「みやけしきこくごどりる」（てれびとうきょう",
+    "token_a": "▁2005",
+    "token_b": "▁2005",
+    "logit_a": 39.299591064453125,
+    "logit_b": 39.299591064453125,
+    "prefers_a": false
+  },
+  {
+    "word_a": "2005〜2006）、「Matthew's",
+    "word_b": "2005〜2006）、「Matthew's",
+    "token_a": "▁2005",
+    "token_b": "▁2005",
+    "logit_a": 24.186790466308594,
+    "logit_b": 24.186790466308594,
+    "prefers_a": false
+  },
+  {
+    "word_a": "Best",
+    "word_b": "Best",
+    "token_a": "▁Best",
+    "token_b": "▁Best",
+    "logit_a": 15.569245338439941,
+    "logit_b": 15.569245338439941,
+    "prefers_a": false
+  },
+  {
+    "word_a": "Hit",
+    "word_b": "Hit",
+    "token_a": "▁Hit",
+    "token_b": "▁Hit",
+    "logit_a": 9.221870422363281,
+    "logit_b": 9.221870422363281,
+    "prefers_a": false
+  },
+  {
+    "word_a": "TV+・なまり亭」（テレビ朝日2005〜2006",
+    "word_b": "TV+・なまりてい」（てれびあさひ2005〜2006",
+    "token_a": "▁TV",
+    "token_b": "▁TV",
+    "logit_a": 31.077943801879883,
+    "logit_b": 31.077943801879883,
+    "prefers_a": false
+  },
+  {
+    "word_a": "言語",
+    "word_b": "げんご",
+    "token_a": "▁",
+    "token_b": "▁",
+    "logit_a": 21.50711441040039,
+    "logit_b": 21.50711441040039,
+    "prefers_a": false
+  },
+  {
+    "word_a": "言語学",
+    "word_b": "げんごがく",
+    "token_a": "▁",
+    "token_b": "▁",
+    "logit_a": 28.018062591552734,
+    "logit_b": 28.018062591552734,
+    "prefers_a": false
+  },
+  {
+    "word_a": "日本語学",
+    "word_b": "にほんごがく",
+    "token_a": "▁",
+    "token_b": "▁",
+    "logit_a": 27.8289852142334,
+    "logit_b": 27.8289852142334,
+    "prefers_a": false
+  },
+  {
+    "word_a": "日本語学者",
+    "word_b": "にほんごがくもの",
+    "token_a": "▁",
+    "token_b": "▁",
+    "logit_a": 28.5896053314209,
+    "logit_b": 28.5896053314209,
+    "prefers_a": false
+  },
+  {
+    "word_a": "言語教育",
+    "word_b": "げんごきょういく",
+    "token_a": "▁",
+    "token_b": "▁",
+    "logit_a": 25.07356834411621,
+    "logit_b": 25.07356834411621,
+    "prefers_a": false
+  },
+  {
+    "word_a": "国語教育",
+    "word_b": "こくごきょういく",
+    "token_a": "▁",
+    "token_b": "▁",
+    "logit_a": 34.24644470214844,
+    "logit_b": 34.24644470214844,
+    "prefers_a": false
+  },
+  {
+    "word_a": "日本語教育",
+    "word_b": "にほんごきょういく",
+    "token_a": "▁",
+    "token_b": "▁",
+    "logit_a": 25.398527145385742,
+    "logit_b": 25.398527145385742,
+    "prefers_a": false
+  },
+  {
+    "word_a": "漢字教育",
+    "word_b": "かんじきょういく",
+    "token_a": "▁",
+    "token_b": "▁",
+    "logit_a": 32.114601135253906,
+    "logit_b": 32.114601135253906,
+    "prefers_a": false
+  },
+  {
+    "word_a": "日本語能力試験",
+    "word_b": "にほんごのうりょくしけん",
+    "token_a": "▁",
+    "token_b": "▁",
+    "logit_a": 34.55384826660156,
+    "logit_b": 34.55384826660156,
+    "prefers_a": false
+  },
+  {
+    "word_a": "日本留学試験",
+    "word_b": "にっぽんりゅうがくしけん",
+    "token_a": "▁日本",
+    "token_b": "▁",
+    "logit_a": 35.98442077636719,
+    "logit_b": 36.64453887939453,
+    "prefers_a": false
+  },
+  {
+    "word_a": "日本語検定",
+    "word_b": "にほんごけんてい",
+    "token_a": "▁",
+    "token_b": "▁",
+    "logit_a": 34.4700927734375,
+    "logit_b": 34.4700927734375,
+    "prefers_a": false
+  },
+  {
+    "word_a": "日本語文章能力検定",
+    "word_b": "にほんごぶんしょうのうりょくけんてい",
+    "token_a": "▁",
+    "token_b": "▁",
+    "logit_a": 34.30723190307617,
+    "logit_b": 34.30723190307617,
+    "prefers_a": false
+  },
+  {
+    "word_a": "日本語ワープロ検定",
+    "word_b": "にほんごわーぷろけんてい",
+    "token_a": "▁",
+    "token_b": "▁",
+    "logit_a": 35.63872528076172,
+    "logit_b": 35.63872528076172,
+    "prefers_a": false
+  },
+  {
+    "word_a": "BJTビジネス日本語能力テスト",
+    "word_b": "BJTびじねすにほんごのうりょくてすと",
+    "token_a": "▁B",
+    "token_b": "▁B",
+    "logit_a": 36.219627380371094,
+    "logit_b": 36.219627380371094,
+    "prefers_a": false
+  },
+  {
+    "word_a": "Ethnologue",
+    "word_b": "Ethnologue",
+    "token_a": "▁E",
+    "token_b": "▁E",
+    "logit_a": 26.889820098876953,
+    "logit_b": 26.889820098876953,
+    "prefers_a": false
+  },
+  {
+    "word_a": "report",
+    "word_b": "report",
+    "token_a": "▁report",
+    "token_b": "▁report",
+    "logit_a": 14.23088264465332,
+    "logit_b": 14.23088264465332,
+    "prefers_a": false
+  },
+  {
+    "word_a": "language",
+    "word_b": "language",
+    "token_a": "▁language",
+    "token_b": "▁language",
+    "logit_a": 14.39260482788086,
+    "logit_b": 14.39260482788086,
+    "prefers_a": false
+  },
+  {
+    "word_a": "codejpn",
+    "word_b": "codejpn",
+    "token_a": "▁code",
+    "token_b": "▁code",
+    "logit_a": 24.442977905273438,
+    "logit_b": 24.442977905273438,
+    "prefers_a": false
+  },
+  {
+    "word_a": "国際SIL",
+    "word_b": "こくさいSIL",
+    "token_a": "▁",
+    "token_b": "▁",
+    "logit_a": 29.095827102661133,
+    "logit_b": 29.095827102661133,
+    "prefers_a": false
+  },
+  {
+    "word_a": "ユローパ島",
+    "word_b": "ゆろーぱしま",
+    "token_a": "▁",
+    "token_b": "▁",
+    "logit_a": 33.08271408081055,
+    "logit_b": 33.08271408081055,
+    "prefers_a": false
+  },
+  {
+    "word_a": "()",
+    "word_b": "()",
+    "token_a": "▁(",
+    "token_b": "▁(",
+    "logit_a": 26.61418914794922,
+    "logit_b": 26.61418914794922,
+    "prefers_a": false
+  },
+  {
+    "word_a": "FIPS",
+    "word_b": "FIPS",
+    "token_a": "▁FI",
+    "token_b": "▁FI",
+    "logit_a": 22.7479248046875,
+    "logit_b": 22.7479248046875,
+    "prefers_a": false
+  },
+  {
+    "word_a": "PUB",
+    "word_b": "PUB",
+    "token_a": "▁P",
+    "token_b": "▁P",
+    "logit_a": 23.3597412109375,
+    "logit_b": 23.3597412109375,
+    "prefers_a": false
+  },
+  {
+    "word_a": "10-4",
+    "word_b": "10-4",
+    "token_a": "▁10",
+    "token_b": "▁10",
+    "logit_a": 22.111797332763672,
+    "logit_b": 22.111797332763672,
+    "prefers_a": false
+  },
+  {
+    "word_a": "国名コード",
+    "word_b": "こくめいこーど",
+    "token_a": "▁",
+    "token_b": "▁",
+    "logit_a": 24.200754165649414,
+    "logit_b": 24.200754165649414,
+    "prefers_a": false
+  },
+  {
+    "word_a": "エディンバラ大学",
+    "word_b": "えでぃんばらだいがく",
+    "token_a": "▁",
+    "token_b": "▁",
+    "logit_a": 33.88381576538086,
+    "logit_b": 33.88381576538086,
+    "prefers_a": false
+  },
+  {
+    "word_a": "イギリス",
+    "word_b": "いぎりす",
+    "token_a": "▁",
+    "token_b": "▁",
+    "logit_a": 27.47447395324707,
+    "logit_b": 27.47447395324707,
+    "prefers_a": false
+  },
+  {
+    "word_a": "スコットランド",
+    "word_b": "すこっとらんど",
+    "token_a": "▁",
+    "token_b": "▁",
+    "logit_a": 31.53858757019043,
+    "logit_b": 31.53858757019043,
+    "prefers_a": false
+  },
+  {
+    "word_a": "エディンバラ",
+    "word_b": "えでぃんばら",
+    "token_a": "▁",
+    "token_b": "▁",
+    "logit_a": 33.38500213623047,
+    "logit_b": 33.38500213623047,
+    "prefers_a": false
+  },
+  {
+    "word_a": "エクアトリアナ航空",
+    "word_b": "えくあとりあなこうくう",
+    "token_a": "▁",
+    "token_b": "▁",
+    "logit_a": 36.63355255126953,
+    "logit_b": 36.63355255126953,
+    "prefers_a": false
+  },
+  {
+    "word_a": "(;",
+    "word_b": "(;",
+    "token_a": "▁(",
+    "token_b": "▁(",
+    "logit_a": 18.87616539001465,
+    "logit_b": 18.87616539001465,
+    "prefers_a": false
+  },
+  {
+    "word_a": "IATA:",
+    "word_b": "IATA:",
+    "token_a": "▁I",
+    "token_b": "▁I",
+    "logit_a": 29.757022857666016,
+    "logit_b": 29.757022857666016,
+    "prefers_a": false
+  },
+  {
+    "word_a": "EU)",
+    "word_b": "EU)",
+    "token_a": "▁EU",
+    "token_b": "▁EU",
+    "logit_a": 13.30051040649414,
+    "logit_b": 13.30051040649414,
+    "prefers_a": false
+  },
+  {
+    "word_a": "エクアドルの航空会社",
+    "word_b": "えくあどるのこうくうがいしゃ",
+    "token_a": "▁",
+    "token_b": "▁",
+    "logit_a": 36.25164794921875,
+    "logit_b": 36.25164794921875,
+    "prefers_a": false
+  },
+  {
+    "word_a": "(1957–2005)",
+    "word_b": "(1957–2005)",
+    "token_a": "▁(",
+    "token_b": "▁(",
+    "logit_a": 29.398006439208984,
+    "logit_b": 29.398006439208984,
+    "prefers_a": false
+  },
+  {
+    "word_a": "衝鋒隊",
+    "word_b": "しょうほうたい",
+    "token_a": "▁",
+    "token_b": "▁",
+    "logit_a": 32.369056701660156,
+    "logit_b": 32.369056701660156,
+    "prefers_a": false
+  },
+  {
+    "word_a": "(香港)",
+    "word_b": "(ほんこん)",
+    "token_a": "▁(",
+    "token_b": "▁(",
+    "logit_a": 37.082801818847656,
+    "logit_b": 37.082801818847656,
+    "prefers_a": false
+  },
+  {
+    "word_a": "(,",
+    "word_b": "(,",
+    "token_a": "▁(",
+    "token_b": "▁(",
+    "logit_a": 23.392580032348633,
+    "logit_b": 23.392580032348633,
+    "prefers_a": false
+  },
+  {
+    "word_a": "香港警察の機動隊",
+    "word_b": "ほんこんけいさつのきどうたい",
+    "token_a": "▁香港",
+    "token_b": "▁",
+    "logit_a": 34.75337219238281,
+    "logit_b": 34.18553161621094,
+    "prefers_a": true
+  },
+  {
+    "word_a": "パリ市の標語は「たゆたえども沈まず（ラテン語:",
+    "word_b": "ぱりしのひょうごは「たゆたえどもしずまず（らてんご:",
+    "token_a": "▁",
+    "token_b": "▁",
+    "logit_a": 37.725887298583984,
+    "logit_b": 37.725887298583984,
+    "prefers_a": false
+  },
+  {
+    "word_a": "Fluctuat",
+    "word_b": "Fluctuat",
+    "token_a": "▁Flu",
+    "token_b": "▁Flu",
+    "logit_a": 24.32070541381836,
+    "logit_b": 24.32070541381836,
+    "prefers_a": false
+  },
+  {
+    "word_a": "nec",
+    "word_b": "nec",
+    "token_a": "▁nec",
+    "token_b": "▁nec",
+    "logit_a": 8.769542694091797,
+    "logit_b": 8.769542694091797,
+    "prefers_a": false
+  },
+  {
+    "word_a": "mergitur,",
+    "word_b": "mergitur,",
+    "token_a": "▁mergi",
+    "token_b": "▁mergi",
+    "logit_a": 20.70086669921875,
+    "logit_b": 20.70086669921875,
+    "prefers_a": false
+  },
+  {
+    "word_a": "フランス語:",
+    "word_b": "ふらんすご:",
+    "token_a": "▁",
+    "token_b": "▁",
+    "logit_a": 25.506746292114258,
+    "logit_b": 25.506746292114258,
+    "prefers_a": false
+  },
+  {
+    "word_a": "il",
+    "word_b": "il",
+    "token_a": "▁il",
+    "token_b": "▁il",
+    "logit_a": 10.084028244018555,
+    "logit_b": 10.084028244018555,
+    "prefers_a": false
+  },
+  {
+    "word_a": "est",
+    "word_b": "est",
+    "token_a": "▁est",
+    "token_b": "▁est",
+    "logit_a": 11.436076164245605,
+    "logit_b": 11.436076164245605,
+    "prefers_a": false
+  },
+  {
+    "word_a": "battu",
+    "word_b": "battu",
+    "token_a": "▁bat",
+    "token_b": "▁bat",
+    "logit_a": 28.159990310668945,
+    "logit_b": 28.159990310668945,
+    "prefers_a": false
+  },
+  {
+    "word_a": "par",
+    "word_b": "par",
+    "token_a": "▁par",
+    "token_b": "▁par",
+    "logit_a": 12.507304191589355,
+    "logit_b": 12.507304191589355,
+    "prefers_a": false
+  },
+  {
+    "word_a": "les",
+    "word_b": "les",
+    "token_a": "▁les",
+    "token_b": "▁les",
+    "logit_a": 12.272026062011719,
+    "logit_b": 12.272026062011719,
+    "prefers_a": false
+  },
+  {
+    "word_a": "flots",
+    "word_b": "flots",
+    "token_a": "▁flot",
+    "token_b": "▁flot",
+    "logit_a": 14.831729888916016,
+    "logit_b": 14.831729888916016,
+    "prefers_a": false
+  },
+  {
+    "word_a": "mais",
+    "word_b": "mais",
+    "token_a": "▁mais",
+    "token_b": "▁mais",
+    "logit_a": 10.163431167602539,
+    "logit_b": 10.163431167602539,
+    "prefers_a": false
+  },
+  {
+    "word_a": "ne",
+    "word_b": "ne",
+    "token_a": "▁ne",
+    "token_b": "▁ne",
+    "logit_a": 12.037266731262207,
+    "logit_b": 12.037266731262207,
+    "prefers_a": false
+  },
+  {
+    "word_a": "sombre",
+    "word_b": "sombre",
+    "token_a": "▁som",
+    "token_b": "▁som",
+    "logit_a": 27.309463500976562,
+    "logit_b": 27.309463500976562,
+    "prefers_a": false
+  },
+  {
+    "word_a": "pas）であり、これはパリの紋章の下部に書かれている",
+    "word_b": "pas）であり、これはぱりのもんしょうのかぶにかかれている",
+    "token_a": "▁pas",
+    "token_b": "▁pas",
+    "logit_a": 24.846189498901367,
+    "logit_b": 24.846189498901367,
+    "prefers_a": false
+  },
+  {
+    "word_a": "4、8",
+    "word_b": "4、8",
+    "token_a": "▁4",
+    "token_b": "▁4",
+    "logit_a": 32.9583740234375,
+    "logit_b": 32.9583740234375,
+    "prefers_a": false
+  },
+  {
+    "word_a": "12、16",
+    "word_b": "12、16",
+    "token_a": "▁12",
+    "token_b": "▁12",
+    "logit_a": 31.096080780029297,
+    "logit_b": 31.096080780029297,
+    "prefers_a": false
+  },
+  {
+    "word_a": "20区は右岸に、5",
+    "word_b": "20くはみぎぎしに、5",
+    "token_a": "▁20",
+    "token_b": "▁20",
+    "logit_a": 35.89813232421875,
+    "logit_b": 35.89813232421875,
+    "prefers_a": false
+  },
+  {
+    "word_a": "7、13",
+    "word_b": "7、13",
+    "token_a": "▁7",
+    "token_b": "▁7",
+    "logit_a": 30.68996810913086,
+    "logit_b": 30.68996810913086,
+    "prefers_a": false
+  },
+  {
+    "word_a": "15区は左岸に位置する",
+    "word_b": "15くはさがんにいちする",
+    "token_a": "▁15",
+    "token_b": "▁15",
+    "logit_a": 39.653202056884766,
+    "logit_b": 39.653202056884766,
+    "prefers_a": false
+  },
+  {
+    "word_a": "彼らは、パリの行政権をセーヌ県知事（préfet",
+    "word_b": "かれらは、ぱりのぎょうせいけんをせーぬけんちじ（préfet",
+    "token_a": "▁",
+    "token_b": "▁",
+    "logit_a": 29.372451782226562,
+    "logit_b": 29.372451782226562,
+    "prefers_a": false
+  },
+  {
+    "word_a": "de",
+    "word_b": "de",
+    "token_a": "▁de",
+    "token_b": "▁de",
+    "logit_a": 14.998775482177734,
+    "logit_b": 14.998775482177734,
+    "prefers_a": false
+  },
+  {
+    "word_a": "la",
+    "word_b": "la",
+    "token_a": "▁la",
+    "token_b": "▁la",
+    "logit_a": 12.980570793151855,
+    "logit_b": 12.980570793151855,
+    "prefers_a": false
+  },
+  {
+    "word_a": "Seine）に、パリの警察権を警視総監（préfet",
+    "word_b": "Seine）に、ぱりのけいさつけんをけいしそうかん（préfet",
+    "token_a": "▁Seine",
+    "token_b": "▁Seine",
+    "logit_a": 23.636676788330078,
+    "logit_b": 23.636676788330078,
+    "prefers_a": false
+  },
+  {
+    "word_a": "police）にそれぞれ与えることを内容とする1884年4月5日法を制定した",
+    "word_b": "police）にそれぞれあたえることをないようとする1884ねん4がつ5にちほうをせいていした",
+    "token_a": "▁police",
+    "token_b": "▁police",
+    "logit_a": 21.0821533203125,
+    "logit_b": 21.0821533203125,
+    "prefers_a": false
+  },
+  {
+    "word_a": "もっとも、パリとその郊外の県との間では、下水道組合（SIAAP,",
+    "word_b": "もっとも、ぱりとそのこうがいのけんとのかんでは、げすいどうくみあい（SIAAP,",
+    "token_a": "▁",
+    "token_b": "▁",
+    "logit_a": 34.82583236694336,
+    "logit_b": 34.82583236694336,
+    "prefers_a": false
+  },
+  {
+    "word_a": "Syndicat",
+    "word_b": "Syndicat",
+    "token_a": "▁Syn",
+    "token_b": "▁Syn",
+    "logit_a": 28.50446319580078,
+    "logit_b": 28.50446319580078,
+    "prefers_a": false
+  },
+  {
+    "word_a": "interdépartemental",
+    "word_b": "interdépartemental",
+    "token_a": "▁inter",
+    "token_b": "▁inter",
+    "logit_a": 29.456554412841797,
+    "logit_b": 29.456554412841797,
+    "prefers_a": false
+  },
+  {
+    "word_a": "pour",
+    "word_b": "pour",
+    "token_a": "▁pour",
+    "token_b": "▁pour",
+    "logit_a": 10.14482307434082,
+    "logit_b": 10.14482307434082,
+    "prefers_a": false
+  },
+  {
+    "word_a": "l’assainissement",
+    "word_b": "l’assainissement",
+    "token_a": "▁l",
+    "token_b": "▁l",
+    "logit_a": 44.029083251953125,
+    "logit_b": 44.029083251953125,
+    "prefers_a": false
+  },
+  {
+    "word_a": "l’agglomération",
+    "word_b": "l’agglomération",
+    "token_a": "▁l",
+    "token_b": "▁l",
+    "logit_a": 36.887657165527344,
+    "logit_b": 36.887657165527344,
+    "prefers_a": false
+  },
+  {
+    "word_a": "parisienne）の再編を行った",
+    "word_b": "parisienne）のさいへんをいった",
+    "token_a": "▁parisien",
+    "token_b": "▁parisien",
+    "logit_a": 17.697593688964844,
+    "logit_b": 17.697593688964844,
+    "prefers_a": false
+  },
+  {
+    "word_a": "大部分の医療施設は、1849年1月10日法によって創設された公的医療施設であるAP-HP（Assistance",
+    "word_b": "だいぶぶんのいりょうしせつは、1849ねん1がつ10にちほうによってそうせつされたこうてきいりょうしせつであるAP-HP（Assistance",
+    "token_a": "▁",
+    "token_b": "▁",
+    "logit_a": 37.25667953491211,
+    "logit_b": 37.25667953491211,
+    "prefers_a": false
+  },
+  {
+    "word_a": "publique",
+    "word_b": "publique",
+    "token_a": "▁publique",
+    "token_b": "▁publique",
+    "logit_a": 8.550008773803711,
+    "logit_b": 8.550008773803711,
+    "prefers_a": false
+  },
+  {
+    "word_a": "Hôpitaux",
+    "word_b": "Hôpitaux",
+    "token_a": "▁Hô",
+    "token_b": "▁Hô",
+    "logit_a": 30.25714111328125,
+    "logit_b": 30.25714111328125,
+    "prefers_a": false
+  },
+  {
+    "word_a": "Paris、公的支援-パリ病院連合）に名を連ね、パリ市の後方支援をしている",
+    "word_b": "Paris、こうてきしえん-ぱりびょういんれんごう）にめいをつらね、ぱりしのこうほうしえんをしている",
+    "token_a": "▁Paris",
+    "token_b": "▁Paris",
+    "logit_a": 33.22997283935547,
+    "logit_b": 33.22997283935547,
+    "prefers_a": false
+  },
+  {
+    "word_a": "パリ政治学院、パリ第1大学、パリ第2大学、ジュシュー・キャンパス（Campus",
+    "word_b": "ぱりせいじがくいん、ぱりだい1だいがく、ぱりだい2だいがく、じゅしゅー・きゃんぱす（Campus",
+    "token_a": "▁",
+    "token_b": "▁",
+    "logit_a": 34.18968963623047,
+    "logit_b": 34.18968963623047,
+    "prefers_a": false
+  },
+  {
+    "word_a": "Jussieu：パリ第6大学とパリ地球物理研究所による複合研究施設）、パリ第3大学、社会科学高等研究院、古文書学校、美術学校、パリ市立工業物理化学高等専門大学（EPCI）、応用美術研究所（LISAA）、パリ国立高等鉱業学校（ENSMP）、パリ高等化学学校（Chimie",
+    "word_b": "Jussieu：ぱりだい6だいがくとぱりちきゅうぶつりけんきゅうしょによるふくごうけんきゅうしせつ）、ぱりだい3だいがく、しゃかいかがくこうとうけんきゅういん、こもんじょがっこう、びじゅつがっこう、ぱりしりつこうぎょうぶつりかがくこうとうせんもんだいがく（EPCI）、おうようびじゅつけんきゅうしょ（LISAA）、ぱりこくりつこうとうこうぎょうがっこう（ENSMP）、ぱりこうとうかがくがっこう（Chimie",
+    "token_a": "▁Jussi",
+    "token_b": "▁Jussi",
+    "logit_a": 18.301332473754883,
+    "logit_b": 18.301332473754883,
+    "prefers_a": false
+  },
+  {
+    "word_a": "ParisTech）、生活工業・環境科学研究所（AgroParisTech）、パリ高等電子工学研究所（ISEP）、パリ企業経営学院（IAE",
+    "word_b": "ParisTech）、せいかつこうぎょう・かんきょうかがくけんきゅうじょ（AgroParisTech）、ぱりこうとうでんしこうがくけんきゅうしょ（ISEP）、ぱりきぎょうけいえいがくいん（IAE",
+    "token_a": "▁Paris",
+    "token_b": "▁Paris",
+    "logit_a": 35.58658981323242,
+    "logit_b": 35.58658981323242,
+    "prefers_a": false
+  },
+  {
+    "word_a": "Paris）などである",
+    "word_b": "Paris）などである",
+    "token_a": "▁Paris",
+    "token_b": "▁Paris",
+    "logit_a": 23.067127227783203,
+    "logit_b": 23.067127227783203,
+    "prefers_a": false
+  },
+  {
+    "word_a": "パリ市公式サイト",
+    "word_b": "ぱりしこうしきさいと",
+    "token_a": "▁",
+    "token_b": "▁",
+    "logit_a": 33.6656494140625,
+    "logit_b": 33.6656494140625,
+    "prefers_a": false
+  },
+  {
+    "word_a": "：Paris.fr,",
+    "word_b": "：Paris.fr,",
+    "token_a": "▁",
+    "token_b": "▁",
+    "logit_a": 25.375429153442383,
+    "logit_b": 25.375429153442383,
+    "prefers_a": false
+  },
+  {
+    "word_a": "site",
+    "word_b": "site",
+    "token_a": "▁site",
+    "token_b": "▁site",
+    "logit_a": 14.354737281799316,
+    "logit_b": 14.354737281799316,
+    "prefers_a": false
+  },
+  {
+    "word_a": "officiel",
+    "word_b": "officiel",
+    "token_a": "▁officiel",
+    "token_b": "▁officiel",
+    "logit_a": 11.905203819274902,
+    "logit_b": 11.905203819274902,
+    "prefers_a": false
+  },
+  {
+    "word_a": "Ville",
+    "word_b": "Ville",
+    "token_a": "▁Ville",
+    "token_b": "▁Ville",
+    "logit_a": 13.649520874023438,
+    "logit_b": 13.649520874023438,
+    "prefers_a": false
+  },
+  {
+    "word_a": "Paris",
+    "word_b": "Paris",
+    "token_a": "▁Paris",
+    "token_b": "▁Paris",
+    "logit_a": 17.474205017089844,
+    "logit_b": 17.474205017089844,
+    "prefers_a": false
+  },
+  {
+    "word_a": "在フランス日本国大使館-",
+    "word_b": "ざいふらんすにほんこくたいしかん-",
+    "token_a": "▁在",
+    "token_b": "▁",
+    "logit_a": 28.796661376953125,
+    "logit_b": 30.982656478881836,
+    "prefers_a": false
+  },
+  {
+    "word_a": "Ambassade",
+    "word_b": "Ambassade",
+    "token_a": "▁Amb",
+    "token_b": "▁Amb",
+    "logit_a": 23.801254272460938,
+    "logit_b": 23.801254272460938,
+    "prefers_a": false
+  },
+  {
+    "word_a": "du",
+    "word_b": "du",
+    "token_a": "▁du",
+    "token_b": "▁du",
+    "logit_a": 12.912412643432617,
+    "logit_b": 12.912412643432617,
+    "prefers_a": false
+  },
+  {
+    "word_a": "Japon",
+    "word_b": "Japon",
+    "token_a": "▁Japon",
+    "token_b": "▁Japon",
+    "logit_a": 13.966751098632812,
+    "logit_b": 13.966751098632812,
+    "prefers_a": false
+  },
+  {
+    "word_a": "en",
+    "word_b": "en",
+    "token_a": "▁en",
+    "token_b": "▁en",
+    "logit_a": 12.952808380126953,
+    "logit_b": 12.952808380126953,
+    "prefers_a": false
+  },
+  {
+    "word_a": "France",
+    "word_b": "France",
+    "token_a": "▁France",
+    "token_b": "▁France",
+    "logit_a": 18.529930114746094,
+    "logit_b": 18.529930114746094,
+    "prefers_a": false
+  },
+  {
+    "word_a": "パリ観光局",
+    "word_b": "ぱりかんこうきょく",
+    "token_a": "▁",
+    "token_b": "▁",
+    "logit_a": 34.23729705810547,
+    "logit_b": 34.23729705810547,
+    "prefers_a": false
+  },
+  {
+    "word_a": "：Paris",
+    "word_b": "：Paris",
+    "token_a": "▁",
+    "token_b": "▁",
+    "logit_a": 25.278308868408203,
+    "logit_b": 25.278308868408203,
+    "prefers_a": false
+  },
+  {
+    "word_a": "tourist",
+    "word_b": "tourist",
+    "token_a": "▁tourist",
+    "token_b": "▁tourist",
+    "logit_a": 9.03740119934082,
+    "logit_b": 9.03740119934082,
+    "prefers_a": false
+  },
+  {
+    "word_a": "office",
+    "word_b": "office",
+    "token_a": "▁office",
+    "token_b": "▁office",
+    "logit_a": 14.554126739501953,
+    "logit_b": 14.554126739501953,
+    "prefers_a": false
+  },
+  {
+    "word_a": "Official",
+    "word_b": "Official",
+    "token_a": "▁Official",
+    "token_b": "▁Official",
+    "logit_a": 18.73824691772461,
+    "logit_b": 18.73824691772461,
+    "prefers_a": false
+  },
+  {
+    "word_a": "website",
+    "word_b": "website",
+    "token_a": "▁website",
+    "token_b": "▁website",
+    "logit_a": 19.294706344604492,
+    "logit_b": 19.294706344604492,
+    "prefers_a": false
+  },
+  {
+    "word_a": "他に、「広い・幅広い」を意味するギリシア語の",
+    "word_b": "ほかに、「ひろい・はばひろい」をいみするぎりしあごの",
+    "token_a": "▁他",
+    "token_b": "▁",
+    "logit_a": 34.07006072998047,
+    "logit_b": 35.610382080078125,
+    "prefers_a": false
+  },
+  {
+    "word_a": "に「眼」を意味する",
+    "word_b": "に「め」をいみする",
+    "token_a": "▁",
+    "token_b": "▁",
+    "logit_a": 28.735355377197266,
+    "logit_b": 28.735355377197266,
+    "prefers_a": false
+  },
+  {
+    "word_a": "、「顔」を意味する",
+    "word_b": "、「かお」をいみする",
+    "token_a": "▁",
+    "token_b": "▁",
+    "logit_a": 27.532699584960938,
+    "logit_b": 27.532699584960938,
+    "prefers_a": false
+  },
+  {
+    "word_a": "、「相貌」を意味する",
+    "word_b": "、「そうぼう」をいみする",
+    "token_a": "▁",
+    "token_b": "▁",
+    "logit_a": 28.56648063659668,
+    "logit_b": 28.56648063659668,
+    "prefers_a": false
+  },
+  {
+    "word_a": "が付加され、合わせた",
+    "word_b": "がふかされ、あわせた",
+    "token_a": "▁",
+    "token_b": "▁",
+    "logit_a": 29.289169311523438,
+    "logit_b": 29.289169311523438,
+    "prefers_a": false
+  },
+  {
+    "word_a": "は「広く熟視する」や「幅広い方角」という意味を持つという",
+    "word_b": "は「ひろくじゅくしする」や「はばひろいほうがく」といういみをもつという",
+    "token_a": "▁",
+    "token_b": "▁",
+    "logit_a": 24.546611785888672,
+    "logit_b": 24.546611785888672,
+    "prefers_a": false
+  },
+  {
+    "word_a": "他の説ではセム語派の言語に源流を求め、アッカド語の",
+    "word_b": "ほかのせつではせむごはのげんごにげんりゅうをもとめ、あっかどごの",
+    "token_a": "▁",
+    "token_b": "▁",
+    "logit_a": 36.02006530761719,
+    "logit_b": 36.02006530761719,
+    "prefers_a": false
+  },
+  {
+    "word_a": "(「太陽が沈むところ」)",
+    "word_b": "(「たいようがしずむところ」)",
+    "token_a": "▁(",
+    "token_b": "▁(",
+    "logit_a": 38.947181701660156,
+    "logit_b": 38.947181701660156,
+    "prefers_a": false
+  },
+  {
+    "word_a": "が元だとも言い、フェニキア語の",
+    "word_b": "がもとだともいい、ふぇにきあごの",
+    "token_a": "▁",
+    "token_b": "▁",
+    "logit_a": 32.287818908691406,
+    "logit_b": 32.287818908691406,
+    "prefers_a": false
+  },
+  {
+    "word_a": "(「夕方、西」)",
+    "word_b": "(「ゆうがた、にし」)",
+    "token_a": "▁(",
+    "token_b": "▁(",
+    "logit_a": 34.05796813964844,
+    "logit_b": 34.05796813964844,
+    "prefers_a": false
+  },
+  {
+    "word_a": "やアラビア語の",
+    "word_b": "やあらびあごの",
+    "token_a": "▁",
+    "token_b": "▁",
+    "logit_a": 32.51604080200195,
+    "logit_b": 32.51604080200195,
+    "prefers_a": false
+  },
+  {
+    "word_a": "（マグリブ）やヘブライ語の",
+    "word_b": "（まぐりぶ）やへぶらいごの",
+    "token_a": "▁",
+    "token_b": "▁",
+    "logit_a": 34.33229064941406,
+    "logit_b": 34.33229064941406,
+    "prefers_a": false
+  },
+  {
+    "word_a": "と同根語だと言う",
+    "word_b": "とどうこんごだという",
+    "token_a": "▁",
+    "token_b": "▁",
+    "logit_a": 27.656230926513672,
+    "logit_b": 27.656230926513672,
+    "prefers_a": false
+  },
+  {
+    "word_a": "Y染色体ハプログループは、西ヨーロッパを中心にハプログループR1b",
+    "word_b": "Yせんしょくたいはぷろぐるーぷは、にしよーろっぱをちゅうしんにはぷろぐるーぷR1b",
+    "token_a": "▁Y",
+    "token_b": "▁Y",
+    "logit_a": 33.18940353393555,
+    "logit_b": 33.18940353393555,
+    "prefers_a": false
+  },
+  {
+    "word_a": "(Y染色体)が最も高頻度にみられるほか、バルカン半島と北欧でハプログループI",
+    "word_b": "(Yせんしょくたい)がもっともこうひんどにみられるほか、ばるかんはんしまとほくおうではぷろぐるーぷI",
+    "token_a": "▁(",
+    "token_b": "▁(",
+    "logit_a": 41.965248107910156,
+    "logit_b": 41.965248107910156,
+    "prefers_a": false
+  },
+  {
+    "word_a": "(Y染色体)、東欧でハプログループR1a",
+    "word_b": "(Yせんしょくたい)、とうおうではぷろぐるーぷR1a",
+    "token_a": "▁(",
+    "token_b": "▁(",
+    "logit_a": 41.35197067260742,
+    "logit_b": 41.35197067260742,
+    "prefers_a": false
+  },
+  {
+    "word_a": "(Y染色体)、北西ヨーロッパでハプログループN",
+    "word_b": "(Yせんしょくたい)、ほくせいよーろっぱではぷろぐるーぷN",
+    "token_a": "▁(",
+    "token_b": "▁(",
+    "logit_a": 40.87206268310547,
+    "logit_b": 40.87206268310547,
+    "prefers_a": false
+  },
+  {
+    "word_a": "(Y染色体)、南ヨーロッパでハプログループE1b1b",
+    "word_b": "(Yせんしょくたい)、みなみよーろっぱではぷろぐるーぷE1b1b",
+    "token_a": "▁(",
+    "token_b": "▁(",
+    "logit_a": 41.27855682373047,
+    "logit_b": 41.27855682373047,
+    "prefers_a": false
+  },
+  {
+    "word_a": "(Y染色体)が高頻度に見られる",
+    "word_b": "(Yせんしょくたい)がこうひんどにみられる",
+    "token_a": "▁(",
+    "token_b": "▁(",
+    "logit_a": 42.28471374511719,
+    "logit_b": 42.28471374511719,
+    "prefers_a": false
+  },
+  {
+    "word_a": "「メディアは東ヨーロッパの現状を捉えているのか」Global",
+    "word_b": "「めでぃあはひがしよーろっぱのげんじょうをとらえているのか」Global",
+    "token_a": "▁「",
+    "token_b": "▁「",
+    "logit_a": 43.971099853515625,
+    "logit_b": 43.971099853515625,
+    "prefers_a": false
+  },
+  {
+    "word_a": "News",
+    "word_b": "News",
+    "token_a": "▁News",
+    "token_b": "▁News",
+    "logit_a": 17.686187744140625,
+    "logit_b": 17.686187744140625,
+    "prefers_a": false
+  },
+  {
+    "word_a": "View(GNV),",
+    "word_b": "View(GNV),",
+    "token_a": "▁View",
+    "token_b": "▁View",
+    "logit_a": 15.674055099487305,
+    "logit_b": 15.674055099487305,
+    "prefers_a": false
+  },
+  {
+    "word_a": "Adriana",
+    "word_b": "Adriana",
+    "token_a": "▁Adrian",
+    "token_b": "▁Adrian",
+    "logit_a": 15.236563682556152,
+    "logit_b": 15.236563682556152,
+    "prefers_a": false
+  },
+  {
+    "word_a": "Nicolaie,",
+    "word_b": "Nicolaie,",
+    "token_a": "▁Nicola",
+    "token_b": "▁Nicola",
+    "logit_a": 25.55171012878418,
+    "logit_b": 25.55171012878418,
+    "prefers_a": false
+  },
+  {
+    "word_a": "2020年7月2日",
+    "word_b": "2020ねん7がつ2にち",
+    "token_a": "▁2020",
+    "token_b": "▁2020",
+    "logit_a": 30.794958114624023,
+    "logit_b": 30.794958114624023,
+    "prefers_a": false
+  },
+  {
+    "word_a": "この少し前からツノゴケ類が苔類と区別されるようになり、スミスの分類体系",
+    "word_b": "このすこしぜんからつのごけるいがこけるいとくべつされるようになり、すみすのぶんるいたいけい",
+    "token_a": "▁この",
+    "token_b": "▁この",
+    "logit_a": 36.32465362548828,
+    "logit_b": 36.32465362548828,
+    "prefers_a": false
+  },
+  {
+    "word_a": "(1955)",
+    "word_b": "(1955)",
+    "token_a": "▁(19",
+    "token_b": "▁(19",
+    "logit_a": 17.658706665039062,
+    "logit_b": 17.658706665039062,
+    "prefers_a": false
+  },
+  {
+    "word_a": "では、コケ植物門",
+    "word_b": "では、こけしょくぶつもん",
+    "token_a": "▁",
+    "token_b": "▁",
+    "logit_a": 34.55023193359375,
+    "logit_b": 34.55023193359375,
+    "prefers_a": false
+  },
+  {
+    "word_a": "division",
+    "word_b": "division",
+    "token_a": "▁division",
+    "token_b": "▁division",
+    "logit_a": 9.846294403076172,
+    "logit_b": 9.846294403076172,
+    "prefers_a": false
+  },
+  {
+    "word_a": "は苔綱",
+    "word_b": "はこけつな",
+    "token_a": "▁",
+    "token_b": "▁",
+    "logit_a": 30.82915687561035,
+    "logit_b": 30.82915687561035,
+    "prefers_a": false
+  },
+  {
+    "word_a": "、ツノゴケ綱",
+    "word_b": "、つのごけつな",
+    "token_a": "▁",
+    "token_b": "▁",
+    "logit_a": 31.465133666992188,
+    "logit_b": 31.465133666992188,
+    "prefers_a": false
+  },
+  {
+    "word_a": "、蘚綱",
+    "word_b": "、せんつな",
+    "token_a": "▁",
+    "token_b": "▁",
+    "logit_a": 23.964120864868164,
+    "logit_b": 23.964120864868164,
+    "prefers_a": false
+  },
+  {
+    "word_a": "の3つの綱に分けられた",
+    "word_b": "の3つのつなにわけられた",
+    "token_a": "▁",
+    "token_b": "▁",
+    "logit_a": 33.80125427246094,
+    "logit_b": 33.80125427246094,
+    "prefers_a": false
+  },
+  {
+    "word_a": "また、ミズゴケ科、およびツノゴケ類を含む苔類については",
+    "word_b": "また、みずごけか、およびつのごけるいをふくむこけるいについては",
+    "token_a": "▁また",
+    "token_b": "▁また",
+    "logit_a": 38.35150909423828,
+    "logit_b": 38.35150909423828,
+    "prefers_a": false
+  },
+  {
+    "word_a": "Linnaeus",
+    "word_b": "Linnaeus",
+    "token_a": "▁Linna",
+    "token_b": "▁Linna",
+    "logit_a": 20.8321590423584,
+    "logit_b": 20.8321590423584,
+    "prefers_a": false
+  },
+  {
+    "word_a": "(1753)",
+    "word_b": "(1753)",
+    "token_a": "▁(17",
+    "token_b": "▁(17",
+    "logit_a": 23.21019744873047,
+    "logit_b": 23.21019744873047,
+    "prefers_a": false
+  },
+  {
+    "word_a": "ed.",
+    "word_b": "ed.",
+    "token_a": "▁ed",
+    "token_b": "▁ed",
+    "logit_a": 21.501068115234375,
+    "logit_b": 21.501068115234375,
+    "prefers_a": false
+  },
+  {
+    "word_a": "に基づき、1753年5月1日を出発点として定められている",
+    "word_b": "にもとづき、1753ねん5がつ1にちをしゅっぱつてんとしてさだめられている",
+    "token_a": "▁",
+    "token_b": "▁",
+    "logit_a": 38.15594482421875,
+    "logit_b": 38.15594482421875,
+    "prefers_a": false
+  },
+  {
+    "word_a": "なお、は",
+    "word_b": "なお、は",
+    "token_a": "▁なお",
+    "token_b": "▁なお",
+    "logit_a": 25.705881118774414,
+    "logit_b": 25.705881118774414,
+    "prefers_a": false
+  },
+  {
+    "word_a": "Sternberg",
+    "word_b": "Sternberg",
+    "token_a": "▁Stern",
+    "token_b": "▁Stern",
+    "logit_a": 30.426713943481445,
+    "logit_b": 30.426713943481445,
+    "prefers_a": false
+  },
+  {
+    "word_a": "1:",
+    "word_b": "1:",
+    "token_a": "▁1:",
+    "token_b": "▁1:",
+    "logit_a": 16.260948181152344,
+    "logit_b": 16.260948181152344,
+    "prefers_a": false
+  },
+  {
+    "word_a": "1–24,",
+    "word_b": "1–24,",
+    "token_a": "▁1",
+    "token_b": "▁1",
+    "logit_a": 22.685924530029297,
+    "logit_b": 22.685924530029297,
+    "prefers_a": false
+  },
+  {
+    "word_a": "t.",
+    "word_b": "t.",
+    "token_a": "▁t",
+    "token_b": "▁t",
+    "logit_a": 20.21678924560547,
+    "logit_b": 20.21678924560547,
+    "prefers_a": false
+  },
+  {
+    "word_a": "1–13.",
+    "word_b": "1–13.",
+    "token_a": "▁1",
+    "token_b": "▁1",
+    "logit_a": 27.517253875732422,
+    "logit_b": 27.517253875732422,
+    "prefers_a": false
+  },
+  {
+    "word_a": "に基づいており、Schlotheim",
+    "word_b": "にもとづいており、Schlotheim",
+    "token_a": "▁",
+    "token_b": "▁",
+    "logit_a": 27.61643409729004,
+    "logit_b": 27.61643409729004,
+    "prefers_a": false
+  },
+  {
+    "word_a": "(1820)",
+    "word_b": "(1820)",
+    "token_a": "▁(18",
+    "token_b": "▁(18",
+    "logit_a": 17.93087387084961,
+    "logit_b": 17.93087387084961,
+    "prefers_a": false
+  },
+  {
+    "word_a": "はそれ以前に発表されたとみなされる",
+    "word_b": "はそれいぜんにはっぴょうされたとみなされる",
+    "token_a": "▁",
+    "token_b": "▁",
+    "logit_a": 35.33854675292969,
+    "logit_b": 35.33854675292969,
+    "prefers_a": false
+  },
+  {
+    "word_a": "そのため、",
+    "word_b": "そのため、",
+    "token_a": "▁",
+    "token_b": "▁",
+    "logit_a": 23.62908172607422,
+    "logit_b": 23.62908172607422,
+    "prefers_a": false
+  },
+  {
+    "word_a": "Brent",
+    "word_b": "Brent",
+    "token_a": "▁Brent",
+    "token_b": "▁Brent",
+    "logit_a": 13.040919303894043,
+    "logit_b": 13.040919303894043,
+    "prefers_a": false
+  },
+  {
+    "word_a": "Mishler",
+    "word_b": "Mishler",
+    "token_a": "▁Mis",
+    "token_b": "▁Mis",
+    "logit_a": 24.40020751953125,
+    "logit_b": 24.40020751953125,
+    "prefers_a": false
+  },
+  {
+    "word_a": "(2010)",
+    "word_b": "(2010)",
+    "token_a": "▁(2010)",
+    "token_b": "▁(2010)",
+    "logit_a": 9.519542694091797,
+    "logit_b": 9.519542694091797,
+    "prefers_a": false
+  },
+  {
+    "word_a": "などは階級語尾を持たない伝統的な学名を好み、蘚類には",
+    "word_b": "などはかいきゅうごびをもたないでんとうてきながくめいをこのみ、せんるいには",
+    "token_a": "▁",
+    "token_b": "▁",
+    "logit_a": 34.03734588623047,
+    "logit_b": 34.03734588623047,
+    "prefers_a": false
+  },
+  {
+    "word_a": "、苔類には",
+    "word_b": "、こけるいには",
+    "token_a": "▁",
+    "token_b": "▁",
+    "logit_a": 34.23371124267578,
+    "logit_b": 34.23371124267578,
+    "prefers_a": false
+  },
+  {
+    "word_a": "、そしてツノゴケ類には",
+    "word_b": "、そしてつのごけるいには",
+    "token_a": "▁",
+    "token_b": "▁",
+    "logit_a": 34.952781677246094,
+    "logit_b": 34.952781677246094,
+    "prefers_a": false
+  },
+  {
+    "word_a": "を用いた",
+    "word_b": "をもちいた",
+    "token_a": "▁",
+    "token_b": "▁",
+    "logit_a": 29.016895294189453,
+    "logit_b": 29.016895294189453,
+    "prefers_a": false
+  },
+  {
+    "word_a": "岩月善之助・北川尚史・秋山弘之",
+    "word_b": "いわつきぜんのすけ・きたがわたかし・あきやまひろゆき",
+    "token_a": "▁",
+    "token_b": "▁",
+    "logit_a": 34.665916442871094,
+    "logit_b": 34.665916442871094,
+    "prefers_a": false
+  },
+  {
+    "word_a": "「コケ植物にみる多様性と系統」",
+    "word_b": "「こけしょくぶつにみるたようせいとけいとう」",
+    "token_a": "▁「",
+    "token_b": "▁「",
+    "logit_a": 41.399566650390625,
+    "logit_b": 41.399566650390625,
+    "prefers_a": false
+  },
+  {
+    "word_a": "『植物の多様性と系統",
+    "word_b": "『しょくぶつのたようせいとけいとう",
+    "token_a": "▁『",
+    "token_b": "▁『",
+    "logit_a": 33.33990478515625,
+    "logit_b": 33.33990478515625,
+    "prefers_a": false
+  },
+  {
+    "word_a": "バイオディバーシティ・シリーズ2』",
+    "word_b": "ばいおでぃばーしてぃ・しりーず2』",
+    "token_a": "▁",
+    "token_b": "▁",
+    "logit_a": 36.060367584228516,
+    "logit_b": 36.060367584228516,
+    "prefers_a": false
+  },
+  {
+    "word_a": "岩槻邦男・馬渡峻輔監修、裳華房、1997年、42-74頁、ISBN",
+    "word_b": "いわつきくにお・まわたりしゅんすけかんしゅう、しょうかぼう、1997ねん、42-74ぺーじ、ISBN",
+    "token_a": "▁",
+    "token_b": "▁",
+    "logit_a": 37.56535339355469,
+    "logit_b": 37.56535339355469,
+    "prefers_a": false
+  },
+  {
+    "word_a": "978-4-7853-5825-9",
+    "word_b": "978-4-7853-5825-9",
+    "token_a": "▁978-",
+    "token_b": "▁978-",
+    "logit_a": 17.39348602294922,
+    "logit_b": 17.39348602294922,
+    "prefers_a": false
+  },
+  {
+    "word_a": "岩月善之助",
+    "word_b": "いわつきぜんのすけ",
+    "token_a": "▁",
+    "token_b": "▁",
+    "logit_a": 33.762664794921875,
+    "logit_b": 33.762664794921875,
+    "prefers_a": false
+  },
+  {
+    "word_a": "「コケ植物」『週刊朝日百科",
+    "word_b": "「こけしょくぶつ」『しゅうかんあさひひゃっか",
+    "token_a": "▁「",
+    "token_b": "▁「",
+    "logit_a": 39.89410400390625,
+    "logit_b": 39.89410400390625,
+    "prefers_a": false
+  },
+  {
+    "word_a": "植物の世界136",
+    "word_b": "しょくぶつのせかい136",
+    "token_a": "▁",
+    "token_b": "▁",
+    "logit_a": 31.262805938720703,
+    "logit_b": 31.262805938720703,
+    "prefers_a": false
+  },
+  {
+    "word_a": "コケ植物1",
+    "word_b": "こけしょくぶつ1",
+    "token_a": "▁",
+    "token_b": "▁",
+    "logit_a": 32.612213134765625,
+    "logit_b": 32.612213134765625,
+    "prefers_a": false
+  },
+  {
+    "word_a": "セン類』",
+    "word_b": "せんるい』",
+    "token_a": "▁",
+    "token_b": "▁",
+    "logit_a": 28.608795166015625,
+    "logit_b": 28.608795166015625,
+    "prefers_a": false
+  },
+  {
+    "word_a": "岩槻邦男ら監修、朝日新聞社、1996年、98-99頁",
+    "word_b": "いわつきくにおらかんしゅう、あさひしんぶんしゃ、1996ねん、98-99ぺーじ",
+    "token_a": "▁",
+    "token_b": "▁",
+    "logit_a": 37.60065460205078,
+    "logit_b": 37.60065460205078,
+    "prefers_a": false
+  },
+  {
+    "word_a": "加藤雅啓編",
+    "word_b": "かとうまさあきへん",
+    "token_a": "▁",
+    "token_b": "▁",
+    "logit_a": 34.05523681640625,
+    "logit_b": 34.05523681640625,
+    "prefers_a": false
+  },
+  {
+    "word_a": "「陸上植物の分類体系」",
+    "word_b": "「りくじょうしょくぶつのぶんるいたいけい」",
+    "token_a": "▁「",
+    "token_b": "▁「",
+    "logit_a": 42.57322692871094,
+    "logit_b": 42.57322692871094,
+    "prefers_a": false
+  },
+  {
+    "word_a": "岩槻邦男・馬渡峻輔監修、裳華房、1997年、21-27頁、ISBN",
+    "word_b": "いわつきくにお・まわたりしゅんすけかんしゅう、しょうかぼう、1997ねん、21-27ぺーじ、ISBN",
+    "token_a": "▁",
+    "token_b": "▁",
+    "logit_a": 38.000816345214844,
+    "logit_b": 38.000816345214844,
+    "prefers_a": false
+  },
+  {
+    "word_a": "日本では「シニカルな理論:",
+    "word_b": "にっぽんでは「しにかるなりろん:",
+    "token_a": "▁日本",
+    "token_b": "▁",
+    "logit_a": 38.07774353027344,
+    "logit_b": 34.8546257019043,
+    "prefers_a": true
+  },
+  {
+    "word_a": "アクティビスト(活動家)の学問はどのようにして人種、ジェンダー、アイデンティティについての全てのをつくりあげ、何故これが全ての人に害をなすのか(原題:Cynical",
+    "word_b": "あくてぃびすと(かつどうか)のがくもんはどのようにしてじんしゅ、じぇんだー、あいでんてぃてぃについてのすべてのをつくりあげ、なぜこれがすべてのにんにがいをなすのか(げんだい:Cynical",
+    "token_a": "▁",
+    "token_b": "▁",
+    "logit_a": 36.83768081665039,
+    "logit_b": 36.83768081665039,
+    "prefers_a": false
+  },
+  {
+    "word_a": "Theories:",
+    "word_b": "Theories:",
+    "token_a": "▁Theorie",
+    "token_b": "▁Theorie",
+    "logit_a": 16.119441986083984,
+    "logit_b": 16.119441986083984,
+    "prefers_a": false
+  },
+  {
+    "word_a": "How",
+    "word_b": "How",
+    "token_a": "▁How",
+    "token_b": "▁How",
+    "logit_a": 12.05924129486084,
+    "logit_b": 12.05924129486084,
+    "prefers_a": false
+  },
+  {
+    "word_a": "Activist",
+    "word_b": "Activist",
+    "token_a": "▁Activ",
+    "token_b": "▁Activ",
+    "logit_a": 23.463176727294922,
+    "logit_b": 23.463176727294922,
+    "prefers_a": false
+  },
+  {
+    "word_a": "Scholarship",
+    "word_b": "Scholarship",
+    "token_a": "▁Scho",
+    "token_b": "▁Scho",
+    "logit_a": 41.05201721191406,
+    "logit_b": 41.05201721191406,
+    "prefers_a": false
+  },
+  {
+    "word_a": "Made",
+    "word_b": "Made",
+    "token_a": "▁Made",
+    "token_b": "▁Made",
+    "logit_a": 11.397079467773438,
+    "logit_b": 11.397079467773438,
+    "prefers_a": false
+  },
+  {
+    "word_a": "Everything",
+    "word_b": "Everything",
+    "token_a": "▁Everything",
+    "token_b": "▁Everything",
+    "logit_a": 17.601293563842773,
+    "logit_b": 17.601293563842773,
+    "prefers_a": false
+  },
+  {
+    "word_a": "about",
+    "word_b": "about",
+    "token_a": "▁about",
+    "token_b": "▁about",
+    "logit_a": 12.653716087341309,
+    "logit_b": 12.653716087341309,
+    "prefers_a": false
+  },
+  {
+    "word_a": "Race,",
+    "word_b": "Race,",
+    "token_a": "▁Race",
+    "token_b": "▁Race",
+    "logit_a": 14.364229202270508,
+    "logit_b": 14.364229202270508,
+    "prefers_a": false
+  },
+  {
+    "word_a": "Gender,",
+    "word_b": "Gender,",
+    "token_a": "▁G",
+    "token_b": "▁G",
+    "logit_a": 28.307205200195312,
+    "logit_b": 28.307205200195312,
+    "prefers_a": false
+  },
+  {
+    "word_a": "Identity",
+    "word_b": "Identity",
+    "token_a": "▁Ident",
+    "token_b": "▁Ident",
+    "logit_a": 37.480140686035156,
+    "logit_b": 37.480140686035156,
+    "prefers_a": false
+  },
+  {
+    "word_a": "And",
+    "word_b": "And",
+    "token_a": "▁And",
+    "token_b": "▁And",
+    "logit_a": 17.283798217773438,
+    "logit_b": 17.283798217773438,
+    "prefers_a": false
+  },
+  {
+    "word_a": "Why",
+    "word_b": "Why",
+    "token_a": "▁Why",
+    "token_b": "▁Why",
+    "logit_a": 12.297074317932129,
+    "logit_b": 12.297074317932129,
+    "prefers_a": false
+  },
+  {
+    "word_a": "this",
+    "word_b": "this",
+    "token_a": "▁this",
+    "token_b": "▁this",
+    "logit_a": 11.69901180267334,
+    "logit_b": 11.69901180267334,
+    "prefers_a": false
+  },
+  {
+    "word_a": "Harms",
+    "word_b": "Harms",
+    "token_a": "▁Har",
+    "token_b": "▁Har",
+    "logit_a": 20.31833267211914,
+    "logit_b": 20.31833267211914,
+    "prefers_a": false
+  },
+  {
+    "word_a": "Everybody、邦題:『「社会正義」はいつも正しい",
+    "word_b": "Everybody、ほうだい:『「しゃかいせいぎ」はいつもただしい",
+    "token_a": "▁Every",
+    "token_b": "▁Every",
+    "logit_a": 28.837249755859375,
+    "logit_b": 28.837249755859375,
+    "prefers_a": false
+  },
+  {
+    "word_a": "人種、ジェンダー、アイデンティティにまつわる捏造のすべて』)」という本が翻訳されて紹介された",
+    "word_b": "じんしゅ、じぇんだー、あいでんてぃてぃにまつわるねつぞうのすべて』)」というほんがほんやくされてしょうかいされた",
+    "token_a": "▁",
+    "token_b": "▁",
+    "logit_a": 41.090641021728516,
+    "logit_b": 41.090641021728516,
+    "prefers_a": false
+  },
+  {
+    "word_a": "最高大統領選挙委員会（The",
+    "word_b": "さいこうだいとうりょうせんきょいいんかい（The",
+    "token_a": "▁",
+    "token_b": "▁",
+    "logit_a": 27.878684997558594,
+    "logit_b": 27.878684997558594,
+    "prefers_a": false
+  },
+  {
+    "word_a": "Supreme",
+    "word_b": "Supreme",
+    "token_a": "▁Supreme",
+    "token_b": "▁Supreme",
+    "logit_a": 17.14645004272461,
+    "logit_b": 17.14645004272461,
+    "prefers_a": false
+  },
+  {
+    "word_a": "Presidential",
+    "word_b": "Presidential",
+    "token_a": "▁Presidenti",
+    "token_b": "▁Presidenti",
+    "logit_a": 24.72793960571289,
+    "logit_b": 24.72793960571289,
+    "prefers_a": false
+  },
+  {
+    "word_a": "Election",
+    "word_b": "Election",
+    "token_a": "▁Election",
+    "token_b": "▁Election",
+    "logit_a": 13.721163749694824,
+    "logit_b": 13.721163749694824,
+    "prefers_a": false
+  },
+  {
+    "word_a": "Commission,",
+    "word_b": "Commission,",
+    "token_a": "▁Commission",
+    "token_b": "▁Commission",
+    "logit_a": 21.321117401123047,
+    "logit_b": 21.321117401123047,
+    "prefers_a": false
+  },
+  {
+    "word_a": "SPEC）委員長は、最高憲法裁判所長官が兼任していたが、現在は副長官がその任を負う",
+    "word_b": "SPEC）いいんちょうは、さいこうけんぽうさいばんしょちょうかんがけんにんしていたが、げんざいはふくちょうかんがそのにんをおう",
+    "token_a": "▁",
+    "token_b": "▁",
+    "logit_a": 39.15107727050781,
+    "logit_b": 39.15107727050781,
+    "prefers_a": false
+  },
+  {
+    "word_a": "長官は最高大統領選挙委員会（The",
+    "word_b": "ちょうかんはさいこうだいとうりょうせんきょいいんかい（The",
+    "token_a": "▁",
+    "token_b": "▁",
+    "logit_a": 30.54090118408203,
+    "logit_b": 30.54090118408203,
+    "prefers_a": false
+  },
+  {
+    "word_a": "SPEC）の委員長を兼任していたが、2012年9月には副長官ハーティム・バガートゥーが務めていた",
+    "word_b": "SPEC）のいいんちょうをけんにんしていたが、2012ねん9がつにはふくちょうかんはーてぃむ・ばがーとぅーがつとめていた",
+    "token_a": "▁",
+    "token_b": "▁",
+    "logit_a": 41.320289611816406,
+    "logit_b": 41.320289611816406,
+    "prefers_a": false
+  },
+  {
+    "word_a": "1976年著作権法",
+    "word_b": "1976ねんちょさくけんほう",
+    "token_a": "▁1976",
+    "token_b": "▁1976",
+    "logit_a": 37.77412414550781,
+    "logit_b": 37.77412414550781,
+    "prefers_a": false
+  },
+  {
+    "word_a": "(Copyright",
+    "word_b": "(Copyright",
+    "token_a": "▁(",
+    "token_b": "▁(",
+    "logit_a": 29.288896560668945,
+    "logit_b": 29.288896560668945,
+    "prefers_a": false
+  },
+  {
+    "word_a": "Act",
+    "word_b": "Act",
+    "token_a": "▁Act",
+    "token_b": "▁Act",
+    "logit_a": 10.67138671875,
+    "logit_b": 10.67138671875,
+    "prefers_a": false
+  },
+  {
+    "word_a": "1976)",
+    "word_b": "1976)",
+    "token_a": "▁1976",
+    "token_b": "▁1976",
+    "logit_a": 10.554886817932129,
+    "logit_b": 10.554886817932129,
+    "prefers_a": false
+  },
+  {
+    "word_a": "の規定では、著作権の保護期間は著作者の死後50年まで（最初の発行年から75年まで）とされていた",
+    "word_b": "のきていでは、ちょさくけんのほごきかんはちょさくしゃのしご50ねんまで（さいしょのはっこうねんから75ねんまで）とされていた",
+    "token_a": "▁",
+    "token_b": "▁",
+    "logit_a": 37.09109878540039,
+    "logit_b": 37.09109878540039,
+    "prefers_a": false
+  },
+  {
+    "word_a": "これを20年延長し、現在の保護期間である死後70年まで（最初の発行年から95年まで）とした改正法が、1998年に成立した「ソニー・ボノ著作権保護期間延長法",
+    "word_b": "これを20ねんえんちょうし、げんざいのほごきかんであるしご70ねんまで（さいしょのはっこうねんから95ねんまで）としたかいせいほうが、1998ねんにせいりつした「そにー・ぼのちょさくけんほごきかんえんちょうほう",
+    "token_a": "▁",
+    "token_b": "▁",
+    "logit_a": 37.22689437866211,
+    "logit_b": 37.22689437866211,
+    "prefers_a": false
+  },
+  {
+    "word_a": "(Sonny",
+    "word_b": "(Sonny",
+    "token_a": "▁(",
+    "token_b": "▁(",
+    "logit_a": 31.813539505004883,
+    "logit_b": 31.813539505004883,
+    "prefers_a": false
+  },
+  {
+    "word_a": "Bono",
+    "word_b": "Bono",
+    "token_a": "▁Bon",
+    "token_b": "▁Bon",
+    "logit_a": 10.474446296691895,
+    "logit_b": 10.474446296691895,
+    "prefers_a": false
+  },
+  {
+    "word_a": "Copyright",
+    "word_b": "Copyright",
+    "token_a": "▁Copyright",
+    "token_b": "▁Copyright",
+    "logit_a": 21.74822425842285,
+    "logit_b": 21.74822425842285,
+    "prefers_a": false
+  },
+  {
+    "word_a": "Term",
+    "word_b": "Term",
+    "token_a": "▁Ter",
+    "token_b": "▁Ter",
+    "logit_a": 15.791478157043457,
+    "logit_b": 15.791478157043457,
+    "prefers_a": false
+  },
+  {
+    "word_a": "Extension",
+    "word_b": "Extension",
+    "token_a": "▁Extension",
+    "token_b": "▁Extension",
+    "logit_a": 14.514711380004883,
+    "logit_b": 14.514711380004883,
+    "prefers_a": false
+  },
+  {
+    "word_a": "Act,",
+    "word_b": "Act,",
+    "token_a": "▁Act",
+    "token_b": "▁Act",
+    "logit_a": 15.855645179748535,
+    "logit_b": 15.855645179748535,
+    "prefers_a": false
+  },
+  {
+    "word_a": "CTEA)」である",
+    "word_b": "CTEA)」である",
+    "token_a": "▁C",
+    "token_b": "▁C",
+    "logit_a": 25.488698959350586,
+    "logit_b": 25.488698959350586,
+    "prefers_a": false
+  },
+  {
+    "word_a": "御徒町駅",
+    "word_b": "おかちまちえき",
+    "token_a": "▁",
+    "token_b": "▁",
+    "logit_a": 34.434288024902344,
+    "logit_b": 34.434288024902344,
+    "prefers_a": false
+  },
+  {
+    "word_a": "上野駅",
+    "word_b": "うえのえき",
+    "token_a": "▁",
+    "token_b": "▁",
+    "logit_a": 29.785018920898438,
+    "logit_b": 29.785018920898438,
+    "prefers_a": false
+  },
+  {
+    "word_a": "鶯谷駅",
+    "word_b": "うぐいすだにえき",
+    "token_a": "▁",
+    "token_b": "▁",
+    "logit_a": 34.255409240722656,
+    "logit_b": 34.255409240722656,
+    "prefers_a": false
+  },
+  {
+    "word_a": "日暮里駅：日暮里駅は荒川区と台東区にまたがって存在している",
+    "word_b": "にっぽりえき：にっぽりえきはあらかわくとたいとうくにまたがってそんざいしている",
+    "token_a": "▁",
+    "token_b": "▁",
+    "logit_a": 35.828460693359375,
+    "logit_b": 35.828460693359375,
+    "prefers_a": false
+  },
+  {
+    "word_a": "上野広小路駅",
+    "word_b": "うえのひろこうじえき",
+    "token_a": "▁",
+    "token_b": "▁",
+    "logit_a": 32.24441909790039,
+    "logit_b": 32.24441909790039,
+    "prefers_a": false
+  },
+  {
+    "word_a": "稲荷町駅",
+    "word_b": "いなりちょうえき",
+    "token_a": "▁",
+    "token_b": "▁",
+    "logit_a": 33.420101165771484,
+    "logit_b": 33.420101165771484,
+    "prefers_a": false
+  },
+  {
+    "word_a": "田原町駅",
+    "word_b": "たわらまちえき",
+    "token_a": "▁",
+    "token_b": "▁",
+    "logit_a": 32.23737716674805,
+    "logit_b": 32.23737716674805,
+    "prefers_a": false
+  },
+  {
+    "word_a": "浅草駅",
+    "word_b": "あさくさえき",
+    "token_a": "▁",
+    "token_b": "▁",
+    "logit_a": 33.15776062011719,
+    "logit_b": 33.15776062011719,
+    "prefers_a": false
+  },
+  {
+    "word_a": "仲御徒町駅",
+    "word_b": "なかおかちまちえき",
+    "token_a": "▁",
+    "token_b": "▁",
+    "logit_a": 35.500667572021484,
+    "logit_b": 35.500667572021484,
+    "prefers_a": false
+  },
+  {
+    "word_a": "入谷駅",
+    "word_b": "いりやえき",
+    "token_a": "▁",
+    "token_b": "▁",
+    "logit_a": 28.082822799682617,
+    "logit_b": 28.082822799682617,
+    "prefers_a": false
+  },
+  {
+    "word_a": "三ノ輪駅",
+    "word_b": "さんのわえき",
+    "token_a": "▁三",
+    "token_b": "▁",
+    "logit_a": 35.13225173950195,
+    "logit_b": 29.73709487915039,
+    "prefers_a": true
+  },
+  {
+    "word_a": "都02系統（大塚駅",
+    "word_b": "みやこ02けいとう（おおつかえき",
+    "token_a": "▁",
+    "token_b": "▁",
+    "logit_a": 36.353031158447266,
+    "logit_b": 36.353031158447266,
+    "prefers_a": false
+  },
+  {
+    "word_a": "春日駅",
+    "word_b": "かすがえき",
+    "token_a": "▁",
+    "token_b": "▁",
+    "logit_a": 33.769779205322266,
+    "logit_b": 33.769779205322266,
+    "prefers_a": false
+  },
+  {
+    "word_a": "錦糸町駅）",
+    "word_b": "きんしちょうえき）",
+    "token_a": "▁",
+    "token_b": "▁",
+    "logit_a": 29.14958381652832,
+    "logit_b": 29.14958381652832,
+    "prefers_a": false
+  },
+  {
+    "word_a": "都08系統（日暮里駅",
+    "word_b": "みやこ08けいとう（にっぽりえき",
+    "token_a": "▁",
+    "token_b": "▁",
+    "logit_a": 35.22734832763672,
+    "logit_b": 35.22734832763672,
+    "prefers_a": false
+  },
+  {
+    "word_a": "東武浅草駅",
+    "word_b": "とうぶあさくさえき",
+    "token_a": "▁",
+    "token_b": "▁",
+    "logit_a": 34.71395492553711,
+    "logit_b": 34.71395492553711,
+    "prefers_a": false
+  },
+  {
+    "word_a": "押上",
+    "word_b": "おしあげ",
+    "token_a": "▁",
+    "token_b": "▁お",
+    "logit_a": 24.841495513916016,
+    "logit_b": 20.197818756103516,
+    "prefers_a": true
+  },
+  {
+    "word_a": "里22系統（日暮里駅",
+    "word_b": "さと22けいとう（にっぽりえき",
+    "token_a": "▁",
+    "token_b": "▁",
+    "logit_a": 34.96244430541992,
+    "logit_b": 34.96244430541992,
+    "prefers_a": false
+  },
+  {
+    "word_a": "三河島駅",
+    "word_b": "みかわしまえき",
+    "token_a": "▁三",
+    "token_b": "▁",
+    "logit_a": 33.961448669433594,
+    "logit_b": 32.054405212402344,
+    "prefers_a": true
+  },
+  {
+    "word_a": "泪橋",
+    "word_b": "なみだはし",
+    "token_a": "▁",
+    "token_b": "▁",
+    "logit_a": 25.21466064453125,
+    "logit_b": 25.21466064453125,
+    "prefers_a": false
+  },
+  {
+    "word_a": "亀戸駅）",
+    "word_b": "かめいどえき）",
+    "token_a": "▁",
+    "token_b": "▁",
+    "logit_a": 31.452342987060547,
+    "logit_b": 31.452342987060547,
+    "prefers_a": false
+  },
+  {
+    "word_a": "上23系統（上野松坂屋前",
+    "word_b": "うえ23けいとう（うえのまつざかやまえ",
+    "token_a": "▁",
+    "token_b": "▁",
+    "logit_a": 35.27214050292969,
+    "logit_b": 35.27214050292969,
+    "prefers_a": false
+  },
+  {
+    "word_a": "浅草寿町",
+    "word_b": "あさくさことぶきちょう",
+    "token_a": "▁",
+    "token_b": "▁",
+    "logit_a": 33.081825256347656,
+    "logit_b": 33.081825256347656,
+    "prefers_a": false
+  },
+  {
+    "word_a": "平井駅）",
+    "word_b": "ひらいえき）",
+    "token_a": "▁",
+    "token_b": "▁",
+    "logit_a": 28.171857833862305,
+    "logit_b": 28.171857833862305,
+    "prefers_a": false
+  },
+  {
+    "word_a": "上26系統（上野公園",
+    "word_b": "うえ26けいとう（うえのこうえん",
+    "token_a": "▁",
+    "token_b": "▁",
+    "logit_a": 34.88002395629883,
+    "logit_b": 34.88002395629883,
+    "prefers_a": false
+  },
+  {
+    "word_a": "奥浅草",
+    "word_b": "おくあさくさ",
+    "token_a": "▁",
+    "token_b": "▁お",
+    "logit_a": 28.511781692504883,
+    "logit_b": 25.270275115966797,
+    "prefers_a": true
+  },
+  {
+    "word_a": "とうきょうスカイツリー駅",
+    "word_b": "とうきょうすかいつりーえき",
+    "token_a": "▁",
+    "token_b": "▁",
+    "logit_a": 35.067195892333984,
+    "logit_b": 35.067195892333984,
+    "prefers_a": false
+  },
+  {
+    "word_a": "草39系統（上野松坂屋前",
+    "word_b": "くさ39けいとう（うえのまつざかやまえ",
+    "token_a": "▁",
+    "token_b": "▁",
+    "logit_a": 34.31647491455078,
+    "logit_b": 34.31647491455078,
+    "prefers_a": false
+  },
+  {
+    "word_a": "青戸車庫",
+    "word_b": "あおとしゃこ",
+    "token_a": "▁",
+    "token_b": "▁",
+    "logit_a": 32.874122619628906,
+    "logit_b": 32.874122619628906,
+    "prefers_a": false
+  },
+  {
+    "word_a": "金町駅）",
+    "word_b": "かねまちえき）",
+    "token_a": "▁",
+    "token_b": "▁",
+    "logit_a": 29.6859130859375,
+    "logit_b": 29.6859130859375,
+    "prefers_a": false
+  },
+  {
+    "word_a": "草41系統（浅草寿町",
+    "word_b": "くさ41けいとう（あさくさことぶきちょう",
+    "token_a": "▁",
+    "token_b": "▁",
+    "logit_a": 33.27901077270508,
+    "logit_b": 33.27901077270508,
+    "prefers_a": false
+  },
+  {
+    "word_a": "鴬谷駅",
+    "word_b": "まちやえき",
+    "token_a": "▁",
+    "token_b": "▁",
+    "logit_a": 27.682052612304688,
+    "logit_b": 27.682052612304688,
+    "prefers_a": false
+  },
+  {
+    "word_a": "町屋駅",
+    "word_b": "あだちうめだまち）",
+    "token_a": "▁",
+    "token_b": "▁",
+    "logit_a": 33.920555114746094,
+    "logit_b": 33.920555114746094,
+    "prefers_a": false
+  },
+  {
+    "word_a": "足立梅田町）",
+    "word_b": "ひがし42-1けいとう（みなみせんじゅえきにしぐち・みなみせんじゅしゃこ",
+    "token_a": "▁",
+    "token_b": "▁",
+    "logit_a": 27.1455135345459,
+    "logit_b": 27.1455135345459,
+    "prefers_a": false
+  },
+  {
+    "word_a": "東42-1系統（南千住駅西口・南千住車庫",
+    "word_b": "あさくさばしえき",
+    "token_a": "▁",
+    "token_b": "▁",
+    "logit_a": 36.203147888183594,
+    "logit_b": 36.203147888183594,
+    "prefers_a": false
+  },
+  {
+    "word_a": "浅草橋駅",
+    "word_b": "とうきょうえきやえすぐち）",
+    "token_a": "▁",
+    "token_b": "▁",
+    "logit_a": 34.877197265625,
+    "logit_b": 34.877197265625,
+    "prefers_a": false
+  },
+  {
+    "word_a": "東京駅八重洲口）",
+    "word_b": "ひがし42-2けいとう（みなみせんじゅえきにしぐち・みなみせんじゅしゃこ",
+    "token_a": "▁",
+    "token_b": "▁",
+    "logit_a": 30.343481063842773,
+    "logit_b": 30.343481063842773,
+    "prefers_a": false
+  },
+  {
+    "word_a": "東42-2系統（南千住駅西口・南千住車庫",
+    "word_b": "ひがしかんだ）",
+    "token_a": "▁",
+    "token_b": "▁",
+    "logit_a": 36.338809967041016,
+    "logit_b": 36.338809967041016,
+    "prefers_a": false
+  },
+  {
+    "word_a": "東神田）",
+    "word_b": "くさ43けいとう（あさくさかみなりもん・あさくさことぶきちょう",
+    "token_a": "▁",
+    "token_b": "▁",
+    "logit_a": 28.55295753479004,
+    "logit_b": 28.55295753479004,
+    "prefers_a": false
+  },
+  {
+    "word_a": "草43系統（浅草雷門・浅草寿町",
+    "word_b": "せんじゅしゃこ",
+    "token_a": "▁",
+    "token_b": "▁",
+    "logit_a": 33.15748977661133,
+    "logit_b": 33.15748977661133,
+    "prefers_a": false
+  },
+  {
+    "word_a": "千住車庫",
+    "word_b": "あだちくやくしょ）",
+    "token_a": "▁",
+    "token_b": "▁",
+    "logit_a": 33.27248001098633,
+    "logit_b": 33.27248001098633,
+    "prefers_a": false
+  },
+  {
+    "word_a": "足立区役所）",
+    "word_b": "うえ46けいとう（うえのまつざかやまえ",
+    "token_a": "▁",
+    "token_b": "▁",
+    "logit_a": 29.454010009765625,
+    "logit_b": 29.454010009765625,
+    "prefers_a": false
+  },
+  {
+    "word_a": "上46系統（上野松坂屋前",
+    "word_b": "みなみせんじゅしゃこ／みなみせんじゅえきひがしぐち）",
+    "token_a": "▁",
+    "token_b": "▁",
+    "logit_a": 34.52448272705078,
+    "logit_b": 34.52448272705078,
+    "prefers_a": false
+  },
+  {
+    "word_a": "南千住車庫／南千住駅東口）",
+    "word_b": "うえ58けいとう（うえのまつざかやまえ",
+    "token_a": "▁",
+    "token_b": "▁",
+    "logit_a": 32.870338439941406,
+    "logit_b": 32.870338439941406,
+    "prefers_a": false
+  },
+  {
+    "word_a": "上58系統（上野松坂屋前",
+    "word_b": "ねづえき",
+    "token_a": "▁",
+    "token_b": "▁",
+    "logit_a": 36.1630859375,
+    "logit_b": 36.1630859375,
+    "prefers_a": false
+  },
+  {
+    "word_a": "根津駅",
+    "word_b": "えどがわはし",
+    "token_a": "▁",
+    "token_b": "▁",
+    "logit_a": 29.21774673461914,
+    "logit_b": 29.21774673461914,
+    "prefers_a": false
+  },
+  {
+    "word_a": "江戸川橋",
+    "word_b": "わせだ）",
+    "token_a": "▁",
+    "token_b": "▁",
+    "logit_a": 35.601871490478516,
+    "logit_b": 35.601871490478516,
+    "prefers_a": false
+  },
+  {
+    "word_a": "早稲田）",
+    "word_b": "うえ60けいとう（うえのこうえん",
+    "token_a": "▁",
+    "token_b": "▁",
+    "logit_a": 29.519927978515625,
+    "logit_b": 29.519927978515625,
+    "prefers_a": false
+  },
+  {
+    "word_a": "上60系統（上野公園",
+    "word_b": "おおつかえき",
+    "token_a": "▁",
+    "token_b": "▁お",
+    "logit_a": 36.064205169677734,
+    "logit_b": 29.773359298706055,
+    "prefers_a": true
+  },
+  {
+    "word_a": "大塚駅",
+    "word_b": "いけぶくろえきひがしぐち）",
+    "token_a": "▁大",
+    "token_b": "▁",
+    "logit_a": 34.61897277832031,
+    "logit_b": 32.180423736572266,
+    "prefers_a": true
+  },
+  {
+    "word_a": "池袋駅東口）",
+    "word_b": "くさ63けいとう（あさくさことぶきちょう・かみなりもんいっちょうめ",
+    "token_a": "▁",
+    "token_b": "▁",
+    "logit_a": 30.997833251953125,
+    "logit_b": 30.997833251953125,
+    "prefers_a": false
+  },
+  {
+    "word_a": "草63系統（浅草寿町・雷門一丁目",
+    "word_b": "にしにっぽりえき",
+    "token_a": "▁",
+    "token_b": "▁",
+    "logit_a": 35.41163635253906,
+    "logit_b": 35.41163635253906,
+    "prefers_a": false
+  },
+  {
+    "word_a": "西日暮里駅",
+    "word_b": "すがもえき",
+    "token_a": "▁",
+    "token_b": "▁",
+    "logit_a": 35.73902893066406,
+    "logit_b": 35.73902893066406,
+    "prefers_a": false
+  },
+  {
+    "word_a": "巣鴨駅",
+    "word_b": "くさ64けいとう（あさくさかみなりもんみなみ",
+    "token_a": "▁",
+    "token_b": "▁",
+    "logit_a": 32.98667907714844,
+    "logit_b": 32.98667907714844,
+    "prefers_a": false
+  },
+  {
+    "word_a": "草64系統（浅草雷門南",
+    "word_b": "しんぞうかわしまえき",
+    "token_a": "▁",
+    "token_b": "▁",
+    "logit_a": 27.877761840820312,
+    "logit_b": 27.877761840820312,
+    "prefers_a": false
+  },
+  {
+    "word_a": "新三河島駅",
+    "word_b": "おく",
+    "token_a": "▁新",
+    "token_b": "▁お",
+    "logit_a": 36.04511260986328,
+    "logit_b": 33.68059539794922,
+    "prefers_a": true
+  },
+  {
+    "word_a": "尾久",
+    "word_b": "おうじえき",
+    "token_a": "▁",
+    "token_b": "▁",
+    "logit_a": 26.722206115722656,
+    "logit_b": 26.722206115722656,
+    "prefers_a": false
+  },
+  {
+    "word_a": "王子駅",
+    "word_b": "いけぶくろえきひがしぐち／すがもとげぬきじぞう）",
+    "token_a": "▁",
+    "token_b": "▁",
+    "logit_a": 32.11709213256836,
+    "logit_b": 32.11709213256836,
+    "prefers_a": false
+  },
+  {
+    "word_a": "池袋駅東口／巣鴨とげぬき地蔵）",
+    "word_b": "うえ69けいとう（おたきはししゃこ",
+    "token_a": "▁",
+    "token_b": "▁",
+    "logit_a": 33.77106857299805,
+    "logit_b": 33.77106857299805,
+    "prefers_a": false
+  },
+  {
+    "word_a": "上69系統（小滝橋車庫",
+    "word_b": "たかだのばばえき",
+    "token_a": "▁",
+    "token_b": "▁",
+    "logit_a": 32.65143966674805,
+    "logit_b": 32.65143966674805,
+    "prefers_a": false
+  },
+  {
+    "word_a": "高田馬場駅",
+    "word_b": "わせだ",
+    "token_a": "▁",
+    "token_b": "▁",
+    "logit_a": 33.09204864501953,
+    "logit_b": 33.09204864501953,
+    "prefers_a": false
+  },
+  {
+    "word_a": "早稲田",
+    "word_b": "うえのこうえん（じゅんかん））",
+    "token_a": "▁",
+    "token_b": "▁",
+    "logit_a": 33.023536682128906,
+    "logit_b": 33.023536682128906,
+    "prefers_a": false
+  },
+  {
+    "word_a": "上野公園（循環））",
+    "word_b": "Aquarena",
+    "token_a": "▁",
+    "token_b": "▁Aqua",
+    "logit_a": 29.160465240478516,
+    "logit_b": 27.06364631652832,
+    "prefers_a": true
+  },
+  {
+    "word_a": "Aquarena",
+    "word_b": "Wetlands",
+    "token_a": "▁Aqua",
+    "token_b": "▁Wet",
+    "logit_a": 24.02322769165039,
+    "logit_b": 22.030860900878906,
+    "prefers_a": true
+  },
+  {
+    "word_a": "Wetlands",
+    "word_b": "Project",
+    "token_a": "▁Wet",
+    "token_b": "▁Project",
+    "logit_a": 27.572410583496094,
+    "logit_b": 22.819990158081055,
+    "prefers_a": true
+  },
+  {
+    "word_a": "Project",
+    "word_b": "glossary",
+    "token_a": "▁Project",
+    "token_b": "▁gloss",
+    "logit_a": 21.142757415771484,
+    "logit_b": 8.030803680419922,
+    "prefers_a": true
+  },
+  {
+    "word_a": "glossary",
+    "word_b": "termsのていぎでは、せいぶつがくのけんきゅうたいしょうにはこうぞう・きのう・せいちょう・はっせい・しんか・ぶんぷ・ぶんるいをふくむとしている",
+    "token_a": "▁gloss",
+    "token_b": "▁terms",
+    "logit_a": 13.439873695373535,
+    "logit_b": 11.658965110778809,
+    "prefers_a": true
+  },
+  {
+    "word_a": "termsの定義では、生物学の研究対象には構造・機能・成長・発生・進化・分布・分類を含むとしている",
+    "word_b": "ありすとてれすのどうぶつがくうえのちょさくとしてのこっているものとしてはHistoria",
+    "token_a": "▁terms",
+    "token_b": "▁",
+    "logit_a": 27.139347076416016,
+    "logit_b": 36.16941833496094,
+    "prefers_a": false
+  },
+  {
+    "word_a": "アリストテレスの動物学上の著作として残っているものとしてはHistoria",
+    "word_b": "animalium『どうぶつし』、De",
+    "token_a": "▁",
+    "token_b": "▁animali",
+    "logit_a": 35.17686462402344,
+    "logit_b": 22.454341888427734,
+    "prefers_a": true
+  },
+  {
+    "word_a": "animalium『動物誌』、De",
+    "word_b": "generatione",
+    "token_a": "▁animali",
+    "token_b": "▁generation",
+    "logit_a": 19.75371551513672,
+    "logit_b": 19.760305404663086,
+    "prefers_a": false
+  },
+  {
+    "word_a": "generatione",
+    "word_b": "animalium『どうぶつはっせいろん』、De",
+    "token_a": "▁generation",
+    "token_b": "▁animali",
+    "logit_a": 17.072898864746094,
+    "logit_b": 17.721416473388672,
+    "prefers_a": false
+  },
+  {
+    "word_a": "animalium『動物発生論』、De",
+    "word_b": "partibus",
+    "token_a": "▁animali",
+    "token_b": "▁par",
+    "logit_a": 22.373397827148438,
+    "logit_b": 26.284698486328125,
+    "prefers_a": false
+  },
+  {
+    "word_a": "partibus",
+    "word_b": "animalium『どうぶつぶぶんろん』、De",
+    "token_a": "▁par",
+    "token_b": "▁animali",
+    "logit_a": 36.0792350769043,
+    "logit_b": 27.588850021362305,
+    "prefers_a": true
+  },
+  {
+    "word_a": "animalium『動物部分論』、De",
+    "word_b": "anima『こころについて』（『れいこんろん』とも）がある",
+    "token_a": "▁animali",
+    "token_b": "▁anima",
+    "logit_a": 21.92076873779297,
+    "logit_b": 24.130605697631836,
+    "prefers_a": false
+  },
+  {
+    "word_a": "anima『心について』（『霊魂論』とも）がある",
+    "word_b": "げのむ",
+    "token_a": "▁anima",
+    "token_b": "▁",
+    "logit_a": 19.70191192626953,
+    "logit_b": 29.414016723632812,
+    "prefers_a": false
+  },
+  {
+    "word_a": "ゲノム",
+    "word_b": "genome",
+    "token_a": "▁",
+    "token_b": "▁genom",
+    "logit_a": 34.35832977294922,
+    "logit_b": 30.897138595581055,
+    "prefers_a": true
+  },
+  {
+    "word_a": "genome",
+    "word_b": "というごはいでんし",
+    "token_a": "▁genom",
+    "token_b": "▁",
+    "logit_a": 17.44087028503418,
+    "logit_b": 19.09868621826172,
+    "prefers_a": false
+  },
+  {
+    "word_a": "という語は遺伝子",
+    "word_b": "gene",
+    "token_a": "▁",
+    "token_b": "▁gene",
+    "logit_a": 29.187402725219727,
+    "logit_b": 34.32738494873047,
+    "prefers_a": false
+  },
+  {
+    "word_a": "gene",
+    "word_b": "と、そうたいをあらわすせつびご",
+    "token_a": "▁gene",
+    "token_b": "▁",
+    "logit_a": 11.749650001525879,
+    "logit_b": 22.887454986572266,
+    "prefers_a": false
+  },
+  {
+    "word_a": "と、総体を表す接尾語",
+    "word_b": "-ome",
+    "token_a": "▁",
+    "token_b": "▁-",
+    "logit_a": 28.290882110595703,
+    "logit_b": 32.5531005859375,
+    "prefers_a": false
+  },
+  {
+    "word_a": "-ome",
+    "word_b": "のごうせいごである",
+    "token_a": "▁-",
+    "token_b": "▁",
+    "logit_a": 30.567142486572266,
+    "logit_b": 27.796451568603516,
+    "prefers_a": true
+  },
+  {
+    "word_a": "の合成語である",
+    "word_b": "Biology",
+    "token_a": "▁",
+    "token_b": "▁Bi",
+    "logit_a": 25.767131805419922,
+    "logit_b": 20.808368682861328,
+    "prefers_a": true
+  },
+  {
+    "word_a": "Biology",
+    "word_b": "というごは、「せいめい」をいみするぎりしゃごの",
+    "token_a": "▁Bi",
+    "token_b": "▁",
+    "logit_a": 30.09652328491211,
+    "logit_b": 26.889507293701172,
+    "prefers_a": true
+  },
+  {
+    "word_a": "という語は、「生命」を意味するギリシャ語の",
+    "word_b": "βίος",
+    "token_a": "▁",
+    "token_b": "▁",
+    "logit_a": 26.322111129760742,
+    "logit_b": 26.322111129760742,
+    "prefers_a": false
+  },
+  {
+    "word_a": "βίος",
+    "word_b": "(bios)",
+    "token_a": "▁",
+    "token_b": "▁(",
+    "logit_a": 42.234718322753906,
+    "logit_b": 40.86997985839844,
+    "prefers_a": true
+  },
+  {
+    "word_a": "(bios)",
+    "word_b": "と「ことば・ろん」をいみする",
+    "token_a": "▁(",
+    "token_b": "▁",
+    "logit_a": 30.890487670898438,
+    "logit_b": 23.10810089111328,
+    "prefers_a": true
+  },
+  {
+    "word_a": "と「言葉・論」を意味する",
+    "word_b": "λόγος",
+    "token_a": "▁",
+    "token_b": "▁λόγος",
+    "logit_a": 27.645015716552734,
+    "logit_b": 21.620548248291016,
+    "prefers_a": true
+  },
+  {
+    "word_a": "λόγος",
+    "word_b": "(logos)",
+    "token_a": "▁λόγος",
+    "token_b": "▁(",
+    "logit_a": 12.063957214355469,
+    "logit_b": 17.336881637573242,
+    "prefers_a": false
+  },
+  {
+    "word_a": "(logos)",
+    "word_b": "からつくられた",
+    "token_a": "▁(",
+    "token_b": "▁",
+    "logit_a": 33.10466766357422,
+    "logit_b": 23.868736267089844,
+    "prefers_a": true
+  },
+  {
+    "word_a": "から造られた",
+    "word_b": "いっぽう、せいめいかがく",
+    "token_a": "▁",
+    "token_b": "▁",
+    "logit_a": 32.80204772949219,
+    "logit_b": 32.80204772949219,
+    "prefers_a": false
+  },
+  {
+    "word_a": "一方、生命科学",
+    "word_b": "(Life",
+    "token_a": "▁",
+    "token_b": "▁(",
+    "logit_a": 33.483245849609375,
+    "logit_b": 30.986228942871094,
+    "prefers_a": true
+  },
+  {
+    "word_a": "(Life",
+    "word_b": "science)",
+    "token_a": "▁(",
+    "token_b": "▁science",
+    "logit_a": 34.32728576660156,
+    "logit_b": 30.241741180419922,
+    "prefers_a": true
+  },
+  {
+    "word_a": "science)",
+    "word_b": "やせいぶつかがく",
+    "token_a": "▁science",
+    "token_b": "▁",
+    "logit_a": 14.913156509399414,
+    "logit_b": 17.981855392456055,
+    "prefers_a": false
+  },
+  {
+    "word_a": "や生物科学",
+    "word_b": "(Bioscience,",
+    "token_a": "▁",
+    "token_b": "▁(",
+    "logit_a": 35.89348602294922,
+    "logit_b": 35.03526306152344,
+    "prefers_a": true
+  },
+  {
+    "word_a": "(Bioscience,",
+    "word_b": "Biological",
+    "token_a": "▁(",
+    "token_b": "▁Bi",
+    "logit_a": 31.585649490356445,
+    "logit_b": 28.633541107177734,
+    "prefers_a": true
+  },
+  {
+    "word_a": "Biological",
+    "word_b": "というごは、ぶんしせいぶつがくがたんじょうしてからあたらしくつくられたものである",
+    "token_a": "▁Bi",
+    "token_b": "▁",
+    "logit_a": 26.942501068115234,
+    "logit_b": 27.475915908813477,
+    "prefers_a": false
+  },
+  {
+    "word_a": "という語は、分子生物学が誕生してから新しく作られたものである",
+    "word_b": "しゃかい",
+    "token_a": "▁",
+    "token_b": "▁",
+    "logit_a": 31.201669692993164,
+    "logit_b": 31.201669692993164,
+    "prefers_a": false
+  },
+  {
+    "word_a": "社会",
+    "word_b": "(せいぶつ)",
+    "token_a": "▁",
+    "token_b": "▁(",
+    "logit_a": 23.219615936279297,
+    "logit_b": 21.076025009155273,
+    "prefers_a": true
+  },
+  {
+    "word_a": "(生物)",
+    "word_b": "しゃかいてきどうぶつ",
+    "token_a": "▁(",
+    "token_b": "▁",
+    "logit_a": 33.8382568359375,
+    "logit_b": 27.476032257080078,
+    "prefers_a": true
+  },
+  {
+    "word_a": "社会的動物",
+    "word_b": "しゃかいせいこんちゅう",
+    "token_a": "▁",
+    "token_b": "▁",
+    "logit_a": 26.877582550048828,
+    "logit_b": 26.877582550048828,
+    "prefers_a": false
+  },
+  {
+    "word_a": "社会性昆虫",
+    "word_b": "information",
+    "token_a": "▁",
+    "token_b": "▁information",
+    "logit_a": 33.93864059448242,
+    "logit_b": 27.46024513244629,
+    "prefers_a": true
+  },
+  {
+    "word_a": "information",
+    "word_b": "engineering",
+    "token_a": "▁information",
+    "token_b": "▁engineering",
+    "logit_a": 19.199872970581055,
+    "logit_b": 13.901739120483398,
+    "prefers_a": true
+  },
+  {
+    "word_a": "engineering",
+    "word_b": "をかかげるれいに、けんぶりっじだいがくの",
+    "token_a": "▁engineering",
+    "token_b": "▁",
+    "logit_a": 13.901739120483398,
+    "logit_b": 22.887454986572266,
+    "prefers_a": false
+  },
+  {
+    "word_a": "を掲げる例に、ケンブリッジ大学の",
+    "word_b": "Information",
+    "token_a": "▁",
+    "token_b": "▁Information",
+    "logit_a": 35.015228271484375,
+    "logit_b": 31.86358642578125,
+    "prefers_a": true
+  },
+  {
+    "word_a": "Information",
+    "word_b": "Engineering",
+    "token_a": "▁Information",
+    "token_b": "▁Engineering",
+    "logit_a": 23.300968170166016,
+    "logit_b": 19.13694953918457,
+    "prefers_a": true
+  },
+  {
+    "word_a": "Engineering",
+    "word_b": "Division",
+    "token_a": "▁Engineering",
+    "token_b": "▁Division",
+    "logit_a": 19.13694953918457,
+    "logit_b": 15.95532512664795,
+    "prefers_a": true
+  },
+  {
+    "word_a": "Division",
+    "word_b": "がある",
+    "token_a": "▁Division",
+    "token_b": "▁",
+    "logit_a": 15.95532512664795,
+    "logit_b": 22.887454986572266,
+    "prefers_a": false
+  },
+  {
+    "word_a": "がある",
+    "word_b": "また、ちゅーりんぐましんTMのげんご",
+    "token_a": "▁",
+    "token_b": "▁また",
+    "logit_a": 27.219301223754883,
+    "logit_b": 23.424983978271484,
+    "prefers_a": true
+  },
+  {
+    "word_a": "また、チューリングマシンTMの言語",
+    "word_b": "L(TM)",
+    "token_a": "▁また",
+    "token_b": "▁L",
+    "logit_a": 39.24909973144531,
+    "logit_b": 35.39598083496094,
+    "prefers_a": true
+  },
+  {
+    "word_a": "L(TM)",
+    "word_b": "とは、てーぷに",
+    "token_a": "▁L",
+    "token_b": "▁",
+    "logit_a": 9.016641616821289,
+    "logit_b": 13.966303825378418,
+    "prefers_a": false
+  },
+  {
+    "word_a": "とは、テープに",
+    "word_b": "をせっとしたあと、TMをどうささせるとじゅりじょうたいにいっってていしするような",
+    "token_a": "▁",
+    "token_b": "▁",
+    "logit_a": 24.75252914428711,
+    "logit_b": 24.75252914428711,
+    "prefers_a": false
+  },
+  {
+    "word_a": "をセットしたあと、TMを動作させると受理状態に入って停止するような",
+    "word_b": "のしゅうごうからなるげんご(TMにんしきかのうなげんご)のことである",
+    "token_a": "▁",
+    "token_b": "▁",
+    "logit_a": 29.24612808227539,
+    "logit_b": 29.24612808227539,
+    "prefers_a": false
+  },
+  {
+    "word_a": "の集合からなる言語(TM認識可能な言語)のことである",
+    "word_b": "「しょうしゅうごう」",
+    "token_a": "▁",
+    "token_b": "▁「",
+    "logit_a": 30.962276458740234,
+    "logit_b": 29.23320770263672,
+    "prefers_a": true
+  },
+  {
+    "word_a": "「商集合」",
+    "word_b": "は、",
+    "token_a": "▁「",
+    "token_b": "▁",
+    "logit_a": 32.96796417236328,
+    "logit_b": 26.154129028320312,
+    "prefers_a": true
+  },
+  {
+    "word_a": "は、",
+    "word_b": "にふくまれるもじれつ",
+    "token_a": "▁",
+    "token_b": "▁",
+    "logit_a": 25.493621826171875,
+    "logit_b": 25.493621826171875,
+    "prefers_a": false
+  },
+  {
+    "word_a": "に含まれる文字列",
+    "word_b": "にたいして、",
+    "token_a": "▁",
+    "token_b": "▁",
+    "logit_a": 30.51076316833496,
+    "logit_b": 30.51076316833496,
+    "prefers_a": false
+  },
+  {
+    "word_a": "に対して、",
+    "word_b": "がそんざいするときに、すべての",
+    "token_a": "▁",
+    "token_b": "▁",
+    "logit_a": 22.795957565307617,
+    "logit_b": 22.795957565307617,
+    "prefers_a": false
+  }
+]

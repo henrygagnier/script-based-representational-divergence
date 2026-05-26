@@ -1,0 +1,11 @@
+{
+  "language": "uyghur",
+  "script_a": "Arabic-script",
+  "script_b": "ULY Latin",
+  "n_pairs": 2000,
+  "n_words_a": 500,
+  "n_words_b": 500,
+  "source": "OPUS-100 en-ug",
+  "conversion_tool": "turkicnlp uig",
+  "built_at": "2026-05-18T00:11:47.793171+00:00"
+}

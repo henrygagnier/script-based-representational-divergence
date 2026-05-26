@@ -1,0 +1,2502 @@
+[
+  {
+    "query_idx": 0,
+    "rank": 1,
+    "rr": 1.0
+  },
+  {
+    "query_idx": 1,
+    "rank": 1,
+    "rr": 1.0
+  },
+  {
+    "query_idx": 2,
+    "rank": 1,
+    "rr": 1.0
+  },
+  {
+    "query_idx": 3,
+    "rank": 1,
+    "rr": 1.0
+  },
+  {
+    "query_idx": 4,
+    "rank": 65,
+    "rr": 0.015384615384615385
+  },
+  {
+    "query_idx": 5,
+    "rank": 1,
+    "rr": 1.0
+  },
+  {
+    "query_idx": 6,
+    "rank": 1,
+    "rr": 1.0
+  },
+  {
+    "query_idx": 7,
+    "rank": 1,
+    "rr": 1.0
+  },
+  {
+    "query_idx": 8,
+    "rank": 1,
+    "rr": 1.0
+  },
+  {
+    "query_idx": 9,
+    "rank": 1,
+    "rr": 1.0
+  },
+  {
+    "query_idx": 10,
+    "rank": 1,
+    "rr": 1.0
+  },
+  {
+    "query_idx": 11,
+    "rank": 1,
+    "rr": 1.0
+  },
+  {
+    "query_idx": 12,
+    "rank": 7,
+    "rr": 0.14285714285714285
+  },
+  {
+    "query_idx": 13,
+    "rank": 1,
+    "rr": 1.0
+  },
+  {
+    "query_idx": 14,
+    "rank": 1,
+    "rr": 1.0
+  },
+  {
+    "query_idx": 15,
+    "rank": 1,
+    "rr": 1.0
+  },
+  {
+    "query_idx": 16,
+    "rank": 1,
+    "rr": 1.0
+  },
+  {
+    "query_idx": 17,
+    "rank": 1,
+    "rr": 1.0
+  },
+  {
+    "query_idx": 18,
+    "rank": 1,
+    "rr": 1.0
+  },
+  {
+    "query_idx": 19,
+    "rank": 1,
+    "rr": 1.0
+  },
+  {
+    "query_idx": 20,
+    "rank": 6,
+    "rr": 0.16666666666666666
+  },
+  {
+    "query_idx": 21,
+    "rank": 1,
+    "rr": 1.0
+  },
+  {
+    "query_idx": 22,
+    "rank": 42,
+    "rr": 0.023809523809523808
+  },
+  {
+    "query_idx": 23,
+    "rank": 1,
+    "rr": 1.0
+  },
+  {
+    "query_idx": 24,
+    "rank": 1,
+    "rr": 1.0
+  },
+  {
+    "query_idx": 25,
+    "rank": 1,
+    "rr": 1.0
+  },
+  {
+    "query_idx": 26,
+    "rank": 1,
+    "rr": 1.0
+  },
+  {
+    "query_idx": 27,
+    "rank": 1,
+    "rr": 1.0
+  },
+  {
+    "query_idx": 28,
+    "rank": 56,
+    "rr": 0.017857142857142856
+  },
+  {
+    "query_idx": 29,
+    "rank": 1,
+    "rr": 1.0
+  },
+  {
+    "query_idx": 30,
+    "rank": 1,
+    "rr": 1.0
+  },
+  {
+    "query_idx": 31,
+    "rank": 3,
+    "rr": 0.3333333333333333
+  },
+  {
+    "query_idx": 32,
+    "rank": 2,
+    "rr": 0.5
+  },
+  {
+    "query_idx": 33,
+    "rank": 1,
+    "rr": 1.0
+  },
+  {
+    "query_idx": 34,
+    "rank": 1,
+    "rr": 1.0
+  },
+  {
+    "query_idx": 35,
+    "rank": 1,
+    "rr": 1.0
+  },
+  {
+    "query_idx": 36,
+    "rank": 1,
+    "rr": 1.0
+  },
+  {
+    "query_idx": 37,
+    "rank": 2,
+    "rr": 0.5
+  },
+  {
+    "query_idx": 38,
+    "rank": 1,
+    "rr": 1.0
+  },
+  {
+    "query_idx": 39,
+    "rank": 2,
+    "rr": 0.5
+  },
+  {
+    "query_idx": 40,
+    "rank": 21,
+    "rr": 0.047619047619047616
+  },
+  {
+    "query_idx": 41,
+    "rank": 4,
+    "rr": 0.25
+  },
+  {
+    "query_idx": 42,
+    "rank": 1398,
+    "rr": 0.000715307582260372
+  },
+  {
+    "query_idx": 43,
+    "rank": 1,
+    "rr": 1.0
+  },
+  {
+    "query_idx": 44,
+    "rank": 1,
+    "rr": 1.0
+  },
+  {
+    "query_idx": 45,
+    "rank": 1,
+    "rr": 1.0
+  },
+  {
+    "query_idx": 46,
+    "rank": 1,
+    "rr": 1.0
+  },
+  {
+    "query_idx": 47,
+    "rank": 10,
+    "rr": 0.1
+  },
+  {
+    "query_idx": 48,
+    "rank": 1,
+    "rr": 1.0
+  },
+  {
+    "query_idx": 49,
+    "rank": 1,
+    "rr": 1.0
+  },
+  {
+    "query_idx": 50,
+    "rank": 12,
+    "rr": 0.08333333333333333
+  },
+  {
+    "query_idx": 51,
+    "rank": 1,
+    "rr": 1.0
+  },
+  {
+    "query_idx": 52,
+    "rank": 44,
+    "rr": 0.022727272727272728
+  },
+  {
+    "query_idx": 53,
+    "rank": 1,
+    "rr": 1.0
+  },
+  {
+    "query_idx": 54,
+    "rank": 3,
+    "rr": 0.3333333333333333
+  },
+  {
+    "query_idx": 55,
+    "rank": 1,
+    "rr": 1.0
+  },
+  {
+    "query_idx": 56,
+    "rank": 1,
+    "rr": 1.0
+  },
+  {
+    "query_idx": 57,
+    "rank": 18,
+    "rr": 0.05555555555555555
+  },
+  {
+    "query_idx": 58,
+    "rank": 1,
+    "rr": 1.0
+  },
+  {
+    "query_idx": 59,
+    "rank": 1,
+    "rr": 1.0
+  },
+  {
+    "query_idx": 60,
+    "rank": 1,
+    "rr": 1.0
+  },
+  {
+    "query_idx": 61,
+    "rank": 1,
+    "rr": 1.0
+  },
+  {
+    "query_idx": 62,
+    "rank": 1,
+    "rr": 1.0
+  },
+  {
+    "query_idx": 63,
+    "rank": 26,
+    "rr": 0.038461538461538464
+  },
+  {
+    "query_idx": 64,
+    "rank": 10,
+    "rr": 0.1
+  },
+  {
+    "query_idx": 65,
+    "rank": 19,
+    "rr": 0.05263157894736842
+  },
+  {
+    "query_idx": 66,
+    "rank": 1,
+    "rr": 1.0
+  },
+  {
+    "query_idx": 67,
+    "rank": 2,
+    "rr": 0.5
+  },
+  {
+    "query_idx": 68,
+    "rank": 183,
+    "rr": 0.00546448087431694
+  },
+  {
+    "query_idx": 69,
+    "rank": 6,
+    "rr": 0.16666666666666666
+  },
+  {
+    "query_idx": 70,
+    "rank": 1,
+    "rr": 1.0
+  },
+  {
+    "query_idx": 71,
+    "rank": 2,
+    "rr": 0.5
+  },
+  {
+    "query_idx": 72,
+    "rank": 480,
+    "rr": 0.0020833333333333333
+  },
+  {
+    "query_idx": 73,
+    "rank": 1,
+    "rr": 1.0
+  },
+  {
+    "query_idx": 74,
+    "rank": 6,
+    "rr": 0.16666666666666666
+  },
+  {
+    "query_idx": 75,
+    "rank": 4,
+    "rr": 0.25
+  },
+  {
+    "query_idx": 76,
+    "rank": 1,
+    "rr": 1.0
+  },
+  {
+    "query_idx": 77,
+    "rank": 1,
+    "rr": 1.0
+  },
+  {
+    "query_idx": 78,
+    "rank": 1,
+    "rr": 1.0
+  },
+  {
+    "query_idx": 79,
+    "rank": 1,
+    "rr": 1.0
+  },
+  {
+    "query_idx": 80,
+    "rank": 1,
+    "rr": 1.0
+  },
+  {
+    "query_idx": 81,
+    "rank": 1,
+    "rr": 1.0
+  },
+  {
+    "query_idx": 82,
+    "rank": 1,
+    "rr": 1.0
+  },
+  {
+    "query_idx": 83,
+    "rank": 3,
+    "rr": 0.3333333333333333
+  },
+  {
+    "query_idx": 84,
+    "rank": 7,
+    "rr": 0.14285714285714285
+  },
+  {
+    "query_idx": 85,
+    "rank": 1,
+    "rr": 1.0
+  },
+  {
+    "query_idx": 86,
+    "rank": 1,
+    "rr": 1.0
+  },
+  {
+    "query_idx": 87,
+    "rank": 1,
+    "rr": 1.0
+  },
+  {
+    "query_idx": 88,
+    "rank": 1,
+    "rr": 1.0
+  },
+  {
+    "query_idx": 89,
+    "rank": 1,
+    "rr": 1.0
+  },
+  {
+    "query_idx": 90,
+    "rank": 1,
+    "rr": 1.0
+  },
+  {
+    "query_idx": 91,
+    "rank": 1,
+    "rr": 1.0
+  },
+  {
+    "query_idx": 92,
+    "rank": 19,
+    "rr": 0.05263157894736842
+  },
+  {
+    "query_idx": 93,
+    "rank": 1,
+    "rr": 1.0
+  },
+  {
+    "query_idx": 94,
+    "rank": 63,
+    "rr": 0.015873015873015872
+  },
+  {
+    "query_idx": 95,
+    "rank": 6,
+    "rr": 0.16666666666666666
+  },
+  {
+    "query_idx": 96,
+    "rank": 1,
+    "rr": 1.0
+  },
+  {
+    "query_idx": 97,
+    "rank": 2,
+    "rr": 0.5
+  },
+  {
+    "query_idx": 98,
+    "rank": 8,
+    "rr": 0.125
+  },
+  {
+    "query_idx": 99,
+    "rank": 1,
+    "rr": 1.0
+  },
+  {
+    "query_idx": 100,
+    "rank": 4,
+    "rr": 0.25
+  },
+  {
+    "query_idx": 101,
+    "rank": 29,
+    "rr": 0.034482758620689655
+  },
+  {
+    "query_idx": 102,
+    "rank": 1,
+    "rr": 1.0
+  },
+  {
+    "query_idx": 103,
+    "rank": 3,
+    "rr": 0.3333333333333333
+  },
+  {
+    "query_idx": 104,
+    "rank": 2,
+    "rr": 0.5
+  },
+  {
+    "query_idx": 105,
+    "rank": 1,
+    "rr": 1.0
+  },
+  {
+    "query_idx": 106,
+    "rank": 4,
+    "rr": 0.25
+  },
+  {
+    "query_idx": 107,
+    "rank": 13,
+    "rr": 0.07692307692307693
+  },
+  {
+    "query_idx": 108,
+    "rank": 3,
+    "rr": 0.3333333333333333
+  },
+  {
+    "query_idx": 109,
+    "rank": 7,
+    "rr": 0.14285714285714285
+  },
+  {
+    "query_idx": 110,
+    "rank": 5,
+    "rr": 0.2
+  },
+  {
+    "query_idx": 111,
+    "rank": 4,
+    "rr": 0.25
+  },
+  {
+    "query_idx": 112,
+    "rank": 243,
+    "rr": 0.00411522633744856
+  },
+  {
+    "query_idx": 113,
+    "rank": 1,
+    "rr": 1.0
+  },
+  {
+    "query_idx": 114,
+    "rank": 1,
+    "rr": 1.0
+  },
+  {
+    "query_idx": 115,
+    "rank": 1033,
+    "rr": 0.000968054211035818
+  },
+  {
+    "query_idx": 116,
+    "rank": 3,
+    "rr": 0.3333333333333333
+  },
+  {
+    "query_idx": 117,
+    "rank": 1,
+    "rr": 1.0
+  },
+  {
+    "query_idx": 118,
+    "rank": 1,
+    "rr": 1.0
+  },
+  {
+    "query_idx": 119,
+    "rank": 1,
+    "rr": 1.0
+  },
+  {
+    "query_idx": 120,
+    "rank": 1,
+    "rr": 1.0
+  },
+  {
+    "query_idx": 121,
+    "rank": 130,
+    "rr": 0.007692307692307693
+  },
+  {
+    "query_idx": 122,
+    "rank": 1,
+    "rr": 1.0
+  },
+  {
+    "query_idx": 123,
+    "rank": 2,
+    "rr": 0.5
+  },
+  {
+    "query_idx": 124,
+    "rank": 1,
+    "rr": 1.0
+  },
+  {
+    "query_idx": 125,
+    "rank": 1,
+    "rr": 1.0
+  },
+  {
+    "query_idx": 126,
+    "rank": 1,
+    "rr": 1.0
+  },
+  {
+    "query_idx": 127,
+    "rank": 269,
+    "rr": 0.0037174721189591076
+  },
+  {
+    "query_idx": 128,
+    "rank": 2,
+    "rr": 0.5
+  },
+  {
+    "query_idx": 129,
+    "rank": 9,
+    "rr": 0.1111111111111111
+  },
+  {
+    "query_idx": 130,
+    "rank": 4,
+    "rr": 0.25
+  },
+  {
+    "query_idx": 131,
+    "rank": 42,
+    "rr": 0.023809523809523808
+  },
+  {
+    "query_idx": 132,
+    "rank": 1,
+    "rr": 1.0
+  },
+  {
+    "query_idx": 133,
+    "rank": 1,
+    "rr": 1.0
+  },
+  {
+    "query_idx": 134,
+    "rank": 1,
+    "rr": 1.0
+  },
+  {
+    "query_idx": 135,
+    "rank": 21,
+    "rr": 0.047619047619047616
+  },
+  {
+    "query_idx": 136,
+    "rank": 2,
+    "rr": 0.5
+  },
+  {
+    "query_idx": 137,
+    "rank": 1,
+    "rr": 1.0
+  },
+  {
+    "query_idx": 138,
+    "rank": 1,
+    "rr": 1.0
+  },
+  {
+    "query_idx": 139,
+    "rank": 1,
+    "rr": 1.0
+  },
+  {
+    "query_idx": 140,
+    "rank": 84,
+    "rr": 0.011904761904761904
+  },
+  {
+    "query_idx": 141,
+    "rank": 1,
+    "rr": 1.0
+  },
+  {
+    "query_idx": 142,
+    "rank": 1,
+    "rr": 1.0
+  },
+  {
+    "query_idx": 143,
+    "rank": 1,
+    "rr": 1.0
+  },
+  {
+    "query_idx": 144,
+    "rank": 1,
+    "rr": 1.0
+  },
+  {
+    "query_idx": 145,
+    "rank": 1,
+    "rr": 1.0
+  },
+  {
+    "query_idx": 146,
+    "rank": 1,
+    "rr": 1.0
+  },
+  {
+    "query_idx": 147,
+    "rank": 1,
+    "rr": 1.0
+  },
+  {
+    "query_idx": 148,
+    "rank": 2,
+    "rr": 0.5
+  },
+  {
+    "query_idx": 149,
+    "rank": 1,
+    "rr": 1.0
+  },
+  {
+    "query_idx": 150,
+    "rank": 4,
+    "rr": 0.25
+  },
+  {
+    "query_idx": 151,
+    "rank": 1,
+    "rr": 1.0
+  },
+  {
+    "query_idx": 152,
+    "rank": 2,
+    "rr": 0.5
+  },
+  {
+    "query_idx": 153,
+    "rank": 1,
+    "rr": 1.0
+  },
+  {
+    "query_idx": 154,
+    "rank": 3,
+    "rr": 0.3333333333333333
+  },
+  {
+    "query_idx": 155,
+    "rank": 1,
+    "rr": 1.0
+  },
+  {
+    "query_idx": 156,
+    "rank": 8,
+    "rr": 0.125
+  },
+  {
+    "query_idx": 157,
+    "rank": 1,
+    "rr": 1.0
+  },
+  {
+    "query_idx": 158,
+    "rank": 1,
+    "rr": 1.0
+  },
+  {
+    "query_idx": 159,
+    "rank": 1,
+    "rr": 1.0
+  },
+  {
+    "query_idx": 160,
+    "rank": 3,
+    "rr": 0.3333333333333333
+  },
+  {
+    "query_idx": 161,
+    "rank": 1,
+    "rr": 1.0
+  },
+  {
+    "query_idx": 162,
+    "rank": 1,
+    "rr": 1.0
+  },
+  {
+    "query_idx": 163,
+    "rank": 1,
+    "rr": 1.0
+  },
+  {
+    "query_idx": 164,
+    "rank": 1,
+    "rr": 1.0
+  },
+  {
+    "query_idx": 165,
+    "rank": 2,
+    "rr": 0.5
+  },
+  {
+    "query_idx": 166,
+    "rank": 1,
+    "rr": 1.0
+  },
+  {
+    "query_idx": 167,
+    "rank": 1,
+    "rr": 1.0
+  },
+  {
+    "query_idx": 168,
+    "rank": 2,
+    "rr": 0.5
+  },
+  {
+    "query_idx": 169,
+    "rank": 1,
+    "rr": 1.0
+  },
+  {
+    "query_idx": 170,
+    "rank": 1,
+    "rr": 1.0
+  },
+  {
+    "query_idx": 171,
+    "rank": 1,
+    "rr": 1.0
+  },
+  {
+    "query_idx": 172,
+    "rank": 1,
+    "rr": 1.0
+  },
+  {
+    "query_idx": 173,
+    "rank": 1,
+    "rr": 1.0
+  },
+  {
+    "query_idx": 174,
+    "rank": 1,
+    "rr": 1.0
+  },
+  {
+    "query_idx": 175,
+    "rank": 1,
+    "rr": 1.0
+  },
+  {
+    "query_idx": 176,
+    "rank": 73,
+    "rr": 0.0136986301369863
+  },
+  {
+    "query_idx": 177,
+    "rank": 1,
+    "rr": 1.0
+  },
+  {
+    "query_idx": 178,
+    "rank": 1,
+    "rr": 1.0
+  },
+  {
+    "query_idx": 179,
+    "rank": 11,
+    "rr": 0.09090909090909091
+  },
+  {
+    "query_idx": 180,
+    "rank": 1,
+    "rr": 1.0
+  },
+  {
+    "query_idx": 181,
+    "rank": 1,
+    "rr": 1.0
+  },
+  {
+    "query_idx": 182,
+    "rank": 73,
+    "rr": 0.0136986301369863
+  },
+  {
+    "query_idx": 183,
+    "rank": 1,
+    "rr": 1.0
+  },
+  {
+    "query_idx": 184,
+    "rank": 11,
+    "rr": 0.09090909090909091
+  },
+  {
+    "query_idx": 185,
+    "rank": 8,
+    "rr": 0.125
+  },
+  {
+    "query_idx": 186,
+    "rank": 1,
+    "rr": 1.0
+  },
+  {
+    "query_idx": 187,
+    "rank": 3,
+    "rr": 0.3333333333333333
+  },
+  {
+    "query_idx": 188,
+    "rank": 1,
+    "rr": 1.0
+  },
+  {
+    "query_idx": 189,
+    "rank": 1,
+    "rr": 1.0
+  },
+  {
+    "query_idx": 190,
+    "rank": 1,
+    "rr": 1.0
+  },
+  {
+    "query_idx": 191,
+    "rank": 1,
+    "rr": 1.0
+  },
+  {
+    "query_idx": 192,
+    "rank": 1,
+    "rr": 1.0
+  },
+  {
+    "query_idx": 193,
+    "rank": 2,
+    "rr": 0.5
+  },
+  {
+    "query_idx": 194,
+    "rank": 1,
+    "rr": 1.0
+  },
+  {
+    "query_idx": 195,
+    "rank": 9,
+    "rr": 0.1111111111111111
+  },
+  {
+    "query_idx": 196,
+    "rank": 1,
+    "rr": 1.0
+  },
+  {
+    "query_idx": 197,
+    "rank": 1,
+    "rr": 1.0
+  },
+  {
+    "query_idx": 198,
+    "rank": 2,
+    "rr": 0.5
+  },
+  {
+    "query_idx": 199,
+    "rank": 1,
+    "rr": 1.0
+  },
+  {
+    "query_idx": 200,
+    "rank": 1,
+    "rr": 1.0
+  },
+  {
+    "query_idx": 201,
+    "rank": 2,
+    "rr": 0.5
+  },
+  {
+    "query_idx": 202,
+    "rank": 1,
+    "rr": 1.0
+  },
+  {
+    "query_idx": 203,
+    "rank": 1,
+    "rr": 1.0
+  },
+  {
+    "query_idx": 204,
+    "rank": 1,
+    "rr": 1.0
+  },
+  {
+    "query_idx": 205,
+    "rank": 1,
+    "rr": 1.0
+  },
+  {
+    "query_idx": 206,
+    "rank": 1,
+    "rr": 1.0
+  },
+  {
+    "query_idx": 207,
+    "rank": 67,
+    "rr": 0.014925373134328358
+  },
+  {
+    "query_idx": 208,
+    "rank": 32,
+    "rr": 0.03125
+  },
+  {
+    "query_idx": 209,
+    "rank": 1,
+    "rr": 1.0
+  },
+  {
+    "query_idx": 210,
+    "rank": 2,
+    "rr": 0.5
+  },
+  {
+    "query_idx": 211,
+    "rank": 27,
+    "rr": 0.037037037037037035
+  },
+  {
+    "query_idx": 212,
+    "rank": 1,
+    "rr": 1.0
+  },
+  {
+    "query_idx": 213,
+    "rank": 1,
+    "rr": 1.0
+  },
+  {
+    "query_idx": 214,
+    "rank": 1,
+    "rr": 1.0
+  },
+  {
+    "query_idx": 215,
+    "rank": 1,
+    "rr": 1.0
+  },
+  {
+    "query_idx": 216,
+    "rank": 1,
+    "rr": 1.0
+  },
+  {
+    "query_idx": 217,
+    "rank": 2,
+    "rr": 0.5
+  },
+  {
+    "query_idx": 218,
+    "rank": 13,
+    "rr": 0.07692307692307693
+  },
+  {
+    "query_idx": 219,
+    "rank": 1,
+    "rr": 1.0
+  },
+  {
+    "query_idx": 220,
+    "rank": 2,
+    "rr": 0.5
+  },
+  {
+    "query_idx": 221,
+    "rank": 1,
+    "rr": 1.0
+  },
+  {
+    "query_idx": 222,
+    "rank": 1,
+    "rr": 1.0
+  },
+  {
+    "query_idx": 223,
+    "rank": 1,
+    "rr": 1.0
+  },
+  {
+    "query_idx": 224,
+    "rank": 1,
+    "rr": 1.0
+  },
+  {
+    "query_idx": 225,
+    "rank": 1,
+    "rr": 1.0
+  },
+  {
+    "query_idx": 226,
+    "rank": 1,
+    "rr": 1.0
+  },
+  {
+    "query_idx": 227,
+    "rank": 1,
+    "rr": 1.0
+  },
+  {
+    "query_idx": 228,
+    "rank": 2,
+    "rr": 0.5
+  },
+  {
+    "query_idx": 229,
+    "rank": 17,
+    "rr": 0.058823529411764705
+  },
+  {
+    "query_idx": 230,
+    "rank": 1,
+    "rr": 1.0
+  },
+  {
+    "query_idx": 231,
+    "rank": 1,
+    "rr": 1.0
+  },
+  {
+    "query_idx": 232,
+    "rank": 2,
+    "rr": 0.5
+  },
+  {
+    "query_idx": 233,
+    "rank": 25,
+    "rr": 0.04
+  },
+  {
+    "query_idx": 234,
+    "rank": 70,
+    "rr": 0.014285714285714285
+  },
+  {
+    "query_idx": 235,
+    "rank": 1,
+    "rr": 1.0
+  },
+  {
+    "query_idx": 236,
+    "rank": 1,
+    "rr": 1.0
+  },
+  {
+    "query_idx": 237,
+    "rank": 3,
+    "rr": 0.3333333333333333
+  },
+  {
+    "query_idx": 238,
+    "rank": 14,
+    "rr": 0.07142857142857142
+  },
+  {
+    "query_idx": 239,
+    "rank": 1,
+    "rr": 1.0
+  },
+  {
+    "query_idx": 240,
+    "rank": 4,
+    "rr": 0.25
+  },
+  {
+    "query_idx": 241,
+    "rank": 1,
+    "rr": 1.0
+  },
+  {
+    "query_idx": 242,
+    "rank": 1,
+    "rr": 1.0
+  },
+  {
+    "query_idx": 243,
+    "rank": 5,
+    "rr": 0.2
+  },
+  {
+    "query_idx": 244,
+    "rank": 3,
+    "rr": 0.3333333333333333
+  },
+  {
+    "query_idx": 245,
+    "rank": 2,
+    "rr": 0.5
+  },
+  {
+    "query_idx": 246,
+    "rank": 90,
+    "rr": 0.011111111111111112
+  },
+  {
+    "query_idx": 247,
+    "rank": 1,
+    "rr": 1.0
+  },
+  {
+    "query_idx": 248,
+    "rank": 1,
+    "rr": 1.0
+  },
+  {
+    "query_idx": 249,
+    "rank": 1,
+    "rr": 1.0
+  },
+  {
+    "query_idx": 250,
+    "rank": 4,
+    "rr": 0.25
+  },
+  {
+    "query_idx": 251,
+    "rank": 1,
+    "rr": 1.0
+  },
+  {
+    "query_idx": 252,
+    "rank": 1,
+    "rr": 1.0
+  },
+  {
+    "query_idx": 253,
+    "rank": 1,
+    "rr": 1.0
+  },
+  {
+    "query_idx": 254,
+    "rank": 1,
+    "rr": 1.0
+  },
+  {
+    "query_idx": 255,
+    "rank": 1,
+    "rr": 1.0
+  },
+  {
+    "query_idx": 256,
+    "rank": 1,
+    "rr": 1.0
+  },
+  {
+    "query_idx": 257,
+    "rank": 1,
+    "rr": 1.0
+  },
+  {
+    "query_idx": 258,
+    "rank": 1,
+    "rr": 1.0
+  },
+  {
+    "query_idx": 259,
+    "rank": 1,
+    "rr": 1.0
+  },
+  {
+    "query_idx": 260,
+    "rank": 40,
+    "rr": 0.025
+  },
+  {
+    "query_idx": 261,
+    "rank": 1,
+    "rr": 1.0
+  },
+  {
+    "query_idx": 262,
+    "rank": 1,
+    "rr": 1.0
+  },
+  {
+    "query_idx": 263,
+    "rank": 1,
+    "rr": 1.0
+  },
+  {
+    "query_idx": 264,
+    "rank": 1,
+    "rr": 1.0
+  },
+  {
+    "query_idx": 265,
+    "rank": 1,
+    "rr": 1.0
+  },
+  {
+    "query_idx": 266,
+    "rank": 21,
+    "rr": 0.047619047619047616
+  },
+  {
+    "query_idx": 267,
+    "rank": 1,
+    "rr": 1.0
+  },
+  {
+    "query_idx": 268,
+    "rank": 1,
+    "rr": 1.0
+  },
+  {
+    "query_idx": 269,
+    "rank": 2,
+    "rr": 0.5
+  },
+  {
+    "query_idx": 270,
+    "rank": 1,
+    "rr": 1.0
+  },
+  {
+    "query_idx": 271,
+    "rank": 1,
+    "rr": 1.0
+  },
+  {
+    "query_idx": 272,
+    "rank": 1,
+    "rr": 1.0
+  },
+  {
+    "query_idx": 273,
+    "rank": 1,
+    "rr": 1.0
+  },
+  {
+    "query_idx": 274,
+    "rank": 2,
+    "rr": 0.5
+  },
+  {
+    "query_idx": 275,
+    "rank": 13,
+    "rr": 0.07692307692307693
+  },
+  {
+    "query_idx": 276,
+    "rank": 10,
+    "rr": 0.1
+  },
+  {
+    "query_idx": 277,
+    "rank": 5,
+    "rr": 0.2
+  },
+  {
+    "query_idx": 278,
+    "rank": 1,
+    "rr": 1.0
+  },
+  {
+    "query_idx": 279,
+    "rank": 1,
+    "rr": 1.0
+  },
+  {
+    "query_idx": 280,
+    "rank": 1,
+    "rr": 1.0
+  },
+  {
+    "query_idx": 281,
+    "rank": 1,
+    "rr": 1.0
+  },
+  {
+    "query_idx": 282,
+    "rank": 1,
+    "rr": 1.0
+  },
+  {
+    "query_idx": 283,
+    "rank": 4,
+    "rr": 0.25
+  },
+  {
+    "query_idx": 284,
+    "rank": 1,
+    "rr": 1.0
+  },
+  {
+    "query_idx": 285,
+    "rank": 1,
+    "rr": 1.0
+  },
+  {
+    "query_idx": 286,
+    "rank": 1,
+    "rr": 1.0
+  },
+  {
+    "query_idx": 287,
+    "rank": 1,
+    "rr": 1.0
+  },
+  {
+    "query_idx": 288,
+    "rank": 1,
+    "rr": 1.0
+  },
+  {
+    "query_idx": 289,
+    "rank": 5,
+    "rr": 0.2
+  },
+  {
+    "query_idx": 290,
+    "rank": 14,
+    "rr": 0.07142857142857142
+  },
+  {
+    "query_idx": 291,
+    "rank": 1,
+    "rr": 1.0
+  },
+  {
+    "query_idx": 292,
+    "rank": 3,
+    "rr": 0.3333333333333333
+  },
+  {
+    "query_idx": 293,
+    "rank": 2,
+    "rr": 0.5
+  },
+  {
+    "query_idx": 294,
+    "rank": 1887,
+    "rr": 0.0005299417064122947
+  },
+  {
+    "query_idx": 295,
+    "rank": 1,
+    "rr": 1.0
+  },
+  {
+    "query_idx": 296,
+    "rank": 1,
+    "rr": 1.0
+  },
+  {
+    "query_idx": 297,
+    "rank": 1,
+    "rr": 1.0
+  },
+  {
+    "query_idx": 298,
+    "rank": 2,
+    "rr": 0.5
+  },
+  {
+    "query_idx": 299,
+    "rank": 9,
+    "rr": 0.1111111111111111
+  },
+  {
+    "query_idx": 300,
+    "rank": 1,
+    "rr": 1.0
+  },
+  {
+    "query_idx": 301,
+    "rank": 268,
+    "rr": 0.0037313432835820895
+  },
+  {
+    "query_idx": 302,
+    "rank": 1,
+    "rr": 1.0
+  },
+  {
+    "query_idx": 303,
+    "rank": 69,
+    "rr": 0.014492753623188406
+  },
+  {
+    "query_idx": 304,
+    "rank": 1,
+    "rr": 1.0
+  },
+  {
+    "query_idx": 305,
+    "rank": 1,
+    "rr": 1.0
+  },
+  {
+    "query_idx": 306,
+    "rank": 1,
+    "rr": 1.0
+  },
+  {
+    "query_idx": 307,
+    "rank": 1,
+    "rr": 1.0
+  },
+  {
+    "query_idx": 308,
+    "rank": 1,
+    "rr": 1.0
+  },
+  {
+    "query_idx": 309,
+    "rank": 2,
+    "rr": 0.5
+  },
+  {
+    "query_idx": 310,
+    "rank": 1,
+    "rr": 1.0
+  },
+  {
+    "query_idx": 311,
+    "rank": 1,
+    "rr": 1.0
+  },
+  {
+    "query_idx": 312,
+    "rank": 1,
+    "rr": 1.0
+  },
+  {
+    "query_idx": 313,
+    "rank": 1,
+    "rr": 1.0
+  },
+  {
+    "query_idx": 314,
+    "rank": 1,
+    "rr": 1.0
+  },
+  {
+    "query_idx": 315,
+    "rank": 1,
+    "rr": 1.0
+  },
+  {
+    "query_idx": 316,
+    "rank": 1,
+    "rr": 1.0
+  },
+  {
+    "query_idx": 317,
+    "rank": 243,
+    "rr": 0.00411522633744856
+  },
+  {
+    "query_idx": 318,
+    "rank": 6,
+    "rr": 0.16666666666666666
+  },
+  {
+    "query_idx": 319,
+    "rank": 1,
+    "rr": 1.0
+  },
+  {
+    "query_idx": 320,
+    "rank": 1,
+    "rr": 1.0
+  },
+  {
+    "query_idx": 321,
+    "rank": 1,
+    "rr": 1.0
+  },
+  {
+    "query_idx": 322,
+    "rank": 1,
+    "rr": 1.0
+  },
+  {
+    "query_idx": 323,
+    "rank": 1,
+    "rr": 1.0
+  },
+  {
+    "query_idx": 324,
+    "rank": 1,
+    "rr": 1.0
+  },
+  {
+    "query_idx": 325,
+    "rank": 9,
+    "rr": 0.1111111111111111
+  },
+  {
+    "query_idx": 326,
+    "rank": 1,
+    "rr": 1.0
+  },
+  {
+    "query_idx": 327,
+    "rank": 1,
+    "rr": 1.0
+  },
+  {
+    "query_idx": 328,
+    "rank": 1,
+    "rr": 1.0
+  },
+  {
+    "query_idx": 329,
+    "rank": 1,
+    "rr": 1.0
+  },
+  {
+    "query_idx": 330,
+    "rank": 53,
+    "rr": 0.018867924528301886
+  },
+  {
+    "query_idx": 331,
+    "rank": 1,
+    "rr": 1.0
+  },
+  {
+    "query_idx": 332,
+    "rank": 1,
+    "rr": 1.0
+  },
+  {
+    "query_idx": 333,
+    "rank": 1,
+    "rr": 1.0
+  },
+  {
+    "query_idx": 334,
+    "rank": 1,
+    "rr": 1.0
+  },
+  {
+    "query_idx": 335,
+    "rank": 1,
+    "rr": 1.0
+  },
+  {
+    "query_idx": 336,
+    "rank": 4,
+    "rr": 0.25
+  },
+  {
+    "query_idx": 337,
+    "rank": 1,
+    "rr": 1.0
+  },
+  {
+    "query_idx": 338,
+    "rank": 3,
+    "rr": 0.3333333333333333
+  },
+  {
+    "query_idx": 339,
+    "rank": 228,
+    "rr": 0.0043859649122807015
+  },
+  {
+    "query_idx": 340,
+    "rank": 7,
+    "rr": 0.14285714285714285
+  },
+  {
+    "query_idx": 341,
+    "rank": 1,
+    "rr": 1.0
+  },
+  {
+    "query_idx": 342,
+    "rank": 1,
+    "rr": 1.0
+  },
+  {
+    "query_idx": 343,
+    "rank": 1,
+    "rr": 1.0
+  },
+  {
+    "query_idx": 344,
+    "rank": 2,
+    "rr": 0.5
+  },
+  {
+    "query_idx": 345,
+    "rank": 1,
+    "rr": 1.0
+  },
+  {
+    "query_idx": 346,
+    "rank": 2,
+    "rr": 0.5
+  },
+  {
+    "query_idx": 347,
+    "rank": 3,
+    "rr": 0.3333333333333333
+  },
+  {
+    "query_idx": 348,
+    "rank": 301,
+    "rr": 0.0033222591362126247
+  },
+  {
+    "query_idx": 349,
+    "rank": 1,
+    "rr": 1.0
+  },
+  {
+    "query_idx": 350,
+    "rank": 51,
+    "rr": 0.0196078431372549
+  },
+  {
+    "query_idx": 351,
+    "rank": 2,
+    "rr": 0.5
+  },
+  {
+    "query_idx": 352,
+    "rank": 1,
+    "rr": 1.0
+  },
+  {
+    "query_idx": 353,
+    "rank": 1,
+    "rr": 1.0
+  },
+  {
+    "query_idx": 354,
+    "rank": 1,
+    "rr": 1.0
+  },
+  {
+    "query_idx": 355,
+    "rank": 4,
+    "rr": 0.25
+  },
+  {
+    "query_idx": 356,
+    "rank": 2,
+    "rr": 0.5
+  },
+  {
+    "query_idx": 357,
+    "rank": 7,
+    "rr": 0.14285714285714285
+  },
+  {
+    "query_idx": 358,
+    "rank": 1032,
+    "rr": 0.0009689922480620155
+  },
+  {
+    "query_idx": 359,
+    "rank": 2,
+    "rr": 0.5
+  },
+  {
+    "query_idx": 360,
+    "rank": 10,
+    "rr": 0.1
+  },
+  {
+    "query_idx": 361,
+    "rank": 1,
+    "rr": 1.0
+  },
+  {
+    "query_idx": 362,
+    "rank": 1,
+    "rr": 1.0
+  },
+  {
+    "query_idx": 363,
+    "rank": 1,
+    "rr": 1.0
+  },
+  {
+    "query_idx": 364,
+    "rank": 987,
+    "rr": 0.0010131712259371835
+  },
+  {
+    "query_idx": 365,
+    "rank": 2,
+    "rr": 0.5
+  },
+  {
+    "query_idx": 366,
+    "rank": 1,
+    "rr": 1.0
+  },
+  {
+    "query_idx": 367,
+    "rank": 1,
+    "rr": 1.0
+  },
+  {
+    "query_idx": 368,
+    "rank": 1,
+    "rr": 1.0
+  },
+  {
+    "query_idx": 369,
+    "rank": 1,
+    "rr": 1.0
+  },
+  {
+    "query_idx": 370,
+    "rank": 1,
+    "rr": 1.0
+  },
+  {
+    "query_idx": 371,
+    "rank": 1,
+    "rr": 1.0
+  },
+  {
+    "query_idx": 372,
+    "rank": 1,
+    "rr": 1.0
+  },
+  {
+    "query_idx": 373,
+    "rank": 1,
+    "rr": 1.0
+  },
+  {
+    "query_idx": 374,
+    "rank": 1,
+    "rr": 1.0
+  },
+  {
+    "query_idx": 375,
+    "rank": 1,
+    "rr": 1.0
+  },
+  {
+    "query_idx": 376,
+    "rank": 70,
+    "rr": 0.014285714285714285
+  },
+  {
+    "query_idx": 377,
+    "rank": 116,
+    "rr": 0.008620689655172414
+  },
+  {
+    "query_idx": 378,
+    "rank": 1,
+    "rr": 1.0
+  },
+  {
+    "query_idx": 379,
+    "rank": 1,
+    "rr": 1.0
+  },
+  {
+    "query_idx": 380,
+    "rank": 1,
+    "rr": 1.0
+  },
+  {
+    "query_idx": 381,
+    "rank": 1,
+    "rr": 1.0
+  },
+  {
+    "query_idx": 382,
+    "rank": 1,
+    "rr": 1.0
+  },
+  {
+    "query_idx": 383,
+    "rank": 1,
+    "rr": 1.0
+  },
+  {
+    "query_idx": 384,
+    "rank": 1,
+    "rr": 1.0
+  },
+  {
+    "query_idx": 385,
+    "rank": 2,
+    "rr": 0.5
+  },
+  {
+    "query_idx": 386,
+    "rank": 105,
+    "rr": 0.009523809523809525
+  },
+  {
+    "query_idx": 387,
+    "rank": 1,
+    "rr": 1.0
+  },
+  {
+    "query_idx": 388,
+    "rank": 1,
+    "rr": 1.0
+  },
+  {
+    "query_idx": 389,
+    "rank": 1,
+    "rr": 1.0
+  },
+  {
+    "query_idx": 390,
+    "rank": 1,
+    "rr": 1.0
+  },
+  {
+    "query_idx": 391,
+    "rank": 1,
+    "rr": 1.0
+  },
+  {
+    "query_idx": 392,
+    "rank": 6,
+    "rr": 0.16666666666666666
+  },
+  {
+    "query_idx": 393,
+    "rank": 1,
+    "rr": 1.0
+  },
+  {
+    "query_idx": 394,
+    "rank": 1,
+    "rr": 1.0
+  },
+  {
+    "query_idx": 395,
+    "rank": 2,
+    "rr": 0.5
+  },
+  {
+    "query_idx": 396,
+    "rank": 1,
+    "rr": 1.0
+  },
+  {
+    "query_idx": 397,
+    "rank": 1,
+    "rr": 1.0
+  },
+  {
+    "query_idx": 398,
+    "rank": 267,
+    "rr": 0.003745318352059925
+  },
+  {
+    "query_idx": 399,
+    "rank": 7,
+    "rr": 0.14285714285714285
+  },
+  {
+    "query_idx": 400,
+    "rank": 2,
+    "rr": 0.5
+  },
+  {
+    "query_idx": 401,
+    "rank": 1,
+    "rr": 1.0
+  },
+  {
+    "query_idx": 402,
+    "rank": 2,
+    "rr": 0.5
+  },
+  {
+    "query_idx": 403,
+    "rank": 136,
+    "rr": 0.007352941176470588
+  },
+  {
+    "query_idx": 404,
+    "rank": 1,
+    "rr": 1.0
+  },
+  {
+    "query_idx": 405,
+    "rank": 2,
+    "rr": 0.5
+  },
+  {
+    "query_idx": 406,
+    "rank": 1,
+    "rr": 1.0
+  },
+  {
+    "query_idx": 407,
+    "rank": 10,
+    "rr": 0.1
+  },
+  {
+    "query_idx": 408,
+    "rank": 2,
+    "rr": 0.5
+  },
+  {
+    "query_idx": 409,
+    "rank": 1,
+    "rr": 1.0
+  },
+  {
+    "query_idx": 410,
+    "rank": 1,
+    "rr": 1.0
+  },
+  {
+    "query_idx": 411,
+    "rank": 1,
+    "rr": 1.0
+  },
+  {
+    "query_idx": 412,
+    "rank": 323,
+    "rr": 0.0030959752321981426
+  },
+  {
+    "query_idx": 413,
+    "rank": 1,
+    "rr": 1.0
+  },
+  {
+    "query_idx": 414,
+    "rank": 3,
+    "rr": 0.3333333333333333
+  },
+  {
+    "query_idx": 415,
+    "rank": 1,
+    "rr": 1.0
+  },
+  {
+    "query_idx": 416,
+    "rank": 1,
+    "rr": 1.0
+  },
+  {
+    "query_idx": 417,
+    "rank": 1,
+    "rr": 1.0
+  },
+  {
+    "query_idx": 418,
+    "rank": 1,
+    "rr": 1.0
+  },
+  {
+    "query_idx": 419,
+    "rank": 22,
+    "rr": 0.045454545454545456
+  },
+  {
+    "query_idx": 420,
+    "rank": 1,
+    "rr": 1.0
+  },
+  {
+    "query_idx": 421,
+    "rank": 1,
+    "rr": 1.0
+  },
+  {
+    "query_idx": 422,
+    "rank": 1,
+    "rr": 1.0
+  },
+  {
+    "query_idx": 423,
+    "rank": 1,
+    "rr": 1.0
+  },
+  {
+    "query_idx": 424,
+    "rank": 161,
+    "rr": 0.006211180124223602
+  },
+  {
+    "query_idx": 425,
+    "rank": 3,
+    "rr": 0.3333333333333333
+  },
+  {
+    "query_idx": 426,
+    "rank": 1,
+    "rr": 1.0
+  },
+  {
+    "query_idx": 427,
+    "rank": 19,
+    "rr": 0.05263157894736842
+  },
+  {
+    "query_idx": 428,
+    "rank": 1,
+    "rr": 1.0
+  },
+  {
+    "query_idx": 429,
+    "rank": 1,
+    "rr": 1.0
+  },
+  {
+    "query_idx": 430,
+    "rank": 1,
+    "rr": 1.0
+  },
+  {
+    "query_idx": 431,
+    "rank": 13,
+    "rr": 0.07692307692307693
+  },
+  {
+    "query_idx": 432,
+    "rank": 4,
+    "rr": 0.25
+  },
+  {
+    "query_idx": 433,
+    "rank": 2,
+    "rr": 0.5
+  },
+  {
+    "query_idx": 434,
+    "rank": 13,
+    "rr": 0.07692307692307693
+  },
+  {
+    "query_idx": 435,
+    "rank": 1,
+    "rr": 1.0
+  },
+  {
+    "query_idx": 436,
+    "rank": 2,
+    "rr": 0.5
+  },
+  {
+    "query_idx": 437,
+    "rank": 1,
+    "rr": 1.0
+  },
+  {
+    "query_idx": 438,
+    "rank": 1,
+    "rr": 1.0
+  },
+  {
+    "query_idx": 439,
+    "rank": 1,
+    "rr": 1.0
+  },
+  {
+    "query_idx": 440,
+    "rank": 258,
+    "rr": 0.003875968992248062
+  },
+  {
+    "query_idx": 441,
+    "rank": 3,
+    "rr": 0.3333333333333333
+  },
+  {
+    "query_idx": 442,
+    "rank": 1,
+    "rr": 1.0
+  },
+  {
+    "query_idx": 443,
+    "rank": 1,
+    "rr": 1.0
+  },
+  {
+    "query_idx": 444,
+    "rank": 1,
+    "rr": 1.0
+  },
+  {
+    "query_idx": 445,
+    "rank": 1,
+    "rr": 1.0
+  },
+  {
+    "query_idx": 446,
+    "rank": 222,
+    "rr": 0.0045045045045045045
+  },
+  {
+    "query_idx": 447,
+    "rank": 1,
+    "rr": 1.0
+  },
+  {
+    "query_idx": 448,
+    "rank": 1,
+    "rr": 1.0
+  },
+  {
+    "query_idx": 449,
+    "rank": 1,
+    "rr": 1.0
+  },
+  {
+    "query_idx": 450,
+    "rank": 1,
+    "rr": 1.0
+  },
+  {
+    "query_idx": 451,
+    "rank": 1,
+    "rr": 1.0
+  },
+  {
+    "query_idx": 452,
+    "rank": 1,
+    "rr": 1.0
+  },
+  {
+    "query_idx": 453,
+    "rank": 1,
+    "rr": 1.0
+  },
+  {
+    "query_idx": 454,
+    "rank": 7,
+    "rr": 0.14285714285714285
+  },
+  {
+    "query_idx": 455,
+    "rank": 1,
+    "rr": 1.0
+  },
+  {
+    "query_idx": 456,
+    "rank": 1,
+    "rr": 1.0
+  },
+  {
+    "query_idx": 457,
+    "rank": 1,
+    "rr": 1.0
+  },
+  {
+    "query_idx": 458,
+    "rank": 8,
+    "rr": 0.125
+  },
+  {
+    "query_idx": 459,
+    "rank": 1,
+    "rr": 1.0
+  },
+  {
+    "query_idx": 460,
+    "rank": 1,
+    "rr": 1.0
+  },
+  {
+    "query_idx": 461,
+    "rank": 1,
+    "rr": 1.0
+  },
+  {
+    "query_idx": 462,
+    "rank": 1,
+    "rr": 1.0
+  },
+  {
+    "query_idx": 463,
+    "rank": 1,
+    "rr": 1.0
+  },
+  {
+    "query_idx": 464,
+    "rank": 1,
+    "rr": 1.0
+  },
+  {
+    "query_idx": 465,
+    "rank": 1,
+    "rr": 1.0
+  },
+  {
+    "query_idx": 466,
+    "rank": 1,
+    "rr": 1.0
+  },
+  {
+    "query_idx": 467,
+    "rank": 1,
+    "rr": 1.0
+  },
+  {
+    "query_idx": 468,
+    "rank": 1,
+    "rr": 1.0
+  },
+  {
+    "query_idx": 469,
+    "rank": 1,
+    "rr": 1.0
+  },
+  {
+    "query_idx": 470,
+    "rank": 1,
+    "rr": 1.0
+  },
+  {
+    "query_idx": 471,
+    "rank": 1,
+    "rr": 1.0
+  },
+  {
+    "query_idx": 472,
+    "rank": 2,
+    "rr": 0.5
+  },
+  {
+    "query_idx": 473,
+    "rank": 3,
+    "rr": 0.3333333333333333
+  },
+  {
+    "query_idx": 474,
+    "rank": 110,
+    "rr": 0.00909090909090909
+  },
+  {
+    "query_idx": 475,
+    "rank": 4,
+    "rr": 0.25
+  },
+  {
+    "query_idx": 476,
+    "rank": 1,
+    "rr": 1.0
+  },
+  {
+    "query_idx": 477,
+    "rank": 1,
+    "rr": 1.0
+  },
+  {
+    "query_idx": 478,
+    "rank": 1,
+    "rr": 1.0
+  },
+  {
+    "query_idx": 479,
+    "rank": 5,
+    "rr": 0.2
+  },
+  {
+    "query_idx": 480,
+    "rank": 1,
+    "rr": 1.0
+  },
+  {
+    "query_idx": 481,
+    "rank": 1,
+    "rr": 1.0
+  },
+  {
+    "query_idx": 482,
+    "rank": 8,
+    "rr": 0.125
+  },
+  {
+    "query_idx": 483,
+    "rank": 1,
+    "rr": 1.0
+  },
+  {
+    "query_idx": 484,
+    "rank": 1,
+    "rr": 1.0
+  },
+  {
+    "query_idx": 485,
+    "rank": 1,
+    "rr": 1.0
+  },
+  {
+    "query_idx": 486,
+    "rank": 1,
+    "rr": 1.0
+  },
+  {
+    "query_idx": 487,
+    "rank": 1,
+    "rr": 1.0
+  },
+  {
+    "query_idx": 488,
+    "rank": 15,
+    "rr": 0.06666666666666667
+  },
+  {
+    "query_idx": 489,
+    "rank": 285,
+    "rr": 0.0035087719298245615
+  },
+  {
+    "query_idx": 490,
+    "rank": 1,
+    "rr": 1.0
+  },
+  {
+    "query_idx": 491,
+    "rank": 1,
+    "rr": 1.0
+  },
+  {
+    "query_idx": 492,
+    "rank": 615,
+    "rr": 0.0016260162601626016
+  },
+  {
+    "query_idx": 493,
+    "rank": 2,
+    "rr": 0.5
+  },
+  {
+    "query_idx": 494,
+    "rank": 11,
+    "rr": 0.09090909090909091
+  },
+  {
+    "query_idx": 495,
+    "rank": 2,
+    "rr": 0.5
+  },
+  {
+    "query_idx": 496,
+    "rank": 1,
+    "rr": 1.0
+  },
+  {
+    "query_idx": 497,
+    "rank": 1,
+    "rr": 1.0
+  },
+  {
+    "query_idx": 498,
+    "rank": 2,
+    "rr": 0.5
+  },
+  {
+    "query_idx": 499,
+    "rank": 1,
+    "rr": 1.0
+  }
+]

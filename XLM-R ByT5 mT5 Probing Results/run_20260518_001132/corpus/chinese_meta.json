@@ -1,0 +1,12 @@
+{
+  "language": "chinese",
+  "script_a": "Simplified",
+  "script_b": "Traditional",
+  "n_pairs": 2000,
+  "n_words_a": 500,
+  "n_words_b": 500,
+  "source": "zh Wikipedia 20231101",
+  "conversion_tool": "opencc s2t",
+  "built_at": "2026-05-18T00:11:41.009791+00:00",
+  "n_divergent": 566
+}

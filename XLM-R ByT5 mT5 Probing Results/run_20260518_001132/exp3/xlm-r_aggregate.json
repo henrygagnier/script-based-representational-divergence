@@ -1,0 +1,26 @@
+{
+  "kazakh": {
+    "prefer_a": 0.428,
+    "n": 500
+  },
+  "serbian": {
+    "prefer_a": 0.396,
+    "n": 500
+  },
+  "chinese": {
+    "prefer_a": 0.0,
+    "n": 500
+  },
+  "uyghur": {
+    "prefer_a": 0.57,
+    "n": 500
+  },
+  "japanese": {
+    "prefer_a": 0.078,
+    "n": 500
+  },
+  "hindi_urdu": {
+    "prefer_a": 0.732,
+    "n": 500
+  }
+}

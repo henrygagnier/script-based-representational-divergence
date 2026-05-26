@@ -1,0 +1,22 @@
+{
+  "kazakh": {
+    "prefer_a": 0.336,
+    "n": 500,
+    "n_unk_skipped": 0
+  },
+  "serbian": {
+    "prefer_a": 0.43,
+    "n": 500,
+    "n_unk_skipped": 0
+  },
+  "uyghur": {
+    "prefer_a": 0.456,
+    "n": 500,
+    "n_unk_skipped": 0
+  },
+  "hindi_urdu": {
+    "prefer_a": 0.2797494780793319,
+    "n": 479,
+    "n_unk_skipped": 21
+  }
+}

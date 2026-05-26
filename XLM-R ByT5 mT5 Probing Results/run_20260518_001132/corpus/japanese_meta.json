@@ -1,0 +1,11 @@
+{
+  "language": "japanese",
+  "script_a": "Kanji/Mixed",
+  "script_b": "Hiragana",
+  "n_pairs": 2000,
+  "n_words_a": 500,
+  "n_words_b": 500,
+  "source": "ja Wikipedia 20231101",
+  "conversion_tool": "pykakasi",
+  "built_at": "2026-05-18T00:11:53.188764+00:00"
+}

@@ -1,0 +1,4502 @@
+[
+  {
+    "word_a": "Қазақстан",
+    "word_b": "Qazaqstan",
+    "token_a": "▁Қазақстан",
+    "token_b": "▁Qaz",
+    "logit_a": 19.452739715576172,
+    "logit_b": 10.193582534790039,
+    "prefers_a": true
+  },
+  {
+    "word_a": "),",
+    "word_b": "),",
+    "token_a": "▁",
+    "token_b": "▁",
+    "logit_a": 21.855525970458984,
+    "logit_b": 21.855525970458984,
+    "prefers_a": false
+  },
+  {
+    "word_a": "толық",
+    "word_b": "tolyq",
+    "token_a": "▁толық",
+    "token_b": "▁to",
+    "logit_a": 3.392873525619507,
+    "logit_b": 14.01270580291748,
+    "prefers_a": false
+  },
+  {
+    "word_a": "атауы",
+    "word_b": "atauy",
+    "token_a": "▁атауы",
+    "token_b": "▁atau",
+    "logit_a": 7.426790237426758,
+    "logit_b": 15.465015411376953,
+    "prefers_a": false
+  },
+  {
+    "word_a": "Республикасы",
+    "word_b": "Respublıkasy",
+    "token_a": "▁Республикасы",
+    "token_b": "▁Res",
+    "logit_a": 16.117361068725586,
+    "logit_b": 10.001516342163086,
+    "prefers_a": true
+  },
+  {
+    "word_a": "()",
+    "word_b": "()",
+    "token_a": "▁(",
+    "token_b": "▁(",
+    "logit_a": 26.61418914794922,
+    "logit_b": 26.61418914794922,
+    "prefers_a": false
+  },
+  {
+    "word_a": "Шығыс",
+    "word_b": "Shyğys",
+    "token_a": "▁Шығыс",
+    "token_b": "▁Sh",
+    "logit_a": 8.010730743408203,
+    "logit_b": 15.169730186462402,
+    "prefers_a": false
+  },
+  {
+    "word_a": "Еуропа",
+    "word_b": "Europa",
+    "token_a": "▁Еуропа",
+    "token_b": "▁Europa",
+    "logit_a": 8.411595344543457,
+    "logit_b": 22.240217208862305,
+    "prefers_a": false
+  },
+  {
+    "word_a": "мен",
+    "word_b": "men",
+    "token_a": "▁мен",
+    "token_b": "▁men",
+    "logit_a": 12.237183570861816,
+    "logit_b": 12.564682006835938,
+    "prefers_a": false
+  },
+  {
+    "word_a": "Орталық",
+    "word_b": "Ortalyq",
+    "token_a": "▁Орталық",
+    "token_b": "▁Orta",
+    "logit_a": 13.763816833496094,
+    "logit_b": 16.255077362060547,
+    "prefers_a": false
+  },
+  {
+    "word_a": "Азияда",
+    "word_b": "Azıyada",
+    "token_a": "▁Азия",
+    "token_b": "▁Az",
+    "logit_a": 21.75495719909668,
+    "logit_b": 13.88915729522705,
+    "prefers_a": true
+  },
+  {
+    "word_a": "орналасқан",
+    "word_b": "ornalasqan",
+    "token_a": "▁орналасқан",
+    "token_b": "▁",
+    "logit_a": 10.08042049407959,
+    "logit_b": 22.887454986572266,
+    "prefers_a": false
+  },
+  {
+    "word_a": "мемлекет.",
+    "word_b": "memleket.",
+    "token_a": "▁мемлекет",
+    "token_b": "▁memleket",
+    "logit_a": 11.885238647460938,
+    "logit_b": 11.97574520111084,
+    "prefers_a": false
+  },
+  {
+    "word_a": "Каспий",
+    "word_b": "Kaspıı",
+    "token_a": "▁Кас",
+    "token_b": "▁Kas",
+    "logit_a": 30.03382110595703,
+    "logit_b": 29.52574348449707,
+    "prefers_a": true
+  },
+  {
+    "word_a": "теңізі",
+    "word_b": "teñızı",
+    "token_a": "▁теңіз",
+    "token_b": "▁te",
+    "logit_a": 14.848237037658691,
+    "logit_b": 19.7545108795166,
+    "prefers_a": false
+  },
+  {
+    "word_a": "арқылы",
+    "word_b": "arqyly",
+    "token_a": "▁арқылы",
+    "token_b": "▁ar",
+    "logit_a": 8.233908653259277,
+    "logit_b": 15.729413032531738,
+    "prefers_a": false
+  },
+  {
+    "word_a": "Әзірбайжан,",
+    "word_b": "Äzırbaıjan,",
+    "token_a": "▁Ә",
+    "token_b": "▁Ä",
+    "logit_a": 23.860538482666016,
+    "logit_b": 22.761844635009766,
+    "prefers_a": true
+  },
+  {
+    "word_a": "Иран",
+    "word_b": "Iran",
+    "token_a": "▁Иран",
+    "token_b": "▁Iran",
+    "logit_a": 14.377942085266113,
+    "logit_b": 17.48093605041504,
+    "prefers_a": false
+  },
+  {
+    "word_a": "елдеріне,",
+    "word_b": "elderıne,",
+    "token_a": "▁елдер",
+    "token_b": "▁el",
+    "logit_a": 19.123653411865234,
+    "logit_b": 21.737430572509766,
+    "prefers_a": false
+  },
+  {
+    "word_a": "Еділ",
+    "word_b": "Edıl",
+    "token_a": "▁Е",
+    "token_b": "▁Ed",
+    "logit_a": 19.828771591186523,
+    "logit_b": 13.503459930419922,
+    "prefers_a": true
+  },
+  {
+    "word_a": "өзені",
+    "word_b": "özenı",
+    "token_a": "▁өз",
+    "token_b": "▁öz",
+    "logit_a": 22.48470115661621,
+    "logit_b": 17.9974422454834,
+    "prefers_a": true
+  },
+  {
+    "word_a": "және",
+    "word_b": "jäne",
+    "token_a": "▁және",
+    "token_b": "▁jä",
+    "logit_a": 12.407743453979492,
+    "logit_b": 4.493163108825684,
+    "prefers_a": true
+  },
+  {
+    "word_a": "Еділ-Дон",
+    "word_b": "Edıl-Don",
+    "token_a": "▁Е",
+    "token_b": "▁Ed",
+    "logit_a": 30.4506778717041,
+    "logit_b": 21.98212432861328,
+    "prefers_a": true
+  },
+  {
+    "word_a": "каналы",
+    "word_b": "kanaly",
+    "token_a": "▁канал",
+    "token_b": "▁kanal",
+    "logit_a": 27.69672393798828,
+    "logit_b": 18.68956184387207,
+    "prefers_a": true
+  },
+  {
+    "word_a": "Азов",
+    "word_b": "Azov",
+    "token_a": "▁Аз",
+    "token_b": "▁Az",
+    "logit_a": 24.833009719848633,
+    "logit_b": 23.852861404418945,
+    "prefers_a": true
+  },
+  {
+    "word_a": "Қара",
+    "word_b": "Qara",
+    "token_a": "▁Қара",
+    "token_b": "▁Qara",
+    "logit_a": 8.049588203430176,
+    "logit_b": 16.45911979675293,
+    "prefers_a": false
+  },
+  {
+    "word_a": "теңізге",
+    "word_b": "teñızge",
+    "token_a": "▁теңіз",
+    "token_b": "▁te",
+    "logit_a": 15.038464546203613,
+    "logit_b": 22.355960845947266,
+    "prefers_a": false
+  },
+  {
+    "word_a": "шыға",
+    "word_b": "shyğa",
+    "token_a": "▁",
+    "token_b": "▁s",
+    "logit_a": 24.867218017578125,
+    "logit_b": 19.11345863342285,
+    "prefers_a": true
+  },
+  {
+    "word_a": "алады.",
+    "word_b": "alady.",
+    "token_a": "▁алады",
+    "token_b": "▁al",
+    "logit_a": 10.466145515441895,
+    "logit_b": 22.598255157470703,
+    "prefers_a": false
+  },
+  {
+    "word_a": "Мұхитқа",
+    "word_b": "Mūhıtqa",
+    "token_a": "▁Мұ",
+    "token_b": "▁M",
+    "logit_a": 27.228904724121094,
+    "logit_b": 30.669700622558594,
+    "prefers_a": false
+  },
+  {
+    "word_a": "тікелей",
+    "word_b": "tıkeleı",
+    "token_a": "▁тікелей",
+    "token_b": "▁",
+    "logit_a": 9.708867073059082,
+    "logit_b": 22.887454986572266,
+    "prefers_a": false
+  },
+  {
+    "word_a": "алмайтын",
+    "word_b": "almaıtyn",
+    "token_a": "▁ал",
+    "token_b": "▁alma",
+    "logit_a": 16.599349975585938,
+    "logit_b": 17.393333435058594,
+    "prefers_a": false
+  },
+  {
+    "word_a": "мемлекеттердің",
+    "word_b": "memleketterdıñ",
+    "token_a": "▁мемлекеттер",
+    "token_b": "▁memleket",
+    "logit_a": 19.671659469604492,
+    "logit_b": 17.16187286376953,
+    "prefers_a": true
+  },
+  {
+    "word_a": "ішінде",
+    "word_b": "ıshınde",
+    "token_a": "▁ішінде",
+    "token_b": "▁",
+    "logit_a": 7.06126594543457,
+    "logit_b": 22.887454986572266,
+    "prefers_a": false
+  },
+  {
+    "word_a": "ең",
+    "word_b": "eñ",
+    "token_a": "▁ең",
+    "token_b": "▁e",
+    "logit_a": 4.356543064117432,
+    "logit_b": 14.706262588500977,
+    "prefers_a": false
+  },
+  {
+    "word_a": "үлкені.",
+    "word_b": "ülkenı.",
+    "token_a": "▁үлкен",
+    "token_b": "▁ülke",
+    "logit_a": 17.036334991455078,
+    "logit_b": 16.6054630279541,
+    "prefers_a": true
+  },
+  {
+    "word_a": "бес",
+    "word_b": "bes",
+    "token_a": "▁бес",
+    "token_b": "▁bes",
+    "logit_a": 4.986916542053223,
+    "logit_b": 9.381654739379883,
+    "prefers_a": false
+  },
+  {
+    "word_a": "мемлекетпен",
+    "word_b": "memleketpen",
+    "token_a": "▁мемлекет",
+    "token_b": "▁memleket",
+    "logit_a": 13.0209321975708,
+    "logit_b": 13.40761661529541,
+    "prefers_a": false
+  },
+  {
+    "word_a": "шекаралас,",
+    "word_b": "shekaralas,",
+    "token_a": "▁шекара",
+    "token_b": "▁shekara",
+    "logit_a": 18.66040802001953,
+    "logit_b": 9.066839218139648,
+    "prefers_a": true
+  },
+  {
+    "word_a": "соның",
+    "word_b": "sonyñ",
+    "token_a": "▁со",
+    "token_b": "▁son",
+    "logit_a": 22.849117279052734,
+    "logit_b": 24.38884735107422,
+    "prefers_a": false
+  },
+  {
+    "word_a": "әлемдегі",
+    "word_b": "älemdegı",
+    "token_a": "▁әлем",
+    "token_b": "▁ä",
+    "logit_a": 23.187335968017578,
+    "logit_b": 17.266342163085938,
+    "prefers_a": true
+  },
+  {
+    "word_a": "құрлықтағы",
+    "word_b": "qūrlyqtağy",
+    "token_a": "▁құр",
+    "token_b": "▁q",
+    "logit_a": 30.8419132232666,
+    "logit_b": 26.279376983642578,
+    "prefers_a": true
+  },
+  {
+    "word_a": "ұзын",
+    "word_b": "ūzyn",
+    "token_a": "▁ұ",
+    "token_b": "▁",
+    "logit_a": 22.843603134155273,
+    "logit_b": 25.406932830810547,
+    "prefers_a": false
+  },
+  {
+    "word_a": "шекара,",
+    "word_b": "shekara,",
+    "token_a": "▁шекара",
+    "token_b": "▁shekara",
+    "logit_a": 6.433064937591553,
+    "logit_b": 9.571788787841797,
+    "prefers_a": false
+  },
+  {
+    "word_a": "солтүстігінде",
+    "word_b": "soltüstıgınde",
+    "token_a": "▁сол",
+    "token_b": "▁sol",
+    "logit_a": 39.246009826660156,
+    "logit_b": 32.05596923828125,
+    "prefers_a": true
+  },
+  {
+    "word_a": "батысында",
+    "word_b": "batysynda",
+    "token_a": "▁ба",
+    "token_b": "▁bat",
+    "logit_a": 26.883974075317383,
+    "logit_b": 22.89487075805664,
+    "prefers_a": true
+  },
+  {
+    "word_a": "Ресеймен",
+    "word_b": "Reseımen",
+    "token_a": "▁Ресей",
+    "token_b": "▁Res",
+    "logit_a": 19.38428497314453,
+    "logit_b": 14.36275863647461,
+    "prefers_a": true
+  },
+  {
+    "word_a": "7591",
+    "word_b": "7591",
+    "token_a": "▁75",
+    "token_b": "▁75",
+    "logit_a": 18.98833465576172,
+    "logit_b": 18.98833465576172,
+    "prefers_a": false
+  },
+  {
+    "word_a": "км",
+    "word_b": "km",
+    "token_a": "▁км",
+    "token_b": "▁km",
+    "logit_a": 7.865326404571533,
+    "logit_b": 12.873251914978027,
+    "prefers_a": false
+  },
+  {
+    "word_a": "құрайды.",
+    "word_b": "qūraıdy.",
+    "token_a": "▁құрайды",
+    "token_b": "▁q",
+    "logit_a": 9.392729759216309,
+    "logit_b": 20.73796844482422,
+    "prefers_a": false
+  },
+  {
+    "word_a": "Оңтүстігінде:",
+    "word_b": "Oñtüstıgınde:",
+    "token_a": "▁О",
+    "token_b": "▁O",
+    "logit_a": 42.93421936035156,
+    "logit_b": 38.71907424926758,
+    "prefers_a": true
+  },
+  {
+    "word_a": "Түрікменстан",
+    "word_b": "Türıkmenstan",
+    "token_a": "▁Түр",
+    "token_b": "▁Tür",
+    "logit_a": 33.873558044433594,
+    "logit_b": 24.750057220458984,
+    "prefers_a": true
+  },
+  {
+    "word_a": "426",
+    "word_b": "426",
+    "token_a": "▁",
+    "token_b": "▁",
+    "logit_a": 27.079362869262695,
+    "logit_b": 27.079362869262695,
+    "prefers_a": false
+  },
+  {
+    "word_a": "км,",
+    "word_b": "km,",
+    "token_a": "▁км",
+    "token_b": "▁km",
+    "logit_a": 15.731781005859375,
+    "logit_b": 20.206777572631836,
+    "prefers_a": false
+  },
+  {
+    "word_a": "Өзбекстан",
+    "word_b": "Özbekstan",
+    "token_a": "▁Өзбекстан",
+    "token_b": "▁Ö",
+    "logit_a": 9.070625305175781,
+    "logit_b": 10.737242698669434,
+    "prefers_a": false
+  },
+  {
+    "word_a": "2354",
+    "word_b": "2354",
+    "token_a": "▁23",
+    "token_b": "▁23",
+    "logit_a": 21.491275787353516,
+    "logit_b": 21.491275787353516,
+    "prefers_a": false
+  },
+  {
+    "word_a": "Қырғызстан",
+    "word_b": "Qyrğyzstan",
+    "token_a": "▁Қы",
+    "token_b": "▁Q",
+    "logit_a": 40.151947021484375,
+    "logit_b": 33.03386688232422,
+    "prefers_a": true
+  },
+  {
+    "word_a": "1241",
+    "word_b": "1241",
+    "token_a": "▁12",
+    "token_b": "▁12",
+    "logit_a": 21.030109405517578,
+    "logit_b": 21.030109405517578,
+    "prefers_a": false
+  },
+  {
+    "word_a": "ал",
+    "word_b": "al",
+    "token_a": "▁ал",
+    "token_b": "▁al",
+    "logit_a": 5.314604759216309,
+    "logit_b": 14.276124954223633,
+    "prefers_a": false
+  },
+  {
+    "word_a": "шығысында:",
+    "word_b": "shyğysynda:",
+    "token_a": "▁шы",
+    "token_b": "▁s",
+    "logit_a": 36.3104248046875,
+    "logit_b": 31.148611068725586,
+    "prefers_a": true
+  },
+  {
+    "word_a": "Қытаймен",
+    "word_b": "Qytaımen",
+    "token_a": "▁Қытай",
+    "token_b": "▁Q",
+    "logit_a": 19.175884246826172,
+    "logit_b": 18.971879959106445,
+    "prefers_a": true
+  },
+  {
+    "word_a": "1782",
+    "word_b": "1782",
+    "token_a": "▁17",
+    "token_b": "▁17",
+    "logit_a": 23.11072540283203,
+    "logit_b": 23.11072540283203,
+    "prefers_a": false
+  },
+  {
+    "word_a": "шектеседі.",
+    "word_b": "shektesedı.",
+    "token_a": "▁шек",
+    "token_b": "▁she",
+    "logit_a": 23.600324630737305,
+    "logit_b": 20.125999450683594,
+    "prefers_a": true
+  },
+  {
+    "word_a": "Жалпы",
+    "word_b": "Jalpy",
+    "token_a": "▁Жалпы",
+    "token_b": "▁Jal",
+    "logit_a": 13.020868301391602,
+    "logit_b": 11.983892440795898,
+    "prefers_a": true
+  },
+  {
+    "word_a": "құрлық",
+    "word_b": "qūrlyq",
+    "token_a": "▁құр",
+    "token_b": "▁q",
+    "logit_a": 24.616413116455078,
+    "logit_b": 21.182340621948242,
+    "prefers_a": true
+  },
+  {
+    "word_a": "шекарасының",
+    "word_b": "shekarasynyñ",
+    "token_a": "▁шекара",
+    "token_b": "▁shekara",
+    "logit_a": 20.06450843811035,
+    "logit_b": 14.751169204711914,
+    "prefers_a": true
+  },
+  {
+    "word_a": "ұзындығы",
+    "word_b": "ūzyndyğy",
+    "token_a": "▁ұ",
+    "token_b": "▁",
+    "logit_a": 33.40896224975586,
+    "logit_b": 36.46308517456055,
+    "prefers_a": false
+  },
+  {
+    "word_a": "13394",
+    "word_b": "13394",
+    "token_a": "▁13",
+    "token_b": "▁13",
+    "logit_a": 26.35149574279785,
+    "logit_b": 26.35149574279785,
+    "prefers_a": false
+  },
+  {
+    "word_a": "км.",
+    "word_b": "km.",
+    "token_a": "▁км",
+    "token_b": "▁km",
+    "logit_a": 16.22176742553711,
+    "logit_b": 21.77899169921875,
+    "prefers_a": false
+  },
+  {
+    "word_a": "Батыста",
+    "word_b": "Batysta",
+    "token_a": "▁Батыс",
+    "token_b": "▁Bat",
+    "logit_a": 16.328617095947266,
+    "logit_b": 17.808195114135742,
+    "prefers_a": false
+  },
+  {
+    "word_a": "теңізімен",
+    "word_b": "teñızımen",
+    "token_a": "▁теңіз",
+    "token_b": "▁te",
+    "logit_a": 19.769241333007812,
+    "logit_b": 24.251178741455078,
+    "prefers_a": false
+  },
+  {
+    "word_a": "(2000",
+    "word_b": "(2000",
+    "token_a": "▁(",
+    "token_b": "▁(",
+    "logit_a": 18.794662475585938,
+    "logit_b": 18.794662475585938,
+    "prefers_a": false
+  },
+  {
+    "word_a": "км),",
+    "word_b": "km),",
+    "token_a": "▁км",
+    "token_b": "▁km",
+    "logit_a": 16.507843017578125,
+    "logit_b": 20.42924690246582,
+    "prefers_a": false
+  },
+  {
+    "word_a": "оңтүстік",
+    "word_b": "oñtüstık",
+    "token_a": "▁оң",
+    "token_b": "▁o",
+    "logit_a": 31.76561737060547,
+    "logit_b": 27.710729598999023,
+    "prefers_a": true
+  },
+  {
+    "word_a": "батыста",
+    "word_b": "batysta",
+    "token_a": "▁ба",
+    "token_b": "▁bat",
+    "logit_a": 28.867542266845703,
+    "logit_b": 26.2175350189209,
+    "prefers_a": true
+  },
+  {
+    "word_a": "Арал",
+    "word_b": "Aral",
+    "token_a": "▁А",
+    "token_b": "▁Ar",
+    "logit_a": 25.565563201904297,
+    "logit_b": 19.603553771972656,
+    "prefers_a": true
+  },
+  {
+    "word_a": "шайылады.",
+    "word_b": "shaıylady.",
+    "token_a": "▁шай",
+    "token_b": "▁sha",
+    "logit_a": 17.359134674072266,
+    "logit_b": 16.842044830322266,
+    "prefers_a": true
+  },
+  {
+    "word_a": "2023",
+    "word_b": "2023",
+    "token_a": "▁2023",
+    "token_b": "▁2023",
+    "logit_a": 11.156525611877441,
+    "logit_b": 11.156525611877441,
+    "prefers_a": false
+  },
+  {
+    "word_a": "жылдың",
+    "word_b": "jyldyñ",
+    "token_a": "▁жылдың",
+    "token_b": "▁jy",
+    "logit_a": 8.707600593566895,
+    "logit_b": 12.369722366333008,
+    "prefers_a": false
+  },
+  {
+    "word_a": "маусымдағы",
+    "word_b": "mausymdağy",
+    "token_a": "▁маусым",
+    "token_b": "▁mau",
+    "logit_a": 21.798540115356445,
+    "logit_b": 17.87395477294922,
+    "prefers_a": true
+  },
+  {
+    "word_a": "елдегі",
+    "word_b": "eldegı",
+    "token_a": "▁ел",
+    "token_b": "▁elde",
+    "logit_a": 24.36966896057129,
+    "logit_b": 17.897533416748047,
+    "prefers_a": true
+  },
+  {
+    "word_a": "тұрғындар",
+    "word_b": "tūrğyndar",
+    "token_a": "▁тұрғындар",
+    "token_b": "▁",
+    "logit_a": 9.51943588256836,
+    "logit_b": 22.887454986572266,
+    "prefers_a": false
+  },
+  {
+    "word_a": "саны",
+    "word_b": "sany",
+    "token_a": "▁саны",
+    "token_b": "▁sa",
+    "logit_a": 8.092544555664062,
+    "logit_b": 16.20848274230957,
+    "prefers_a": false
+  },
+  {
+    "word_a": "19",
+    "word_b": "19",
+    "token_a": "▁19",
+    "token_b": "▁19",
+    "logit_a": 19.932647705078125,
+    "logit_b": 19.932647705078125,
+    "prefers_a": false
+  },
+  {
+    "word_a": "879",
+    "word_b": "879",
+    "token_a": "▁",
+    "token_b": "▁",
+    "logit_a": 25.25986671447754,
+    "logit_b": 25.25986671447754,
+    "prefers_a": false
+  },
+  {
+    "word_a": "003,",
+    "word_b": "003,",
+    "token_a": "▁",
+    "token_b": "▁",
+    "logit_a": 24.189098358154297,
+    "logit_b": 24.189098358154297,
+    "prefers_a": false
+  },
+  {
+    "word_a": "бұл",
+    "word_b": "būl",
+    "token_a": "▁бұл",
+    "token_b": "▁bū",
+    "logit_a": 7.41586446762085,
+    "logit_b": 5.86712646484375,
+    "prefers_a": true
+  },
+  {
+    "word_a": "әлем",
+    "word_b": "älem",
+    "token_a": "▁әлем",
+    "token_b": "▁ä",
+    "logit_a": 7.089641571044922,
+    "logit_b": 9.251203536987305,
+    "prefers_a": false
+  },
+  {
+    "word_a": "бойынша",
+    "word_b": "boıynsha",
+    "token_a": "▁бойынша",
+    "token_b": "▁bo",
+    "logit_a": 14.377397537231445,
+    "logit_b": 12.780948638916016,
+    "prefers_a": true
+  },
+  {
+    "word_a": "64-орын.",
+    "word_b": "64-oryn.",
+    "token_a": "▁64",
+    "token_b": "▁64",
+    "logit_a": 29.24117660522461,
+    "logit_b": 29.24117660522461,
+    "prefers_a": false
+  },
+  {
+    "word_a": "Жер",
+    "word_b": "Jer",
+    "token_a": "▁Жер",
+    "token_b": "▁Jer",
+    "logit_a": 8.175488471984863,
+    "logit_b": 13.585491180419922,
+    "prefers_a": false
+  },
+  {
+    "word_a": "көлемі",
+    "word_b": "kölemı",
+    "token_a": "▁көлемі",
+    "token_b": "▁köl",
+    "logit_a": 11.070173263549805,
+    "logit_b": 7.530555725097656,
+    "prefers_a": true
+  },
+  {
+    "word_a": "жағынан",
+    "word_b": "jağynan",
+    "token_a": "▁жағынан",
+    "token_b": "▁ja",
+    "logit_a": 6.065851211547852,
+    "logit_b": 14.30428409576416,
+    "prefers_a": false
+  },
+  {
+    "word_a": "елдерінің",
+    "word_b": "elderınıñ",
+    "token_a": "▁елдер",
+    "token_b": "▁el",
+    "logit_a": 22.81092071533203,
+    "logit_b": 24.609207153320312,
+    "prefers_a": false
+  },
+  {
+    "word_a": "9-орын",
+    "word_b": "9-oryn",
+    "token_a": "▁9-",
+    "token_b": "▁9-",
+    "logit_a": 23.15331268310547,
+    "logit_b": 23.15331268310547,
+    "prefers_a": false
+  },
+  {
+    "word_a": "алады",
+    "word_b": "alady",
+    "token_a": "▁алады",
+    "token_b": "▁al",
+    "logit_a": 7.151625633239746,
+    "logit_b": 14.276124954223633,
+    "prefers_a": false
+  },
+  {
+    "word_a": "(2",
+    "word_b": "(2",
+    "token_a": "▁(2",
+    "token_b": "▁(2",
+    "logit_a": 9.788473129272461,
+    "logit_b": 9.788473129272461,
+    "prefers_a": false
+  },
+  {
+    "word_a": "724",
+    "word_b": "724",
+    "token_a": "▁7",
+    "token_b": "▁7",
+    "logit_a": 24.08095359802246,
+    "logit_b": 24.08095359802246,
+    "prefers_a": false
+  },
+  {
+    "word_a": "902",
+    "word_b": "902",
+    "token_a": "▁90",
+    "token_b": "▁90",
+    "logit_a": 20.167356491088867,
+    "logit_b": 20.167356491088867,
+    "prefers_a": false
+  },
+  {
+    "word_a": "км²).",
+    "word_b": "km²).",
+    "token_a": "▁км",
+    "token_b": "▁km",
+    "logit_a": 14.180647850036621,
+    "logit_b": 17.233253479003906,
+    "prefers_a": false
+  },
+  {
+    "word_a": "Халықтың",
+    "word_b": "Halyqtyñ",
+    "token_a": "▁Халық",
+    "token_b": "▁Hal",
+    "logit_a": 24.30121612548828,
+    "logit_b": 24.394287109375,
+    "prefers_a": false
+  },
+  {
+    "word_a": "75%",
+    "word_b": "75%",
+    "token_a": "▁75%",
+    "token_b": "▁75%",
+    "logit_a": 13.196074485778809,
+    "logit_b": 13.196074485778809,
+    "prefers_a": false
+  },
+  {
+    "word_a": "астамын",
+    "word_b": "astamyn",
+    "token_a": "▁астам",
+    "token_b": "▁asta",
+    "logit_a": 15.90151596069336,
+    "logit_b": 16.63433837890625,
+    "prefers_a": false
+  },
+  {
+    "word_a": "мұсылмандар",
+    "word_b": "mūsylmandar",
+    "token_a": "▁мұсылман",
+    "token_b": "▁mūs",
+    "logit_a": 15.63493824005127,
+    "logit_b": 12.479647636413574,
+    "prefers_a": true
+  },
+  {
+    "word_a": "құрайды,",
+    "word_b": "qūraıdy,",
+    "token_a": "▁құрайды",
+    "token_b": "▁q",
+    "logit_a": 8.270111083984375,
+    "logit_b": 19.421703338623047,
+    "prefers_a": false
+  },
+  {
+    "word_a": "православты",
+    "word_b": "pravoslavty",
+    "token_a": "▁православ",
+    "token_b": "▁pravo",
+    "logit_a": 27.10670280456543,
+    "logit_b": 20.69930076599121,
+    "prefers_a": true
+  },
+  {
+    "word_a": "христиандар",
+    "word_b": "hrıstıandar",
+    "token_a": "▁христиан",
+    "token_b": "▁hr",
+    "logit_a": 24.57221221923828,
+    "logit_b": 12.569835662841797,
+    "prefers_a": true
+  },
+  {
+    "word_a": "21%,",
+    "word_b": "21%,",
+    "token_a": "▁21%",
+    "token_b": "▁21%",
+    "logit_a": 15.619224548339844,
+    "logit_b": 15.619224548339844,
+    "prefers_a": false
+  },
+  {
+    "word_a": "қалғаны",
+    "word_b": "qalğany",
+    "token_a": "▁қалған",
+    "token_b": "▁qal",
+    "logit_a": 15.427743911743164,
+    "logit_b": 16.195972442626953,
+    "prefers_a": false
+  },
+  {
+    "word_a": "басқа",
+    "word_b": "basqa",
+    "token_a": "▁басқа",
+    "token_b": "▁bas",
+    "logit_a": 9.215731620788574,
+    "logit_b": 7.725292682647705,
+    "prefers_a": true
+  },
+  {
+    "word_a": "да",
+    "word_b": "da",
+    "token_a": "▁да",
+    "token_b": "▁da",
+    "logit_a": 10.292553901672363,
+    "logit_b": 17.348453521728516,
+    "prefers_a": false
+  },
+  {
+    "word_a": "дін",
+    "word_b": "dın",
+    "token_a": "▁дін",
+    "token_b": "▁d",
+    "logit_a": 6.545604705810547,
+    "logit_b": 16.320629119873047,
+    "prefers_a": false
+  },
+  {
+    "word_a": "өкілдері.",
+    "word_b": "ökılderı.",
+    "token_a": "▁өкілдері",
+    "token_b": "▁ö",
+    "logit_a": 8.260103225708008,
+    "logit_b": 19.149255752563477,
+    "prefers_a": false
+  },
+  {
+    "word_a": "Экономикалық",
+    "word_b": "Ekonomıkalyq",
+    "token_a": "▁Экономикалық",
+    "token_b": "▁Ekonom",
+    "logit_a": 12.708573341369629,
+    "logit_b": 12.541008949279785,
+    "prefers_a": true
+  },
+  {
+    "word_a": "көрсеткіштері",
+    "word_b": "körsetkıshterı",
+    "token_a": "▁көрсеткіштер",
+    "token_b": "▁kör",
+    "logit_a": 14.140532493591309,
+    "logit_b": 16.39142417907715,
+    "prefers_a": false
+  },
+  {
+    "word_a": "дамушы",
+    "word_b": "damushy",
+    "token_a": "▁даму",
+    "token_b": "▁da",
+    "logit_a": 19.561132431030273,
+    "logit_b": 17.888683319091797,
+    "prefers_a": true
+  },
+  {
+    "word_a": "экономика",
+    "word_b": "ekonomıka",
+    "token_a": "▁экономика",
+    "token_b": "▁ekonom",
+    "logit_a": 14.327882766723633,
+    "logit_b": 9.791145324707031,
+    "prefers_a": true
+  },
+  {
+    "word_a": "ретінде",
+    "word_b": "retınde",
+    "token_a": "▁ретінде",
+    "token_b": "▁ret",
+    "logit_a": 9.063603401184082,
+    "logit_b": 5.711966037750244,
+    "prefers_a": true
+  },
+  {
+    "word_a": "қарастырылады.",
+    "word_b": "qarastyrylady.",
+    "token_a": "▁қарастырыл",
+    "token_b": "▁qara",
+    "logit_a": 18.852031707763672,
+    "logit_b": 21.461944580078125,
+    "prefers_a": false
+  },
+  {
+    "word_a": "Елдің",
+    "word_b": "Eldıñ",
+    "token_a": "▁Ел",
+    "token_b": "▁El",
+    "logit_a": 22.357303619384766,
+    "logit_b": 25.355607986450195,
+    "prefers_a": false
+  },
+  {
+    "word_a": "жалпы",
+    "word_b": "jalpy",
+    "token_a": "▁жалпы",
+    "token_b": "▁",
+    "logit_a": 11.052428245544434,
+    "logit_b": 22.887454986572266,
+    "prefers_a": false
+  },
+  {
+    "word_a": "ішкі",
+    "word_b": "ıshkı",
+    "token_a": "▁ішкі",
+    "token_b": "▁",
+    "logit_a": 6.138378143310547,
+    "logit_b": 22.887454986572266,
+    "prefers_a": false
+  },
+  {
+    "word_a": "өнімі",
+    "word_b": "önımı",
+    "token_a": "▁өнім",
+    "token_b": "▁ön",
+    "logit_a": 14.112238883972168,
+    "logit_b": 16.246166229248047,
+    "prefers_a": false
+  },
+  {
+    "word_a": "ЖІӨ",
+    "word_b": "JIÖ",
+    "token_a": "▁Ж",
+    "token_b": "▁JI",
+    "logit_a": 33.49249267578125,
+    "logit_b": 26.707717895507812,
+    "prefers_a": true
+  },
+  {
+    "word_a": "(номинал)",
+    "word_b": "(nomınal)",
+    "token_a": "▁(",
+    "token_b": "▁(",
+    "logit_a": 37.156822204589844,
+    "logit_b": 37.156822204589844,
+    "prefers_a": false
+  },
+  {
+    "word_a": "$205,539",
+    "word_b": "$205,539",
+    "token_a": "▁$",
+    "token_b": "▁$",
+    "logit_a": 21.9527530670166,
+    "logit_b": 21.9527530670166,
+    "prefers_a": false
+  },
+  {
+    "word_a": "млрд",
+    "word_b": "mlrd",
+    "token_a": "▁млрд",
+    "token_b": "▁mlrd",
+    "logit_a": 7.832524299621582,
+    "logit_b": 3.8051023483276367,
+    "prefers_a": true
+  },
+  {
+    "word_a": "(2018).",
+    "word_b": "(2018).",
+    "token_a": "▁(2018)",
+    "token_b": "▁(2018)",
+    "logit_a": 11.229989051818848,
+    "logit_b": 11.229989051818848,
+    "prefers_a": false
+  },
+  {
+    "word_a": "Экономиканың",
+    "word_b": "Ekonomıkanyñ",
+    "token_a": "▁Экономика",
+    "token_b": "▁Ekonom",
+    "logit_a": 24.983129501342773,
+    "logit_b": 20.003101348876953,
+    "prefers_a": true
+  },
+  {
+    "word_a": "негізгі",
+    "word_b": "negızgı",
+    "token_a": "▁негізгі",
+    "token_b": "▁ne",
+    "logit_a": 13.553980827331543,
+    "logit_b": 12.037266731262207,
+    "prefers_a": true
+  },
+  {
+    "word_a": "бағыты",
+    "word_b": "bağyty",
+    "token_a": "▁бағыты",
+    "token_b": "▁bağ",
+    "logit_a": 5.7463059425354,
+    "logit_b": 6.616363048553467,
+    "prefers_a": false
+  },
+  {
+    "word_a": "отын-энергетика",
+    "word_b": "otyn-energetıka",
+    "token_a": "▁от",
+    "token_b": "▁o",
+    "logit_a": 29.57024574279785,
+    "logit_b": 26.77850341796875,
+    "prefers_a": true
+  },
+  {
+    "word_a": "саласындағы",
+    "word_b": "salasyndağy",
+    "token_a": "▁саласындағы",
+    "token_b": "▁sala",
+    "logit_a": 6.239162921905518,
+    "logit_b": 13.715736389160156,
+    "prefers_a": false
+  },
+  {
+    "word_a": "шикізат",
+    "word_b": "shıkızat",
+    "token_a": "▁ши",
+    "token_b": "▁sh",
+    "logit_a": 25.879840850830078,
+    "logit_b": 19.41278648376465,
+    "prefers_a": true
+  },
+  {
+    "word_a": "өндіру,",
+    "word_b": "öndıru,",
+    "token_a": "▁өндіру",
+    "token_b": "▁ön",
+    "logit_a": 7.230193138122559,
+    "logit_b": 15.147069931030273,
+    "prefers_a": false
+  },
+  {
+    "word_a": "ауыл",
+    "word_b": "auyl",
+    "token_a": "▁ауыл",
+    "token_b": "▁au",
+    "logit_a": 10.939271926879883,
+    "logit_b": 12.114714622497559,
+    "prefers_a": false
+  },
+  {
+    "word_a": "шаруашылығы",
+    "word_b": "sharuashylyğy",
+    "token_a": "▁шаруашылығы",
+    "token_b": "▁shar",
+    "logit_a": 15.209178924560547,
+    "logit_b": 13.589984893798828,
+    "prefers_a": true
+  },
+  {
+    "word_a": "(егіншілік).",
+    "word_b": "(egınshılık).",
+    "token_a": "▁(",
+    "token_b": "▁(",
+    "logit_a": 40.626197814941406,
+    "logit_b": 40.626197814941406,
+    "prefers_a": false
+  },
+  {
+    "word_a": "1991",
+    "word_b": "1991",
+    "token_a": "▁1991",
+    "token_b": "▁1991",
+    "logit_a": 15.486929893493652,
+    "logit_b": 15.486929893493652,
+    "prefers_a": false
+  },
+  {
+    "word_a": "16",
+    "word_b": "16",
+    "token_a": "▁16",
+    "token_b": "▁16",
+    "logit_a": 20.275440216064453,
+    "logit_b": 20.275440216064453,
+    "prefers_a": false
+  },
+  {
+    "word_a": "желтоқсан",
+    "word_b": "jeltoqsan",
+    "token_a": "▁желтоқсан",
+    "token_b": "▁je",
+    "logit_a": 14.271500587463379,
+    "logit_b": 13.309661865234375,
+    "prefers_a": true
+  },
+  {
+    "word_a": "күні",
+    "word_b": "künı",
+    "token_a": "▁күні",
+    "token_b": "▁kü",
+    "logit_a": 9.726716041564941,
+    "logit_b": 7.950808048248291,
+    "prefers_a": true
+  },
+  {
+    "word_a": "КСРО-ның",
+    "word_b": "KSRO-nyñ",
+    "token_a": "▁",
+    "token_b": "▁KS",
+    "logit_a": 37.26333236694336,
+    "logit_b": 30.526966094970703,
+    "prefers_a": true
+  },
+  {
+    "word_a": "ыдырауына",
+    "word_b": "ydyrauyna",
+    "token_a": "▁",
+    "token_b": "▁y",
+    "logit_a": 38.2332763671875,
+    "logit_b": 28.63686180114746,
+    "prefers_a": true
+  },
+  {
+    "word_a": "байланысты",
+    "word_b": "baılanysty",
+    "token_a": "▁байланысты",
+    "token_b": "▁ba",
+    "logit_a": 13.00367259979248,
+    "logit_b": 15.04110336303711,
+    "prefers_a": false
+  },
+  {
+    "word_a": "өз",
+    "word_b": "öz",
+    "token_a": "▁өз",
+    "token_b": "▁öz",
+    "logit_a": 3.9278664588928223,
+    "logit_b": 10.827781677246094,
+    "prefers_a": false
+  },
+  {
+    "word_a": "егемендігін",
+    "word_b": "egemendıgın",
+    "token_a": "▁",
+    "token_b": "▁e",
+    "logit_a": 34.047325134277344,
+    "logit_b": 28.152498245239258,
+    "prefers_a": true
+  },
+  {
+    "word_a": "жариялады",
+    "word_b": "jarıyalady",
+    "token_a": "▁жария",
+    "token_b": "▁ja",
+    "logit_a": 18.060808181762695,
+    "logit_b": 18.832773208618164,
+    "prefers_a": false
+  },
+  {
+    "word_a": "халықаралық",
+    "word_b": "halyqaralyq",
+    "token_a": "▁халықаралық",
+    "token_b": "▁hal",
+    "logit_a": 13.906536102294922,
+    "logit_b": 12.452322006225586,
+    "prefers_a": true
+  },
+  {
+    "word_a": "қауымдастық",
+    "word_b": "qauymdastyq",
+    "token_a": "▁қауым",
+    "token_b": "▁qa",
+    "logit_a": 17.266122817993164,
+    "logit_b": 13.20267391204834,
+    "prefers_a": true
+  },
+  {
+    "word_a": "тарапынан",
+    "word_b": "tarapynan",
+    "token_a": "▁тарапынан",
+    "token_b": "▁tara",
+    "logit_a": 0.55656898021698,
+    "logit_b": 17.344589233398438,
+    "prefers_a": false
+  },
+  {
+    "word_a": "тәуелсіз",
+    "word_b": "täuelsız",
+    "token_a": "▁тәуелсіз",
+    "token_b": "▁tä",
+    "logit_a": 5.057925224304199,
+    "logit_b": 5.183385848999023,
+    "prefers_a": false
+  },
+  {
+    "word_a": "мемлекет",
+    "word_b": "memleket",
+    "token_a": "▁мемлекет",
+    "token_b": "▁memleket",
+    "logit_a": 9.825221061706543,
+    "logit_b": 8.868596076965332,
+    "prefers_a": true
+  },
+  {
+    "word_a": "мойындалды.",
+    "word_b": "moıyndaldy.",
+    "token_a": "▁мой",
+    "token_b": "▁mo",
+    "logit_a": 34.055686950683594,
+    "logit_b": 25.729305267333984,
+    "prefers_a": true
+  },
+  {
+    "word_a": "1992",
+    "word_b": "1992",
+    "token_a": "▁1992",
+    "token_b": "▁1992",
+    "logit_a": 14.990196228027344,
+    "logit_b": 14.990196228027344,
+    "prefers_a": false
+  },
+  {
+    "word_a": "наурызынан",
+    "word_b": "nauryzynan",
+    "token_a": "▁наурыз",
+    "token_b": "▁na",
+    "logit_a": 21.348085403442383,
+    "logit_b": 20.973817825317383,
+    "prefers_a": true
+  },
+  {
+    "word_a": "бастап",
+    "word_b": "bastap",
+    "token_a": "▁бастап",
+    "token_b": "▁basta",
+    "logit_a": 6.9320855140686035,
+    "logit_b": 9.125181198120117,
+    "prefers_a": false
+  },
+  {
+    "word_a": "БҰҰ-ның",
+    "word_b": "BŪŪ-nyñ",
+    "token_a": "▁БҰҰ",
+    "token_b": "▁B",
+    "logit_a": 18.761241912841797,
+    "logit_b": 23.59343147277832,
+    "prefers_a": false
+  },
+  {
+    "word_a": "толыққанды",
+    "word_b": "tolyqqandy",
+    "token_a": "▁толық",
+    "token_b": "▁to",
+    "logit_a": 35.00467300415039,
+    "logit_b": 23.290578842163086,
+    "prefers_a": true
+  },
+  {
+    "word_a": "мүшесі.",
+    "word_b": "müshesı.",
+    "token_a": "▁мүшесі",
+    "token_b": "▁mü",
+    "logit_a": 6.177690505981445,
+    "logit_b": 16.821861267089844,
+    "prefers_a": false
+  },
+  {
+    "word_a": "Этимологиясы",
+    "word_b": "Etımologıyasy",
+    "token_a": "▁Эти",
+    "token_b": "▁E",
+    "logit_a": 32.0426025390625,
+    "logit_b": 32.46929168701172,
+    "prefers_a": false
+  },
+  {
+    "word_a": "сөзі",
+    "word_b": "sözı",
+    "token_a": "▁сөз",
+    "token_b": "▁söz",
+    "logit_a": 18.44365882873535,
+    "logit_b": 16.706249237060547,
+    "prefers_a": true
+  },
+  {
+    "word_a": "Қазақ",
+    "word_b": "Qazaq",
+    "token_a": "▁Қазақ",
+    "token_b": "▁Qaz",
+    "logit_a": 14.278898239135742,
+    "logit_b": 10.193582534790039,
+    "prefers_a": true
+  },
+  {
+    "word_a": "Стан",
+    "word_b": "Stan",
+    "token_a": "▁Стан",
+    "token_b": "▁Stan",
+    "logit_a": 3.7609617710113525,
+    "logit_b": 11.493103981018066,
+    "prefers_a": false
+  },
+  {
+    "word_a": "сөздерінен",
+    "word_b": "sözderınen",
+    "token_a": "▁сөздер",
+    "token_b": "▁söz",
+    "logit_a": 22.00660514831543,
+    "logit_b": 18.804492950439453,
+    "prefers_a": true
+  },
+  {
+    "word_a": "құралған,",
+    "word_b": "qūralğan,",
+    "token_a": "▁құрал",
+    "token_b": "▁q",
+    "logit_a": 15.46821403503418,
+    "logit_b": 22.36308479309082,
+    "prefers_a": false
+  },
+  {
+    "word_a": "яғни",
+    "word_b": "yağnı",
+    "token_a": "▁яғни",
+    "token_b": "▁yağ",
+    "logit_a": 3.8986332416534424,
+    "logit_b": 5.574732780456543,
+    "prefers_a": false
+  },
+  {
+    "word_a": "елі",
+    "word_b": "elı",
+    "token_a": "▁",
+    "token_b": "▁e",
+    "logit_a": 22.462200164794922,
+    "logit_b": 17.007966995239258,
+    "prefers_a": true
+  },
+  {
+    "word_a": "деген",
+    "word_b": "degen",
+    "token_a": "▁деген",
+    "token_b": "▁de",
+    "logit_a": 8.466306686401367,
+    "logit_b": 14.998775482177734,
+    "prefers_a": false
+  },
+  {
+    "word_a": "мағына",
+    "word_b": "mağyna",
+    "token_a": "▁мағына",
+    "token_b": "▁ma",
+    "logit_a": 7.394223213195801,
+    "logit_b": 14.780542373657227,
+    "prefers_a": false
+  },
+  {
+    "word_a": "береді.",
+    "word_b": "beredı.",
+    "token_a": "▁береді",
+    "token_b": "▁bere",
+    "logit_a": 11.497913360595703,
+    "logit_b": 14.426729202270508,
+    "prefers_a": false
+  },
+  {
+    "word_a": "Соңғы",
+    "word_b": "Soñğy",
+    "token_a": "▁Соңғы",
+    "token_b": "▁So",
+    "logit_a": 12.826909065246582,
+    "logit_b": 15.451478958129883,
+    "prefers_a": false
+  },
+  {
+    "word_a": "кездері",
+    "word_b": "kezderı",
+    "token_a": "▁кезде",
+    "token_b": "▁kezd",
+    "logit_a": 20.34886360168457,
+    "logit_b": 15.484319686889648,
+    "prefers_a": true
+  },
+  {
+    "word_a": "халық",
+    "word_b": "halyq",
+    "token_a": "▁халық",
+    "token_b": "▁hal",
+    "logit_a": 7.2361321449279785,
+    "logit_b": 12.452322006225586,
+    "prefers_a": false
+  },
+  {
+    "word_a": "арасында",
+    "word_b": "arasynda",
+    "token_a": "▁арасында",
+    "token_b": "▁ara",
+    "logit_a": 7.58868932723999,
+    "logit_b": 12.178678512573242,
+    "prefers_a": false
+  },
+  {
+    "word_a": "елі,",
+    "word_b": "elı,",
+    "token_a": "▁",
+    "token_b": "▁e",
+    "logit_a": 25.26959228515625,
+    "logit_b": 21.491313934326172,
+    "prefers_a": true
+  },
+  {
+    "word_a": "Ұлы",
+    "word_b": "Ūly",
+    "token_a": "▁Ұлы",
+    "token_b": "▁",
+    "logit_a": 7.598014831542969,
+    "logit_b": 22.887454986572266,
+    "prefers_a": false
+  },
+  {
+    "word_a": "дала",
+    "word_b": "dala",
+    "token_a": "▁дала",
+    "token_b": "▁dala",
+    "logit_a": 4.201820373535156,
+    "logit_b": 4.615139961242676,
+    "prefers_a": false
+  },
+  {
+    "word_a": "Қазақия",
+    "word_b": "Qazaqıya",
+    "token_a": "▁Қазақ",
+    "token_b": "▁Qaz",
+    "logit_a": 24.93114471435547,
+    "logit_b": 20.8206787109375,
+    "prefers_a": true
+  },
+  {
+    "word_a": "атаулар",
+    "word_b": "ataular",
+    "token_a": "▁ата",
+    "token_b": "▁atau",
+    "logit_a": 25.72952651977539,
+    "logit_b": 21.45890235900879,
+    "prefers_a": true
+  },
+  {
+    "word_a": "қолданылуда.",
+    "word_b": "qoldanyluda.",
+    "token_a": "▁қолдан",
+    "token_b": "▁qol",
+    "logit_a": 23.074466705322266,
+    "logit_b": 20.05084800720215,
+    "prefers_a": true
+  },
+  {
+    "word_a": "Тарихы",
+    "word_b": "Tarıhy",
+    "token_a": "▁Тар",
+    "token_b": "▁Tar",
+    "logit_a": 30.159610748291016,
+    "logit_b": 26.940433502197266,
+    "prefers_a": true
+  },
+  {
+    "word_a": "Ежелгі",
+    "word_b": "Ejelgı",
+    "token_a": "▁Е",
+    "token_b": "▁E",
+    "logit_a": 35.27676773071289,
+    "logit_b": 32.388126373291016,
+    "prefers_a": true
+  },
+  {
+    "word_a": "Қазіргі",
+    "word_b": "Qazırgı",
+    "token_a": "▁Қазіргі",
+    "token_b": "▁Qaz",
+    "logit_a": 10.750520706176758,
+    "logit_b": 10.193582534790039,
+    "prefers_a": true
+  },
+  {
+    "word_a": "жерін",
+    "word_b": "jerın",
+    "token_a": "▁жер",
+    "token_b": "▁jer",
+    "logit_a": 18.469444274902344,
+    "logit_b": 12.330658912658691,
+    "prefers_a": true
+  },
+  {
+    "word_a": "ежелгі",
+    "word_b": "ejelgı",
+    "token_a": "▁е",
+    "token_b": "▁e",
+    "logit_a": 32.91264724731445,
+    "logit_b": 29.083375930786133,
+    "prefers_a": true
+  },
+  {
+    "word_a": "адамзат",
+    "word_b": "adamzat",
+    "token_a": "▁адамзат",
+    "token_b": "▁adam",
+    "logit_a": 6.005796909332275,
+    "logit_b": 11.499167442321777,
+    "prefers_a": false
+  },
+  {
+    "word_a": "баласы",
+    "word_b": "balasy",
+    "token_a": "▁баласы",
+    "token_b": "▁balas",
+    "logit_a": 6.316681385040283,
+    "logit_b": 12.211319923400879,
+    "prefers_a": false
+  },
+  {
+    "word_a": "бұдан",
+    "word_b": "būdan",
+    "token_a": "▁",
+    "token_b": "▁bū",
+    "logit_a": 25.614957809448242,
+    "logit_b": 14.140210151672363,
+    "prefers_a": true
+  },
+  {
+    "word_a": "миллиондай",
+    "word_b": "mıllıondaı",
+    "token_a": "▁миллион",
+    "token_b": "▁m",
+    "logit_a": 32.10353088378906,
+    "logit_b": 27.621749877929688,
+    "prefers_a": true
+  },
+  {
+    "word_a": "жыл",
+    "word_b": "jyl",
+    "token_a": "▁жыл",
+    "token_b": "▁jy",
+    "logit_a": 10.366910934448242,
+    "logit_b": 12.369722366333008,
+    "prefers_a": false
+  },
+  {
+    "word_a": "бұрын",
+    "word_b": "būryn",
+    "token_a": "▁бұрын",
+    "token_b": "▁bū",
+    "logit_a": 9.462095260620117,
+    "logit_b": 5.86712646484375,
+    "prefers_a": true
+  },
+  {
+    "word_a": "мекен",
+    "word_b": "meken",
+    "token_a": "▁мекен",
+    "token_b": "▁me",
+    "logit_a": 4.541486740112305,
+    "logit_b": 14.990888595581055,
+    "prefers_a": false
+  },
+  {
+    "word_a": "еткен.",
+    "word_b": "etken.",
+    "token_a": "▁еткен",
+    "token_b": "▁et",
+    "logit_a": 7.107443809509277,
+    "logit_b": 19.244937896728516,
+    "prefers_a": false
+  },
+  {
+    "word_a": "Қола",
+    "word_b": "Qola",
+    "token_a": "▁Қол",
+    "token_b": "▁Qo",
+    "logit_a": 16.925365447998047,
+    "logit_b": 14.233355522155762,
+    "prefers_a": true
+  },
+  {
+    "word_a": "дәуірінде",
+    "word_b": "däuırınde",
+    "token_a": "▁дәуір",
+    "token_b": "▁",
+    "logit_a": 18.287242889404297,
+    "logit_b": 28.41743278503418,
+    "prefers_a": false
+  },
+  {
+    "word_a": "Сібірдің,",
+    "word_b": "Sıbırdıñ,",
+    "token_a": "▁Сі",
+    "token_b": "▁S",
+    "logit_a": 25.0849609375,
+    "logit_b": 27.135292053222656,
+    "prefers_a": false
+  },
+  {
+    "word_a": "Жайық",
+    "word_b": "Jaıyq",
+    "token_a": "▁Ж",
+    "token_b": "▁Ja",
+    "logit_a": 24.105058670043945,
+    "logit_b": 21.25306510925293,
+    "prefers_a": true
+  },
+  {
+    "word_a": "өңірінің,",
+    "word_b": "öñırınıñ,",
+    "token_a": "▁өңір",
+    "token_b": "▁ö",
+    "logit_a": 17.993030548095703,
+    "logit_b": 23.255767822265625,
+    "prefers_a": false
+  },
+  {
+    "word_a": "Орта",
+    "word_b": "Orta",
+    "token_a": "▁Орта",
+    "token_b": "▁Orta",
+    "logit_a": 7.865200519561768,
+    "logit_b": 16.255077362060547,
+    "prefers_a": false
+  },
+  {
+    "word_a": "Азияның",
+    "word_b": "Azıyanyñ",
+    "token_a": "▁Азия",
+    "token_b": "▁Az",
+    "logit_a": 24.30597686767578,
+    "logit_b": 24.014284133911133,
+    "prefers_a": true
+  },
+  {
+    "word_a": "ұлан-ғайыр",
+    "word_b": "ūlan-ğaıyr",
+    "token_a": "▁ұ",
+    "token_b": "▁",
+    "logit_a": 40.8271484375,
+    "logit_b": 40.96099090576172,
+    "prefers_a": false
+  },
+  {
+    "word_a": "далаларын",
+    "word_b": "dalalaryn",
+    "token_a": "▁дала",
+    "token_b": "▁dala",
+    "logit_a": 20.79549217224121,
+    "logit_b": 18.646854400634766,
+    "prefers_a": true
+  },
+  {
+    "word_a": "тегі",
+    "word_b": "tegı",
+    "token_a": "▁",
+    "token_b": "▁te",
+    "logit_a": 32.537899017333984,
+    "logit_b": 26.233673095703125,
+    "prefers_a": true
+  },
+  {
+    "word_a": "тарихи",
+    "word_b": "tarıhı",
+    "token_a": "▁тарихи",
+    "token_b": "▁tar",
+    "logit_a": 7.37007474899292,
+    "logit_b": 14.868680953979492,
+    "prefers_a": false
+  },
+  {
+    "word_a": "тағдырларының",
+    "word_b": "tağdyrlarynyñ",
+    "token_a": "▁та",
+    "token_b": "▁ta",
+    "logit_a": 37.243675231933594,
+    "logit_b": 33.63208770751953,
+    "prefers_a": true
+  },
+  {
+    "word_a": "ортақтығы",
+    "word_b": "ortaqtyğy",
+    "token_a": "▁ортақ",
+    "token_b": "▁orta",
+    "logit_a": 20.424312591552734,
+    "logit_b": 21.626853942871094,
+    "prefers_a": false
+  },
+  {
+    "word_a": "туыс",
+    "word_b": "tuys",
+    "token_a": "▁ту",
+    "token_b": "▁tuy",
+    "logit_a": 17.83307456970215,
+    "logit_b": 14.742046356201172,
+    "prefers_a": true
+  },
+  {
+    "word_a": "тайпалар",
+    "word_b": "taıpalar",
+    "token_a": "▁тай",
+    "token_b": "▁ta",
+    "logit_a": 26.779808044433594,
+    "logit_b": 22.680946350097656,
+    "prefers_a": true
+  },
+  {
+    "word_a": "мекендеді.",
+    "word_b": "mekendedı.",
+    "token_a": "▁мекен",
+    "token_b": "▁me",
+    "logit_a": 20.549049377441406,
+    "logit_b": 23.928255081176758,
+    "prefers_a": false
+  },
+  {
+    "word_a": "Бұл",
+    "word_b": "Būl",
+    "token_a": "▁Бұл",
+    "token_b": "▁Bū",
+    "logit_a": 12.130812644958496,
+    "logit_b": 7.029752731323242,
+    "prefers_a": true
+  },
+  {
+    "word_a": "өзінше",
+    "word_b": "özınshe",
+    "token_a": "▁өзін",
+    "token_b": "▁öz",
+    "logit_a": 11.273052215576172,
+    "logit_b": 13.175606727600098,
+    "prefers_a": false
+  },
+  {
+    "word_a": "бір",
+    "word_b": "bır",
+    "token_a": "▁бір",
+    "token_b": "▁b",
+    "logit_a": 9.568784713745117,
+    "logit_b": 16.6165828704834,
+    "prefers_a": false
+  },
+  {
+    "word_a": "үлгідегі",
+    "word_b": "ülgıdegı",
+    "token_a": "▁үлгі",
+    "token_b": "▁ül",
+    "logit_a": 21.93807029724121,
+    "logit_b": 15.742416381835938,
+    "prefers_a": true
+  },
+  {
+    "word_a": "жарқын",
+    "word_b": "jarqyn",
+    "token_a": "▁жар",
+    "token_b": "▁jar",
+    "logit_a": 16.360027313232422,
+    "logit_b": 16.870689392089844,
+    "prefers_a": false
+  },
+  {
+    "word_a": "мәдениет",
+    "word_b": "mädenıet",
+    "token_a": "▁мәдениет",
+    "token_b": "▁mä",
+    "logit_a": 11.817505836486816,
+    "logit_b": 7.3063225746154785,
+    "prefers_a": true
+  },
+  {
+    "word_a": "қалдырды.",
+    "word_b": "qaldyrdy.",
+    "token_a": "▁қалды",
+    "token_b": "▁qal",
+    "logit_a": 21.001976013183594,
+    "logit_b": 21.534168243408203,
+    "prefers_a": false
+  },
+  {
+    "word_a": "Мұны",
+    "word_b": "Mūny",
+    "token_a": "▁Мұ",
+    "token_b": "▁M",
+    "logit_a": 18.434539794921875,
+    "logit_b": 24.182674407958984,
+    "prefers_a": false
+  },
+  {
+    "word_a": "ғылымда",
+    "word_b": "ğylymda",
+    "token_a": "▁ғылым",
+    "token_b": "▁",
+    "logit_a": 15.979547500610352,
+    "logit_b": 19.546825408935547,
+    "prefers_a": false
+  },
+  {
+    "word_a": "Андрон",
+    "word_b": "Andron",
+    "token_a": "▁Андр",
+    "token_b": "▁And",
+    "logit_a": 26.53963851928711,
+    "logit_b": 30.914379119873047,
+    "prefers_a": false
+  },
+  {
+    "word_a": "мәдениеті",
+    "word_b": "mädenıetı",
+    "token_a": "▁мәдениет",
+    "token_b": "▁mä",
+    "logit_a": 19.475147247314453,
+    "logit_b": 16.01502799987793,
+    "prefers_a": true
+  },
+  {
+    "word_a": "деп",
+    "word_b": "dep",
+    "token_a": "▁деп",
+    "token_b": "▁de",
+    "logit_a": 7.66755485534668,
+    "logit_b": 14.998775482177734,
+    "prefers_a": false
+  },
+  {
+    "word_a": "атайды.",
+    "word_b": "ataıdy.",
+    "token_a": "▁ата",
+    "token_b": "▁ata",
+    "logit_a": 23.7156982421875,
+    "logit_b": 19.196575164794922,
+    "prefers_a": true
+  },
+  {
+    "word_a": "Ерте",
+    "word_b": "Erte",
+    "token_a": "▁Ер",
+    "token_b": "▁Er",
+    "logit_a": 25.47209930419922,
+    "logit_b": 23.68052864074707,
+    "prefers_a": true
+  },
+  {
+    "word_a": "темір",
+    "word_b": "temır",
+    "token_a": "▁темір",
+    "token_b": "▁tem",
+    "logit_a": 9.005962371826172,
+    "logit_b": 13.190264701843262,
+    "prefers_a": false
+  },
+  {
+    "word_a": "ғасыры",
+    "word_b": "ğasyry",
+    "token_a": "▁ғасыр",
+    "token_b": "▁",
+    "logit_a": 18.443199157714844,
+    "logit_b": 26.06096076965332,
+    "prefers_a": false
+  },
+  {
+    "word_a": "(біздің",
+    "word_b": "(bızdıñ",
+    "token_a": "▁(",
+    "token_b": "▁(",
+    "logit_a": 31.292373657226562,
+    "logit_b": 31.292373657226562,
+    "prefers_a": false
+  },
+  {
+    "word_a": "заманымыздан",
+    "word_b": "zamanymyzdan",
+    "token_a": "▁заман",
+    "token_b": "▁zaman",
+    "logit_a": 45.823265075683594,
+    "logit_b": 32.31432342529297,
+    "prefers_a": true
+  },
+  {
+    "word_a": "бұрынғы",
+    "word_b": "būrynğy",
+    "token_a": "▁бұрынғы",
+    "token_b": "▁bū",
+    "logit_a": 6.074608325958252,
+    "logit_b": 5.86712646484375,
+    "prefers_a": true
+  },
+  {
+    "word_a": "мыңжылдық",
+    "word_b": "myñjyldyq",
+    "token_a": "▁мың",
+    "token_b": "▁my",
+    "logit_a": 9.934661865234375,
+    "logit_b": 17.972572326660156,
+    "prefers_a": false
+  },
+  {
+    "word_a": "ортасы)",
+    "word_b": "ortasy)",
+    "token_a": "▁орта",
+    "token_b": "▁orta",
+    "logit_a": 20.63459587097168,
+    "logit_b": 16.242937088012695,
+    "prefers_a": true
+  },
+  {
+    "word_a": "Қазақстанда",
+    "word_b": "Qazaqstanda",
+    "token_a": "▁Қазақстанда",
+    "token_b": "▁Qaz",
+    "logit_a": 11.196202278137207,
+    "logit_b": 10.193582534790039,
+    "prefers_a": true
+  },
+  {
+    "word_a": "тайпалық",
+    "word_b": "taıpalyq",
+    "token_a": "▁тай",
+    "token_b": "▁ta",
+    "logit_a": 26.586984634399414,
+    "logit_b": 22.446949005126953,
+    "prefers_a": true
+  },
+  {
+    "word_a": "одақтар",
+    "word_b": "odaqtar",
+    "token_a": "▁од",
+    "token_b": "▁od",
+    "logit_a": 28.41627311706543,
+    "logit_b": 20.46503257751465,
+    "prefers_a": true
+  },
+  {
+    "word_a": "қалыптасты.",
+    "word_b": "qalyptasty.",
+    "token_a": "▁қалыптасты",
+    "token_b": "▁qal",
+    "logit_a": 9.120654106140137,
+    "logit_b": 15.796438217163086,
+    "prefers_a": false
+  },
+  {
+    "word_a": "Қазақстанның",
+    "word_b": "Qazaqstannyñ",
+    "token_a": "▁Қазақстанның",
+    "token_b": "▁Qaz",
+    "logit_a": 11.403515815734863,
+    "logit_b": 10.193582534790039,
+    "prefers_a": true
+  },
+  {
+    "word_a": "оңтүстік,",
+    "word_b": "oñtüstık,",
+    "token_a": "▁оң",
+    "token_b": "▁o",
+    "logit_a": 36.386207580566406,
+    "logit_b": 29.87824249267578,
+    "prefers_a": true
+  },
+  {
+    "word_a": "шығыс",
+    "word_b": "shyğys",
+    "token_a": "▁шы",
+    "token_b": "▁s",
+    "logit_a": 35.010292053222656,
+    "logit_b": 26.50949478149414,
+    "prefers_a": true
+  },
+  {
+    "word_a": "орталық",
+    "word_b": "ortalyq",
+    "token_a": "▁орталық",
+    "token_b": "▁orta",
+    "logit_a": 12.47286605834961,
+    "logit_b": 10.782417297363281,
+    "prefers_a": true
+  },
+  {
+    "word_a": "аудандарын",
+    "word_b": "audandaryn",
+    "token_a": "▁аудандар",
+    "token_b": "▁au",
+    "logit_a": 11.817947387695312,
+    "logit_b": 15.84326171875,
+    "prefers_a": false
+  },
+  {
+    "word_a": "мекендеген",
+    "word_b": "mekendegen",
+    "token_a": "▁мекен",
+    "token_b": "▁me",
+    "logit_a": 21.9249267578125,
+    "logit_b": 22.331897735595703,
+    "prefers_a": false
+  },
+  {
+    "word_a": "сақ",
+    "word_b": "saq",
+    "token_a": "▁",
+    "token_b": "▁sa",
+    "logit_a": 21.674541473388672,
+    "logit_b": 17.360553741455078,
+    "prefers_a": true
+  },
+  {
+    "word_a": "одағына,",
+    "word_b": "odağyna,",
+    "token_a": "▁о",
+    "token_b": "▁o",
+    "logit_a": 21.866689682006836,
+    "logit_b": 20.043272018432617,
+    "prefers_a": true
+  },
+  {
+    "word_a": "батыс,",
+    "word_b": "batys,",
+    "token_a": "▁ба",
+    "token_b": "▁bat",
+    "logit_a": 22.31119155883789,
+    "logit_b": 18.189260482788086,
+    "prefers_a": true
+  },
+  {
+    "word_a": "солтүстік",
+    "word_b": "soltüstık",
+    "token_a": "▁сол",
+    "token_b": "▁sol",
+    "logit_a": 34.020172119140625,
+    "logit_b": 24.110626220703125,
+    "prefers_a": true
+  },
+  {
+    "word_a": "аудандарындағы",
+    "word_b": "audandaryndağy",
+    "token_a": "▁аудандар",
+    "token_b": "▁au",
+    "logit_a": 19.29163932800293,
+    "logit_b": 23.27252769470215,
+    "prefers_a": false
+  },
+  {
+    "word_a": "савроматтар",
+    "word_b": "savromattar",
+    "token_a": "▁сав",
+    "token_b": "▁sa",
+    "logit_a": 25.99301528930664,
+    "logit_b": 25.749114990234375,
+    "prefers_a": true
+  },
+  {
+    "word_a": "бірлестігіне",
+    "word_b": "bırlestıgıne",
+    "token_a": "▁бір",
+    "token_b": "▁b",
+    "logit_a": 24.558856964111328,
+    "logit_b": 21.038232803344727,
+    "prefers_a": true
+  },
+  {
+    "word_a": "бірікті.",
+    "word_b": "bırıktı.",
+    "token_a": "▁бірі",
+    "token_b": "▁b",
+    "logit_a": 16.438745498657227,
+    "logit_b": 19.03818130493164,
+    "prefers_a": false
+  },
+  {
+    "word_a": "Біздің",
+    "word_b": "Bızdıñ",
+    "token_a": "▁Біздің",
+    "token_b": "▁B",
+    "logit_a": 10.856254577636719,
+    "logit_b": 17.286611557006836,
+    "prefers_a": false
+  },
+  {
+    "word_a": "III-ғасырда",
+    "word_b": "III-ğasyrda",
+    "token_a": "▁III",
+    "token_b": "▁III",
+    "logit_a": 39.21208953857422,
+    "logit_b": 39.21208953857422,
+    "prefers_a": false
+  },
+  {
+    "word_a": "жерінде",
+    "word_b": "jerınde",
+    "token_a": "▁жер",
+    "token_b": "▁jer",
+    "logit_a": 23.43871307373047,
+    "logit_b": 20.059825897216797,
+    "prefers_a": true
+  },
+  {
+    "word_a": "кейбір",
+    "word_b": "keıbır",
+    "token_a": "▁кейбір",
+    "token_b": "▁ke",
+    "logit_a": 6.447792053222656,
+    "logit_b": 12.110274314880371,
+    "prefers_a": false
+  },
+  {
+    "word_a": "мемлекетін",
+    "word_b": "memleketın",
+    "token_a": "▁мемлекет",
+    "token_b": "▁memleket",
+    "logit_a": 18.371732711791992,
+    "logit_b": 12.117605209350586,
+    "prefers_a": true
+  },
+  {
+    "word_a": "құрып,",
+    "word_b": "qūryp,",
+    "token_a": "▁құры",
+    "token_b": "▁q",
+    "logit_a": 17.39336395263672,
+    "logit_b": 21.142969131469727,
+    "prefers_a": false
+  },
+  {
+    "word_a": "алыс-жақын",
+    "word_b": "alys-jaqyn",
+    "token_a": "▁алыс",
+    "token_b": "▁a",
+    "logit_a": 20.549251556396484,
+    "logit_b": 16.620216369628906,
+    "prefers_a": true
+  },
+  {
+    "word_a": "елдермен",
+    "word_b": "eldermen",
+    "token_a": "▁елдер",
+    "token_b": "▁el",
+    "logit_a": 15.914861679077148,
+    "logit_b": 16.68950843811035,
+    "prefers_a": false
+  },
+  {
+    "word_a": "саяси",
+    "word_b": "sayası",
+    "token_a": "▁саяси",
+    "token_b": "▁sa",
+    "logit_a": 5.836798191070557,
+    "logit_b": 16.20848274230957,
+    "prefers_a": false
+  },
+  {
+    "word_a": "қарым-қатынастарға",
+    "word_b": "qarym-qatynastarğa",
+    "token_a": "▁қарым",
+    "token_b": "▁qar",
+    "logit_a": 39.59319305419922,
+    "logit_b": 25.141971588134766,
+    "prefers_a": true
+  },
+  {
+    "word_a": "түсті.",
+    "word_b": "tüstı.",
+    "token_a": "▁түсті",
+    "token_b": "▁tü",
+    "logit_a": 7.072587966918945,
+    "logit_b": 14.204482078552246,
+    "prefers_a": false
+  },
+  {
+    "word_a": "Зерттеушілер",
+    "word_b": "Zertteushıler",
+    "token_a": "▁Зерттеу",
+    "token_b": "▁Zer",
+    "logit_a": 21.293790817260742,
+    "logit_b": 21.165958404541016,
+    "prefers_a": true
+  },
+  {
+    "word_a": "ғұндарды",
+    "word_b": "ğūndardy",
+    "token_a": "▁",
+    "token_b": "▁",
+    "logit_a": 41.80724334716797,
+    "logit_b": 41.80724334716797,
+    "prefers_a": false
+  },
+  {
+    "word_a": "түріктердің",
+    "word_b": "türıkterdıñ",
+    "token_a": "▁түрі",
+    "token_b": "▁tür",
+    "logit_a": 24.472206115722656,
+    "logit_b": 20.833351135253906,
+    "prefers_a": true
+  },
+  {
+    "word_a": "арғы",
+    "word_b": "arğy",
+    "token_a": "▁ар",
+    "token_b": "▁ar",
+    "logit_a": 21.346939086914062,
+    "logit_b": 21.931779861450195,
+    "prefers_a": false
+  },
+  {
+    "word_a": "ата-бабалары",
+    "word_b": "ata-babalary",
+    "token_a": "▁ата",
+    "token_b": "▁ata",
+    "logit_a": 53.193084716796875,
+    "logit_b": 39.96392822265625,
+    "prefers_a": true
+  },
+  {
+    "word_a": "есептейді.",
+    "word_b": "esepteıdı.",
+    "token_a": "▁есепте",
+    "token_b": "▁ese",
+    "logit_a": 18.441986083984375,
+    "logit_b": 21.28862762451172,
+    "prefers_a": false
+  },
+  {
+    "word_a": "бірлестікті",
+    "word_b": "bırlestıktı",
+    "token_a": "▁бір",
+    "token_b": "▁b",
+    "logit_a": 36.11170196533203,
+    "logit_b": 34.16645812988281,
+    "prefers_a": true
+  },
+  {
+    "word_a": "Мөде",
+    "word_b": "Möde",
+    "token_a": "▁М",
+    "token_b": "▁Mö",
+    "logit_a": 33.41075897216797,
+    "logit_b": 27.539958953857422,
+    "prefers_a": true
+  },
+  {
+    "word_a": "басқарған",
+    "word_b": "basqarğan",
+    "token_a": "▁басқа",
+    "token_b": "▁bas",
+    "logit_a": 27.895017623901367,
+    "logit_b": 11.426688194274902,
+    "prefers_a": true
+  },
+  {
+    "word_a": "кезде",
+    "word_b": "kezde",
+    "token_a": "▁кезде",
+    "token_b": "▁kezd",
+    "logit_a": 5.204408645629883,
+    "logit_b": 10.36215591430664,
+    "prefers_a": false
+  },
+  {
+    "word_a": "ғұндар",
+    "word_b": "ğūndar",
+    "token_a": "▁",
+    "token_b": "▁",
+    "logit_a": 31.337902069091797,
+    "logit_b": 31.337902069091797,
+    "prefers_a": false
+  },
+  {
+    "word_a": "бүкіл",
+    "word_b": "bükıl",
+    "token_a": "▁бүкіл",
+    "token_b": "▁b",
+    "logit_a": 3.7737255096435547,
+    "logit_b": 16.6165828704834,
+    "prefers_a": false
+  },
+  {
+    "word_a": "әлемге",
+    "word_b": "älemge",
+    "token_a": "▁әлем",
+    "token_b": "▁ä",
+    "logit_a": 14.263165473937988,
+    "logit_b": 21.17672348022461,
+    "prefers_a": false
+  },
+  {
+    "word_a": "танылды.",
+    "word_b": "tanyldy.",
+    "token_a": "▁таны",
+    "token_b": "▁tany",
+    "logit_a": 22.61195182800293,
+    "logit_b": 14.031513214111328,
+    "prefers_a": true
+  },
+  {
+    "word_a": "Ғұндардың",
+    "word_b": "Ğūndardyñ",
+    "token_a": "▁",
+    "token_b": "▁",
+    "logit_a": 39.35504913330078,
+    "logit_b": 39.35504913330078,
+    "prefers_a": false
+  },
+  {
+    "word_a": "батысқа",
+    "word_b": "batysqa",
+    "token_a": "▁ба",
+    "token_b": "▁bat",
+    "logit_a": 27.098926544189453,
+    "logit_b": 24.599258422851562,
+    "prefers_a": true
+  },
+  {
+    "word_a": "жорығы",
+    "word_b": "joryğy",
+    "token_a": "▁жор",
+    "token_b": "▁jo",
+    "logit_a": 24.656187057495117,
+    "logit_b": 18.964962005615234,
+    "prefers_a": true
+  },
+  {
+    "word_a": "“Халықтардың",
+    "word_b": "“Halyqtardyñ",
+    "token_a": "▁“",
+    "token_b": "▁“",
+    "logit_a": 36.03384780883789,
+    "logit_b": 36.03384780883789,
+    "prefers_a": false
+  },
+  {
+    "word_a": "ұлы",
+    "word_b": "ūly",
+    "token_a": "▁ұлы",
+    "token_b": "▁",
+    "logit_a": 6.50711727142334,
+    "logit_b": 22.887454986572266,
+    "prefers_a": false
+  },
+  {
+    "word_a": "қоныс",
+    "word_b": "qonys",
+    "token_a": "▁",
+    "token_b": "▁qo",
+    "logit_a": 34.121788024902344,
+    "logit_b": 24.396072387695312,
+    "prefers_a": true
+  },
+  {
+    "word_a": "аударуына”",
+    "word_b": "audaruyna”",
+    "token_a": "▁аудар",
+    "token_b": "▁au",
+    "logit_a": 21.447219848632812,
+    "logit_b": 21.22277069091797,
+    "prefers_a": true
+  },
+  {
+    "word_a": "түрткі",
+    "word_b": "türtkı",
+    "token_a": "▁түр",
+    "token_b": "▁tür",
+    "logit_a": 25.12592887878418,
+    "logit_b": 20.13886833190918,
+    "prefers_a": true
+  },
+  {
+    "word_a": "болды.",
+    "word_b": "boldy.",
+    "token_a": "▁болды",
+    "token_b": "▁bol",
+    "logit_a": 13.044848442077637,
+    "logit_b": 16.54656982421875,
+    "prefers_a": false
+  },
+  {
+    "word_a": "Жетісуда",
+    "word_b": "Jetısuda",
+    "token_a": "▁",
+    "token_b": "▁Je",
+    "logit_a": 28.195941925048828,
+    "logit_b": 22.92667007446289,
+    "prefers_a": true
+  },
+  {
+    "word_a": "тиграхауда",
+    "word_b": "tıgrahauda",
+    "token_a": "▁ти",
+    "token_b": "▁",
+    "logit_a": 32.714256286621094,
+    "logit_b": 35.03337860107422,
+    "prefers_a": false
+  },
+  {
+    "word_a": "сақтарының",
+    "word_b": "saqtarynyñ",
+    "token_a": "▁",
+    "token_b": "▁sa",
+    "logit_a": 33.71538543701172,
+    "logit_b": 26.85634994506836,
+    "prefers_a": true
+  },
+  {
+    "word_a": "мұра",
+    "word_b": "mūra",
+    "token_a": "▁мұра",
+    "token_b": "▁m",
+    "logit_a": 8.164430618286133,
+    "logit_b": 14.326420783996582,
+    "prefers_a": false
+  },
+  {
+    "word_a": "етіп",
+    "word_b": "etıp",
+    "token_a": "▁етіп",
+    "token_b": "▁et",
+    "logit_a": 2.5171518325805664,
+    "logit_b": 12.624855995178223,
+    "prefers_a": false
+  },
+  {
+    "word_a": "алған",
+    "word_b": "alğan",
+    "token_a": "▁алған",
+    "token_b": "▁al",
+    "logit_a": 6.772815704345703,
+    "logit_b": 14.276124954223633,
+    "prefers_a": false
+  },
+  {
+    "word_a": "усундер",
+    "word_b": "usunder",
+    "token_a": "▁у",
+    "token_b": "▁us",
+    "logit_a": 33.74224090576172,
+    "logit_b": 22.25433921813965,
+    "prefers_a": true
+  },
+  {
+    "word_a": "(үйсіндер)",
+    "word_b": "(üısınder)",
+    "token_a": "▁(",
+    "token_b": "▁(",
+    "logit_a": 35.932037353515625,
+    "logit_b": 35.932037353515625,
+    "prefers_a": false
+  },
+  {
+    "word_a": "біздің",
+    "word_b": "bızdıñ",
+    "token_a": "▁біздің",
+    "token_b": "▁b",
+    "logit_a": 7.04828405380249,
+    "logit_b": 16.6165828704834,
+    "prefers_a": false
+  },
+  {
+    "word_a": "160",
+    "word_b": "160",
+    "token_a": "▁160",
+    "token_b": "▁160",
+    "logit_a": 14.856095314025879,
+    "logit_b": 14.856095314025879,
+    "prefers_a": false
+  },
+  {
+    "word_a": "ж.",
+    "word_b": "j.",
+    "token_a": "▁ж",
+    "token_b": "▁j",
+    "logit_a": 18.33436393737793,
+    "logit_b": 21.652095794677734,
+    "prefers_a": false
+  },
+  {
+    "word_a": "шамасында",
+    "word_b": "shamasynda",
+    "token_a": "▁шама",
+    "token_b": "▁sham",
+    "logit_a": 26.667600631713867,
+    "logit_b": 18.089839935302734,
+    "prefers_a": true
+  },
+  {
+    "word_a": "Іле",
+    "word_b": "Ile",
+    "token_a": "▁І",
+    "token_b": "▁Il",
+    "logit_a": 26.39914894104004,
+    "logit_b": 20.49734115600586,
+    "prefers_a": true
+  },
+  {
+    "word_a": "алқабында",
+    "word_b": "alqabynda",
+    "token_a": "▁ал",
+    "token_b": "▁al",
+    "logit_a": 40.43087387084961,
+    "logit_b": 29.543880462646484,
+    "prefers_a": true
+  },
+  {
+    "word_a": "құрды.",
+    "word_b": "qūrdy.",
+    "token_a": "▁құр",
+    "token_b": "▁q",
+    "logit_a": 16.649816513061523,
+    "logit_b": 17.218629837036133,
+    "prefers_a": false
+  },
+  {
+    "word_a": "құрған",
+    "word_b": "qūrğan",
+    "token_a": "▁құр",
+    "token_b": "▁q",
+    "logit_a": 20.434001922607422,
+    "logit_b": 24.023101806640625,
+    "prefers_a": false
+  },
+  {
+    "word_a": "мемлекеттер",
+    "word_b": "memleketter",
+    "token_a": "▁мемлекеттер",
+    "token_b": "▁memleket",
+    "logit_a": 9.847441673278809,
+    "logit_b": 8.868596076965332,
+    "prefers_a": true
+  },
+  {
+    "word_a": "Қытай,",
+    "word_b": "Qytaı,",
+    "token_a": "▁Қытай",
+    "token_b": "▁Q",
+    "logit_a": 8.82052993774414,
+    "logit_b": 21.029891967773438,
+    "prefers_a": false
+  },
+  {
+    "word_a": "Парфия,",
+    "word_b": "Parfıya,",
+    "token_a": "▁Пар",
+    "token_b": "▁Par",
+    "logit_a": 29.329662322998047,
+    "logit_b": 26.70855140686035,
+    "prefers_a": true
+  },
+  {
+    "word_a": "Рим",
+    "word_b": "Rım",
+    "token_a": "▁Рим",
+    "token_b": "▁R",
+    "logit_a": 6.050146579742432,
+    "logit_b": 15.165548324584961,
+    "prefers_a": false
+  },
+  {
+    "word_a": "Кушан",
+    "word_b": "Kushan",
+    "token_a": "▁Ку",
+    "token_b": "▁Kush",
+    "logit_a": 22.127918243408203,
+    "logit_b": 18.181241989135742,
+    "prefers_a": true
+  },
+  {
+    "word_a": "империясы",
+    "word_b": "ımperıyasy",
+    "token_a": "▁империя",
+    "token_b": "▁",
+    "logit_a": 23.852230072021484,
+    "logit_b": 28.807607650756836,
+    "prefers_a": false
+  },
+  {
+    "word_a": "сияқты",
+    "word_b": "sıyaqty",
+    "token_a": "▁сияқты",
+    "token_b": "▁",
+    "logit_a": 8.804350852966309,
+    "logit_b": 22.887454986572266,
+    "prefers_a": false
+  },
+  {
+    "word_a": "саяси,",
+    "word_b": "sayası,",
+    "token_a": "▁саяси",
+    "token_b": "▁sa",
+    "logit_a": 9.382854461669922,
+    "logit_b": 21.43373680114746,
+    "prefers_a": false
+  },
+  {
+    "word_a": "экономикалық",
+    "word_b": "ekonomıkalyq",
+    "token_a": "▁экономикалық",
+    "token_b": "▁ekonom",
+    "logit_a": 10.856926918029785,
+    "logit_b": 9.791145324707031,
+    "prefers_a": true
+  },
+  {
+    "word_a": "мәдени",
+    "word_b": "mädenı",
+    "token_a": "▁",
+    "token_b": "▁mä",
+    "logit_a": 24.59661102294922,
+    "logit_b": 11.8801908493042,
+    "prefers_a": true
+  },
+  {
+    "word_a": "байланыс",
+    "word_b": "baılanys",
+    "token_a": "▁байланыс",
+    "token_b": "▁ba",
+    "logit_a": 10.286441802978516,
+    "logit_b": 15.04110336303711,
+    "prefers_a": false
+  },
+  {
+    "word_a": "орнатқан.",
+    "word_b": "ornatqan.",
+    "token_a": "▁орна",
+    "token_b": "▁or",
+    "logit_a": 19.315696716308594,
+    "logit_b": 17.138967514038086,
+    "prefers_a": true
+  },
+  {
+    "word_a": "орта",
+    "word_b": "orta",
+    "token_a": "▁орта",
+    "token_b": "▁orta",
+    "logit_a": 8.682655334472656,
+    "logit_b": 10.782417297363281,
+    "prefers_a": false
+  },
+  {
+    "word_a": "ғасырлардағы",
+    "word_b": "ğasyrlardağy",
+    "token_a": "▁ғасыр",
+    "token_b": "▁",
+    "logit_a": 38.49205780029297,
+    "logit_b": 36.6945915222168,
+    "prefers_a": true
+  },
+  {
+    "word_a": "(Түркі",
+    "word_b": "(Türkı",
+    "token_a": "▁(",
+    "token_b": "▁(",
+    "logit_a": 28.119150161743164,
+    "logit_b": 28.119150161743164,
+    "prefers_a": false
+  },
+  {
+    "word_a": "дәуірі)",
+    "word_b": "däuırı)",
+    "token_a": "▁дәуір",
+    "token_b": "▁",
+    "logit_a": 15.146515846252441,
+    "logit_b": 25.049041748046875,
+    "prefers_a": false
+  },
+  {
+    "word_a": "аумағындағы",
+    "word_b": "aumağyndağy",
+    "token_a": "▁аумағында",
+    "token_b": "▁a",
+    "logit_a": 14.683464050292969,
+    "logit_b": 25.525009155273438,
+    "prefers_a": false
+  },
+  {
+    "word_a": "ерте",
+    "word_b": "erte",
+    "token_a": "▁ерте",
+    "token_b": "▁er",
+    "logit_a": 1.414625644683838,
+    "logit_b": 18.188411712646484,
+    "prefers_a": false
+  },
+  {
+    "word_a": "ғасырдағы",
+    "word_b": "ğasyrdağy",
+    "token_a": "▁ғасыр",
+    "token_b": "▁",
+    "logit_a": 21.672510147094727,
+    "logit_b": 29.63119888305664,
+    "prefers_a": false
+  },
+  {
+    "word_a": "(VI-IX",
+    "word_b": "(VI-IX",
+    "token_a": "▁(",
+    "token_b": "▁(",
+    "logit_a": 26.566158294677734,
+    "logit_b": 26.566158294677734,
+    "prefers_a": false
+  },
+  {
+    "word_a": "ғғ)",
+    "word_b": "ğğ)",
+    "token_a": "▁",
+    "token_b": "▁",
+    "logit_a": 27.267559051513672,
+    "logit_b": 27.267559051513672,
+    "prefers_a": false
+  },
+  {
+    "word_a": "VI",
+    "word_b": "VI",
+    "token_a": "▁VI",
+    "token_b": "▁VI",
+    "logit_a": 15.47859001159668,
+    "logit_b": 15.47859001159668,
+    "prefers_a": false
+  },
+  {
+    "word_a": "ғасырдың",
+    "word_b": "ğasyrdyñ",
+    "token_a": "▁ғасырдың",
+    "token_b": "▁",
+    "logit_a": 7.026719093322754,
+    "logit_b": 22.887454986572266,
+    "prefers_a": false
+  },
+  {
+    "word_a": "басында",
+    "word_b": "basynda",
+    "token_a": "▁бас",
+    "token_b": "▁bas",
+    "logit_a": 22.832368850708008,
+    "logit_b": 20.318363189697266,
+    "prefers_a": true
+  },
+  {
+    "word_a": "бүгінгі",
+    "word_b": "bügıngı",
+    "token_a": "▁бүгінгі",
+    "token_b": "▁bü",
+    "logit_a": 5.4072585105896,
+    "logit_b": 8.643467903137207,
+    "prefers_a": false
+  },
+  {
+    "word_a": "қазақ",
+    "word_b": "qazaq",
+    "token_a": "▁қазақ",
+    "token_b": "▁qaz",
+    "logit_a": 12.394210815429688,
+    "logit_b": 9.035616874694824,
+    "prefers_a": true
+  },
+  {
+    "word_a": "аса",
+    "word_b": "asa",
+    "token_a": "▁аса",
+    "token_b": "▁asa",
+    "logit_a": 1.6677151918411255,
+    "logit_b": 7.5148701667785645,
+    "prefers_a": false
+  },
+  {
+    "word_a": "күрделі",
+    "word_b": "kürdelı",
+    "token_a": "▁күрделі",
+    "token_b": "▁kür",
+    "logit_a": 9.082746505737305,
+    "logit_b": 13.6810884475708,
+    "prefers_a": false
+  },
+  {
+    "word_a": "бетбұрыстар",
+    "word_b": "betbūrystar",
+    "token_a": "▁бет",
+    "token_b": "▁bet",
+    "logit_a": 25.411001205444336,
+    "logit_b": 18.991641998291016,
+    "prefers_a": true
+  },
+  {
+    "word_a": "болған.",
+    "word_b": "bolğan.",
+    "token_a": "▁болған",
+    "token_b": "▁bol",
+    "logit_a": 12.990948677062988,
+    "logit_b": 16.54656982421875,
+    "prefers_a": false
+  },
+  {
+    "word_a": "Алтай-Сібір,",
+    "word_b": "Altaı-Sıbır,",
+    "token_a": "▁",
+    "token_b": "▁Alta",
+    "logit_a": 38.399566650390625,
+    "logit_b": 33.14452362060547,
+    "prefers_a": true
+  },
+  {
+    "word_a": "Моңғолия",
+    "word_b": "Moñğolıya",
+    "token_a": "▁Мо",
+    "token_b": "▁Mo",
+    "logit_a": 38.01934051513672,
+    "logit_b": 35.105316162109375,
+    "prefers_a": true
+  },
+  {
+    "word_a": "түркі",
+    "word_b": "türkı",
+    "token_a": "▁түрк",
+    "token_b": "▁türk",
+    "logit_a": 16.365962982177734,
+    "logit_b": 15.33018970489502,
+    "prefers_a": true
+  },
+  {
+    "word_a": "тайпаларының",
+    "word_b": "taıpalarynyñ",
+    "token_a": "▁тай",
+    "token_b": "▁ta",
+    "logit_a": 26.723526000976562,
+    "logit_b": 25.438512802124023,
+    "prefers_a": true
+  },
+  {
+    "word_a": "үстем",
+    "word_b": "üstem",
+    "token_a": "▁үс",
+    "token_b": "▁üst",
+    "logit_a": 12.924838066101074,
+    "logit_b": 13.42791748046875,
+    "prefers_a": false
+  },
+  {
+    "word_a": "тап",
+    "word_b": "tap",
+    "token_a": "▁тап",
+    "token_b": "▁tap",
+    "logit_a": 4.720455169677734,
+    "logit_b": 9.443894386291504,
+    "prefers_a": false
+  },
+  {
+    "word_a": "өкілдері",
+    "word_b": "ökılderı",
+    "token_a": "▁өкілдері",
+    "token_b": "▁ö",
+    "logit_a": 8.018818855285645,
+    "logit_b": 9.282873153686523,
+    "prefers_a": false
+  },
+  {
+    "word_a": "бірігіп,",
+    "word_b": "bırıgıp,",
+    "token_a": "▁бірі",
+    "token_b": "▁b",
+    "logit_a": 20.398643493652344,
+    "logit_b": 17.241580963134766,
+    "prefers_a": true
+  },
+  {
+    "word_a": "әскер",
+    "word_b": "äsker",
+    "token_a": "▁әскер",
+    "token_b": "▁ä",
+    "logit_a": 7.608020782470703,
+    "logit_b": 9.251203536987305,
+    "prefers_a": false
+  },
+  {
+    "word_a": "күшіне",
+    "word_b": "küshıne",
+    "token_a": "▁күші",
+    "token_b": "▁kü",
+    "logit_a": 18.97776222229004,
+    "logit_b": 16.539119720458984,
+    "prefers_a": true
+  },
+  {
+    "word_a": "сүйенген",
+    "word_b": "süıengen",
+    "token_a": "▁сүй",
+    "token_b": "▁sü",
+    "logit_a": 25.563949584960938,
+    "logit_b": 23.46879005432129,
+    "prefers_a": true
+  },
+  {
+    "word_a": "Түрік",
+    "word_b": "Türık",
+    "token_a": "▁Түр",
+    "token_b": "▁Tür",
+    "logit_a": 20.76708221435547,
+    "logit_b": 14.750823974609375,
+    "prefers_a": true
+  },
+  {
+    "word_a": "қағанаты",
+    "word_b": "qağanaty",
+    "token_a": "▁қа",
+    "token_b": "▁qa",
+    "logit_a": 23.983028411865234,
+    "logit_b": 25.392335891723633,
+    "prefers_a": false
+  },
+  {
+    "word_a": "атты",
+    "word_b": "atty",
+    "token_a": "▁атты",
+    "token_b": "▁att",
+    "logit_a": 2.6634013652801514,
+    "logit_b": 10.356882095336914,
+    "prefers_a": false
+  },
+  {
+    "word_a": "феодалдық",
+    "word_b": "feodaldyq",
+    "token_a": "▁фе",
+    "token_b": "▁fe",
+    "logit_a": 23.139978408813477,
+    "logit_b": 20.055030822753906,
+    "prefers_a": true
+  },
+  {
+    "word_a": "Олардың",
+    "word_b": "Olardyñ",
+    "token_a": "▁Олардың",
+    "token_b": "▁O",
+    "logit_a": 8.576586723327637,
+    "logit_b": 14.64152717590332,
+    "prefers_a": false
+  },
+  {
+    "word_a": "жері",
+    "word_b": "jerı",
+    "token_a": "▁жері",
+    "token_b": "▁je",
+    "logit_a": 5.033382892608643,
+    "logit_b": 13.309661865234375,
+    "prefers_a": false
+  },
+  {
+    "word_a": "Кореядан",
+    "word_b": "Koreyadan",
+    "token_a": "▁Корея",
+    "token_b": "▁Koreya",
+    "logit_a": 28.976112365722656,
+    "logit_b": 17.567434310913086,
+    "prefers_a": true
+  },
+  {
+    "word_a": "бастап,",
+    "word_b": "bastap,",
+    "token_a": "▁бастап",
+    "token_b": "▁basta",
+    "logit_a": 12.333760261535645,
+    "logit_b": 17.127111434936523,
+    "prefers_a": false
+  },
+  {
+    "word_a": "де",
+    "word_b": "de",
+    "token_a": "▁де",
+    "token_b": "▁de",
+    "logit_a": 4.982148170471191,
+    "logit_b": 14.998775482177734,
+    "prefers_a": false
+  },
+  {
+    "word_a": "қамтылған.",
+    "word_b": "qamtylğan.",
+    "token_a": "▁қамты",
+    "token_b": "▁",
+    "logit_a": 27.205121994018555,
+    "logit_b": 31.75298309326172,
+    "prefers_a": false
+  },
+  {
+    "word_a": "қағандықтың",
+    "word_b": "qağandyqtyñ",
+    "token_a": "▁қа",
+    "token_b": "▁qa",
+    "logit_a": 37.51029586791992,
+    "logit_b": 30.148714065551758,
+    "prefers_a": true
+  },
+  {
+    "word_a": "құрамына",
+    "word_b": "qūramyna",
+    "token_a": "▁құрамына",
+    "token_b": "▁q",
+    "logit_a": 2.5013105869293213,
+    "logit_b": 9.656740188598633,
+    "prefers_a": false
+  },
+  {
+    "word_a": "кірген.",
+    "word_b": "kırgen.",
+    "token_a": "▁кір",
+    "token_b": "▁kır",
+    "logit_a": 20.06144142150879,
+    "logit_b": 9.418950080871582,
+    "prefers_a": true
+  },
+  {
+    "word_a": "туралы",
+    "word_b": "turaly",
+    "token_a": "▁туралы",
+    "token_b": "▁",
+    "logit_a": 14.567292213439941,
+    "logit_b": 22.887454986572266,
+    "prefers_a": false
+  },
+  {
+    "word_a": "жазба",
+    "word_b": "jazba",
+    "token_a": "▁жаз",
+    "token_b": "▁jaz",
+    "logit_a": 17.19377899169922,
+    "logit_b": 5.902561187744141,
+    "prefers_a": true
+  },
+  {
+    "word_a": "деректер",
+    "word_b": "derekter",
+    "token_a": "▁деректер",
+    "token_b": "▁dere",
+    "logit_a": 9.204449653625488,
+    "logit_b": 9.535482406616211,
+    "prefers_a": false
+  },
+  {
+    "word_a": "түрік",
+    "word_b": "türık",
+    "token_a": "▁түрі",
+    "token_b": "▁tür",
+    "logit_a": 18.395599365234375,
+    "logit_b": 14.888436317443848,
+    "prefers_a": true
+  },
+  {
+    "word_a": "тілінде",
+    "word_b": "tılınde",
+    "token_a": "▁тілінде",
+    "token_b": "▁t",
+    "logit_a": 8.57884693145752,
+    "logit_b": 11.13207721710205,
+    "prefers_a": false
+  },
+  {
+    "word_a": "жазылған",
+    "word_b": "jazylğan",
+    "token_a": "▁жазылған",
+    "token_b": "▁jaz",
+    "logit_a": 2.5256664752960205,
+    "logit_b": 6.373624801635742,
+    "prefers_a": false
+  },
+  {
+    "word_a": "«Үлкен",
+    "word_b": "«Ülken",
+    "token_a": "▁«",
+    "token_b": "▁«",
+    "logit_a": 40.17339324951172,
+    "logit_b": 40.17339324951172,
+    "prefers_a": false
+  },
+  {
+    "word_a": "күлтегін»,",
+    "word_b": "kültegın»,",
+    "token_a": "▁күл",
+    "token_b": "▁kül",
+    "logit_a": 10.386627197265625,
+    "logit_b": 15.119866371154785,
+    "prefers_a": false
+  },
+  {
+    "word_a": "«Тоныкөк»",
+    "word_b": "«Tonykök»",
+    "token_a": "▁«",
+    "token_b": "▁«",
+    "logit_a": 43.212554931640625,
+    "logit_b": 43.212554931640625,
+    "prefers_a": false
+  },
+  {
+    "word_a": "құлпытастарындағы",
+    "word_b": "qūlpytastaryndağy",
+    "token_a": "▁",
+    "token_b": "▁q",
+    "logit_a": 40.1728401184082,
+    "logit_b": 31.215484619140625,
+    "prefers_a": true
+  },
+  {
+    "word_a": "жазуларынан",
+    "word_b": "jazularynan",
+    "token_a": "▁жазу",
+    "token_b": "▁ja",
+    "logit_a": 31.221158981323242,
+    "logit_b": 24.354948043823242,
+    "prefers_a": true
+  },
+  {
+    "word_a": "белгілі.",
+    "word_b": "belgılı.",
+    "token_a": "▁белгілі",
+    "token_b": "▁bel",
+    "logit_a": 12.281904220581055,
+    "logit_b": 17.926677703857422,
+    "prefers_a": false
+  },
+  {
+    "word_a": "Махмұд",
+    "word_b": "Mahmūd",
+    "token_a": "▁Ма",
+    "token_b": "▁Mah",
+    "logit_a": 28.960281372070312,
+    "logit_b": 21.915597915649414,
+    "prefers_a": true
+  },
+  {
+    "word_a": "Қашқари,",
+    "word_b": "Qashqarı,",
+    "token_a": "▁Қа",
+    "token_b": "▁Qa",
+    "logit_a": 34.54453659057617,
+    "logit_b": 24.39215087890625,
+    "prefers_a": true
+  },
+  {
+    "word_a": "Рашид-ад-диннің",
+    "word_b": "Rashıd-ad-dınnıñ",
+    "token_a": "▁Раш",
+    "token_b": "▁Rash",
+    "logit_a": 30.577510833740234,
+    "logit_b": 29.147357940673828,
+    "prefers_a": true
+  },
+  {
+    "word_a": "жазбаларынан",
+    "word_b": "jazbalarynan",
+    "token_a": "▁жаз",
+    "token_b": "▁jaz",
+    "logit_a": 43.59275817871094,
+    "logit_b": 22.413448333740234,
+    "prefers_a": true
+  },
+  {
+    "word_a": "көптеген",
+    "word_b": "köptegen",
+    "token_a": "▁көптеген",
+    "token_b": "▁köpte",
+    "logit_a": 8.007080078125,
+    "logit_b": 12.863399505615234,
+    "prefers_a": false
+  },
+  {
+    "word_a": "құнды",
+    "word_b": "qūndy",
+    "token_a": "▁құнды",
+    "token_b": "▁q",
+    "logit_a": -0.39548826217651367,
+    "logit_b": 9.656740188598633,
+    "prefers_a": false
+  },
+  {
+    "word_a": "алуға",
+    "word_b": "aluğa",
+    "token_a": "▁алуға",
+    "token_b": "▁a",
+    "logit_a": 6.057716369628906,
+    "logit_b": 17.6754150390625,
+    "prefers_a": false
+  },
+  {
+    "word_a": "болады.",
+    "word_b": "bolady.",
+    "token_a": "▁болады",
+    "token_b": "▁bola",
+    "logit_a": 13.654899597167969,
+    "logit_b": 18.226505279541016,
+    "prefers_a": false
+  },
+  {
+    "word_a": "Византия,",
+    "word_b": "Vızantıya,",
+    "token_a": "▁Ви",
+    "token_b": "▁V",
+    "logit_a": 38.32920455932617,
+    "logit_b": 33.30013656616211,
+    "prefers_a": true
+  },
+  {
+    "word_a": "Қытай",
+    "word_b": "Qytaı",
+    "token_a": "▁Қытай",
+    "token_b": "▁Q",
+    "logit_a": 7.404302597045898,
+    "logit_b": 14.589743614196777,
+    "prefers_a": false
+  },
+  {
+    "word_a": "тарихшылары",
+    "word_b": "tarıhshylary",
+    "token_a": "▁тарих",
+    "token_b": "▁tar",
+    "logit_a": 14.89667797088623,
+    "logit_b": 18.949256896972656,
+    "prefers_a": false
+  },
+  {
+    "word_a": "мол",
+    "word_b": "mol",
+    "token_a": "▁мол",
+    "token_b": "▁mol",
+    "logit_a": -1.7181382179260254,
+    "logit_b": 10.710206985473633,
+    "prefers_a": false
+  },
+  {
+    "word_a": "мәлімет",
+    "word_b": "mälımet",
+    "token_a": "▁мәлімет",
+    "token_b": "▁mä",
+    "logit_a": 14.707648277282715,
+    "logit_b": 7.3063225746154785,
+    "prefers_a": true
+  },
+  {
+    "word_a": "тарихында",
+    "word_b": "tarıhynda",
+    "token_a": "▁тарих",
+    "token_b": "▁tar",
+    "logit_a": 23.566879272460938,
+    "logit_b": 22.595760345458984,
+    "prefers_a": true
+  },
+  {
+    "word_a": "мерзім",
+    "word_b": "merzım",
+    "token_a": "▁мер",
+    "token_b": "▁mer",
+    "logit_a": 21.64346694946289,
+    "logit_b": 20.795385360717773,
+    "prefers_a": true
+  },
+  {
+    "word_a": "«Түрік",
+    "word_b": "«Türık",
+    "token_a": "▁«",
+    "token_b": "▁«",
+    "logit_a": 31.140422821044922,
+    "logit_b": 31.140422821044922,
+    "prefers_a": false
+  },
+  {
+    "word_a": "дәуірі»",
+    "word_b": "däuırı»",
+    "token_a": "▁дәуір",
+    "token_b": "▁",
+    "logit_a": 18.62161636352539,
+    "logit_b": 30.767831802368164,
+    "prefers_a": false
+  },
+  {
+    "word_a": "(VI-XIII",
+    "word_b": "(VI-XIII",
+    "token_a": "▁(",
+    "token_b": "▁(",
+    "logit_a": 26.050926208496094,
+    "logit_b": 26.050926208496094,
+    "prefers_a": false
+  },
+  {
+    "word_a": "ғ.",
+    "word_b": "ğ.",
+    "token_a": "▁",
+    "token_b": "▁",
+    "logit_a": 29.32913589477539,
+    "logit_b": 29.32913589477539,
+    "prefers_a": false
+  },
+  {
+    "word_a": "ғ.)",
+    "word_b": "ğ.)",
+    "token_a": "▁",
+    "token_b": "▁",
+    "logit_a": 23.310518264770508,
+    "logit_b": 23.310518264770508,
+    "prefers_a": false
+  },
+  {
+    "word_a": "көрсетілген",
+    "word_b": "körsetılgen",
+    "token_a": "▁көрсетілген",
+    "token_b": "▁kör",
+    "logit_a": 8.525470733642578,
+    "logit_b": 12.029867172241211,
+    "prefers_a": false
+  },
+  {
+    "word_a": "мерзімде",
+    "word_b": "merzımde",
+    "token_a": "▁мерзімде",
+    "token_b": "▁mer",
+    "logit_a": 5.937246322631836,
+    "logit_b": 10.224579811096191,
+    "prefers_a": false
+  },
+  {
+    "word_a": "бірнеше",
+    "word_b": "bırneshe",
+    "token_a": "▁бірнеше",
+    "token_b": "▁b",
+    "logit_a": 6.882216453552246,
+    "logit_b": 16.6165828704834,
+    "prefers_a": false
+  },
+  {
+    "word_a": "өздерінің",
+    "word_b": "özderınıñ",
+    "token_a": "▁өздерінің",
+    "token_b": "▁öz",
+    "logit_a": 5.117391586303711,
+    "logit_b": 10.827781677246094,
+    "prefers_a": false
+  },
+  {
+    "word_a": "саяси-әкімшілік",
+    "word_b": "sayası-äkımshılık",
+    "token_a": "▁саяси",
+    "token_b": "▁sa",
+    "logit_a": 34.08396530151367,
+    "logit_b": 26.62233543395996,
+    "prefers_a": true
+  },
+  {
+    "word_a": "биліктерін",
+    "word_b": "bılıkterın",
+    "token_a": "▁би",
+    "token_b": "▁b",
+    "logit_a": 27.222339630126953,
+    "logit_b": 26.365962982177734,
+    "prefers_a": true
+  },
+  {
+    "word_a": "жүргізді.",
+    "word_b": "jürgızdı.",
+    "token_a": "▁жүргіз",
+    "token_b": "▁j",
+    "logit_a": 11.677821159362793,
+    "logit_b": 19.254915237426758,
+    "prefers_a": false
+  },
+  {
+    "word_a": "алғашқы",
+    "word_b": "alğashqy",
+    "token_a": "▁алғашқы",
+    "token_b": "▁al",
+    "logit_a": 7.333032131195068,
+    "logit_b": 14.276124954223633,
+    "prefers_a": false
+  },
+  {
+    "word_a": "қауымдық",
+    "word_b": "qauymdyq",
+    "token_a": "▁қауым",
+    "token_b": "▁qa",
+    "logit_a": 24.462894439697266,
+    "logit_b": 18.75599479675293,
+    "prefers_a": true
+  },
+  {
+    "word_a": "құрылыстан",
+    "word_b": "qūrylystan",
+    "token_a": "▁құрылыс",
+    "token_b": "▁q",
+    "logit_a": 14.459929466247559,
+    "logit_b": 13.298820495605469,
+    "prefers_a": true
+  },
+  {
+    "word_a": "кейін",
+    "word_b": "keıın",
+    "token_a": "▁кейін",
+    "token_b": "▁ke",
+    "logit_a": 9.557319641113281,
+    "logit_b": 12.110274314880371,
+    "prefers_a": false
+  },
+  {
+    "word_a": "ғасырдан",
+    "word_b": "ğasyrdan",
+    "token_a": "▁ғасыр",
+    "token_b": "▁",
+    "logit_a": 19.410268783569336,
+    "logit_b": 27.33344078063965,
+    "prefers_a": false
+  },
+  {
+    "word_a": "қатынастар",
+    "word_b": "qatynastar",
+    "token_a": "▁қатынастар",
+    "token_b": "▁qat",
+    "logit_a": 11.367103576660156,
+    "logit_b": 3.0277342796325684,
+    "prefers_a": true
+  },
+  {
+    "word_a": "орнай",
+    "word_b": "ornaı",
+    "token_a": "▁орна",
+    "token_b": "▁",
+    "logit_a": 15.781042098999023,
+    "logit_b": 21.623403549194336,
+    "prefers_a": false
+  },
+  {
+    "word_a": "бастады",
+    "word_b": "bastady",
+    "token_a": "▁бастады",
+    "token_b": "▁basta",
+    "logit_a": 7.5441718101501465,
+    "logit_b": 9.125181198120117,
+    "prefers_a": false
+  },
+  {
+    "word_a": "(немісше",
+    "word_b": "(nemısshe",
+    "token_a": "▁(",
+    "token_b": "▁(",
+    "logit_a": 33.38491439819336,
+    "logit_b": 33.38491439819336,
+    "prefers_a": false
+  },
+  {
+    "word_a": "феод-",
+    "word_b": "feod-",
+    "token_a": "▁фе",
+    "token_b": "▁fe",
+    "logit_a": 17.83026885986328,
+    "logit_b": 13.45543098449707,
+    "prefers_a": true
+  },
+  {
+    "word_a": "«жер»,",
+    "word_b": "«jer»,",
+    "token_a": "▁«",
+    "token_b": "▁«",
+    "logit_a": 31.523189544677734,
+    "logit_b": 31.523189544677734,
+    "prefers_a": false
+  },
+  {
+    "word_a": "аль-",
+    "word_b": "al-",
+    "token_a": "▁аль",
+    "token_b": "▁al",
+    "logit_a": 4.887060642242432,
+    "logit_b": 16.960302352905273,
+    "prefers_a": false
+  },
+  {
+    "word_a": "«иесі»,",
+    "word_b": "«ıesı»,",
+    "token_a": "▁«",
+    "token_b": "▁«",
+    "logit_a": 28.783496856689453,
+    "logit_b": 28.783496856689453,
+    "prefers_a": false
+  },
+  {
+    "word_a": "жердің",
+    "word_b": "jerdıñ",
+    "token_a": "▁жер",
+    "token_b": "▁jer",
+    "logit_a": 21.7172908782959,
+    "logit_b": 20.69266128540039,
+    "prefers_a": true
+  },
+  {
+    "word_a": "иесі",
+    "word_b": "ıesı",
+    "token_a": "▁и",
+    "token_b": "▁",
+    "logit_a": 24.412137985229492,
+    "logit_b": 24.913944244384766,
+    "prefers_a": false
+  },
+  {
+    "word_a": "ұғымды",
+    "word_b": "ūğymdy",
+    "token_a": "▁ұғым",
+    "token_b": "▁",
+    "logit_a": 11.765520095825195,
+    "logit_b": 23.031898498535156,
+    "prefers_a": false
+  },
+  {
+    "word_a": "береді.).",
+    "word_b": "beredı.).",
+    "token_a": "▁береді",
+    "token_b": "▁bere",
+    "logit_a": 14.385190963745117,
+    "logit_b": 17.1224365234375,
+    "prefers_a": false
+  },
+  {
+    "word_a": "Ортағасырлық",
+    "word_b": "Ortağasyrlyq",
+    "token_a": "▁Орта",
+    "token_b": "▁Ort",
+    "logit_a": 41.7171516418457,
+    "logit_b": 27.67368507385254,
+    "prefers_a": true
+  },
+  {
+    "word_a": "тайпалардың",
+    "word_b": "taıpalardyñ",
+    "token_a": "▁тай",
+    "token_b": "▁ta",
+    "logit_a": 24.51419448852539,
+    "logit_b": 23.191722869873047,
+    "prefers_a": true
+  },
+  {
+    "word_a": "екі",
+    "word_b": "ekı",
+    "token_a": "▁екі",
+    "token_b": "▁e",
+    "logit_a": 4.026795864105225,
+    "logit_b": 14.706262588500977,
+    "prefers_a": false
+  },
+  {
+    "word_a": "тап:",
+    "word_b": "tap:",
+    "token_a": "▁тап",
+    "token_b": "▁tap",
+    "logit_a": 5.600322246551514,
+    "logit_b": 5.880173683166504,
+    "prefers_a": false
+  },
+  {
+    "word_a": "табы",
+    "word_b": "taby",
+    "token_a": "▁та",
+    "token_b": "▁ta",
+    "logit_a": 29.218582153320312,
+    "logit_b": 23.86627960205078,
+    "prefers_a": true
+  },
+  {
+    "word_a": "шаруалар",
+    "word_b": "sharualar",
+    "token_a": "▁шаруа",
+    "token_b": "▁shar",
+    "logit_a": 17.354204177856445,
+    "logit_b": 15.722159385681152,
+    "prefers_a": true
+  },
+  {
+    "word_a": "қалыптасады.",
+    "word_b": "qalyptasady.",
+    "token_a": "▁қалып",
+    "token_b": "▁qal",
+    "logit_a": 19.291927337646484,
+    "logit_b": 22.84459686279297,
+    "prefers_a": false
+  },
+  {
+    "word_a": "Феодалдар",
+    "word_b": "Feodaldar",
+    "token_a": "▁Фе",
+    "token_b": "▁Fe",
+    "logit_a": 27.449739456176758,
+    "logit_b": 23.64910888671875,
+    "prefers_a": true
+  },
+  {
+    "word_a": "мал",
+    "word_b": "mal",
+    "token_a": "▁мал",
+    "token_b": "▁mal",
+    "logit_a": 3.635005235671997,
+    "logit_b": 11.486041069030762,
+    "prefers_a": false
+  },
+  {
+    "word_a": "Феодалдық",
+    "word_b": "Feodaldyq",
+    "token_a": "▁Фе",
+    "token_b": "▁Fe",
+    "logit_a": 26.391281127929688,
+    "logit_b": 25.630006790161133,
+    "prefers_a": true
+  },
+  {
+    "word_a": "қатынастардың",
+    "word_b": "qatynastardyñ",
+    "token_a": "▁қатынастар",
+    "token_b": "▁qat",
+    "logit_a": 16.853595733642578,
+    "logit_b": 14.360699653625488,
+    "prefers_a": true
+  },
+  {
+    "word_a": "орнауы",
+    "word_b": "ornauy",
+    "token_a": "▁орна",
+    "token_b": "▁or",
+    "logit_a": 23.571765899658203,
+    "logit_b": 22.191640853881836,
+    "prefers_a": true
+  },
+  {
+    "word_a": "оңтүстігінде",
+    "word_b": "oñtüstıgınde",
+    "token_a": "▁оң",
+    "token_b": "▁o",
+    "logit_a": 38.7268180847168,
+    "logit_b": 34.42234802246094,
+    "prefers_a": true
+  },
+  {
+    "word_a": "өңірлерге",
+    "word_b": "öñırlerge",
+    "token_a": "▁өңір",
+    "token_b": "▁ö",
+    "logit_a": 27.262535095214844,
+    "logit_b": 24.401817321777344,
+    "prefers_a": true
+  },
+  {
+    "word_a": "қарағанда",
+    "word_b": "qarağanda",
+    "token_a": "▁қарағанда",
+    "token_b": "▁qara",
+    "logit_a": 4.049381732940674,
+    "logit_b": 9.95562744140625,
+    "prefers_a": false
+  },
+  {
+    "word_a": "жедел",
+    "word_b": "jedel",
+    "token_a": "▁жедел",
+    "token_b": "▁je",
+    "logit_a": 6.357781410217285,
+    "logit_b": 13.309661865234375,
+    "prefers_a": false
+  },
+  {
+    "word_a": "жүрді.",
+    "word_b": "jürdı.",
+    "token_a": "▁жүр",
+    "token_b": "▁j",
+    "logit_a": 14.820784568786621,
+    "logit_b": 19.254915237426758,
+    "prefers_a": false
+  },
+  {
+    "word_a": "тарихының",
+    "word_b": "tarıhynyñ",
+    "token_a": "▁тарихы",
+    "token_b": "▁tar",
+    "logit_a": 22.583038330078125,
+    "logit_b": 22.098278045654297,
+    "prefers_a": true
+  },
+  {
+    "word_a": "басты",
+    "word_b": "basty",
+    "token_a": "▁басты",
+    "token_b": "▁bas",
+    "logit_a": 5.235538959503174,
+    "logit_b": 7.725292682647705,
+    "prefers_a": false
+  },
+  {
+    "word_a": "ерекшеліктерінің",
+    "word_b": "erekshelıkterınıñ",
+    "token_a": "▁ерекшеліктері",
+    "token_b": "▁",
+    "logit_a": 19.635400772094727,
+    "logit_b": 29.442487716674805,
+    "prefers_a": false
+  },
+  {
+    "word_a": "бірі",
+    "word_b": "bırı",
+    "token_a": "▁бірі",
+    "token_b": "▁b",
+    "logit_a": 9.648919105529785,
+    "logit_b": 16.6165828704834,
+    "prefers_a": false
+  },
+  {
+    "word_a": "осы",
+    "word_b": "osy",
+    "token_a": "▁осы",
+    "token_b": "▁os",
+    "logit_a": 8.594230651855469,
+    "logit_b": 10.675008773803711,
+    "prefers_a": false
+  },
+  {
+    "word_a": "феодалдық-патриархаттық",
+    "word_b": "feodaldyq-patrıarhattyq",
+    "token_a": "▁фе",
+    "token_b": "▁fe",
+    "logit_a": 31.895469665527344,
+    "logit_b": 26.15191078186035,
+    "prefers_a": true
+  },
+  {
+    "word_a": "(Оғыз",
+    "word_b": "(Oğyz",
+    "token_a": "▁(",
+    "token_b": "▁(",
+    "logit_a": 29.318767547607422,
+    "logit_b": 29.318767547607422,
+    "prefers_a": false
+  },
+  {
+    "word_a": "ғасырларда",
+    "word_b": "ğasyrlarda",
+    "token_a": "▁ғасыр",
+    "token_b": "▁",
+    "logit_a": 18.059263229370117,
+    "logit_b": 22.911460876464844,
+    "prefers_a": false
+  },
+  {
+    "word_a": "қазіргі",
+    "word_b": "qazırgı",
+    "token_a": "▁қазіргі",
+    "token_b": "▁qaz",
+    "logit_a": 3.5296502113342285,
+    "logit_b": 9.035616874694824,
+    "prefers_a": false
+  },
+  {
+    "word_a": "Қарахан,",
+    "word_b": "Qarahan,",
+    "token_a": "▁Қара",
+    "token_b": "▁Qara",
+    "logit_a": 26.412450790405273,
+    "logit_b": 22.0684757232666,
+    "prefers_a": true
+  },
+  {
+    "word_a": "Қарақытай,",
+    "word_b": "Qaraqytaı,",
+    "token_a": "▁Қара",
+    "token_b": "▁Qara",
+    "logit_a": 20.128446578979492,
+    "logit_b": 21.24725341796875,
+    "prefers_a": false
+  },
+  {
+    "word_a": "Оғыз,",
+    "word_b": "Oğyz,",
+    "token_a": "▁О",
+    "token_b": "▁O",
+    "logit_a": 22.000436782836914,
+    "logit_b": 24.51041030883789,
+    "prefers_a": false
+  },
+  {
+    "word_a": "Қимақ",
+    "word_b": "Qımaq",
+    "token_a": "▁Қ",
+    "token_b": "▁Q",
+    "logit_a": 28.37641143798828,
+    "logit_b": 25.55309295654297,
+    "prefers_a": true
+  },
+  {
+    "word_a": "мемлекеттері",
+    "word_b": "memleketterı",
+    "token_a": "▁мемлекеттер",
+    "token_b": "▁memleket",
+    "logit_a": 17.00233268737793,
+    "logit_b": 11.795791625976562,
+    "prefers_a": true
+  },
+  {
+    "word_a": "өмір",
+    "word_b": "ömır",
+    "token_a": "▁өмір",
+    "token_b": "▁",
+    "logit_a": 10.282008171081543,
+    "logit_b": 22.887454986572266,
+    "prefers_a": false
+  },
+  {
+    "word_a": "сүрді.",
+    "word_b": "sürdı.",
+    "token_a": "▁сүр",
+    "token_b": "▁sür",
+    "logit_a": 14.963005065917969,
+    "logit_b": 11.881794929504395,
+    "prefers_a": true
+  },
+  {
+    "word_a": "Ресей",
+    "word_b": "Reseı",
+    "token_a": "▁Ресей",
+    "token_b": "▁Res",
+    "logit_a": 11.129939079284668,
+    "logit_b": 10.001516342163086,
+    "prefers_a": true
+  },
+  {
+    "word_a": "империясының",
+    "word_b": "ımperıyasynyñ",
+    "token_a": "▁империя",
+    "token_b": "▁",
+    "logit_a": 24.901905059814453,
+    "logit_b": 29.537498474121094,
+    "prefers_a": false
+  },
+  {
+    "word_a": "құрамындағы",
+    "word_b": "qūramyndağy",
+    "token_a": "▁құрамында",
+    "token_b": "▁q",
+    "logit_a": 16.22449493408203,
+    "logit_b": 18.92329216003418,
+    "prefers_a": false
+  },
+  {
+    "word_a": "Қазақстанды",
+    "word_b": "Qazaqstandy",
+    "token_a": "▁Қазақстан",
+    "token_b": "▁Qaz",
+    "logit_a": 24.998998641967773,
+    "logit_b": 14.878311157226562,
+    "prefers_a": true
+  },
+  {
+    "word_a": "Ресейдің",
+    "word_b": "Reseıdıñ",
+    "token_a": "▁Ресей",
+    "token_b": "▁Res",
+    "logit_a": 23.44264793395996,
+    "logit_b": 19.866058349609375,
+    "prefers_a": true
+  },
+  {
+    "word_a": "отарлауы",
+    "word_b": "otarlauy",
+    "token_a": "▁от",
+    "token_b": "▁o",
+    "logit_a": 31.944324493408203,
+    "logit_b": 27.027530670166016,
+    "prefers_a": true
+  },
+  {
+    "word_a": "1731",
+    "word_b": "1731",
+    "token_a": "▁17",
+    "token_b": "▁17",
+    "logit_a": 22.9864444732666,
+    "logit_b": 22.9864444732666,
+    "prefers_a": false
+  },
+  {
+    "word_a": "жылы",
+    "word_b": "jyly",
+    "token_a": "▁жылы",
+    "token_b": "▁jy",
+    "logit_a": 6.854089736938477,
+    "logit_b": 12.369722366333008,
+    "prefers_a": false
+  },
+  {
+    "word_a": "Кіші",
+    "word_b": "Kıshı",
+    "token_a": "▁Кі",
+    "token_b": "▁Kı",
+    "logit_a": 26.77838897705078,
+    "logit_b": 17.03652000427246,
+    "prefers_a": true
+  },
+  {
+    "word_a": "Жүз",
+    "word_b": "Jüz",
+    "token_a": "▁Жү",
+    "token_b": "▁J",
+    "logit_a": 16.996145248413086,
+    "logit_b": 21.644113540649414,
+    "prefers_a": false
+  },
+  {
+    "word_a": "ханы",
+    "word_b": "hany",
+    "token_a": "▁хан",
+    "token_b": "▁han",
+    "logit_a": 19.82616424560547,
+    "logit_b": 17.4073486328125,
+    "prefers_a": true
+  },
+  {
+    "word_a": "Әбілқайырдың",
+    "word_b": "Äbılqaıyrdyñ",
+    "token_a": "▁Ә",
+    "token_b": "▁Ä",
+    "logit_a": 39.476966857910156,
+    "logit_b": 30.724119186401367,
+    "prefers_a": true
+  },
+  {
+    "word_a": "Ресейге",
+    "word_b": "Reseıge",
+    "token_a": "▁Ресей",
+    "token_b": "▁Res",
+    "logit_a": 16.66057014465332,
+    "logit_b": 21.097326278686523,
+    "prefers_a": false
+  },
+  {
+    "word_a": "қосылуынан",
+    "word_b": "qosyluynan",
+    "token_a": "▁қосыл",
+    "token_b": "▁qo",
+    "logit_a": 21.734867095947266,
+    "logit_b": 20.089719772338867,
+    "prefers_a": true
+  },
+  {
+    "word_a": "басталды.",
+    "word_b": "bastaldy.",
+    "token_a": "▁басталды",
+    "token_b": "▁basta",
+    "logit_a": 7.787128448486328,
+    "logit_b": 17.111785888671875,
+    "prefers_a": false
+  },
+  {
+    "word_a": "процесс",
+    "word_b": "protsess",
+    "token_a": "▁процесс",
+    "token_b": "▁pro",
+    "logit_a": 10.367623329162598,
+    "logit_b": 15.343140602111816,
+    "prefers_a": false
+  },
+  {
+    "word_a": "130",
+    "word_b": "130",
+    "token_a": "▁130",
+    "token_b": "▁130",
+    "logit_a": 14.042264938354492,
+    "logit_b": 14.042264938354492,
+    "prefers_a": false
+  },
+  {
+    "word_a": "жылдан",
+    "word_b": "jyldan",
+    "token_a": "▁жылдан",
+    "token_b": "▁jy",
+    "logit_a": 6.863096237182617,
+    "logit_b": 12.369722366333008,
+    "prefers_a": false
+  },
+  {
+    "word_a": "уақытқа",
+    "word_b": "uaqytqa",
+    "token_a": "▁уақыт",
+    "token_b": "▁u",
+    "logit_a": 20.7006778717041,
+    "logit_b": 16.268966674804688,
+    "prefers_a": true
+  },
+  {
+    "word_a": "созылып,",
+    "word_b": "sozylyp,",
+    "token_a": "▁соз",
+    "token_b": "▁so",
+    "logit_a": 18.54448699951172,
+    "logit_b": 17.50343132019043,
+    "prefers_a": true
+  },
+  {
+    "word_a": "60",
+    "word_b": "60",
+    "token_a": "▁60",
+    "token_b": "▁60",
+    "logit_a": 19.549470901489258,
+    "logit_b": 19.549470901489258,
+    "prefers_a": false
+  },
+  {
+    "word_a": "жылдарының",
+    "word_b": "jyldarynyñ",
+    "token_a": "▁жылдары",
+    "token_b": "▁jy",
+    "logit_a": 20.025028228759766,
+    "logit_b": 21.05522918701172,
+    "prefers_a": false
+  },
+  {
+    "word_a": "ортасына",
+    "word_b": "ortasyna",
+    "token_a": "▁орта",
+    "token_b": "▁orta",
+    "logit_a": 25.977012634277344,
+    "logit_b": 18.580053329467773,
+    "prefers_a": true
+  },
+  {
+    "word_a": "қарай",
+    "word_b": "qaraı",
+    "token_a": "▁қарай",
+    "token_b": "▁qara",
+    "logit_a": 10.192148208618164,
+    "logit_b": 9.95562744140625,
+    "prefers_a": true
+  },
+  {
+    "word_a": "жүзеге",
+    "word_b": "jüzege",
+    "token_a": "▁жүзеге",
+    "token_b": "▁j",
+    "logit_a": 10.196775436401367,
+    "logit_b": 12.504141807556152,
+    "prefers_a": false
+  },
+  {
+    "word_a": "асырылды.",
+    "word_b": "asyryldy.",
+    "token_a": "▁",
+    "token_b": "▁as",
+    "logit_a": 38.46579360961914,
+    "logit_b": 33.02976989746094,
+    "prefers_a": true
+  },
+  {
+    "word_a": "1731–1860",
+    "word_b": "1731–1860",
+    "token_a": "▁17",
+    "token_b": "▁17",
+    "logit_a": 20.274505615234375,
+    "logit_b": 20.274505615234375,
+    "prefers_a": false
+  },
+  {
+    "word_a": "жылдары",
+    "word_b": "jyldary",
+    "token_a": "▁жылдары",
+    "token_b": "▁jy",
+    "logit_a": 6.405989170074463,
+    "logit_b": 12.369722366333008,
+    "prefers_a": false
+  },
+  {
+    "word_a": "Ресейге,",
+    "word_b": "Reseıge,",
+    "token_a": "▁Ресей",
+    "token_b": "▁Res",
+    "logit_a": 19.40477752685547,
+    "logit_b": 16.56252670288086,
+    "prefers_a": true
+  },
+  {
+    "word_a": "көбіне",
+    "word_b": "köbıne",
+    "token_a": "▁көбі",
+    "token_b": "▁kö",
+    "logit_a": 19.592594146728516,
+    "logit_b": 17.475797653198242,
+    "prefers_a": true
+  },
+  {
+    "word_a": "сөз",
+    "word_b": "söz",
+    "token_a": "▁сөз",
+    "token_b": "▁söz",
+    "logit_a": 8.727904319763184,
+    "logit_b": 8.127641677856445,
+    "prefers_a": true
+  },
+  {
+    "word_a": "жүзінде",
+    "word_b": "jüzınde",
+    "token_a": "▁жүз",
+    "token_b": "▁j",
+    "logit_a": 21.3201847076416,
+    "logit_b": 23.523090362548828,
+    "prefers_a": false
+  },
+  {
+    "word_a": "ғана",
+    "word_b": "ğana",
+    "token_a": "▁ғана",
+    "token_b": "▁",
+    "logit_a": 3.8813116550445557,
+    "logit_b": 22.887454986572266,
+    "prefers_a": false
+  },
+  {
+    "word_a": "бағынып,",
+    "word_b": "bağynyp,",
+    "token_a": "▁",
+    "token_b": "▁bağ",
+    "logit_a": 24.978858947753906,
+    "logit_b": 15.992963790893555,
+    "prefers_a": true
+  },
+  {
+    "word_a": "іс",
+    "word_b": "ıs",
+    "token_a": "▁іс",
+    "token_b": "▁",
+    "logit_a": 3.3177990913391113,
+    "logit_b": 22.887454986572266,
+    "prefers_a": false
+  },
+  {
+    "word_a": "ру,",
+    "word_b": "ru,",
+    "token_a": "▁ру",
+    "token_b": "▁ru",
+    "logit_a": 12.582291603088379,
+    "logit_b": 18.138296127319336,
+    "prefers_a": false
+  },
+  {
+    "word_a": "тайпа",
+    "word_b": "taıpa",
+    "token_a": "▁тай",
+    "token_b": "▁ta",
+    "logit_a": 23.830486297607422,
+    "logit_b": 18.70481300354004,
+    "prefers_a": true
+  },
+  {
+    "word_a": "билеушілері",
+    "word_b": "bıleushılerı",
+    "token_a": "▁биле",
+    "token_b": "▁",
+    "logit_a": 40.25860595703125,
+    "logit_b": 41.65927505493164,
+    "prefers_a": false
+  },
+  {
+    "word_a": "дербес",
+    "word_b": "derbes",
+    "token_a": "▁дербес",
+    "token_b": "▁der",
+    "logit_a": 6.506518363952637,
+    "logit_b": 12.852649688720703,
+    "prefers_a": false
+  },
+  {
+    "word_a": "саясат",
+    "word_b": "sayasat",
+    "token_a": "▁саясат",
+    "token_b": "▁saya",
+    "logit_a": 9.247931480407715,
+    "logit_b": 16.853199005126953,
+    "prefers_a": false
+  },
+  {
+    "word_a": "Патша",
+    "word_b": "Patsha",
+    "token_a": "▁Пат",
+    "token_b": "▁Pat",
+    "logit_a": 22.06264305114746,
+    "logit_b": 19.6168212890625,
+    "prefers_a": true
+  },
+  {
+    "word_a": "өкіметі",
+    "word_b": "ökımetı",
+    "token_a": "▁өк",
+    "token_b": "▁ö",
+    "logit_a": 21.633010864257812,
+    "logit_b": 27.049957275390625,
+    "prefers_a": false
+  },
+  {
+    "word_a": "көтерілістерін",
+    "word_b": "köterılısterın",
+    "token_a": "▁көтер",
+    "token_b": "▁köt",
+    "logit_a": 29.206615447998047,
+    "logit_b": 20.245193481445312,
+    "prefers_a": true
+  },
+  {
+    "word_a": "аяусыз",
+    "word_b": "ayausyz",
+    "token_a": "▁",
+    "token_b": "▁ay",
+    "logit_a": 30.84859275817871,
+    "logit_b": 24.2269229888916,
+    "prefers_a": true
+  },
+  {
+    "word_a": "басып",
+    "word_b": "basyp",
+    "token_a": "▁басып",
+    "token_b": "▁bas",
+    "logit_a": 1.5611940622329712,
+    "logit_b": 7.725292682647705,
+    "prefers_a": false
+  },
+  {
+    "word_a": "отырғанымен,",
+    "word_b": "otyrğanymen,",
+    "token_a": "▁отырған",
+    "token_b": "▁o",
+    "logit_a": 21.918296813964844,
+    "logit_b": 25.06997299194336,
+    "prefers_a": false
+  },
+  {
+    "word_a": "елдің",
+    "word_b": "eldıñ",
+    "token_a": "▁елдің",
+    "token_b": "▁el",
+    "logit_a": 3.475914239883423,
+    "logit_b": 13.153146743774414,
+    "prefers_a": false
+  },
+  {
+    "word_a": "істеріне",
+    "word_b": "ısterıne",
+    "token_a": "▁істер",
+    "token_b": "▁",
+    "logit_a": 19.782455444335938,
+    "logit_b": 27.117040634155273,
+    "prefers_a": false
+  },
+  {
+    "word_a": "(сот",
+    "word_b": "(sot",
+    "token_a": "▁(",
+    "token_b": "▁(",
+    "logit_a": 24.180679321289062,
+    "logit_b": 24.180679321289062,
+    "prefers_a": false
+  },
+  {
+    "word_a": "жүйесіне,",
+    "word_b": "jüıesıne,",
+    "token_a": "▁жүйесін",
+    "token_b": "▁j",
+    "logit_a": 18.366214752197266,
+    "logit_b": 27.2158260345459,
+    "prefers_a": false
+  },
+  {
+    "word_a": "ру",
+    "word_b": "ru",
+    "token_a": "▁ру",
+    "token_b": "▁ru",
+    "logit_a": 6.019342422485352,
+    "logit_b": 10.344680786132812,
+    "prefers_a": false
+  },
+  {
+    "word_a": "аралық",
+    "word_b": "aralyq",
+    "token_a": "▁",
+    "token_b": "▁ara",
+    "logit_a": 25.51307487487793,
+    "logit_b": 17.404216766357422,
+    "prefers_a": true
+  },
+  {
+    "word_a": "мәселелерге)",
+    "word_b": "mäselelerge)",
+    "token_a": "▁мәселелер",
+    "token_b": "▁mä",
+    "logit_a": 26.64492416381836,
+    "logit_b": 15.660055160522461,
+    "prefers_a": true
+  },
+  {
+    "word_a": "араласпады.",
+    "word_b": "aralaspady.",
+    "token_a": "▁аралас",
+    "token_b": "▁ara",
+    "logit_a": 17.629608154296875,
+    "logit_b": 23.582544326782227,
+    "prefers_a": false
+  },
+  {
+    "word_a": "Ел",
+    "word_b": "El",
+    "token_a": "▁Ел",
+    "token_b": "▁El",
+    "logit_a": 10.588068008422852,
+    "logit_b": 15.283580780029297,
+    "prefers_a": false
+  },
+  {
+    "word_a": "ішіндегі",
+    "word_b": "ıshındegı",
+    "token_a": "▁ішінде",
+    "token_b": "▁",
+    "logit_a": 17.00796890258789,
+    "logit_b": 27.454082489013672,
+    "prefers_a": false
+  },
+  {
+    "word_a": "беделді",
+    "word_b": "bedeldı",
+    "token_a": "▁бе",
+    "token_b": "▁bedel",
+    "logit_a": 24.0535831451416,
+    "logit_b": 12.822691917419434,
+    "prefers_a": true
+  },
+  {
+    "word_a": "адамдарға,",
+    "word_b": "adamdarğa,",
+    "token_a": "▁адамдар",
+    "token_b": "▁adam",
+    "logit_a": 21.549657821655273,
+    "logit_b": 22.04619026184082,
+    "prefers_a": false
+  }
+]

@@ -1,0 +1,65 @@
+{
+  "table": [
+    {
+      "Language": "kazakh",
+      "XLM-R sim": 0.995,
+      "byT5 sim": 0.531,
+      "mT5 sim": 0.517,
+      "Tok. effect": 0.464,
+      "Residual (byT5)": 0.531,
+      "MRR (XLM-R)": 0.007,
+      "MRR (byT5)": 0.072
+    },
+    {
+      "Language": "serbian",
+      "XLM-R sim": 0.997,
+      "byT5 sim": 0.535,
+      "mT5 sim": 0.652,
+      "Tok. effect": 0.462,
+      "Residual (byT5)": 0.535,
+      "MRR (XLM-R)": 0.36,
+      "MRR (byT5)": 0.292
+    },
+    {
+      "Language": "chinese",
+      "XLM-R sim": 1.0,
+      "byT5 sim": 0.999,
+      "mT5 sim": 0.997,
+      "Tok. effect": 0.001,
+      "Residual (byT5)": 0.999,
+      "MRR (XLM-R)": 0.452,
+      "MRR (byT5)": 0.49
+    },
+    {
+      "Language": "uyghur",
+      "XLM-R sim": 0.993,
+      "byT5 sim": 0.436,
+      "mT5 sim": 0.237,
+      "Tok. effect": 0.557,
+      "Residual (byT5)": 0.436,
+      "MRR (XLM-R)": 0.01,
+      "MRR (byT5)": 0.006
+    },
+    {
+      "Language": "japanese",
+      "XLM-R sim": 0.998,
+      "byT5 sim": 0.796,
+      "mT5 sim": 0.714,
+      "Tok. effect": 0.202,
+      "Residual (byT5)": 0.796,
+      "MRR (XLM-R)": 0.124,
+      "MRR (byT5)": 0.123
+    },
+    {
+      "Language": "hindi_urdu",
+      "XLM-R sim": 0.993,
+      "byT5 sim": 0.536,
+      "mT5 sim": 0.353,
+      "Tok. effect": 0.457,
+      "Residual (byT5)": 0.536,
+      "MRR (XLM-R)": 0.014,
+      "MRR (byT5)": 0.026
+    }
+  ],
+  "data_volume_effect": 0.0014140605926513672
+}

@@ -1,0 +1,50 @@
+{
+  "kazakh": {
+    "scripts": [
+      "Cyrillic",
+      "Latin"
+    ],
+    "n_pairs": 2000,
+    "n_words": 500
+  },
+  "serbian": {
+    "scripts": [
+      "Cyrillic",
+      "Latin"
+    ],
+    "n_pairs": 2000,
+    "n_words": 500
+  },
+  "chinese": {
+    "scripts": [
+      "Simplified",
+      "Traditional"
+    ],
+    "n_pairs": 2000,
+    "n_words": 500
+  },
+  "uyghur": {
+    "scripts": [
+      "Arabic-script",
+      "ULY Latin"
+    ],
+    "n_pairs": 2000,
+    "n_words": 500
+  },
+  "japanese": {
+    "scripts": [
+      "Kanji/Mixed",
+      "Hiragana"
+    ],
+    "n_pairs": 2000,
+    "n_words": 500
+  },
+  "hindi_urdu": {
+    "scripts": [
+      "Devanagari",
+      "Nastaliq"
+    ],
+    "n_pairs": 2000,
+    "n_words": 500
+  }
+}

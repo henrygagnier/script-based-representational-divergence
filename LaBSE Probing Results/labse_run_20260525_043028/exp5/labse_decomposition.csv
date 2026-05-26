@@ -1,0 +1,7 @@
+Language,FL cosim,MRR,Silhouette,Tok. overlap
+kazakh,0.732,0.893,0.087,0.209
+serbian,0.865,1.0,0.001,0.179
+chinese,1.0,0.984,-0.0,0.987
+uyghur,0.571,0.862,0.044,0.032
+japanese,0.817,0.969,0.025,0.583
+hindi_urdu,0.626,0.722,0.116,0.012

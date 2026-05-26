@@ -1,0 +1,11 @@
+{
+  "language": "kazakh",
+  "script_a": "Cyrillic",
+  "script_b": "Latin",
+  "n_pairs": 2000,
+  "n_words_a": 500,
+  "n_words_b": 500,
+  "source": "kk Wikipedia 20231101",
+  "conversion_tool": "turkicnlp",
+  "built_at": "2026-05-25T04:30:31.618560+00:00"
+}

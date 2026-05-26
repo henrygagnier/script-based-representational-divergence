@@ -1,0 +1,4502 @@
+[
+  {
+    "word_a": "UTF-8",
+    "word_b": "UTF-8",
+    "token_a": "▁U",
+    "token_b": "▁U",
+    "logit_a": 24.181434631347656,
+    "logit_b": 24.181434631347656,
+    "prefers_a": false
+  },
+  {
+    "word_a": "варијанта",
+    "word_b": "varijanta",
+    "token_a": "▁вар",
+    "token_b": "▁vari",
+    "logit_a": 34.80089569091797,
+    "logit_b": 30.40013885498047,
+    "prefers_a": true
+  },
+  {
+    "word_a": "је",
+    "word_b": "je",
+    "token_a": "▁је",
+    "token_b": "▁je",
+    "logit_a": 11.658616065979004,
+    "logit_b": 13.309661865234375,
+    "prefers_a": false
+  },
+  {
+    "word_a": "најзгоднија",
+    "word_b": "najzgodnija",
+    "token_a": "▁нај",
+    "token_b": "▁naj",
+    "logit_a": 24.430992126464844,
+    "logit_b": 20.985740661621094,
+    "prefers_a": true
+  },
+  {
+    "word_a": "за",
+    "word_b": "za",
+    "token_a": "▁за",
+    "token_b": "▁za",
+    "logit_a": 12.932461738586426,
+    "logit_b": 14.040891647338867,
+    "prefers_a": false
+  },
+  {
+    "word_a": "кодирање",
+    "word_b": "kodiranje",
+    "token_a": "▁код",
+    "token_b": "▁kod",
+    "logit_a": 36.92326354980469,
+    "logit_b": 39.05985641479492,
+    "prefers_a": false
+  },
+  {
+    "word_a": "већински",
+    "word_b": "većinski",
+    "token_a": "▁већ",
+    "token_b": "▁već",
+    "logit_a": 25.712970733642578,
+    "logit_b": 24.680025100708008,
+    "prefers_a": true
+  },
+  {
+    "word_a": "латиничног",
+    "word_b": "latiničnog",
+    "token_a": "▁латин",
+    "token_b": "▁latin",
+    "logit_a": 27.172393798828125,
+    "logit_b": 23.735261917114258,
+    "prefers_a": true
+  },
+  {
+    "word_a": "текста.",
+    "word_b": "teksta.",
+    "token_a": "▁текста",
+    "token_b": "▁teksta",
+    "logit_a": 14.88516902923584,
+    "logit_b": 16.64748764038086,
+    "prefers_a": false
+  },
+  {
+    "word_a": "Дато",
+    "word_b": "Dato",
+    "token_a": "▁Да",
+    "token_b": "▁Dato",
+    "logit_a": 32.85076141357422,
+    "logit_b": 24.01504135131836,
+    "prefers_a": true
+  },
+  {
+    "word_a": "кратко",
+    "word_b": "kratko",
+    "token_a": "▁кратко",
+    "token_b": "▁kratko",
+    "logit_a": 7.364721298217773,
+    "logit_b": 6.516578674316406,
+    "prefers_a": true
+  },
+  {
+    "word_a": "упутство",
+    "word_b": "uputstvo",
+    "token_a": "▁у",
+    "token_b": "▁u",
+    "logit_a": 36.20801544189453,
+    "logit_b": 28.25713348388672,
+    "prefers_a": true
+  },
+  {
+    "word_a": "коришћење",
+    "word_b": "korišćenje",
+    "token_a": "▁коришћење",
+    "token_b": "▁kori",
+    "logit_a": 7.676939010620117,
+    "logit_b": 9.169103622436523,
+    "prefers_a": false
+  },
+  {
+    "word_a": "те",
+    "word_b": "te",
+    "token_a": "▁те",
+    "token_b": "▁te",
+    "logit_a": 6.189925670623779,
+    "logit_b": 10.74860954284668,
+    "prefers_a": false
+  },
+  {
+    "word_a": "варијанте",
+    "word_b": "varijante",
+    "token_a": "▁",
+    "token_b": "▁var",
+    "logit_a": 44.096214294433594,
+    "logit_b": 33.05647277832031,
+    "prefers_a": true
+  },
+  {
+    "word_a": "Microsoft",
+    "word_b": "Microsoft",
+    "token_a": "▁Microsoft",
+    "token_b": "▁Microsoft",
+    "logit_a": 20.11102294921875,
+    "logit_b": 20.11102294921875,
+    "prefers_a": false
+  },
+  {
+    "word_a": "Word-у,",
+    "word_b": "Word-u,",
+    "token_a": "▁Word",
+    "token_b": "▁Word",
+    "logit_a": 19.185726165771484,
+    "logit_b": 19.185726165771484,
+    "prefers_a": false
+  },
+  {
+    "word_a": "Netscape",
+    "word_b": "Netscape",
+    "token_a": "▁Net",
+    "token_b": "▁Net",
+    "logit_a": 31.132137298583984,
+    "logit_b": 31.132137298583984,
+    "prefers_a": false
+  },
+  {
+    "word_a": "Composer-у",
+    "word_b": "Composer-u",
+    "token_a": "▁Com",
+    "token_b": "▁Com",
+    "logit_a": 27.52991485595703,
+    "logit_b": 27.52991485595703,
+    "prefers_a": false
+  },
+  {
+    "word_a": "текстуалном",
+    "word_b": "tekstualnom",
+    "token_a": "▁тексту",
+    "token_b": "▁tekstu",
+    "logit_a": 31.53878402709961,
+    "logit_b": 21.093486785888672,
+    "prefers_a": true
+  },
+  {
+    "word_a": "едитору",
+    "word_b": "editoru",
+    "token_a": "▁е",
+    "token_b": "▁editor",
+    "logit_a": 29.837858200073242,
+    "logit_b": 26.261396408081055,
+    "prefers_a": true
+  },
+  {
+    "word_a": "Kate.",
+    "word_b": "Kate.",
+    "token_a": "▁Kate",
+    "token_b": "▁Kate",
+    "logit_a": 19.527456283569336,
+    "logit_b": 19.527456283569336,
+    "prefers_a": false
+  },
+  {
+    "word_a": "тексту",
+    "word_b": "tekstu",
+    "token_a": "▁тексту",
+    "token_b": "▁tekstu",
+    "logit_a": 10.247495651245117,
+    "logit_b": 12.522244453430176,
+    "prefers_a": false
+  },
+  {
+    "word_a": "су",
+    "word_b": "su",
+    "token_a": "▁су",
+    "token_b": "▁su",
+    "logit_a": 9.463958740234375,
+    "logit_b": 13.998818397521973,
+    "prefers_a": false
+  },
+  {
+    "word_a": "такође",
+    "word_b": "takođe",
+    "token_a": "▁такође",
+    "token_b": "▁tako",
+    "logit_a": 1.8915150165557861,
+    "logit_b": 10.796202659606934,
+    "prefers_a": false
+  },
+  {
+    "word_a": "препоручени",
+    "word_b": "preporučeni",
+    "token_a": "▁пре",
+    "token_b": "▁pre",
+    "logit_a": 33.95569610595703,
+    "logit_b": 31.9630069732666,
+    "prefers_a": true
+  },
+  {
+    "word_a": "стандардни",
+    "word_b": "standardni",
+    "token_a": "▁стандард",
+    "token_b": "▁standard",
+    "logit_a": 16.51700782775879,
+    "logit_b": 17.794448852539062,
+    "prefers_a": false
+  },
+  {
+    "word_a": "Unicode",
+    "word_b": "Unicode",
+    "token_a": "▁Unicode",
+    "token_b": "▁Unicode",
+    "logit_a": 13.017391204833984,
+    "logit_b": 13.017391204833984,
+    "prefers_a": false
+  },
+  {
+    "word_a": "фонтови",
+    "word_b": "fontovi",
+    "token_a": "▁фон",
+    "token_b": "▁font",
+    "logit_a": 29.041736602783203,
+    "logit_b": 21.830055236816406,
+    "prefers_a": true
+  },
+  {
+    "word_a": "који",
+    "word_b": "koji",
+    "token_a": "▁који",
+    "token_b": "▁koji",
+    "logit_a": 8.795368194580078,
+    "logit_b": 13.40773868560791,
+    "prefers_a": false
+  },
+  {
+    "word_a": "омогућавају",
+    "word_b": "omogućavaju",
+    "token_a": "▁омогућава",
+    "token_b": "▁omogućava",
+    "logit_a": 17.92884635925293,
+    "logit_b": 16.642385482788086,
+    "prefers_a": true
+  },
+  {
+    "word_a": "лаку",
+    "word_b": "laku",
+    "token_a": "▁лак",
+    "token_b": "▁laku",
+    "logit_a": 17.160165786743164,
+    "logit_b": 11.295639038085938,
+    "prefers_a": true
+  },
+  {
+    "word_a": "преносивост",
+    "word_b": "prenosivost",
+    "token_a": "▁преноси",
+    "token_b": "▁prenosi",
+    "logit_a": 21.598115921020508,
+    "logit_b": 18.641616821289062,
+    "prefers_a": true
+  },
+  {
+    "word_a": "текста",
+    "word_b": "teksta",
+    "token_a": "▁текста",
+    "token_b": "▁teksta",
+    "logit_a": 9.499021530151367,
+    "logit_b": 12.612630844116211,
+    "prefers_a": false
+  },
+  {
+    "word_a": "са",
+    "word_b": "sa",
+    "token_a": "▁са",
+    "token_b": "▁sa",
+    "logit_a": 11.572297096252441,
+    "logit_b": 16.20848274230957,
+    "prefers_a": false
+  },
+  {
+    "word_a": "рачунара",
+    "word_b": "računara",
+    "token_a": "▁рачунар",
+    "token_b": "▁računa",
+    "logit_a": 15.670180320739746,
+    "logit_b": 12.801279067993164,
+    "prefers_a": true
+  },
+  {
+    "word_a": "на",
+    "word_b": "na",
+    "token_a": "▁на",
+    "token_b": "▁na",
+    "logit_a": 13.2879056930542,
+    "logit_b": 15.531235694885254,
+    "prefers_a": false
+  },
+  {
+    "word_a": "рачунар",
+    "word_b": "računar",
+    "token_a": "▁рачунар",
+    "token_b": "▁računa",
+    "logit_a": 5.503644943237305,
+    "logit_b": 11.841679573059082,
+    "prefers_a": false
+  },
+  {
+    "word_a": "или",
+    "word_b": "ili",
+    "token_a": "▁или",
+    "token_b": "▁ili",
+    "logit_a": 10.511706352233887,
+    "logit_b": 9.345006942749023,
+    "prefers_a": true
+  },
+  {
+    "word_a": "објављивање",
+    "word_b": "objavljivanje",
+    "token_a": "▁об",
+    "token_b": "▁objavljiva",
+    "logit_a": 51.69013595581055,
+    "logit_b": 27.038753509521484,
+    "prefers_a": true
+  },
+  {
+    "word_a": "Интернет.",
+    "word_b": "Internet.",
+    "token_a": "▁Интернет",
+    "token_b": "▁Internet",
+    "logit_a": 17.37035369873047,
+    "logit_b": 23.949228286743164,
+    "prefers_a": false
+  },
+  {
+    "word_a": "1968.",
+    "word_b": "1968.",
+    "token_a": "▁1968",
+    "token_b": "▁1968",
+    "logit_a": 19.017454147338867,
+    "logit_b": 19.017454147338867,
+    "prefers_a": false
+  },
+  {
+    "word_a": "године",
+    "word_b": "godine",
+    "token_a": "▁године",
+    "token_b": "▁godine",
+    "logit_a": 11.224924087524414,
+    "logit_b": 15.516735076904297,
+    "prefers_a": false
+  },
+  {
+    "word_a": "скуп",
+    "word_b": "skup",
+    "token_a": "▁скуп",
+    "token_b": "▁skup",
+    "logit_a": 5.282024383544922,
+    "logit_b": 9.489901542663574,
+    "prefers_a": false
+  },
+  {
+    "word_a": "карактера",
+    "word_b": "karaktera",
+    "token_a": "▁карактер",
+    "token_b": "▁karakter",
+    "logit_a": 16.933761596679688,
+    "logit_b": 16.304441452026367,
+    "prefers_a": true
+  },
+  {
+    "word_a": "проширен",
+    "word_b": "proširen",
+    "token_a": "▁про",
+    "token_b": "▁proširen",
+    "logit_a": 19.75712013244629,
+    "logit_b": 14.431777000427246,
+    "prefers_a": true
+  },
+  {
+    "word_a": "256",
+    "word_b": "256",
+    "token_a": "▁256",
+    "token_b": "▁256",
+    "logit_a": 13.7803373336792,
+    "logit_b": 13.7803373336792,
+    "prefers_a": false
+  },
+  {
+    "word_a": "(8",
+    "word_b": "(8",
+    "token_a": "▁(8",
+    "token_b": "▁(8",
+    "logit_a": 8.817002296447754,
+    "logit_b": 8.817002296447754,
+    "prefers_a": false
+  },
+  {
+    "word_a": "бита),",
+    "word_b": "bita),",
+    "token_a": "▁би",
+    "token_b": "▁bi",
+    "logit_a": 21.659502029418945,
+    "logit_b": 17.21900749206543,
+    "prefers_a": true
+  },
+  {
+    "word_a": "„горњих“",
+    "word_b": "„gornjih“",
+    "token_a": "▁„",
+    "token_b": "▁„",
+    "logit_a": 48.30028533935547,
+    "logit_b": 48.30028533935547,
+    "prefers_a": false
+  },
+  {
+    "word_a": "128",
+    "word_b": "128",
+    "token_a": "▁128",
+    "token_b": "▁128",
+    "logit_a": 14.092820167541504,
+    "logit_b": 14.092820167541504,
+    "prefers_a": false
+  },
+  {
+    "word_a": "било",
+    "word_b": "bilo",
+    "token_a": "▁било",
+    "token_b": "▁bilo",
+    "logit_a": 8.528400421142578,
+    "logit_b": 14.322513580322266,
+    "prefers_a": false
+  },
+  {
+    "word_a": "коришћено",
+    "word_b": "korišćeno",
+    "token_a": "▁кори",
+    "token_b": "▁kori",
+    "logit_a": 54.204002380371094,
+    "logit_b": 41.511314392089844,
+    "prefers_a": true
+  },
+  {
+    "word_a": "додатне",
+    "word_b": "dodatne",
+    "token_a": "▁дода",
+    "token_b": "▁dodatne",
+    "logit_a": 24.235218048095703,
+    "logit_b": 15.41313362121582,
+    "prefers_a": true
+  },
+  {
+    "word_a": "карактере.",
+    "word_b": "karaktere.",
+    "token_a": "▁карактер",
+    "token_b": "▁karakter",
+    "logit_a": 12.29903793334961,
+    "logit_b": 19.95450782775879,
+    "prefers_a": false
+  },
+  {
+    "word_a": "Из",
+    "word_b": "Iz",
+    "token_a": "▁Из",
+    "token_b": "▁Iz",
+    "logit_a": 9.658378601074219,
+    "logit_b": 12.675125122070312,
+    "prefers_a": false
+  },
+  {
+    "word_a": "неке",
+    "word_b": "neke",
+    "token_a": "▁неке",
+    "token_b": "▁neke",
+    "logit_a": 2.4373793601989746,
+    "logit_b": 6.245990753173828,
+    "prefers_a": false
+  },
+  {
+    "word_a": "навике",
+    "word_b": "navike",
+    "token_a": "▁навик",
+    "token_b": "▁nav",
+    "logit_a": 21.38706398010254,
+    "logit_b": 17.19110679626465,
+    "prefers_a": true
+  },
+  {
+    "word_a": "овај",
+    "word_b": "ovaj",
+    "token_a": "▁овај",
+    "token_b": "▁ovaj",
+    "logit_a": 2.086392641067505,
+    "logit_b": 10.02987289428711,
+    "prefers_a": false
+  },
+  {
+    "word_a": "проширени",
+    "word_b": "prošireni",
+    "token_a": "▁про",
+    "token_b": "▁proširen",
+    "logit_a": 32.98965835571289,
+    "logit_b": 16.956668853759766,
+    "prefers_a": true
+  },
+  {
+    "word_a": "-{ASCII}-",
+    "word_b": "-{ASCII}-",
+    "token_a": "▁-",
+    "token_b": "▁-",
+    "logit_a": 29.972572326660156,
+    "logit_b": 29.972572326660156,
+    "prefers_a": false
+  },
+  {
+    "word_a": "називан",
+    "word_b": "nazivan",
+    "token_a": "▁назива",
+    "token_b": "▁naziva",
+    "logit_a": 16.978395462036133,
+    "logit_b": 8.863572120666504,
+    "prefers_a": true
+  },
+  {
+    "word_a": "-{ASCII}-,",
+    "word_b": "-{ASCII}-,",
+    "token_a": "▁-",
+    "token_b": "▁-",
+    "logit_a": 30.18534278869629,
+    "logit_b": 30.18534278869629,
+    "prefers_a": false
+  },
+  {
+    "word_a": "тако",
+    "word_b": "tako",
+    "token_a": "▁тако",
+    "token_b": "▁tako",
+    "logit_a": 5.895776748657227,
+    "logit_b": 10.796202659606934,
+    "prefers_a": false
+  },
+  {
+    "word_a": "да",
+    "word_b": "da",
+    "token_a": "▁да",
+    "token_b": "▁da",
+    "logit_a": 10.292553901672363,
+    "logit_b": 17.348453521728516,
+    "prefers_a": false
+  },
+  {
+    "word_a": "ту",
+    "word_b": "tu",
+    "token_a": "▁ту",
+    "token_b": "▁tu",
+    "logit_a": 3.76505970954895,
+    "logit_b": 11.292359352111816,
+    "prefers_a": false
+  },
+  {
+    "word_a": "често",
+    "word_b": "često",
+    "token_a": "▁често",
+    "token_b": "▁često",
+    "logit_a": 8.300477027893066,
+    "logit_b": 7.790252208709717,
+    "prefers_a": true
+  },
+  {
+    "word_a": "долази",
+    "word_b": "dolazi",
+    "token_a": "▁долази",
+    "token_b": "▁dolazi",
+    "logit_a": 3.4364590644836426,
+    "logit_b": 9.091240882873535,
+    "prefers_a": false
+  },
+  {
+    "word_a": "до",
+    "word_b": "do",
+    "token_a": "▁до",
+    "token_b": "▁do",
+    "logit_a": 10.565415382385254,
+    "logit_b": 11.646366119384766,
+    "prefers_a": false
+  },
+  {
+    "word_a": "забуне.",
+    "word_b": "zabune.",
+    "token_a": "▁за",
+    "token_b": "▁za",
+    "logit_a": 32.68675994873047,
+    "logit_b": 25.692846298217773,
+    "prefers_a": true
+  },
+  {
+    "word_a": "Да",
+    "word_b": "Da",
+    "token_a": "▁Да",
+    "token_b": "▁Da",
+    "logit_a": 12.093496322631836,
+    "logit_b": 17.499221801757812,
+    "prefers_a": false
+  },
+  {
+    "word_a": "би",
+    "word_b": "bi",
+    "token_a": "▁би",
+    "token_b": "▁bi",
+    "logit_a": 7.119595050811768,
+    "logit_b": 8.401409149169922,
+    "prefers_a": false
+  },
+  {
+    "word_a": "постојала",
+    "word_b": "postojala",
+    "token_a": "▁постој",
+    "token_b": "▁posto",
+    "logit_a": 12.027039527893066,
+    "logit_b": 6.784760475158691,
+    "prefers_a": true
+  },
+  {
+    "word_a": "подршка",
+    "word_b": "podrška",
+    "token_a": "▁подршка",
+    "token_b": "▁pod",
+    "logit_a": 0.996391773223877,
+    "logit_b": 9.9299955368042,
+    "prefers_a": false
+  },
+  {
+    "word_a": "више",
+    "word_b": "više",
+    "token_a": "▁више",
+    "token_b": "▁više",
+    "logit_a": 8.548404693603516,
+    "logit_b": 13.698429107666016,
+    "prefers_a": false
+  },
+  {
+    "word_a": "језика,",
+    "word_b": "jezika,",
+    "token_a": "▁језика",
+    "token_b": "▁jezika",
+    "logit_a": 10.470691680908203,
+    "logit_b": 13.327146530151367,
+    "prefers_a": false
+  },
+  {
+    "word_a": "смишљане",
+    "word_b": "smišljane",
+    "token_a": "▁с",
+    "token_b": "▁s",
+    "logit_a": 42.34910202026367,
+    "logit_b": 38.227012634277344,
+    "prefers_a": true
+  },
+  {
+    "word_a": "тзв.",
+    "word_b": "tzv.",
+    "token_a": "▁тзв",
+    "token_b": "▁tzv",
+    "logit_a": 5.90779972076416,
+    "logit_b": 13.646309852600098,
+    "prefers_a": false
+  },
+  {
+    "word_a": "кодне",
+    "word_b": "kodne",
+    "token_a": "▁код",
+    "token_b": "▁kod",
+    "logit_a": 26.968000411987305,
+    "logit_b": 17.77013397216797,
+    "prefers_a": true
+  },
+  {
+    "word_a": "стране",
+    "word_b": "strane",
+    "token_a": "▁стране",
+    "token_b": "▁strane",
+    "logit_a": 8.978134155273438,
+    "logit_b": 8.219072341918945,
+    "prefers_a": true
+  },
+  {
+    "word_a": "(-{Code",
+    "word_b": "(-{Code",
+    "token_a": "▁(",
+    "token_b": "▁(",
+    "logit_a": 24.287885665893555,
+    "logit_b": 24.287885665893555,
+    "prefers_a": false
+  },
+  {
+    "word_a": "Page}-)",
+    "word_b": "Page}-)",
+    "token_a": "▁Page",
+    "token_b": "▁Page",
+    "logit_a": 20.665985107421875,
+    "logit_b": 20.665985107421875,
+    "prefers_a": false
+  },
+  {
+    "word_a": "које",
+    "word_b": "koje",
+    "token_a": "▁које",
+    "token_b": "▁koje",
+    "logit_a": 6.064020156860352,
+    "logit_b": 11.958287239074707,
+    "prefers_a": false
+  },
+  {
+    "word_a": "дефинишу",
+    "word_b": "definišu",
+    "token_a": "▁де",
+    "token_b": "▁defini",
+    "logit_a": 40.61278533935547,
+    "logit_b": 27.925342559814453,
+    "prefers_a": true
+  },
+  {
+    "word_a": "понашање",
+    "word_b": "ponašanje",
+    "token_a": "▁понаша",
+    "token_b": "▁ponašanje",
+    "logit_a": 14.47301959991455,
+    "logit_b": 19.227279663085938,
+    "prefers_a": false
+  },
+  {
+    "word_a": "тог",
+    "word_b": "tog",
+    "token_a": "▁тог",
+    "token_b": "▁tog",
+    "logit_a": 4.416564464569092,
+    "logit_b": 12.417986869812012,
+    "prefers_a": false
+  },
+  {
+    "word_a": "додатног",
+    "word_b": "dodatnog",
+    "token_a": "▁додатно",
+    "token_b": "▁dodatno",
+    "logit_a": 10.379953384399414,
+    "logit_b": 5.070814609527588,
+    "prefers_a": true
+  },
+  {
+    "word_a": "скупа",
+    "word_b": "skupa",
+    "token_a": "▁скуп",
+    "token_b": "▁skup",
+    "logit_a": 19.640674591064453,
+    "logit_b": 13.879241943359375,
+    "prefers_a": true
+  },
+  {
+    "word_a": "слова.",
+    "word_b": "slova.",
+    "token_a": "▁слова",
+    "token_b": "▁slova",
+    "logit_a": 17.102243423461914,
+    "logit_b": 16.260417938232422,
+    "prefers_a": true
+  },
+  {
+    "word_a": "Основна",
+    "word_b": "Osnovna",
+    "token_a": "▁Основна",
+    "token_b": "▁Osnovna",
+    "logit_a": 12.916777610778809,
+    "logit_b": 9.566025733947754,
+    "prefers_a": true
+  },
+  {
+    "word_a": "кодна",
+    "word_b": "kodna",
+    "token_a": "▁код",
+    "token_b": "▁kod",
+    "logit_a": 23.795394897460938,
+    "logit_b": 14.809471130371094,
+    "prefers_a": true
+  },
+  {
+    "word_a": "страна",
+    "word_b": "strana",
+    "token_a": "▁страна",
+    "token_b": "▁strana",
+    "logit_a": 11.660178184509277,
+    "logit_b": 17.711212158203125,
+    "prefers_a": false
+  },
+  {
+    "word_a": "персоналним",
+    "word_b": "personalnim",
+    "token_a": "▁персонал",
+    "token_b": "▁personal",
+    "logit_a": 26.756052017211914,
+    "logit_b": 20.461502075195312,
+    "prefers_a": true
+  },
+  {
+    "word_a": "рачунарима",
+    "word_b": "računarima",
+    "token_a": "▁рачунар",
+    "token_b": "▁računa",
+    "logit_a": 12.495646476745605,
+    "logit_b": 18.607770919799805,
+    "prefers_a": false
+  },
+  {
+    "word_a": "(-{PC437}-)",
+    "word_b": "(-{PC437}-)",
+    "token_a": "▁(",
+    "token_b": "▁(",
+    "logit_a": 28.56705665588379,
+    "logit_b": 28.56705665588379,
+    "prefers_a": false
+  },
+  {
+    "word_a": "том",
+    "word_b": "tom",
+    "token_a": "▁том",
+    "token_b": "▁tom",
+    "logit_a": 9.022154808044434,
+    "logit_b": 13.314334869384766,
+    "prefers_a": false
+  },
+  {
+    "word_a": "горњем",
+    "word_b": "gornjem",
+    "token_a": "▁гор",
+    "token_b": "▁gornj",
+    "logit_a": 19.91843605041504,
+    "logit_b": 18.114627838134766,
+    "prefers_a": true
+  },
+  {
+    "word_a": "сету",
+    "word_b": "setu",
+    "token_a": "▁се",
+    "token_b": "▁se",
+    "logit_a": 20.339181900024414,
+    "logit_b": 14.797322273254395,
+    "prefers_a": true
+  },
+  {
+    "word_a": "дефинише",
+    "word_b": "definiše",
+    "token_a": "▁де",
+    "token_b": "▁defini",
+    "logit_a": 36.59899139404297,
+    "logit_b": 24.03483009338379,
+    "prefers_a": true
+  },
+  {
+    "word_a": "разне",
+    "word_b": "razne",
+    "token_a": "▁раз",
+    "token_b": "▁razne",
+    "logit_a": 30.22892951965332,
+    "logit_b": 15.19996452331543,
+    "prefers_a": true
+  },
+  {
+    "word_a": "графичке",
+    "word_b": "grafičke",
+    "token_a": "▁граф",
+    "token_b": "▁graf",
+    "logit_a": 26.38002586364746,
+    "logit_b": 21.97588348388672,
+    "prefers_a": true
+  },
+  {
+    "word_a": "карактере",
+    "word_b": "karaktere",
+    "token_a": "▁карактер",
+    "token_b": "▁karakter",
+    "logit_a": 13.865853309631348,
+    "logit_b": 19.552127838134766,
+    "prefers_a": false
+  },
+  {
+    "word_a": "цртање",
+    "word_b": "crtanje",
+    "token_a": "▁",
+    "token_b": "▁cr",
+    "logit_a": 48.12811279296875,
+    "logit_b": 35.434959411621094,
+    "prefers_a": true
+  },
+  {
+    "word_a": "текстуалних",
+    "word_b": "tekstualnih",
+    "token_a": "▁тексту",
+    "token_b": "▁tekstu",
+    "logit_a": 26.644603729248047,
+    "logit_b": 19.01705551147461,
+    "prefers_a": true
+  },
+  {
+    "word_a": "прозора",
+    "word_b": "prozora",
+    "token_a": "▁прозор",
+    "token_b": "▁prozor",
+    "logit_a": 19.964900970458984,
+    "logit_b": 12.297235488891602,
+    "prefers_a": true
+  },
+  {
+    "word_a": "слично.",
+    "word_b": "slično.",
+    "token_a": "▁слично",
+    "token_b": "▁slično",
+    "logit_a": 9.949554443359375,
+    "logit_b": 11.943136215209961,
+    "prefers_a": false
+  },
+  {
+    "word_a": "Касније",
+    "word_b": "Kasnije",
+    "token_a": "▁Кас",
+    "token_b": "▁Kas",
+    "logit_a": 23.13353157043457,
+    "logit_b": 28.891721725463867,
+    "prefers_a": false
+  },
+  {
+    "word_a": "развијено",
+    "word_b": "razvijeno",
+    "token_a": "▁раз",
+    "token_b": "▁raz",
+    "logit_a": 28.851825714111328,
+    "logit_b": 28.707210540771484,
+    "prefers_a": true
+  },
+  {
+    "word_a": "још",
+    "word_b": "još",
+    "token_a": "▁још",
+    "token_b": "▁još",
+    "logit_a": 5.6751909255981445,
+    "logit_b": 14.176380157470703,
+    "prefers_a": false
+  },
+  {
+    "word_a": "пуно",
+    "word_b": "puno",
+    "token_a": "▁пуно",
+    "token_b": "▁puno",
+    "logit_a": 0.3363668918609619,
+    "logit_b": 11.374563217163086,
+    "prefers_a": false
+  },
+  {
+    "word_a": "кодних",
+    "word_b": "kodnih",
+    "token_a": "▁код",
+    "token_b": "▁kod",
+    "logit_a": 23.630531311035156,
+    "logit_b": 20.260522842407227,
+    "prefers_a": true
+  },
+  {
+    "word_a": "подржавају",
+    "word_b": "podržavaju",
+    "token_a": "▁подржава",
+    "token_b": "▁podržava",
+    "logit_a": 21.012245178222656,
+    "logit_b": 20.397411346435547,
+    "prefers_a": true
+  },
+  {
+    "word_a": "одређене",
+    "word_b": "određene",
+    "token_a": "▁од",
+    "token_b": "▁određene",
+    "logit_a": 46.0960693359375,
+    "logit_b": 28.831195831298828,
+    "prefers_a": true
+  },
+  {
+    "word_a": "језике.",
+    "word_b": "jezike.",
+    "token_a": "▁језик",
+    "token_b": "▁jezik",
+    "logit_a": 14.7157621383667,
+    "logit_b": 15.742420196533203,
+    "prefers_a": false
+  },
+  {
+    "word_a": "),",
+    "word_b": "),",
+    "token_a": "▁",
+    "token_b": "▁",
+    "logit_a": 21.855525970458984,
+    "logit_b": 21.855525970458984,
+    "prefers_a": false
+  },
+  {
+    "word_a": "-{ISO-8859-5}-,",
+    "word_b": "-{ISO-8859-5}-,",
+    "token_a": "▁-",
+    "token_b": "▁-",
+    "logit_a": 28.720516204833984,
+    "logit_b": 28.720516204833984,
+    "prefers_a": false
+  },
+  {
+    "word_a": "-{KOI8-R}-",
+    "word_b": "-{KOI8-R}-",
+    "token_a": "▁-",
+    "token_b": "▁-",
+    "logit_a": 29.882993698120117,
+    "logit_b": 29.882993698120117,
+    "prefers_a": false
+  },
+  {
+    "word_a": "-{Windows-1251}-",
+    "word_b": "-{Windows-1251}-",
+    "token_a": "▁-",
+    "token_b": "▁-",
+    "logit_a": 25.727825164794922,
+    "logit_b": 25.727825164794922,
+    "prefers_a": false
+  },
+  {
+    "word_a": "ћирилицу,",
+    "word_b": "ćirilicu,",
+    "token_a": "▁",
+    "token_b": "▁",
+    "logit_a": 39.75701904296875,
+    "logit_b": 39.75701904296875,
+    "prefers_a": false
+  },
+  {
+    "word_a": "итд.",
+    "word_b": "itd.",
+    "token_a": "▁итд",
+    "token_b": "▁itd",
+    "logit_a": 9.624542236328125,
+    "logit_b": 15.02955436706543,
+    "prefers_a": false
+  },
+  {
+    "word_a": "Основни",
+    "word_b": "Osnovni",
+    "token_a": "▁Основни",
+    "token_b": "▁Os",
+    "logit_a": 16.779720306396484,
+    "logit_b": 11.866722106933594,
+    "prefers_a": true
+  },
+  {
+    "word_a": "проблем",
+    "word_b": "problem",
+    "token_a": "▁проблем",
+    "token_b": "▁problem",
+    "logit_a": 13.393389701843262,
+    "logit_b": 12.552328109741211,
+    "prefers_a": true
+  },
+  {
+    "word_a": "кодним",
+    "word_b": "kodnim",
+    "token_a": "▁код",
+    "token_b": "▁kod",
+    "logit_a": 24.19455909729004,
+    "logit_b": 11.647285461425781,
+    "prefers_a": true
+  },
+  {
+    "word_a": "странама",
+    "word_b": "stranama",
+    "token_a": "▁страна",
+    "token_b": "▁strana",
+    "logit_a": 19.445165634155273,
+    "logit_b": 14.354086875915527,
+    "prefers_a": true
+  },
+  {
+    "word_a": "то",
+    "word_b": "to",
+    "token_a": "▁то",
+    "token_b": "▁to",
+    "logit_a": 8.946391105651855,
+    "logit_b": 14.01270580291748,
+    "prefers_a": false
+  },
+  {
+    "word_a": "што",
+    "word_b": "što",
+    "token_a": "▁што",
+    "token_b": "▁što",
+    "logit_a": 5.4666428565979,
+    "logit_b": 10.65793228149414,
+    "prefers_a": false
+  },
+  {
+    "word_a": "се",
+    "word_b": "se",
+    "token_a": "▁се",
+    "token_b": "▁se",
+    "logit_a": 8.331355094909668,
+    "logit_b": 13.13251781463623,
+    "prefers_a": false
+  },
+  {
+    "word_a": "међусобно",
+    "word_b": "međusobno",
+    "token_a": "▁међусобно",
+    "token_b": "▁međusobn",
+    "logit_a": 0.6843236684799194,
+    "logit_b": 8.9027099609375,
+    "prefers_a": false
+  },
+  {
+    "word_a": "искључују,",
+    "word_b": "isključuju,",
+    "token_a": "▁ис",
+    "token_b": "▁is",
+    "logit_a": 41.71486282348633,
+    "logit_b": 37.201438903808594,
+    "prefers_a": true
+  },
+  {
+    "word_a": "тј.",
+    "word_b": "tj.",
+    "token_a": "▁тј",
+    "token_b": "▁tj",
+    "logit_a": 5.7392683029174805,
+    "logit_b": 16.182815551757812,
+    "prefers_a": false
+  },
+  {
+    "word_a": "цео",
+    "word_b": "ceo",
+    "token_a": "▁це",
+    "token_b": "▁ce",
+    "logit_a": 18.97892189025879,
+    "logit_b": 13.93394660949707,
+    "prefers_a": true
+  },
+  {
+    "word_a": "документ",
+    "word_b": "dokument",
+    "token_a": "▁документ",
+    "token_b": "▁dokument",
+    "logit_a": 12.725774765014648,
+    "logit_b": 15.225014686584473,
+    "prefers_a": false
+  },
+  {
+    "word_a": "мора",
+    "word_b": "mora",
+    "token_a": "▁мора",
+    "token_b": "▁mora",
+    "logit_a": 1.4485602378845215,
+    "logit_b": 8.067930221557617,
+    "prefers_a": false
+  },
+  {
+    "word_a": "буде",
+    "word_b": "bude",
+    "token_a": "▁буде",
+    "token_b": "▁bude",
+    "logit_a": 10.78734016418457,
+    "logit_b": 15.88189697265625,
+    "prefers_a": false
+  },
+  {
+    "word_a": "написан",
+    "word_b": "napisan",
+    "token_a": "▁написан",
+    "token_b": "▁na",
+    "logit_a": 8.3178129196167,
+    "logit_b": 15.531235694885254,
+    "prefers_a": false
+  },
+  {
+    "word_a": "истим",
+    "word_b": "istim",
+    "token_a": "▁истим",
+    "token_b": "▁ist",
+    "logit_a": 4.200339317321777,
+    "logit_b": 12.631234169006348,
+    "prefers_a": false
+  },
+  {
+    "word_a": "писмом.",
+    "word_b": "pismom.",
+    "token_a": "▁писмо",
+    "token_b": "▁pismo",
+    "logit_a": 16.196638107299805,
+    "logit_b": 13.113794326782227,
+    "prefers_a": true
+  },
+  {
+    "word_a": "Преглед",
+    "word_b": "Pregled",
+    "token_a": "▁Преглед",
+    "token_b": "▁Pre",
+    "logit_a": 11.300432205200195,
+    "logit_b": 18.403139114379883,
+    "prefers_a": false
+  },
+  {
+    "word_a": "постојећих",
+    "word_b": "postojećih",
+    "token_a": "▁постоје",
+    "token_b": "▁postoje",
+    "logit_a": 37.81665802001953,
+    "logit_b": 27.912818908691406,
+    "prefers_a": true
+  },
+  {
+    "word_a": "верзија",
+    "word_b": "verzija",
+    "token_a": "▁верзија",
+    "token_b": "▁verzi",
+    "logit_a": 5.205493927001953,
+    "logit_b": 12.793550491333008,
+    "prefers_a": false
+  },
+  {
+    "word_a": "Unicode-а",
+    "word_b": "Unicode-a",
+    "token_a": "▁Unicode",
+    "token_b": "▁Unicode",
+    "logit_a": 19.474355697631836,
+    "logit_b": 19.474355697631836,
+    "prefers_a": false
+  },
+  {
+    "word_a": "Постоји",
+    "word_b": "Postoji",
+    "token_a": "▁Постоји",
+    "token_b": "▁Post",
+    "logit_a": 5.788571834564209,
+    "logit_b": 15.45767879486084,
+    "prefers_a": false
+  },
+  {
+    "word_a": "Unicode-а.",
+    "word_b": "Unicode-a.",
+    "token_a": "▁Unicode",
+    "token_b": "▁Unicode",
+    "logit_a": 17.805641174316406,
+    "logit_b": 17.805641174316406,
+    "prefers_a": false
+  },
+  {
+    "word_a": "Базична",
+    "word_b": "Bazična",
+    "token_a": "▁Ба",
+    "token_b": "▁Baz",
+    "logit_a": 31.858802795410156,
+    "logit_b": 22.21118927001953,
+    "prefers_a": true
+  },
+  {
+    "word_a": "двобајтни",
+    "word_b": "dvobajtni",
+    "token_a": "▁дво",
+    "token_b": "▁dvo",
+    "logit_a": 30.268144607543945,
+    "logit_b": 23.02521514892578,
+    "prefers_a": true
+  },
+  {
+    "word_a": "формат",
+    "word_b": "format",
+    "token_a": "▁формат",
+    "token_b": "▁format",
+    "logit_a": 9.155890464782715,
+    "logit_b": 13.403526306152344,
+    "prefers_a": false
+  },
+  {
+    "word_a": "записа",
+    "word_b": "zapisa",
+    "token_a": "▁записа",
+    "token_b": "▁zapisa",
+    "logit_a": 5.7775959968566895,
+    "logit_b": 7.548592567443848,
+    "prefers_a": false
+  },
+  {
+    "word_a": "216",
+    "word_b": "216",
+    "token_a": "▁216",
+    "token_b": "▁216",
+    "logit_a": 12.381681442260742,
+    "logit_b": 12.381681442260742,
+    "prefers_a": false
+  },
+  {
+    "word_a": "65536",
+    "word_b": "65536",
+    "token_a": "▁65",
+    "token_b": "▁65",
+    "logit_a": 28.51065444946289,
+    "logit_b": 28.51065444946289,
+    "prefers_a": false
+  },
+  {
+    "word_a": "карактера.",
+    "word_b": "karaktera.",
+    "token_a": "▁карактер",
+    "token_b": "▁karakter",
+    "logit_a": 16.723949432373047,
+    "logit_b": 19.041479110717773,
+    "prefers_a": false
+  },
+  {
+    "word_a": "Њен",
+    "word_b": "Njen",
+    "token_a": "▁Њ",
+    "token_b": "▁Njen",
+    "logit_a": 15.452422142028809,
+    "logit_b": 16.591960906982422,
+    "prefers_a": false
+  },
+  {
+    "word_a": "назив",
+    "word_b": "naziv",
+    "token_a": "▁назив",
+    "token_b": "▁naziv",
+    "logit_a": 3.134572744369507,
+    "logit_b": 10.39691162109375,
+    "prefers_a": false
+  },
+  {
+    "word_a": "UCS-2",
+    "word_b": "UCS-2",
+    "token_a": "▁U",
+    "token_b": "▁U",
+    "logit_a": 20.467498779296875,
+    "logit_b": 20.467498779296875,
+    "prefers_a": false
+  },
+  {
+    "word_a": "зато",
+    "word_b": "zato",
+    "token_a": "▁зато",
+    "token_b": "▁zato",
+    "logit_a": 5.10975456237793,
+    "logit_b": 9.638323783874512,
+    "prefers_a": false
+  },
+  {
+    "word_a": "користи",
+    "word_b": "koristi",
+    "token_a": "▁користи",
+    "token_b": "▁koristi",
+    "logit_a": 6.659611701965332,
+    "logit_b": 12.951573371887207,
+    "prefers_a": false
+  },
+  {
+    "word_a": "два",
+    "word_b": "dva",
+    "token_a": "▁два",
+    "token_b": "▁dva",
+    "logit_a": 8.58143138885498,
+    "logit_b": 7.171775817871094,
+    "prefers_a": true
+  },
+  {
+    "word_a": "октета,",
+    "word_b": "okteta,",
+    "token_a": "▁ок",
+    "token_b": "▁okt",
+    "logit_a": 26.683345794677734,
+    "logit_b": 19.10989761352539,
+    "prefers_a": true
+  },
+  {
+    "word_a": "односно",
+    "word_b": "odnosno",
+    "token_a": "▁односно",
+    "token_b": "▁odnosno",
+    "logit_a": 2.7408828735351562,
+    "logit_b": 8.806282043457031,
+    "prefers_a": false
+  },
+  {
+    "word_a": "бајта.",
+    "word_b": "bajta.",
+    "token_a": "▁",
+    "token_b": "▁baj",
+    "logit_a": 38.21110534667969,
+    "logit_b": 26.775100708007812,
+    "prefers_a": true
+  },
+  {
+    "word_a": "Са",
+    "word_b": "Sa",
+    "token_a": "▁Са",
+    "token_b": "▁Sa",
+    "logit_a": 9.040186882019043,
+    "logit_b": 17.759675979614258,
+    "prefers_a": false
+  },
+  {
+    "word_a": "тих",
+    "word_b": "tih",
+    "token_a": "▁тих",
+    "token_b": "▁tih",
+    "logit_a": 6.678496360778809,
+    "logit_b": 8.422928810119629,
+    "prefers_a": false
+  },
+  {
+    "word_a": "решен",
+    "word_b": "rešen",
+    "token_a": "▁решен",
+    "token_b": "▁re",
+    "logit_a": 6.309488296508789,
+    "logit_b": 11.52026653289795,
+    "prefers_a": false
+  },
+  {
+    "word_a": "скоро",
+    "word_b": "skoro",
+    "token_a": "▁скоро",
+    "token_b": "▁skoro",
+    "logit_a": 10.821645736694336,
+    "logit_b": 9.568177223205566,
+    "prefers_a": true
+  },
+  {
+    "word_a": "свих",
+    "word_b": "svih",
+    "token_a": "▁свих",
+    "token_b": "▁svih",
+    "logit_a": 9.850109100341797,
+    "logit_b": 14.110124588012695,
+    "prefers_a": false
+  },
+  {
+    "word_a": "писама",
+    "word_b": "pisama",
+    "token_a": "▁писа",
+    "token_b": "▁pisa",
+    "logit_a": 18.53898048400879,
+    "logit_b": 13.512457847595215,
+    "prefers_a": true
+  },
+  {
+    "word_a": "(укључујући",
+    "word_b": "(uključujući",
+    "token_a": "▁(",
+    "token_b": "▁(",
+    "logit_a": 23.111122131347656,
+    "logit_b": 23.111122131347656,
+    "prefers_a": false
+  },
+  {
+    "word_a": "чак",
+    "word_b": "čak",
+    "token_a": "▁чак",
+    "token_b": "▁čak",
+    "logit_a": 2.9658737182617188,
+    "logit_b": 9.466753959655762,
+    "prefers_a": false
+  },
+  {
+    "word_a": "нека",
+    "word_b": "neka",
+    "token_a": "▁нека",
+    "token_b": "▁neka",
+    "logit_a": 2.4064717292785645,
+    "logit_b": 7.629279613494873,
+    "prefers_a": false
+  },
+  {
+    "word_a": "измишљена,",
+    "word_b": "izmišljena,",
+    "token_a": "▁из",
+    "token_b": "▁iz",
+    "logit_a": 30.247467041015625,
+    "logit_b": 31.30609893798828,
+    "prefers_a": false
+  },
+  {
+    "word_a": "као",
+    "word_b": "kao",
+    "token_a": "▁као",
+    "token_b": "▁kao",
+    "logit_a": 7.562112331390381,
+    "logit_b": 12.751670837402344,
+    "prefers_a": false
+  },
+  {
+    "word_a": "пример",
+    "word_b": "primer",
+    "token_a": "▁пример",
+    "token_b": "▁primer",
+    "logit_a": 9.820486068725586,
+    "logit_b": 16.28196144104004,
+    "prefers_a": false
+  },
+  {
+    "word_a": "клингонско",
+    "word_b": "klingonsko",
+    "token_a": "▁клин",
+    "token_b": "▁klin",
+    "logit_a": 26.29681968688965,
+    "logit_b": 17.974857330322266,
+    "prefers_a": true
+  },
+  {
+    "word_a": "писмо).",
+    "word_b": "pismo).",
+    "token_a": "▁писмо",
+    "token_b": "▁pismo",
+    "logit_a": 13.149314880371094,
+    "logit_b": 15.838788032531738,
+    "prefers_a": false
+  },
+  {
+    "word_a": "Овај",
+    "word_b": "Ovaj",
+    "token_a": "▁Овај",
+    "token_b": "▁Ovaj",
+    "logit_a": 7.859140396118164,
+    "logit_b": 12.69939136505127,
+    "prefers_a": false
+  },
+  {
+    "word_a": "тип",
+    "word_b": "tip",
+    "token_a": "▁тип",
+    "token_b": "▁tip",
+    "logit_a": 5.52125883102417,
+    "logit_b": 12.330687522888184,
+    "prefers_a": false
+  },
+  {
+    "word_a": "назива",
+    "word_b": "naziva",
+    "token_a": "▁назива",
+    "token_b": "▁naziva",
+    "logit_a": 3.704420804977417,
+    "logit_b": 7.732720851898193,
+    "prefers_a": false
+  },
+  {
+    "word_a": "Plain",
+    "word_b": "Plain",
+    "token_a": "▁Pla",
+    "token_b": "▁Pla",
+    "logit_a": 26.109806060791016,
+    "logit_b": 26.109806060791016,
+    "prefers_a": false
+  },
+  {
+    "word_a": "UTF-16.",
+    "word_b": "UTF-16.",
+    "token_a": "▁U",
+    "token_b": "▁U",
+    "logit_a": 24.797584533691406,
+    "logit_b": 24.797584533691406,
+    "prefers_a": false
+  },
+  {
+    "word_a": "Сада",
+    "word_b": "Sada",
+    "token_a": "▁Сада",
+    "token_b": "▁Sada",
+    "logit_a": 7.648350238800049,
+    "logit_b": 12.550664901733398,
+    "prefers_a": false
+  },
+  {
+    "word_a": "јавља",
+    "word_b": "javlja",
+    "token_a": "▁јавља",
+    "token_b": "▁javlja",
+    "logit_a": 2.0769965648651123,
+    "logit_b": 11.566350936889648,
+    "prefers_a": false
+  },
+  {
+    "word_a": "алокације",
+    "word_b": "alokacije",
+    "token_a": "▁ал",
+    "token_b": "▁al",
+    "logit_a": 20.6585693359375,
+    "logit_b": 23.07160186767578,
+    "prefers_a": false
+  },
+  {
+    "word_a": "простора",
+    "word_b": "prostora",
+    "token_a": "▁простора",
+    "token_b": "▁prostora",
+    "logit_a": 7.017488479614258,
+    "logit_b": 8.356125831604004,
+    "prefers_a": false
+  },
+  {
+    "word_a": "поруку",
+    "word_b": "poruku",
+    "token_a": "▁по",
+    "token_b": "▁por",
+    "logit_a": 30.479839324951172,
+    "logit_b": 19.273340225219727,
+    "prefers_a": true
+  },
+  {
+    "word_a": "медијуму",
+    "word_b": "medijumu",
+    "token_a": "▁мед",
+    "token_b": "▁medij",
+    "logit_a": 40.39754104614258,
+    "logit_b": 27.44329261779785,
+    "prefers_a": true
+  },
+  {
+    "word_a": "користи.",
+    "word_b": "koristi.",
+    "token_a": "▁користи",
+    "token_b": "▁koristi",
+    "logit_a": 11.986342430114746,
+    "logit_b": 16.68012046813965,
+    "prefers_a": false
+  },
+  {
+    "word_a": "трансформационих",
+    "word_b": "transformacionih",
+    "token_a": "▁трансформ",
+    "token_b": "▁transforma",
+    "logit_a": 28.27585220336914,
+    "logit_b": 22.001949310302734,
+    "prefers_a": true
+  },
+  {
+    "word_a": "шеме",
+    "word_b": "šeme",
+    "token_a": "▁ше",
+    "token_b": "▁še",
+    "logit_a": 17.795665740966797,
+    "logit_b": 11.354555130004883,
+    "prefers_a": true
+  },
+  {
+    "word_a": "погоднији",
+    "word_b": "pogodniji",
+    "token_a": "▁погодн",
+    "token_b": "▁pogod",
+    "logit_a": 18.991313934326172,
+    "logit_b": 15.97195816040039,
+    "prefers_a": true
+  },
+  {
+    "word_a": "запис",
+    "word_b": "zapis",
+    "token_a": "▁запис",
+    "token_b": "▁zapis",
+    "logit_a": 8.876394271850586,
+    "logit_b": 9.514287948608398,
+    "prefers_a": false
+  },
+  {
+    "word_a": "пренос",
+    "word_b": "prenos",
+    "token_a": "▁пренос",
+    "token_b": "▁prenos",
+    "logit_a": 5.186995983123779,
+    "logit_b": 11.808027267456055,
+    "prefers_a": false
+  },
+  {
+    "word_a": "података",
+    "word_b": "podataka",
+    "token_a": "▁података",
+    "token_b": "▁podataka",
+    "logit_a": 6.156785488128662,
+    "logit_b": 16.338253021240234,
+    "prefers_a": false
+  },
+  {
+    "word_a": "коришћењем",
+    "word_b": "korišćenjem",
+    "token_a": "▁коришћење",
+    "token_b": "▁kori",
+    "logit_a": 17.779672622680664,
+    "logit_b": 9.21509075164795,
+    "prefers_a": true
+  },
+  {
+    "word_a": "Прво",
+    "word_b": "Prvo",
+    "token_a": "▁Прво",
+    "token_b": "▁Prvo",
+    "logit_a": 5.477975368499756,
+    "logit_b": 10.511490821838379,
+    "prefers_a": false
+  },
+  {
+    "word_a": "развијена",
+    "word_b": "razvijena",
+    "token_a": "▁раз",
+    "token_b": "▁raz",
+    "logit_a": 45.21830368041992,
+    "logit_b": 32.84292984008789,
+    "prefers_a": true
+  },
+  {
+    "word_a": "трансформациона",
+    "word_b": "transformaciona",
+    "token_a": "▁трансформ",
+    "token_b": "▁transforma",
+    "logit_a": 28.739845275878906,
+    "logit_b": 21.287384033203125,
+    "prefers_a": true
+  },
+  {
+    "word_a": "шема",
+    "word_b": "šema",
+    "token_a": "▁ше",
+    "token_b": "▁še",
+    "logit_a": 18.391878128051758,
+    "logit_b": 12.681644439697266,
+    "prefers_a": true
+  },
+  {
+    "word_a": "основном",
+    "word_b": "osnovnom",
+    "token_a": "▁основном",
+    "token_b": "▁osnovno",
+    "logit_a": 10.878499984741211,
+    "logit_b": 9.222758293151855,
+    "prefers_a": true
+  },
+  {
+    "word_a": "јединицом",
+    "word_b": "jedinicom",
+    "token_a": "▁једини",
+    "token_b": "▁jedini",
+    "logit_a": 20.95657730102539,
+    "logit_b": 15.219152450561523,
+    "prefers_a": true
+  },
+  {
+    "word_a": "од",
+    "word_b": "od",
+    "token_a": "▁од",
+    "token_b": "▁od",
+    "logit_a": 6.755253314971924,
+    "logit_b": 11.986865997314453,
+    "prefers_a": false
+  },
+  {
+    "word_a": "бита",
+    "word_b": "bita",
+    "token_a": "▁би",
+    "token_b": "▁bi",
+    "logit_a": 24.553211212158203,
+    "logit_b": 17.99563980102539,
+    "prefers_a": true
+  },
+  {
+    "word_a": "(UTF-8).",
+    "word_b": "(UTF-8).",
+    "token_a": "▁(",
+    "token_b": "▁(",
+    "logit_a": 32.299827575683594,
+    "logit_b": 32.299827575683594,
+    "prefers_a": false
+  },
+  {
+    "word_a": "Помоћу",
+    "word_b": "Pomoću",
+    "token_a": "▁По",
+    "token_b": "▁Po",
+    "logit_a": 47.84947204589844,
+    "logit_b": 42.50015640258789,
+    "prefers_a": true
+  },
+  {
+    "word_a": "ње",
+    "word_b": "nje",
+    "token_a": "▁",
+    "token_b": "▁nje",
+    "logit_a": 24.56964683532715,
+    "logit_b": 19.187664031982422,
+    "prefers_a": true
+  },
+  {
+    "word_a": "карактер",
+    "word_b": "karakter",
+    "token_a": "▁карактер",
+    "token_b": "▁karakter",
+    "logit_a": 1.7370213270187378,
+    "logit_b": 15.754571914672852,
+    "prefers_a": false
+  },
+  {
+    "word_a": "записује",
+    "word_b": "zapisuje",
+    "token_a": "▁запис",
+    "token_b": "▁zapis",
+    "logit_a": 24.106260299682617,
+    "logit_b": 18.32291603088379,
+    "prefers_a": true
+  },
+  {
+    "word_a": "једном,",
+    "word_b": "jednom,",
+    "token_a": "▁једном",
+    "token_b": "▁jednom",
+    "logit_a": 10.675193786621094,
+    "logit_b": 16.098657608032227,
+    "prefers_a": false
+  },
+  {
+    "word_a": "три",
+    "word_b": "tri",
+    "token_a": "▁три",
+    "token_b": "▁tri",
+    "logit_a": 7.213651657104492,
+    "logit_b": 9.661744117736816,
+    "prefers_a": false
+  },
+  {
+    "word_a": "бајта,",
+    "word_b": "bajta,",
+    "token_a": "▁",
+    "token_b": "▁baj",
+    "logit_a": 36.32248306274414,
+    "logit_b": 27.13799285888672,
+    "prefers_a": true
+  },
+  {
+    "word_a": "зависности",
+    "word_b": "zavisnosti",
+    "token_a": "▁зависност",
+    "token_b": "▁za",
+    "logit_a": 19.689516067504883,
+    "logit_b": 20.044662475585938,
+    "prefers_a": false
+  },
+  {
+    "word_a": "тога",
+    "word_b": "toga",
+    "token_a": "▁тога",
+    "token_b": "▁toga",
+    "logit_a": 8.586897850036621,
+    "logit_b": 16.69506072998047,
+    "prefers_a": false
+  },
+  {
+    "word_a": "ком",
+    "word_b": "kom",
+    "token_a": "▁ком",
+    "token_b": "▁kom",
+    "logit_a": 1.1636326313018799,
+    "logit_b": 11.2550630569458,
+    "prefers_a": false
+  },
+  {
+    "word_a": "карактеру",
+    "word_b": "karakteru",
+    "token_a": "▁карактер",
+    "token_b": "▁karakter",
+    "logit_a": 12.656476974487305,
+    "logit_b": 16.61910629272461,
+    "prefers_a": false
+  },
+  {
+    "word_a": "реч.",
+    "word_b": "reč.",
+    "token_a": "▁реч",
+    "token_b": "▁re",
+    "logit_a": 12.414690017700195,
+    "logit_b": 17.1656551361084,
+    "prefers_a": false
+  },
+  {
+    "word_a": "Ова",
+    "word_b": "Ova",
+    "token_a": "▁Ова",
+    "token_b": "▁Ova",
+    "logit_a": 5.075258731842041,
+    "logit_b": 13.588529586791992,
+    "prefers_a": false
+  },
+  {
+    "word_a": "превасходно",
+    "word_b": "prevashodno",
+    "token_a": "▁прев",
+    "token_b": "▁pre",
+    "logit_a": 28.424964904785156,
+    "logit_b": 26.918292999267578,
+    "prefers_a": true
+  },
+  {
+    "word_a": "згодна",
+    "word_b": "zgodna",
+    "token_a": "▁з",
+    "token_b": "▁zgod",
+    "logit_a": 35.204620361328125,
+    "logit_b": 23.50351333618164,
+    "prefers_a": true
+  },
+  {
+    "word_a": "употребу",
+    "word_b": "upotrebu",
+    "token_a": "▁употребу",
+    "token_b": "▁up",
+    "logit_a": 2.3378491401672363,
+    "logit_b": 13.496529579162598,
+    "prefers_a": false
+  },
+  {
+    "word_a": "језицима",
+    "word_b": "jezicima",
+    "token_a": "▁језицима",
+    "token_b": "▁jezici",
+    "logit_a": 9.769335746765137,
+    "logit_b": 14.30285358428955,
+    "prefers_a": false
+  },
+  {
+    "word_a": "користе",
+    "word_b": "koriste",
+    "token_a": "▁користе",
+    "token_b": "▁koriste",
+    "logit_a": 0.987332820892334,
+    "logit_b": 11.655434608459473,
+    "prefers_a": false
+  },
+  {
+    "word_a": "латиницу.",
+    "word_b": "latinicu.",
+    "token_a": "▁латин",
+    "token_b": "▁latin",
+    "logit_a": 27.607601165771484,
+    "logit_b": 24.316022872924805,
+    "prefers_a": true
+  },
+  {
+    "word_a": "ће",
+    "word_b": "će",
+    "token_a": "▁ће",
+    "token_b": "▁će",
+    "logit_a": 4.951772212982178,
+    "logit_b": 10.055805206298828,
+    "prefers_a": false
+  },
+  {
+    "word_a": "бити",
+    "word_b": "biti",
+    "token_a": "▁бити",
+    "token_b": "▁biti",
+    "logit_a": 7.890370845794678,
+    "logit_b": 11.252778053283691,
+    "prefers_a": false
+  },
+  {
+    "word_a": "речи",
+    "word_b": "reči",
+    "token_a": "▁речи",
+    "token_b": "▁re",
+    "logit_a": 8.094630241394043,
+    "logit_b": 11.52026653289795,
+    "prefers_a": false
+  },
+  {
+    "word_a": "поглављу",
+    "word_b": "poglavlju",
+    "token_a": "▁по",
+    "token_b": "▁po",
+    "logit_a": 43.22743606567383,
+    "logit_b": 36.97804260253906,
+    "prefers_a": true
+  },
+  {
+    "word_a": "Укратко",
+    "word_b": "Ukratko",
+    "token_a": "▁У",
+    "token_b": "▁Ukra",
+    "logit_a": 38.53158950805664,
+    "logit_b": 29.662967681884766,
+    "prefers_a": true
+  },
+  {
+    "word_a": "UTF-8.",
+    "word_b": "UTF-8.",
+    "token_a": "▁U",
+    "token_b": "▁U",
+    "logit_a": 25.223752975463867,
+    "logit_b": 25.223752975463867,
+    "prefers_a": false
+  },
+  {
+    "word_a": "Један",
+    "word_b": "Jedan",
+    "token_a": "▁Један",
+    "token_b": "▁Jedan",
+    "logit_a": 9.125886917114258,
+    "logit_b": 9.647503852844238,
+    "prefers_a": false
+  },
+  {
+    "word_a": "део",
+    "word_b": "deo",
+    "token_a": "▁део",
+    "token_b": "▁de",
+    "logit_a": 2.087015151977539,
+    "logit_b": 14.998775482177734,
+    "prefers_a": false
+  },
+  {
+    "word_a": "Mail",
+    "word_b": "Mail",
+    "token_a": "▁Mail",
+    "token_b": "▁Mail",
+    "logit_a": 14.53453254699707,
+    "logit_b": 14.53453254699707,
+    "prefers_a": false
+  },
+  {
+    "word_a": "Transfer",
+    "word_b": "Transfer",
+    "token_a": "▁Transfer",
+    "token_b": "▁Transfer",
+    "logit_a": 15.974777221679688,
+    "logit_b": 15.974777221679688,
+    "prefers_a": false
+  },
+  {
+    "word_a": "Agent-а,",
+    "word_b": "Agent-a,",
+    "token_a": "▁Agent",
+    "token_b": "▁Agent",
+    "logit_a": 17.366886138916016,
+    "logit_b": 17.366886138916016,
+    "prefers_a": false
+  },
+  {
+    "word_a": "званични",
+    "word_b": "zvanični",
+    "token_a": "▁званични",
+    "token_b": "▁zvaničn",
+    "logit_a": 5.959062576293945,
+    "logit_b": 8.416891098022461,
+    "prefers_a": false
+  },
+  {
+    "word_a": "стандард",
+    "word_b": "standard",
+    "token_a": "▁стандард",
+    "token_b": "▁standard",
+    "logit_a": 8.7762451171875,
+    "logit_b": 18.452754974365234,
+    "prefers_a": false
+  },
+  {
+    "word_a": "Интернет",
+    "word_b": "Internet",
+    "token_a": "▁Интернет",
+    "token_b": "▁Internet",
+    "logit_a": 13.53968620300293,
+    "logit_b": 20.868799209594727,
+    "prefers_a": false
+  },
+  {
+    "word_a": "пошту",
+    "word_b": "poštu",
+    "token_a": "▁по",
+    "token_b": "▁po",
+    "logit_a": 24.095022201538086,
+    "logit_b": 19.543479919433594,
+    "prefers_a": true
+  },
+  {
+    "word_a": "(IETF:",
+    "word_b": "(IETF:",
+    "token_a": "▁(",
+    "token_b": "▁(",
+    "logit_a": 30.126754760742188,
+    "logit_b": 30.126754760742188,
+    "prefers_a": false
+  },
+  {
+    "word_a": "STD",
+    "word_b": "STD",
+    "token_a": "▁ST",
+    "token_b": "▁ST",
+    "logit_a": 18.796052932739258,
+    "logit_b": 18.796052932739258,
+    "prefers_a": false
+  },
+  {
+    "word_a": "11,",
+    "word_b": "11,",
+    "token_a": "▁11",
+    "token_b": "▁11",
+    "logit_a": 25.858179092407227,
+    "logit_b": 25.858179092407227,
+    "prefers_a": false
+  },
+  {
+    "word_a": "RFC",
+    "word_b": "RFC",
+    "token_a": "▁R",
+    "token_b": "▁R",
+    "logit_a": 26.3442440032959,
+    "logit_b": 26.3442440032959,
+    "prefers_a": false
+  },
+  {
+    "word_a": "822)",
+    "word_b": "822)",
+    "token_a": "▁8",
+    "token_b": "▁8",
+    "logit_a": 18.819677352905273,
+    "logit_b": 18.819677352905273,
+    "prefers_a": false
+  },
+  {
+    "word_a": "подржава",
+    "word_b": "podržava",
+    "token_a": "▁подржава",
+    "token_b": "▁podržava",
+    "logit_a": 4.475424766540527,
+    "logit_b": 9.867923736572266,
+    "prefers_a": false
+  },
+  {
+    "word_a": "само",
+    "word_b": "samo",
+    "token_a": "▁само",
+    "token_b": "▁samo",
+    "logit_a": 9.61960506439209,
+    "logit_b": 8.514814376831055,
+    "prefers_a": true
+  },
+  {
+    "word_a": "7-битне",
+    "word_b": "7-bitne",
+    "token_a": "▁7-",
+    "token_b": "▁7-",
+    "logit_a": 34.371437072753906,
+    "logit_b": 34.371437072753906,
+    "prefers_a": false
+  },
+  {
+    "word_a": "маил",
+    "word_b": "mail",
+    "token_a": "▁",
+    "token_b": "▁mail",
+    "logit_a": 35.05574417114258,
+    "logit_b": 29.436750411987305,
+    "prefers_a": true
+  },
+  {
+    "word_a": "поруке.",
+    "word_b": "poruke.",
+    "token_a": "▁поруке",
+    "token_b": "▁poruke",
+    "logit_a": 8.091041564941406,
+    "logit_b": 17.11802101135254,
+    "prefers_a": false
+  },
+  {
+    "word_a": "Због",
+    "word_b": "Zbog",
+    "token_a": "▁Због",
+    "token_b": "▁Zbog",
+    "logit_a": 4.17523193359375,
+    "logit_b": 10.099773406982422,
+    "prefers_a": false
+  },
+  {
+    "word_a": "касније",
+    "word_b": "kasnije",
+    "token_a": "▁касније",
+    "token_b": "▁kasnije",
+    "logit_a": 1.724923849105835,
+    "logit_b": 7.673409461975098,
+    "prefers_a": false
+  },
+  {
+    "word_a": "7-битна",
+    "word_b": "7-bitna",
+    "token_a": "▁7-",
+    "token_b": "▁7-",
+    "logit_a": 37.99465560913086,
+    "logit_b": 37.99465560913086,
+    "prefers_a": false
+  },
+  {
+    "word_a": "UTF-7.",
+    "word_b": "UTF-7.",
+    "token_a": "▁U",
+    "token_b": "▁U",
+    "logit_a": 24.555927276611328,
+    "logit_b": 24.555927276611328,
+    "prefers_a": false
+  },
+  {
+    "word_a": "Ту",
+    "word_b": "Tu",
+    "token_a": "▁Ту",
+    "token_b": "▁Tu",
+    "logit_a": 3.152533531188965,
+    "logit_b": 12.341253280639648,
+    "prefers_a": false
+  },
+  {
+    "word_a": "једном",
+    "word_b": "jednom",
+    "token_a": "▁једном",
+    "token_b": "▁jednom",
+    "logit_a": 5.111608982086182,
+    "logit_b": 10.728087425231934,
+    "prefers_a": false
+  },
+  {
+    "word_a": "неколико",
+    "word_b": "nekoliko",
+    "token_a": "▁неколико",
+    "token_b": "▁nekoliko",
+    "logit_a": 3.7940075397491455,
+    "logit_b": 10.970370292663574,
+    "prefers_a": false
+  },
+  {
+    "word_a": "бајтова,",
+    "word_b": "bajtova,",
+    "token_a": "▁",
+    "token_b": "▁baj",
+    "logit_a": 38.09092712402344,
+    "logit_b": 32.8685302734375,
+    "prefers_a": true
+  },
+  {
+    "word_a": "слично",
+    "word_b": "slično",
+    "token_a": "▁слично",
+    "token_b": "▁slično",
+    "logit_a": 5.729294776916504,
+    "logit_b": 9.201101303100586,
+    "prefers_a": false
+  },
+  {
+    "word_a": "разлика",
+    "word_b": "razlika",
+    "token_a": "▁разлика",
+    "token_b": "▁razlika",
+    "logit_a": 9.499468803405762,
+    "logit_b": 9.986478805541992,
+    "prefers_a": false
+  },
+  {
+    "word_a": "томе",
+    "word_b": "tome",
+    "token_a": "▁томе",
+    "token_b": "▁tome",
+    "logit_a": 2.9257473945617676,
+    "logit_b": 11.547128677368164,
+    "prefers_a": false
+  },
+  {
+    "word_a": "UTF-7",
+    "word_b": "UTF-7",
+    "token_a": "▁U",
+    "token_b": "▁U",
+    "logit_a": 24.21023941040039,
+    "logit_b": 24.21023941040039,
+    "prefers_a": false
+  },
+  {
+    "word_a": "Base64",
+    "word_b": "Base64",
+    "token_a": "▁Base",
+    "token_b": "▁Base",
+    "logit_a": 19.52922821044922,
+    "logit_b": 19.52922821044922,
+    "prefers_a": false
+  },
+  {
+    "word_a": "без",
+    "word_b": "bez",
+    "token_a": "▁без",
+    "token_b": "▁bez",
+    "logit_a": 9.8434476852417,
+    "logit_b": 9.777446746826172,
+    "prefers_a": true
+  },
+  {
+    "word_a": "проблема",
+    "word_b": "problema",
+    "token_a": "▁проблема",
+    "token_b": "▁problema",
+    "logit_a": 10.249590873718262,
+    "logit_b": 17.72771644592285,
+    "prefers_a": false
+  },
+  {
+    "word_a": "могу",
+    "word_b": "mogu",
+    "token_a": "▁могу",
+    "token_b": "▁mogu",
+    "logit_a": 6.010866641998291,
+    "logit_b": 9.579119682312012,
+    "prefers_a": false
+  },
+  {
+    "word_a": "преносе",
+    "word_b": "prenose",
+    "token_a": "▁пренос",
+    "token_b": "▁prenos",
+    "logit_a": 16.583070755004883,
+    "logit_b": 16.42333984375,
+    "prefers_a": true
+  },
+  {
+    "word_a": "путем",
+    "word_b": "putem",
+    "token_a": "▁путем",
+    "token_b": "▁putem",
+    "logit_a": 7.006014823913574,
+    "logit_b": 10.653254508972168,
+    "prefers_a": false
+  },
+  {
+    "word_a": "електронске",
+    "word_b": "elektronske",
+    "token_a": "▁електро",
+    "token_b": "▁elektronske",
+    "logit_a": 22.97719383239746,
+    "logit_b": 17.253847122192383,
+    "prefers_a": true
+  },
+  {
+    "word_a": "поште.",
+    "word_b": "pošte.",
+    "token_a": "▁",
+    "token_b": "▁",
+    "logit_a": 29.352846145629883,
+    "logit_b": 29.352846145629883,
+    "prefers_a": false
+  },
+  {
+    "word_a": "За",
+    "word_b": "Za",
+    "token_a": "▁За",
+    "token_b": "▁Za",
+    "logit_a": 12.826530456542969,
+    "logit_b": 14.640732765197754,
+    "prefers_a": false
+  },
+  {
+    "word_a": "такву",
+    "word_b": "takvu",
+    "token_a": "▁так",
+    "token_b": "▁tak",
+    "logit_a": 30.482301712036133,
+    "logit_b": 22.90537452697754,
+    "prefers_a": true
+  },
+  {
+    "word_a": "намену",
+    "word_b": "namenu",
+    "token_a": "▁на",
+    "token_b": "▁na",
+    "logit_a": 23.871627807617188,
+    "logit_b": 19.906173706054688,
+    "prefers_a": true
+  },
+  {
+    "word_a": "показало",
+    "word_b": "pokazalo",
+    "token_a": "▁показал",
+    "token_b": "▁pokazal",
+    "logit_a": 19.2528133392334,
+    "logit_b": 12.667657852172852,
+    "prefers_a": true
+  },
+  {
+    "word_a": "оптималнији",
+    "word_b": "optimalniji",
+    "token_a": "▁оптим",
+    "token_b": "▁optimal",
+    "logit_a": 25.25472640991211,
+    "logit_b": 21.459590911865234,
+    "prefers_a": true
+  },
+  {
+    "word_a": "него",
+    "word_b": "nego",
+    "token_a": "▁него",
+    "token_b": "▁nego",
+    "logit_a": 10.694035530090332,
+    "logit_b": 7.788155555725098,
+    "prefers_a": true
+  },
+  {
+    "word_a": "када",
+    "word_b": "kada",
+    "token_a": "▁када",
+    "token_b": "▁kada",
+    "logit_a": 7.909793853759766,
+    "logit_b": 10.335797309875488,
+    "prefers_a": false
+  },
+  {
+    "word_a": "кодира",
+    "word_b": "kodira",
+    "token_a": "▁код",
+    "token_b": "▁kodi",
+    "logit_a": 21.017396926879883,
+    "logit_b": 19.38475799560547,
+    "prefers_a": true
+  },
+  {
+    "word_a": "Quoted",
+    "word_b": "Quoted",
+    "token_a": "▁Quote",
+    "token_b": "▁Quote",
+    "logit_a": 16.297348022460938,
+    "logit_b": 16.297348022460938,
+    "prefers_a": false
+  },
+  {
+    "word_a": "Printable",
+    "word_b": "Printable",
+    "token_a": "▁Print",
+    "token_b": "▁Print",
+    "logit_a": 26.942121505737305,
+    "logit_b": 26.942121505737305,
+    "prefers_a": false
+  },
+  {
+    "word_a": "алгоритмима",
+    "word_b": "algoritmima",
+    "token_a": "▁алгоритм",
+    "token_b": "▁algoritm",
+    "logit_a": 21.37209701538086,
+    "logit_b": 15.236863136291504,
+    "prefers_a": true
+  },
+  {
+    "word_a": "кодирања.",
+    "word_b": "kodiranja.",
+    "token_a": "▁код",
+    "token_b": "▁kod",
+    "logit_a": 27.984745025634766,
+    "logit_b": 28.175994873046875,
+    "prefers_a": false
+  },
+  {
+    "word_a": "новији",
+    "word_b": "noviji",
+    "token_a": "▁нови",
+    "token_b": "▁novi",
+    "logit_a": 36.46297836303711,
+    "logit_b": 28.89430809020996,
+    "prefers_a": true
+  },
+  {
+    "word_a": "под",
+    "word_b": "pod",
+    "token_a": "▁под",
+    "token_b": "▁pod",
+    "logit_a": 8.72739315032959,
+    "logit_b": 9.9299955368042,
+    "prefers_a": false
+  },
+  {
+    "word_a": "називом",
+    "word_b": "nazivom",
+    "token_a": "▁називом",
+    "token_b": "▁nazivom",
+    "logit_a": 4.198657035827637,
+    "logit_b": 8.363485336303711,
+    "prefers_a": false
+  },
+  {
+    "word_a": "UCS-4",
+    "word_b": "UCS-4",
+    "token_a": "▁U",
+    "token_b": "▁U",
+    "logit_a": 20.71358299255371,
+    "logit_b": 20.71358299255371,
+    "prefers_a": false
+  },
+  {
+    "word_a": "бајта",
+    "word_b": "bajta",
+    "token_a": "▁",
+    "token_b": "▁baj",
+    "logit_a": 33.739707946777344,
+    "logit_b": 25.850940704345703,
+    "prefers_a": true
+  },
+  {
+    "word_a": "231",
+    "word_b": "231",
+    "token_a": "▁231",
+    "token_b": "▁231",
+    "logit_a": 13.104958534240723,
+    "logit_b": 13.104958534240723,
+    "prefers_a": false
+  },
+  {
+    "word_a": "2147483648",
+    "word_b": "2147483648",
+    "token_a": "▁21",
+    "token_b": "▁21",
+    "logit_a": 17.561288833618164,
+    "logit_b": 17.561288833618164,
+    "prefers_a": false
+  },
+  {
+    "word_a": "подељених",
+    "word_b": "podeljenih",
+    "token_a": "▁по",
+    "token_b": "▁pode",
+    "logit_a": 29.542221069335938,
+    "logit_b": 24.747953414916992,
+    "prefers_a": true
+  },
+  {
+    "word_a": "Прва",
+    "word_b": "Prva",
+    "token_a": "▁Прва",
+    "token_b": "▁Prva",
+    "logit_a": 5.648662090301514,
+    "logit_b": 14.991089820861816,
+    "prefers_a": false
+  },
+  {
+    "word_a": "раван,",
+    "word_b": "ravan,",
+    "token_a": "▁ра",
+    "token_b": "▁",
+    "logit_a": 18.005441665649414,
+    "logit_b": 25.399991989135742,
+    "prefers_a": false
+  },
+  {
+    "word_a": "има",
+    "word_b": "ima",
+    "token_a": "▁има",
+    "token_b": "▁ima",
+    "logit_a": 12.005302429199219,
+    "logit_b": 15.372607231140137,
+    "prefers_a": false
+  },
+  {
+    "word_a": "215",
+    "word_b": "215",
+    "token_a": "▁215",
+    "token_b": "▁215",
+    "logit_a": 11.968790054321289,
+    "logit_b": 11.968790054321289,
+    "prefers_a": false
+  },
+  {
+    "word_a": "32768",
+    "word_b": "32768",
+    "token_a": "▁32",
+    "token_b": "▁32",
+    "logit_a": 28.0360050201416,
+    "logit_b": 28.0360050201416,
+    "prefers_a": false
+  },
+  {
+    "word_a": "равни.",
+    "word_b": "ravni.",
+    "token_a": "▁равни",
+    "token_b": "▁ravni",
+    "logit_a": 8.797557830810547,
+    "logit_b": 10.154926300048828,
+    "prefers_a": false
+  },
+  {
+    "word_a": "Друга",
+    "word_b": "Druga",
+    "token_a": "▁Друга",
+    "token_b": "▁Druga",
+    "logit_a": 10.582247734069824,
+    "logit_b": 18.185190200805664,
+    "prefers_a": false
+  },
+  {
+    "word_a": "унутар",
+    "word_b": "unutar",
+    "token_a": "▁унутар",
+    "token_b": "▁unutar",
+    "logit_a": -3.0827958583831787,
+    "logit_b": 5.315454959869385,
+    "prefers_a": false
+  },
+  {
+    "word_a": "равни,",
+    "word_b": "ravni,",
+    "token_a": "▁равни",
+    "token_b": "▁ravni",
+    "logit_a": 7.619600772857666,
+    "logit_b": 8.314868927001953,
+    "prefers_a": false
+  },
+  {
+    "word_a": "по",
+    "word_b": "po",
+    "token_a": "▁по",
+    "token_b": "▁po",
+    "logit_a": 10.03831672668457,
+    "logit_b": 10.580351829528809,
+    "prefers_a": false
+  },
+  {
+    "word_a": "Међутим,",
+    "word_b": "Međutim,",
+    "token_a": "▁Међутим",
+    "token_b": "▁Međutim",
+    "logit_a": 11.23090934753418,
+    "logit_b": 16.59896469116211,
+    "prefers_a": false
+  },
+  {
+    "word_a": "пошто",
+    "word_b": "pošto",
+    "token_a": "▁пошто",
+    "token_b": "▁pošto",
+    "logit_a": 8.365154266357422,
+    "logit_b": 7.366222381591797,
+    "prefers_a": true
+  },
+  {
+    "word_a": "нови",
+    "word_b": "novi",
+    "token_a": "▁нови",
+    "token_b": "▁novi",
+    "logit_a": 8.596580505371094,
+    "logit_b": 10.99614429473877,
+    "prefers_a": false
+  },
+  {
+    "word_a": "Unicode,",
+    "word_b": "Unicode,",
+    "token_a": "▁Unicode",
+    "token_b": "▁Unicode",
+    "logit_a": 14.227161407470703,
+    "logit_b": 14.227161407470703,
+    "prefers_a": false
+  },
+  {
+    "word_a": "треба",
+    "word_b": "treba",
+    "token_a": "▁треба",
+    "token_b": "▁treba",
+    "logit_a": 5.398036003112793,
+    "logit_b": 11.413837432861328,
+    "prefers_a": false
+  },
+  {
+    "word_a": "њега",
+    "word_b": "njega",
+    "token_a": "▁њега",
+    "token_b": "▁njega",
+    "logit_a": 3.660311460494995,
+    "logit_b": 11.775702476501465,
+    "prefers_a": false
+  },
+  {
+    "word_a": "имати",
+    "word_b": "imati",
+    "token_a": "▁имати",
+    "token_b": "▁imati",
+    "logit_a": 2.3342409133911133,
+    "logit_b": 8.601064682006836,
+    "prefers_a": false
+  },
+  {
+    "word_a": "виду.",
+    "word_b": "vidu.",
+    "token_a": "▁виду",
+    "token_b": "▁vidu",
+    "logit_a": 13.211993217468262,
+    "logit_b": 19.0101375579834,
+    "prefers_a": false
+  },
+  {
+    "word_a": "транспарентно",
+    "word_b": "transparentno",
+    "token_a": "▁транспарент",
+    "token_b": "▁transparent",
+    "logit_a": 19.39562225341797,
+    "logit_b": 17.56387710571289,
+    "prefers_a": true
+  },
+  {
+    "word_a": "увео",
+    "word_b": "uveo",
+    "token_a": "▁у",
+    "token_b": "▁u",
+    "logit_a": 30.97099494934082,
+    "logit_b": 27.647964477539062,
+    "prefers_a": true
+  },
+  {
+    "word_a": "редефинисани",
+    "word_b": "redefinisani",
+    "token_a": "▁ре",
+    "token_b": "▁re",
+    "logit_a": 45.98190689086914,
+    "logit_b": 37.933746337890625,
+    "prefers_a": true
+  },
+  {
+    "word_a": "формати",
+    "word_b": "formati",
+    "token_a": "▁формат",
+    "token_b": "▁format",
+    "logit_a": 24.689834594726562,
+    "logit_b": 20.02220916748047,
+    "prefers_a": true
+  },
+  {
+    "word_a": "UTF-7,",
+    "word_b": "UTF-7,",
+    "token_a": "▁U",
+    "token_b": "▁U",
+    "logit_a": 24.388839721679688,
+    "logit_b": 24.388839721679688,
+    "prefers_a": false
+  },
+  {
+    "word_a": "UTF-8,",
+    "word_b": "UTF-8,",
+    "token_a": "▁U",
+    "token_b": "▁U",
+    "logit_a": 24.733455657958984,
+    "logit_b": 24.733455657958984,
+    "prefers_a": false
+  },
+  {
+    "word_a": "UTF-16",
+    "word_b": "UTF-16",
+    "token_a": "▁U",
+    "token_b": "▁U",
+    "logit_a": 25.729394912719727,
+    "logit_b": 25.729394912719727,
+    "prefers_a": false
+  },
+  {
+    "word_a": "UTF-32.",
+    "word_b": "UTF-32.",
+    "token_a": "▁U",
+    "token_b": "▁U",
+    "logit_a": 24.786632537841797,
+    "logit_b": 24.786632537841797,
+    "prefers_a": false
+  },
+  {
+    "word_a": "То",
+    "word_b": "To",
+    "token_a": "▁То",
+    "token_b": "▁To",
+    "logit_a": 7.27476167678833,
+    "logit_b": 13.287908554077148,
+    "prefers_a": false
+  },
+  {
+    "word_a": "учињено",
+    "word_b": "učinjeno",
+    "token_a": "▁учи",
+    "token_b": "▁uči",
+    "logit_a": 23.562915802001953,
+    "logit_b": 22.46479034423828,
+    "prefers_a": true
+  },
+  {
+    "word_a": "сваки",
+    "word_b": "svaki",
+    "token_a": "▁сваки",
+    "token_b": "▁svaki",
+    "logit_a": 2.145451545715332,
+    "logit_b": 9.639415740966797,
+    "prefers_a": false
+  },
+  {
+    "word_a": "из",
+    "word_b": "iz",
+    "token_a": "▁из",
+    "token_b": "▁iz",
+    "logit_a": 9.163960456848145,
+    "logit_b": 11.765303611755371,
+    "prefers_a": false
+  },
+  {
+    "word_a": "исту",
+    "word_b": "istu",
+    "token_a": "▁и",
+    "token_b": "▁istu",
+    "logit_a": 27.16571807861328,
+    "logit_b": 16.668981552124023,
+    "prefers_a": true
+  },
+  {
+    "word_a": "репрезентацију",
+    "word_b": "reprezentaciju",
+    "token_a": "▁репрезент",
+    "token_b": "▁reprezenta",
+    "logit_a": 23.968746185302734,
+    "logit_b": 21.560794830322266,
+    "prefers_a": true
+  },
+  {
+    "word_a": "раније.",
+    "word_b": "ranije.",
+    "token_a": "▁раније",
+    "token_b": "▁ranije",
+    "logit_a": 10.077695846557617,
+    "logit_b": 11.01484489440918,
+    "prefers_a": false
+  },
+  {
+    "word_a": "информација,",
+    "word_b": "informacija,",
+    "token_a": "▁информација",
+    "token_b": "▁informacija",
+    "logit_a": 10.611516952514648,
+    "logit_b": 16.76153564453125,
+    "prefers_a": false
+  },
+  {
+    "word_a": "погледајте",
+    "word_b": "pogledajte",
+    "token_a": "▁погледајте",
+    "token_b": "▁pogledajte",
+    "logit_a": 9.309412956237793,
+    "logit_b": 6.061553955078125,
+    "prefers_a": true
+  },
+  {
+    "word_a": "табелу",
+    "word_b": "tabelu",
+    "token_a": "▁табе",
+    "token_b": "▁tabel",
+    "logit_a": 19.122316360473633,
+    "logit_b": 13.847187995910645,
+    "prefers_a": true
+  },
+  {
+    "word_a": "Шема",
+    "word_b": "Šema",
+    "token_a": "▁Ше",
+    "token_b": "▁Še",
+    "logit_a": 19.66604232788086,
+    "logit_b": 11.799755096435547,
+    "prefers_a": true
+  },
+  {
+    "word_a": "кодирања",
+    "word_b": "kodiranja",
+    "token_a": "▁код",
+    "token_b": "▁kod",
+    "logit_a": 30.346996307373047,
+    "logit_b": 30.004959106445312,
+    "prefers_a": true
+  },
+  {
+    "word_a": "UTF-32",
+    "word_b": "UTF-32",
+    "token_a": "▁U",
+    "token_b": "▁U",
+    "logit_a": 24.733854293823242,
+    "logit_b": 24.733854293823242,
+    "prefers_a": false
+  },
+  {
+    "word_a": "ствари",
+    "word_b": "stvari",
+    "token_a": "▁ствари",
+    "token_b": "▁stvari",
+    "logit_a": 6.309133052825928,
+    "logit_b": 11.419611930847168,
+    "prefers_a": false
+  },
+  {
+    "word_a": "начин",
+    "word_b": "način",
+    "token_a": "▁начин",
+    "token_b": "▁način",
+    "logit_a": 8.579718589782715,
+    "logit_b": 11.021211624145508,
+    "prefers_a": false
+  },
+  {
+    "word_a": "коме",
+    "word_b": "kome",
+    "token_a": "▁коме",
+    "token_b": "▁kome",
+    "logit_a": 3.494877576828003,
+    "logit_b": 6.934597969055176,
+    "prefers_a": false
+  },
+  {
+    "word_a": "сва",
+    "word_b": "sva",
+    "token_a": "▁сва",
+    "token_b": "▁sva",
+    "logit_a": 5.793623447418213,
+    "logit_b": 7.640643119812012,
+    "prefers_a": false
+  },
+  {
+    "word_a": "четири",
+    "word_b": "četiri",
+    "token_a": "▁четири",
+    "token_b": "▁četiri",
+    "logit_a": 5.5267791748046875,
+    "logit_b": 7.452236652374268,
+    "prefers_a": false
+  },
+  {
+    "word_a": "UTF-16BE",
+    "word_b": "UTF-16BE",
+    "token_a": "▁U",
+    "token_b": "▁U",
+    "logit_a": 24.803924560546875,
+    "logit_b": 24.803924560546875,
+    "prefers_a": false
+  },
+  {
+    "word_a": "(big",
+    "word_b": "(big",
+    "token_a": "▁(",
+    "token_b": "▁(",
+    "logit_a": 28.291183471679688,
+    "logit_b": 28.291183471679688,
+    "prefers_a": false
+  },
+  {
+    "word_a": "endian)",
+    "word_b": "endian)",
+    "token_a": "▁en",
+    "token_b": "▁en",
+    "logit_a": 28.414453506469727,
+    "logit_b": 28.414453506469727,
+    "prefers_a": false
+  },
+  {
+    "word_a": "UTF-16LE",
+    "word_b": "UTF-16LE",
+    "token_a": "▁U",
+    "token_b": "▁U",
+    "logit_a": 26.883556365966797,
+    "logit_b": 26.883556365966797,
+    "prefers_a": false
+  },
+  {
+    "word_a": "(little",
+    "word_b": "(little",
+    "token_a": "▁(",
+    "token_b": "▁(",
+    "logit_a": 27.483516693115234,
+    "logit_b": 27.483516693115234,
+    "prefers_a": false
+  },
+  {
+    "word_a": "UTF-32BE",
+    "word_b": "UTF-32BE",
+    "token_a": "▁U",
+    "token_b": "▁U",
+    "logit_a": 24.487586975097656,
+    "logit_b": 24.487586975097656,
+    "prefers_a": false
+  },
+  {
+    "word_a": "UTF-32LE.",
+    "word_b": "UTF-32LE.",
+    "token_a": "▁U",
+    "token_b": "▁U",
+    "logit_a": 22.700454711914062,
+    "logit_b": 22.700454711914062,
+    "prefers_a": false
+  },
+  {
+    "word_a": "Ово",
+    "word_b": "Ovo",
+    "token_a": "▁Ово",
+    "token_b": "▁Ovo",
+    "logit_a": 6.957724094390869,
+    "logit_b": 12.139435768127441,
+    "prefers_a": false
+  },
+  {
+    "word_a": "није",
+    "word_b": "nije",
+    "token_a": "▁није",
+    "token_b": "▁nije",
+    "logit_a": 9.22262954711914,
+    "logit_b": 15.212718963623047,
+    "prefers_a": false
+  },
+  {
+    "word_a": "уведено",
+    "word_b": "uvedeno",
+    "token_a": "▁у",
+    "token_b": "▁uveden",
+    "logit_a": 22.595155715942383,
+    "logit_b": 14.874485969543457,
+    "prefers_a": true
+  },
+  {
+    "word_a": "увела",
+    "word_b": "uvela",
+    "token_a": "▁у",
+    "token_b": "▁u",
+    "logit_a": 22.44380760192871,
+    "logit_b": 17.804523468017578,
+    "prefers_a": true
+  },
+  {
+    "word_a": "додатна",
+    "word_b": "dodatna",
+    "token_a": "▁дода",
+    "token_b": "▁",
+    "logit_a": 24.32546615600586,
+    "logit_b": 27.08296775817871,
+    "prefers_a": false
+  },
+  {
+    "word_a": "забуна",
+    "word_b": "zabuna",
+    "token_a": "▁заб",
+    "token_b": "▁za",
+    "logit_a": 24.736160278320312,
+    "logit_b": 21.455583572387695,
+    "prefers_a": true
+  },
+  {
+    "word_a": "збрка,",
+    "word_b": "zbrka,",
+    "token_a": "▁з",
+    "token_b": "▁z",
+    "logit_a": 31.59210968017578,
+    "logit_b": 26.825143814086914,
+    "prefers_a": true
+  },
+  {
+    "word_a": "различите",
+    "word_b": "različite",
+    "token_a": "▁различите",
+    "token_b": "▁različite",
+    "logit_a": 0.7095589637756348,
+    "logit_b": 6.996906280517578,
+    "prefers_a": false
+  },
+  {
+    "word_a": "архитектуре",
+    "word_b": "arhitekture",
+    "token_a": "▁",
+    "token_b": "▁arhitekt",
+    "logit_a": 41.33774185180664,
+    "logit_b": 29.31604766845703,
+    "prefers_a": true
+  },
+  {
+    "word_a": "различито",
+    "word_b": "različito",
+    "token_a": "▁различ",
+    "token_b": "▁raz",
+    "logit_a": 27.629505157470703,
+    "logit_b": 27.263704299926758,
+    "prefers_a": true
+  },
+  {
+    "word_a": "чувају",
+    "word_b": "čuvaju",
+    "token_a": "▁чува",
+    "token_b": "▁čuva",
+    "logit_a": 22.495037078857422,
+    "logit_b": 20.016931533813477,
+    "prefers_a": true
+  },
+  {
+    "word_a": "податке.",
+    "word_b": "podatke.",
+    "token_a": "▁податке",
+    "token_b": "▁podatke",
+    "logit_a": 9.252750396728516,
+    "logit_b": 13.110426902770996,
+    "prefers_a": false
+  },
+  {
+    "word_a": "Такође",
+    "word_b": "Takođe",
+    "token_a": "▁Такође",
+    "token_b": "▁Tako",
+    "logit_a": 4.846968650817871,
+    "logit_b": 12.46608829498291,
+    "prefers_a": false
+  },
+  {
+    "word_a": "бих",
+    "word_b": "bih",
+    "token_a": "▁бих",
+    "token_b": "▁bih",
+    "logit_a": 4.322951793670654,
+    "logit_b": 9.87897777557373,
+    "prefers_a": false
+  },
+  {
+    "word_a": "желео",
+    "word_b": "želeo",
+    "token_a": "▁желе",
+    "token_b": "▁žele",
+    "logit_a": 19.09606170654297,
+    "logit_b": 12.598653793334961,
+    "prefers_a": true
+  },
+  {
+    "word_a": "напоменем",
+    "word_b": "napomenem",
+    "token_a": "▁на",
+    "token_b": "▁na",
+    "logit_a": 39.21666717529297,
+    "logit_b": 33.47761535644531,
+    "prefers_a": true
+  },
+  {
+    "word_a": "постоје",
+    "word_b": "postoje",
+    "token_a": "▁постоје",
+    "token_b": "▁postoje",
+    "logit_a": 4.38255500793457,
+    "logit_b": 9.727794647216797,
+    "prefers_a": false
+  },
+  {
+    "word_a": "две",
+    "word_b": "dve",
+    "token_a": "▁две",
+    "token_b": "▁dve",
+    "logit_a": 8.331198692321777,
+    "logit_b": 3.5554513931274414,
+    "prefers_a": true
+  },
+  {
+    "word_a": "организације",
+    "word_b": "organizacije",
+    "token_a": "▁организације",
+    "token_b": "▁organizacije",
+    "logit_a": 10.152624130249023,
+    "logit_b": 13.821795463562012,
+    "prefers_a": false
+  },
+  {
+    "word_a": "стандарда",
+    "word_b": "standarda",
+    "token_a": "▁стандард",
+    "token_b": "▁standard",
+    "logit_a": 19.343788146972656,
+    "logit_b": 18.50123405456543,
+    "prefers_a": true
+  },
+  {
+    "word_a": "Unicode.",
+    "word_b": "Unicode.",
+    "token_a": "▁Unicode",
+    "token_b": "▁Unicode",
+    "logit_a": 16.030771255493164,
+    "logit_b": 16.030771255493164,
+    "prefers_a": false
+  },
+  {
+    "word_a": "развијен",
+    "word_b": "razvijen",
+    "token_a": "▁раз",
+    "token_b": "▁raz",
+    "logit_a": 43.361228942871094,
+    "logit_b": 30.67872428894043,
+    "prefers_a": true
+  },
+  {
+    "word_a": "The",
+    "word_b": "The",
+    "token_a": "▁The",
+    "token_b": "▁The",
+    "logit_a": 18.6179256439209,
+    "logit_b": 18.6179256439209,
+    "prefers_a": false
+  },
+  {
+    "word_a": "Consortium",
+    "word_b": "Consortium",
+    "token_a": "▁Con",
+    "token_b": "▁Con",
+    "logit_a": 32.38239288330078,
+    "logit_b": 32.38239288330078,
+    "prefers_a": false
+  },
+  {
+    "word_a": "Standard.",
+    "word_b": "Standard.",
+    "token_a": "▁Standard",
+    "token_b": "▁Standard",
+    "logit_a": 24.37236976623535,
+    "logit_b": 24.37236976623535,
+    "prefers_a": false
+  },
+  {
+    "word_a": "Други",
+    "word_b": "Drugi",
+    "token_a": "▁Други",
+    "token_b": "▁Drugi",
+    "logit_a": 18.81649398803711,
+    "logit_b": 12.395824432373047,
+    "prefers_a": true
+  },
+  {
+    "word_a": "развила",
+    "word_b": "razvila",
+    "token_a": "▁разви",
+    "token_b": "▁razvil",
+    "logit_a": 15.112032890319824,
+    "logit_b": 6.303018569946289,
+    "prefers_a": true
+  },
+  {
+    "word_a": "Међународна",
+    "word_b": "Međunarodna",
+    "token_a": "▁Међународн",
+    "token_b": "▁Međunarodn",
+    "logit_a": 20.7652645111084,
+    "logit_b": 17.295764923095703,
+    "prefers_a": true
+  },
+  {
+    "word_a": "организација",
+    "word_b": "organizacija",
+    "token_a": "▁организација",
+    "token_b": "▁organizacija",
+    "logit_a": 10.794145584106445,
+    "logit_b": 11.965089797973633,
+    "prefers_a": false
+  },
+  {
+    "word_a": "стандардизацију",
+    "word_b": "standardizaciju",
+    "token_a": "▁стандарди",
+    "token_b": "▁standard",
+    "logit_a": 17.783706665039062,
+    "logit_b": 23.72020149230957,
+    "prefers_a": false
+  },
+  {
+    "word_a": "International",
+    "word_b": "International",
+    "token_a": "▁International",
+    "token_b": "▁International",
+    "logit_a": 25.184024810791016,
+    "logit_b": 25.184024810791016,
+    "prefers_a": false
+  },
+  {
+    "word_a": "Organization",
+    "word_b": "Organization",
+    "token_a": "▁Organization",
+    "token_b": "▁Organization",
+    "logit_a": 19.441373825073242,
+    "logit_b": 19.441373825073242,
+    "prefers_a": false
+  },
+  {
+    "word_a": "for",
+    "word_b": "for",
+    "token_a": "▁for",
+    "token_b": "▁for",
+    "logit_a": 15.492770195007324,
+    "logit_b": 15.492770195007324,
+    "prefers_a": false
+  },
+  {
+    "word_a": "Standardization,",
+    "word_b": "Standardization,",
+    "token_a": "▁Standard",
+    "token_b": "▁Standard",
+    "logit_a": 31.72073745727539,
+    "logit_b": 31.72073745727539,
+    "prefers_a": false
+  },
+  {
+    "word_a": "ISO/IEC",
+    "word_b": "ISO/IEC",
+    "token_a": "▁ISO",
+    "token_b": "▁ISO",
+    "logit_a": 32.96746063232422,
+    "logit_b": 32.96746063232422,
+    "prefers_a": false
+  },
+  {
+    "word_a": "10646.",
+    "word_b": "10646.",
+    "token_a": "▁10",
+    "token_b": "▁10",
+    "logit_a": 24.64450454711914,
+    "logit_b": 24.64450454711914,
+    "prefers_a": false
+  },
+  {
+    "word_a": "Та",
+    "word_b": "Ta",
+    "token_a": "▁Та",
+    "token_b": "▁Ta",
+    "logit_a": 9.57930850982666,
+    "logit_b": 11.949385643005371,
+    "prefers_a": false
+  },
+  {
+    "word_a": "идентична",
+    "word_b": "identična",
+    "token_a": "▁идентич",
+    "token_b": "▁identi",
+    "logit_a": 17.59592056274414,
+    "logit_b": 15.03239631652832,
+    "prefers_a": true
+  },
+  {
+    "word_a": "разликују",
+    "word_b": "razlikuju",
+    "token_a": "▁разлику",
+    "token_b": "▁razliku",
+    "logit_a": 18.103870391845703,
+    "logit_b": 15.910338401794434,
+    "prefers_a": true
+  },
+  {
+    "word_a": "питању",
+    "word_b": "pitanju",
+    "token_a": "▁питању",
+    "token_b": "▁pitanju",
+    "logit_a": 3.8012661933898926,
+    "logit_b": 5.6779093742370605,
+    "prefers_a": false
+  },
+  {
+    "word_a": "нашу",
+    "word_b": "našu",
+    "token_a": "▁нашу",
+    "token_b": "▁našu",
+    "logit_a": 7.702572822570801,
+    "logit_b": 8.134016036987305,
+    "prefers_a": false
+  },
+  {
+    "word_a": "слободно",
+    "word_b": "slobodno",
+    "token_a": "▁слободно",
+    "token_b": "▁slobodno",
+    "logit_a": 5.818917274475098,
+    "logit_b": 13.546525955200195,
+    "prefers_a": false
+  },
+  {
+    "word_a": "можемо",
+    "word_b": "možemo",
+    "token_a": "▁можемо",
+    "token_b": "▁možemo",
+    "logit_a": 1.9407801628112793,
+    "logit_b": 8.511487007141113,
+    "prefers_a": false
+  },
+  {
+    "word_a": "сматрамо",
+    "word_b": "smatramo",
+    "token_a": "▁сматра",
+    "token_b": "▁smatra",
+    "logit_a": 21.799535751342773,
+    "logit_b": 16.855960845947266,
+    "prefers_a": true
+  },
+  {
+    "word_a": "потпуно",
+    "word_b": "potpuno",
+    "token_a": "▁потпуно",
+    "token_b": "▁potpuno",
+    "logit_a": 4.968486309051514,
+    "logit_b": 9.99271297454834,
+    "prefers_a": false
+  },
+  {
+    "word_a": "идентични.",
+    "word_b": "identični.",
+    "token_a": "▁идентич",
+    "token_b": "▁identi",
+    "logit_a": 15.663396835327148,
+    "logit_b": 13.31179428100586,
+    "prefers_a": true
+  },
+  {
+    "word_a": "која",
+    "word_b": "koja",
+    "token_a": "▁која",
+    "token_b": "▁koja",
+    "logit_a": 6.029764175415039,
+    "logit_b": 11.274280548095703,
+    "prefers_a": false
+  },
+  {
+    "word_a": "стандарде",
+    "word_b": "standarde",
+    "token_a": "▁стандард",
+    "token_b": "▁standard",
+    "logit_a": 16.683134078979492,
+    "logit_b": 24.31856918334961,
+    "prefers_a": false
+  },
+  {
+    "word_a": "Internet",
+    "word_b": "Engineering",
+    "token_a": "▁Internet",
+    "token_b": "▁Engineering",
+    "logit_a": 20.868799209594727,
+    "logit_b": 19.13694953918457,
+    "prefers_a": true
+  },
+  {
+    "word_a": "Engineering",
+    "word_b": "Task",
+    "token_a": "▁Engineering",
+    "token_b": "▁Tas",
+    "logit_a": 19.13694953918457,
+    "logit_b": 13.138132095336914,
+    "prefers_a": true
+  },
+  {
+    "word_a": "Task",
+    "word_b": "Force,",
+    "token_a": "▁Tas",
+    "token_b": "▁Force",
+    "logit_a": 12.884405136108398,
+    "logit_b": 12.437061309814453,
+    "prefers_a": true
+  },
+  {
+    "word_a": "Force,",
+    "word_b": "IETF",
+    "token_a": "▁Force",
+    "token_b": "▁I",
+    "logit_a": 16.525278091430664,
+    "logit_b": 21.364112854003906,
+    "prefers_a": false
+  },
+  {
+    "word_a": "IETF",
+    "word_b": "svojim",
+    "token_a": "▁I",
+    "token_b": "▁svojim",
+    "logit_a": 35.562767028808594,
+    "logit_b": 21.384639739990234,
+    "prefers_a": true
+  },
+  {
+    "word_a": "својим",
+    "word_b": "standardima,",
+    "token_a": "▁својим",
+    "token_b": "▁standard",
+    "logit_a": 5.126506328582764,
+    "logit_b": 18.452754974365234,
+    "prefers_a": false
+  },
+  {
+    "word_a": "стандардима,",
+    "word_b": "najnovijim",
+    "token_a": "▁стандарди",
+    "token_b": "▁naj",
+    "logit_a": 14.649649620056152,
+    "logit_b": 14.092560768127441,
+    "prefers_a": true
+  },
+  {
+    "word_a": "најновијим",
+    "word_b": "standardima",
+    "token_a": "▁нај",
+    "token_b": "▁standard",
+    "logit_a": 49.682579040527344,
+    "logit_b": 37.710819244384766,
+    "prefers_a": true
+  },
+  {
+    "word_a": "стандардима",
+    "word_b": "izostavio",
+    "token_a": "▁стандарди",
+    "token_b": "▁iz",
+    "logit_a": 14.228171348571777,
+    "logit_b": 13.30981159210205,
+    "prefers_a": true
+  },
+  {
+    "word_a": "изоставио",
+    "word_b": "verziju",
+    "token_a": "▁из",
+    "token_b": "▁verzi",
+    "logit_a": 30.076932907104492,
+    "logit_b": 21.01889419555664,
+    "prefers_a": true
+  },
+  {
+    "word_a": "верзију",
+    "word_b": "ISO",
+    "token_a": "▁",
+    "token_b": "▁ISO",
+    "logit_a": 48.64839553833008,
+    "logit_b": 48.120567321777344,
+    "prefers_a": true
+  },
+  {
+    "word_a": "ISO",
+    "word_b": "10646,",
+    "token_a": "▁ISO",
+    "token_b": "▁10",
+    "logit_a": 15.472936630249023,
+    "logit_b": 20.336589813232422,
+    "prefers_a": false
+  },
+  {
+    "word_a": "10646,",
+    "word_b": "znači",
+    "token_a": "▁10",
+    "token_b": "▁znači",
+    "logit_a": 24.368846893310547,
+    "logit_b": 17.29672622680664,
+    "prefers_a": true
+  },
+  {
+    "word_a": "значи",
+    "word_b": "zvanično",
+    "token_a": "▁значи",
+    "token_b": "▁zvaničn",
+    "logit_a": 11.156817436218262,
+    "logit_b": 8.416891098022461,
+    "prefers_a": true
+  },
+  {
+    "word_a": "званично",
+    "word_b": "priznata",
+    "token_a": "▁званично",
+    "token_b": "▁prizna",
+    "logit_a": 2.536247491836548,
+    "logit_b": 8.615872383117676,
+    "prefers_a": false
+  },
+  {
+    "word_a": "призната",
+    "word_b": "HTML",
+    "token_a": "▁призна",
+    "token_b": "▁HTML",
+    "logit_a": 21.125986099243164,
+    "logit_b": 21.564891815185547,
+    "prefers_a": false
+  },
+  {
+    "word_a": "HTML",
+    "word_b": "jeziku",
+    "token_a": "▁HTML",
+    "token_b": "▁jeziku",
+    "logit_a": 16.20728302001953,
+    "logit_b": 7.323721408843994,
+    "prefers_a": true
+  },
+  {
+    "word_a": "језику",
+    "word_b": "opis",
+    "token_a": "▁језику",
+    "token_b": "▁opis",
+    "logit_a": 6.715977191925049,
+    "logit_b": 9.664873123168945,
+    "prefers_a": false
+  },
+  {
+    "word_a": "опис",
+    "word_b": "veb",
+    "token_a": "▁опис",
+    "token_b": "▁veb",
+    "logit_a": 6.304886817932129,
+    "logit_b": 10.752501487731934,
+    "prefers_a": false
+  },
+  {
+    "word_a": "веб",
+    "word_b": "stranica",
+    "token_a": "▁веб",
+    "token_b": "▁stranica",
+    "logit_a": 8.135028839111328,
+    "logit_b": 16.965213775634766,
+    "prefers_a": false
+  },
+  {
+    "word_a": "страница",
+    "word_b": "javljaju",
+    "token_a": "▁страница",
+    "token_b": "▁javlja",
+    "logit_a": 14.819293022155762,
+    "logit_b": 11.566350936889648,
+    "prefers_a": true
+  },
+  {
+    "word_a": "јављају",
+    "word_b": "načina",
+    "token_a": "▁јавља",
+    "token_b": "▁način",
+    "logit_a": 18.31020164489746,
+    "logit_b": 16.715049743652344,
+    "prefers_a": true
+  },
+  {
+    "word_a": "начина",
+    "word_b": "oktalnih",
+    "token_a": "▁начина",
+    "token_b": "▁ok",
+    "logit_a": 8.668302536010742,
+    "logit_b": 10.933947563171387,
+    "prefers_a": false
+  },
+  {
+    "word_a": "окталних",
+    "word_b": "vrednosti",
+    "token_a": "▁ок",
+    "token_b": "▁vrednosti",
+    "logit_a": 32.72895431518555,
+    "logit_b": 20.19731330871582,
+    "prefers_a": true
+  },
+  {
+    "word_a": "вредности",
+    "word_b": "bajtova.",
+    "token_a": "▁вредности",
+    "token_b": "▁baj",
+    "logit_a": 10.740052223205566,
+    "logit_b": 11.30431842803955,
+    "prefers_a": false
+  },
+  {
+    "word_a": "бајтова.",
+    "word_b": "Zapisuje",
+    "token_a": "▁",
+    "token_b": "▁Za",
+    "logit_a": 34.832801818847656,
+    "logit_b": 28.388328552246094,
+    "prefers_a": true
+  },
+  {
+    "word_a": "Записује",
+    "word_b": "prvo",
+    "token_a": "▁За",
+    "token_b": "▁prvo",
+    "logit_a": 50.277496337890625,
+    "logit_b": 37.920536041259766,
+    "prefers_a": true
+  },
+  {
+    "word_a": "прво",
+    "word_b": "zapiše",
+    "token_a": "▁прво",
+    "token_b": "▁za",
+    "logit_a": 2.139925003051758,
+    "logit_b": 14.040891647338867,
+    "prefers_a": false
+  },
+  {
+    "word_a": "запише",
+    "word_b": "\\,",
+    "token_a": "▁за",
+    "token_b": "▁",
+    "logit_a": 25.300832748413086,
+    "logit_b": 29.795612335205078,
+    "prefers_a": false
+  },
+  {
+    "word_a": "\\,",
+    "word_b": "pa",
+    "token_a": "▁",
+    "token_b": "▁pa",
+    "logit_a": 22.424354553222656,
+    "logit_b": 19.029844284057617,
+    "prefers_a": true
+  },
+  {
+    "word_a": "па",
+    "word_b": "onda",
+    "token_a": "▁па",
+    "token_b": "▁onda",
+    "logit_a": 6.151897430419922,
+    "logit_b": 10.435115814208984,
+    "prefers_a": false
+  },
+  {
+    "word_a": "онда",
+    "word_b": "oktalna",
+    "token_a": "▁онда",
+    "token_b": "▁okt",
+    "logit_a": 8.31751823425293,
+    "logit_b": 14.805444717407227,
+    "prefers_a": false
+  },
+  {
+    "word_a": "октална",
+    "word_b": "vrednost",
+    "token_a": "▁ок",
+    "token_b": "▁vrednost",
+    "logit_a": 25.741769790649414,
+    "logit_b": 15.749483108520508,
+    "prefers_a": true
+  },
+  {
+    "word_a": "вредност",
+    "word_b": "Ako",
+    "token_a": "▁вредност",
+    "token_b": "▁Ako",
+    "logit_a": 7.244524002075195,
+    "logit_b": 18.062381744384766,
+    "prefers_a": false
+  },
+  {
+    "word_a": "Ако",
+    "word_b": "taj",
+    "token_a": "▁Ако",
+    "token_b": "▁taj",
+    "logit_a": 12.739179611206055,
+    "logit_b": 14.135037422180176,
+    "prefers_a": false
+  },
+  {
+    "word_a": "тај",
+    "word_b": "kodiranju",
+    "token_a": "▁тај",
+    "token_b": "▁kod",
+    "logit_a": 3.821958541870117,
+    "logit_b": 9.20551872253418,
+    "prefers_a": false
+  },
+  {
+    "word_a": "кодирању",
+    "word_b": "sadrži",
+    "token_a": "▁код",
+    "token_b": "▁sadrži",
+    "logit_a": 29.451459884643555,
+    "logit_b": 16.777496337890625,
+    "prefers_a": true
+  },
+  {
+    "word_a": "садржи",
+    "word_b": "bajt",
+    "token_a": "▁садржи",
+    "token_b": "▁baj",
+    "logit_a": 3.980240821838379,
+    "logit_b": 11.30431842803955,
+    "prefers_a": false
+  },
+  {
+    "word_a": "бајт",
+    "word_b": "isti",
+    "token_a": "▁",
+    "token_b": "▁isti",
+    "logit_a": 33.20466995239258,
+    "logit_b": 20.973628997802734,
+    "prefers_a": true
+  },
+  {
+    "word_a": "исти",
+    "word_b": "način.",
+    "token_a": "▁исти",
+    "token_b": "▁način",
+    "logit_a": 7.265350341796875,
+    "logit_b": 11.021211624145508,
+    "prefers_a": false
+  },
+  {
+    "word_a": "начин.",
+    "word_b": "HTML-u",
+    "token_a": "▁начин",
+    "token_b": "▁HTML",
+    "logit_a": 13.40913200378418,
+    "logit_b": 21.53509521484375,
+    "prefers_a": false
+  },
+  {
+    "word_a": "HTML-у",
+    "word_b": "decimalne",
+    "token_a": "▁HTML",
+    "token_b": "▁de",
+    "logit_a": 19.651371002197266,
+    "logit_b": 18.029579162597656,
+    "prefers_a": true
+  },
+  {
+    "word_a": "децималне",
+    "word_b": "njihovog",
+    "token_a": "▁де",
+    "token_b": "▁njihovo",
+    "logit_a": 27.842012405395508,
+    "logit_b": 16.14124870300293,
+    "prefers_a": true
+  },
+  {
+    "word_a": "њиховог",
+    "word_b": "koda.",
+    "token_a": "▁њиховог",
+    "token_b": "▁ko",
+    "logit_a": -0.1865462064743042,
+    "logit_b": 11.512765884399414,
+    "prefers_a": false
+  },
+  {
+    "word_a": "кода.",
+    "word_b": "zapišu",
+    "token_a": "▁код",
+    "token_b": "▁za",
+    "logit_a": 23.73322105407715,
+    "logit_b": 18.5465030670166,
+    "prefers_a": true
+  },
+  {
+    "word_a": "запишу",
+    "word_b": "karakteri",
+    "token_a": "▁за",
+    "token_b": "▁karakter",
+    "logit_a": 25.76806640625,
+    "logit_b": 23.60196876525879,
+    "prefers_a": true
+  },
+  {
+    "word_a": "карактери",
+    "word_b": "&#,",
+    "token_a": "▁карактер",
+    "token_b": "▁",
+    "logit_a": 19.09588050842285,
+    "logit_b": 27.077951431274414,
+    "prefers_a": false
+  },
+  {
+    "word_a": "&#,",
+    "word_b": "decimalna",
+    "token_a": "▁",
+    "token_b": "▁de",
+    "logit_a": 24.37187957763672,
+    "logit_b": 22.840356826782227,
+    "prefers_a": true
+  },
+  {
+    "word_a": "децимална",
+    "word_b": "koda",
+    "token_a": "▁де",
+    "token_b": "▁ko",
+    "logit_a": 34.30169677734375,
+    "logit_b": 26.780128479003906,
+    "prefers_a": true
+  },
+  {
+    "word_a": "кода",
+    "word_b": "kraju",
+    "token_a": "▁код",
+    "token_b": "▁kraju",
+    "logit_a": 24.546178817749023,
+    "logit_b": 13.153860092163086,
+    "prefers_a": true
+  },
+  {
+    "word_a": "крају",
+    "word_b": ";.",
+    "token_a": "▁крају",
+    "token_b": "▁;",
+    "logit_a": 3.9542062282562256,
+    "logit_b": 16.055435180664062,
+    "prefers_a": false
+  },
+  {
+    "word_a": ";.",
+    "word_b": "zamišljen",
+    "token_a": "▁;",
+    "token_b": "▁za",
+    "logit_a": 22.44952392578125,
+    "logit_b": 20.81580352783203,
+    "prefers_a": true
+  },
+  {
+    "word_a": "замишљен",
+    "word_b": "najviše",
+    "token_a": "▁за",
+    "token_b": "▁najviše",
+    "logit_a": 50.036376953125,
+    "logit_b": 35.103370666503906,
+    "prefers_a": true
+  },
+  {
+    "word_a": "највише",
+    "word_b": "odgovara",
+    "token_a": "▁највише",
+    "token_b": "▁odgovara",
+    "logit_a": 2.2414562702178955,
+    "logit_b": 11.197715759277344,
+    "prefers_a": false
+  },
+  {
+    "word_a": "одговара",
+    "word_b": "latiničnom",
+    "token_a": "▁одговара",
+    "token_b": "▁latin",
+    "logit_a": 5.266430854797363,
+    "logit_b": 13.556987762451172,
+    "prefers_a": false
+  },
+  {
+    "word_a": "латиничном",
+    "word_b": "tekstu.",
+    "token_a": "▁латин",
+    "token_b": "▁tekstu",
+    "logit_a": 27.010419845581055,
+    "logit_b": 18.27117156982422,
+    "prefers_a": true
+  },
+  {
+    "word_a": "тексту.",
+    "word_b": "Na",
+    "token_a": "▁тексту",
+    "token_b": "▁Na",
+    "logit_a": 16.649669647216797,
+    "logit_b": 20.72296905517578,
+    "prefers_a": false
+  },
+  {
+    "word_a": "На",
+    "word_b": "ne",
+    "token_a": "▁На",
+    "token_b": "▁ne",
+    "logit_a": 14.374589920043945,
+    "logit_b": 12.037266731262207,
+    "prefers_a": true
+  },
+  {
+    "word_a": "не",
+    "word_b": "ometa",
+    "token_a": "▁не",
+    "token_b": "▁om",
+    "logit_a": 12.070241928100586,
+    "logit_b": 12.999892234802246,
+    "prefers_a": false
+  },
+  {
+    "word_a": "омета",
+    "word_b": "rad",
+    "token_a": "▁о",
+    "token_b": "▁rad",
+    "logit_a": 23.504562377929688,
+    "logit_b": 16.273954391479492,
+    "prefers_a": true
+  },
+  {
+    "word_a": "рад",
+    "word_b": "programskog",
+    "token_a": "▁рад",
+    "token_b": "▁program",
+    "logit_a": 6.955206871032715,
+    "logit_b": 17.516103744506836,
+    "prefers_a": false
+  },
+  {
+    "word_a": "програмског",
+    "word_b": "kompajlera",
+    "token_a": "▁програм",
+    "token_b": "▁kompa",
+    "logit_a": 28.820655822753906,
+    "logit_b": 24.2018985748291,
+    "prefers_a": true
+  },
+  {
+    "word_a": "компајлера",
+    "word_b": "parsera",
+    "token_a": "▁комп",
+    "token_b": "▁par",
+    "logit_a": 39.633758544921875,
+    "logit_b": 36.449310302734375,
+    "prefers_a": true
+  },
+  {
+    "word_a": "парсера",
+    "word_b": "markup",
+    "token_a": "▁пар",
+    "token_b": "▁mar",
+    "logit_a": 26.666784286499023,
+    "logit_b": 21.426809310913086,
+    "prefers_a": true
+  },
+  {
+    "word_a": "маркуп",
+    "word_b": "omogućava",
+    "token_a": "▁мар",
+    "token_b": "▁omogućava",
+    "logit_a": 22.42850685119629,
+    "logit_b": 10.700023651123047,
+    "prefers_a": true
+  },
+  {
+    "word_a": "омогућава",
+    "word_b": "višejezičke",
+    "token_a": "▁омогућава",
+    "token_b": "▁više",
+    "logit_a": 6.9449334144592285,
+    "logit_b": 13.698429107666016,
+    "prefers_a": false
+  },
+  {
+    "word_a": "вишејезичке",
+    "word_b": "podrške.",
+    "token_a": "▁више",
+    "token_b": "▁podrške",
+    "logit_a": 46.53912353515625,
+    "logit_b": 30.769691467285156,
+    "prefers_a": true
+  },
+  {
+    "word_a": "подршке.",
+    "word_b": "Ukoliko",
+    "token_a": "▁подршке",
+    "token_b": "▁Ukoliko",
+    "logit_a": 4.0055341720581055,
+    "logit_b": 13.91889762878418,
+    "prefers_a": false
+  },
+  {
+    "word_a": "Уколико",
+    "word_b": "svom",
+    "token_a": "▁Уколико",
+    "token_b": "▁svom",
+    "logit_a": 4.480313301086426,
+    "logit_b": 9.385110855102539,
+    "prefers_a": false
+  },
+  {
+    "word_a": "свом",
+    "word_b": "zapisu",
+    "token_a": "▁свом",
+    "token_b": "▁zapis",
+    "logit_a": 4.7979583740234375,
+    "logit_b": 9.514287948608398,
+    "prefers_a": false
+  },
+  {
+    "word_a": "запису",
+    "word_b": "najnižih",
+    "token_a": "▁запис",
+    "token_b": "▁naj",
+    "logit_a": 21.006498336791992,
+    "logit_b": 12.94295883178711,
+    "prefers_a": true
+  },
+  {
+    "word_a": "најнижих",
+    "word_b": "11",
+    "token_a": "▁нај",
+    "token_b": "▁11",
+    "logit_a": 30.039525985717773,
+    "logit_b": 35.39472198486328,
+    "prefers_a": false
+  },
+  {
+    "word_a": "11",
+    "word_b": "bita,",
+    "token_a": "▁11",
+    "token_b": "▁bi",
+    "logit_a": 20.159183502197266,
+    "logit_b": 8.401409149169922,
+    "prefers_a": true
+  },
+  {
+    "word_a": "бита,",
+    "word_b": "obliku",
+    "token_a": "▁би",
+    "token_b": "▁obliku",
+    "logit_a": 23.939359664916992,
+    "logit_b": 11.761748313903809,
+    "prefers_a": true
+  },
+  {
+    "word_a": "облику",
+    "word_b": "kraju,",
+    "token_a": "▁облику",
+    "token_b": "▁kraju",
+    "logit_a": 2.6044445037841797,
+    "logit_b": 10.719916343688965,
+    "prefers_a": false
+  },
+  {
+    "word_a": "крају,",
+    "word_b": "ako",
+    "token_a": "▁крају",
+    "token_b": "▁ako",
+    "logit_a": 8.915724754333496,
+    "logit_b": 19.389793395996094,
+    "prefers_a": false
+  },
+  {
+    "word_a": "ако",
+    "word_b": "16",
+    "token_a": "▁ако",
+    "token_b": "▁16",
+    "logit_a": 9.80769157409668,
+    "logit_b": 20.275440216064453,
+    "prefers_a": false
+  },
+  {
+    "word_a": "16",
+    "word_b": "tabeli",
+    "token_a": "▁16",
+    "token_b": "▁tabel",
+    "logit_a": 20.275440216064453,
+    "logit_b": 12.561634063720703,
+    "prefers_a": true
+  },
+  {
+    "word_a": "табели",
+    "word_b": "data",
+    "token_a": "▁та",
+    "token_b": "▁data",
+    "logit_a": 23.573457717895508,
+    "logit_b": 17.583194732666016,
+    "prefers_a": true
+  },
+  {
+    "word_a": "дата",
+    "word_b": "kako",
+    "token_a": "▁дата",
+    "token_b": "▁kako",
+    "logit_a": 8.69468879699707,
+    "logit_b": 15.359857559204102,
+    "prefers_a": false
+  },
+  {
+    "word_a": "како",
+    "word_b": "transformiše",
+    "token_a": "▁како",
+    "token_b": "▁transform",
+    "logit_a": 9.870009422302246,
+    "logit_b": 11.330718994140625,
+    "prefers_a": false
+  },
+  {
+    "word_a": "трансформише",
+    "word_b": "Tabela",
+    "token_a": "▁трансформ",
+    "token_b": "▁Tabel",
+    "logit_a": 22.854616165161133,
+    "logit_b": 19.031885147094727,
+    "prefers_a": true
+  },
+  {
+    "word_a": "Табела",
+    "word_b": "pun,",
+    "token_a": "▁Та",
+    "token_b": "▁pun",
+    "logit_a": 36.411678314208984,
+    "logit_b": 26.518823623657227,
+    "prefers_a": true
+  },
+  {
+    "word_a": "пун,",
+    "word_b": "četvorobajtni",
+    "token_a": "▁пу",
+    "token_b": "▁čet",
+    "logit_a": 20.239606857299805,
+    "logit_b": 11.607839584350586,
+    "prefers_a": true
+  },
+  {
+    "word_a": "четворобајтни",
+    "word_b": "reč",
+    "token_a": "▁че",
+    "token_b": "▁re",
+    "logit_a": 34.87696838378906,
+    "logit_b": 31.105724334716797,
+    "prefers_a": true
+  },
+  {
+    "word_a": "реч",
+    "word_b": "dvobajtnom",
+    "token_a": "▁реч",
+    "token_b": "▁dvo",
+    "logit_a": 6.218623161315918,
+    "logit_b": 7.086887359619141,
+    "prefers_a": false
+  },
+  {
+    "word_a": "двобајтном",
+    "word_b": "Unicode-u,",
+    "token_a": "▁дво",
+    "token_b": "▁Unicode",
+    "logit_a": 34.18805694580078,
+    "logit_b": 35.75495147705078,
+    "prefers_a": false
+  },
+  {
+    "word_a": "Unicode-у,",
+    "word_b": "UCS-2,",
+    "token_a": "▁Unicode",
+    "token_b": "▁U",
+    "logit_a": 16.456405639648438,
+    "logit_b": 19.226133346557617,
+    "prefers_a": false
+  },
+  {
+    "word_a": "UCS-2,",
+    "word_b": "gledati",
+    "token_a": "▁U",
+    "token_b": "▁gledati",
+    "logit_a": 20.735551834106445,
+    "logit_b": 11.166969299316406,
+    "prefers_a": true
+  },
+  {
+    "word_a": "гледати",
+    "word_b": "prva",
+    "token_a": "▁гледа",
+    "token_b": "▁prva",
+    "logit_a": 19.918500900268555,
+    "logit_b": 16.785762786865234,
+    "prefers_a": true
+  },
+  {
+    "word_a": "прва",
+    "word_b": "reda",
+    "token_a": "▁прва",
+    "token_b": "▁reda",
+    "logit_a": 4.4630842208862305,
+    "logit_b": 6.680768966674805,
+    "prefers_a": false
+  },
+  {
+    "word_a": "реда",
+    "word_b": "tabeli.",
+    "token_a": "▁реда",
+    "token_b": "▁tabel",
+    "logit_a": 6.858346939086914,
+    "logit_b": 12.561634063720703,
+    "prefers_a": false
+  },
+  {
+    "word_a": "табели.",
+    "word_b": "Detaljniji",
+    "token_a": "▁та",
+    "token_b": "▁Detalj",
+    "logit_a": 25.79873275756836,
+    "logit_b": 20.392383575439453,
+    "prefers_a": true
+  },
+  {
+    "word_a": "Детаљнији",
+    "word_b": "algoritma",
+    "token_a": "▁Де",
+    "token_b": "▁algoritm",
+    "logit_a": 47.379486083984375,
+    "logit_b": 28.320240020751953,
+    "prefers_a": true
+  },
+  {
+    "word_a": "алгоритма",
+    "word_b": "transformaciju",
+    "token_a": "▁алгоритм",
+    "token_b": "▁transforma",
+    "logit_a": 23.733564376831055,
+    "logit_b": 13.926733016967773,
+    "prefers_a": true
+  },
+  {
+    "word_a": "трансформацију",
+    "word_b": "može",
+    "token_a": "▁трансформ",
+    "token_b": "▁može",
+    "logit_a": 26.994239807128906,
+    "logit_b": 21.765483856201172,
+    "prefers_a": true
+  },
+  {
+    "word_a": "може",
+    "word_b": "naći",
+    "token_a": "▁може",
+    "token_b": "▁naći",
+    "logit_a": 8.157474517822266,
+    "logit_b": 8.471381187438965,
+    "prefers_a": false
+  },
+  {
+    "word_a": "наћи",
+    "word_b": "2279.",
+    "token_a": "▁наћи",
+    "token_b": "▁2",
+    "logit_a": 3.9677648544311523,
+    "logit_b": 20.662864685058594,
+    "prefers_a": false
+  },
+  {
+    "word_a": "2279.",
+    "word_b": "Tabela:",
+    "token_a": "▁2",
+    "token_b": "▁Tabel",
+    "logit_a": 29.432647705078125,
+    "logit_b": 25.756254196166992,
+    "prefers_a": true
+  },
+  {
+    "word_a": "Табела:",
+    "word_b": "opseg",
+    "token_a": "▁Та",
+    "token_b": "▁op",
+    "logit_a": 32.61174011230469,
+    "logit_b": 20.421566009521484,
+    "prefers_a": true
+  },
+  {
+    "word_a": "опсег",
+    "word_b": "(hex.)",
+    "token_a": "▁опсе",
+    "token_b": "▁(",
+    "logit_a": 8.32175350189209,
+    "logit_b": 18.516597747802734,
+    "prefers_a": false
+  },
+  {
+    "word_a": "(hex.)",
+    "word_b": "piše",
+    "token_a": "▁(",
+    "token_b": "▁piše",
+    "logit_a": 25.980976104736328,
+    "logit_b": 15.957551956176758,
+    "prefers_a": true
+  },
+  {
+    "word_a": "пише",
+    "word_b": "iso10646,",
+    "token_a": "▁пише",
+    "token_b": "▁iso",
+    "logit_a": 8.27088737487793,
+    "logit_b": 8.811779022216797,
+    "prefers_a": false
+  },
+  {
+    "word_a": "iso10646,",
+    "word_b": "font",
+    "token_a": "▁iso",
+    "token_b": "▁font",
+    "logit_a": 15.925052642822266,
+    "logit_b": 15.695602416992188,
+    "prefers_a": true
+  },
+  {
+    "word_a": "фонт",
+    "word_b": "kompatibilan.",
+    "token_a": "▁фон",
+    "token_b": "▁kompa",
+    "logit_a": 24.470184326171875,
+    "logit_b": 15.691762924194336,
+    "prefers_a": true
+  },
+  {
+    "word_a": "компатибилан.",
+    "word_b": "Većina",
+    "token_a": "▁комп",
+    "token_b": "▁Već",
+    "logit_a": 21.469284057617188,
+    "logit_b": 15.538806915283203,
+    "prefers_a": true
+  },
+  {
+    "word_a": "Већина",
+    "word_b": "baza",
+    "token_a": "▁Већ",
+    "token_b": "▁baza",
+    "logit_a": 22.39004898071289,
+    "logit_b": 21.068706512451172,
+    "prefers_a": true
+  },
+  {
+    "word_a": "база",
+    "word_b": "već",
+    "token_a": "▁база",
+    "token_b": "▁već",
+    "logit_a": 9.164356231689453,
+    "logit_b": 14.031203269958496,
+    "prefers_a": false
+  },
+  {
+    "word_a": "већ",
+    "word_b": "duže",
+    "token_a": "▁већ",
+    "token_b": "▁du",
+    "logit_a": 7.850578308105469,
+    "logit_b": 12.912412643432617,
+    "prefers_a": false
+  },
+  {
+    "word_a": "дуже",
+    "word_b": "vreme",
+    "token_a": "▁дуже",
+    "token_b": "▁vreme",
+    "logit_a": 10.929975509643555,
+    "logit_b": 13.792263984680176,
+    "prefers_a": false
+  },
+  {
+    "word_a": "време",
+    "word_b": "programi",
+    "token_a": "▁време",
+    "token_b": "▁program",
+    "logit_a": 12.882688522338867,
+    "logit_b": 17.516103744506836,
+    "prefers_a": false
+  },
+  {
+    "word_a": "програми",
+    "word_b": "\"razumeli\"",
+    "token_a": "▁програми",
+    "token_b": "▁\"",
+    "logit_a": 12.660377502441406,
+    "logit_b": 20.023941040039062,
+    "prefers_a": false
+  },
+  {
+    "word_a": "\"разумели\"",
+    "word_b": "razvijeni",
+    "token_a": "▁\"",
+    "token_b": "▁raz",
+    "logit_a": 42.97767639160156,
+    "logit_b": 28.690732955932617,
+    "prefers_a": true
+  },
+  {
+    "word_a": "развијени",
+    "word_b": "razni",
+    "token_a": "▁раз",
+    "token_b": "▁raz",
+    "logit_a": 34.00477600097656,
+    "logit_b": 27.17346954345703,
+    "prefers_a": true
+  },
+  {
+    "word_a": "разни",
+    "word_b": "standardi",
+    "token_a": "▁разни",
+    "token_b": "▁standard",
+    "logit_a": 9.798137664794922,
+    "logit_b": 18.452754974365234,
+    "prefers_a": false
+  },
+  {
+    "word_a": "стандарди",
+    "word_b": "koristeći",
+    "token_a": "▁стандарди",
+    "token_b": "▁koriste",
+    "logit_a": 5.427006721496582,
+    "logit_b": 11.655434608459473,
+    "prefers_a": false
+  }
+]

@@ -1,0 +1,12 @@
+{
+  "language": "hindi_urdu",
+  "script_a": "Devanagari",
+  "script_b": "Nastaliq",
+  "n_pairs": 2000,
+  "n_words_a": 500,
+  "n_words_b": 500,
+  "source": "OPUS-100 en-hi",
+  "conversion_tool": "aksharamukha",
+  "built_at": "2026-05-18T00:11:45.953161+00:00",
+  "n_conversion_errors": 0
+}

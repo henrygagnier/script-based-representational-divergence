@@ -1,0 +1,4502 @@
+[
+  {
+    "word_a": "ساڭا",
+    "word_b": "sanga",
+    "token_a": "▁س",
+    "token_b": "▁sang",
+    "logit_a": 29.091508865356445,
+    "logit_b": 21.580806732177734,
+    "prefers_a": true
+  },
+  {
+    "word_a": "چوڭ",
+    "word_b": "chong",
+    "token_a": "▁چوڭ",
+    "token_b": "▁cho",
+    "logit_a": -0.7036983966827393,
+    "logit_b": 10.639976501464844,
+    "prefers_a": false
+  },
+  {
+    "word_a": "مۆجىزىلىرىمىزدىن",
+    "word_b": "möjizilirimizdin",
+    "token_a": "▁م",
+    "token_b": "▁mö",
+    "logit_a": 35.59376907348633,
+    "logit_b": 23.312191009521484,
+    "prefers_a": true
+  },
+  {
+    "word_a": "بەزىسىنى",
+    "word_b": "bezisini",
+    "token_a": "▁بەزى",
+    "token_b": "▁bez",
+    "logit_a": 20.19591522216797,
+    "logit_b": 22.284818649291992,
+    "prefers_a": false
+  },
+  {
+    "word_a": "كۆرسىتىمىز",
+    "word_b": "körsitimiz",
+    "token_a": "▁كۆرسىت",
+    "token_b": "▁kör",
+    "logit_a": 12.175008773803711,
+    "logit_b": 18.95960235595703,
+    "prefers_a": false
+  },
+  {
+    "word_a": "اﷲ",
+    "word_b": "aﷲ",
+    "token_a": "▁ا",
+    "token_b": "▁a",
+    "logit_a": 15.752792358398438,
+    "logit_b": 21.777828216552734,
+    "prefers_a": false
+  },
+  {
+    "word_a": "ۋە",
+    "word_b": "we",
+    "token_a": "▁ۋە",
+    "token_b": "▁we",
+    "logit_a": 4.970465660095215,
+    "logit_b": 9.457198143005371,
+    "prefers_a": false
+  },
+  {
+    "word_a": "پەيغەمبەرگە",
+    "word_b": "peyghemberge",
+    "token_a": "▁پەيغەمبەر",
+    "token_b": "▁pey",
+    "logit_a": 15.211481094360352,
+    "logit_b": 18.005678176879883,
+    "prefers_a": false
+  },
+  {
+    "word_a": "ئىتائەت",
+    "word_b": "ita'et",
+    "token_a": "▁ئى",
+    "token_b": "▁ita",
+    "logit_a": 29.276958465576172,
+    "logit_b": 17.430185317993164,
+    "prefers_a": true
+  },
+  {
+    "word_a": "قىلىڭلار،",
+    "word_b": "qilinglar،",
+    "token_a": "▁",
+    "token_b": "▁qiling",
+    "logit_a": 33.51732635498047,
+    "logit_b": 16.421947479248047,
+    "prefers_a": true
+  },
+  {
+    "word_a": "(ئۇلارغا",
+    "word_b": "(ulargha",
+    "token_a": "▁(",
+    "token_b": "▁(",
+    "logit_a": 20.745716094970703,
+    "logit_b": 20.745716094970703,
+    "prefers_a": false
+  },
+  {
+    "word_a": "مۇخالىپەتچىلىك",
+    "word_b": "muxalipetchilik",
+    "token_a": "▁مۇ",
+    "token_b": "▁mux",
+    "logit_a": 33.33778762817383,
+    "logit_b": 23.550777435302734,
+    "prefers_a": true
+  },
+  {
+    "word_a": "قىلىشتىن)",
+    "word_b": "qilishtin)",
+    "token_a": "▁قىلىش",
+    "token_b": "▁qilish",
+    "logit_a": 17.394882202148438,
+    "logit_b": 18.606924057006836,
+    "prefers_a": false
+  },
+  {
+    "word_a": "ھەزەر",
+    "word_b": "hezer",
+    "token_a": "▁ھە",
+    "token_b": "▁he",
+    "logit_a": 22.562227249145508,
+    "logit_b": 17.999675750732422,
+    "prefers_a": true
+  },
+  {
+    "word_a": "ئەگەر",
+    "word_b": "eger",
+    "token_a": "▁ئەگەر",
+    "token_b": "▁e",
+    "logit_a": 4.225025177001953,
+    "logit_b": 14.706262588500977,
+    "prefers_a": false
+  },
+  {
+    "word_a": "(ئىتائەت",
+    "word_b": "(ita'et",
+    "token_a": "▁(",
+    "token_b": "▁(",
+    "logit_a": 31.829538345336914,
+    "logit_b": 31.829538345336914,
+    "prefers_a": false
+  },
+  {
+    "word_a": "باش",
+    "word_b": "bash",
+    "token_a": "▁باش",
+    "token_b": "▁",
+    "logit_a": 9.437049865722656,
+    "logit_b": 22.887454986572266,
+    "prefers_a": false
+  },
+  {
+    "word_a": "تارتساڭلار،",
+    "word_b": "tartsanglar،",
+    "token_a": "▁تار",
+    "token_b": "▁tart",
+    "logit_a": 33.23383331298828,
+    "logit_b": 20.91968536376953,
+    "prefers_a": true
+  },
+  {
+    "word_a": "بىلىڭلاركى،",
+    "word_b": "bilinglarki،",
+    "token_a": "▁ب",
+    "token_b": "▁bil",
+    "logit_a": 36.98675537109375,
+    "logit_b": 26.075027465820312,
+    "prefers_a": true
+  },
+  {
+    "word_a": "رەسۇلىمىزنىڭ",
+    "word_b": "resulimizning",
+    "token_a": "▁رە",
+    "token_b": "▁res",
+    "logit_a": 33.200286865234375,
+    "logit_b": 20.141597747802734,
+    "prefers_a": true
+  },
+  {
+    "word_a": "مەسئۇلىيىتى",
+    "word_b": "mes'uliyiti",
+    "token_a": "▁مەسئۇل",
+    "token_b": "▁mes",
+    "logit_a": 29.34800910949707,
+    "logit_b": 22.57367706298828,
+    "prefers_a": true
+  },
+  {
+    "word_a": "پەقەت",
+    "word_b": "peqet",
+    "token_a": "▁پەقەت",
+    "token_b": "▁pe",
+    "logit_a": 1.4993932247161865,
+    "logit_b": 12.94958782196045,
+    "prefers_a": false
+  },
+  {
+    "word_a": "ئوچۇق",
+    "word_b": "ochuq",
+    "token_a": "▁ئو",
+    "token_b": "▁och",
+    "logit_a": 21.06906509399414,
+    "logit_b": 15.463491439819336,
+    "prefers_a": true
+  },
+  {
+    "word_a": "تەبلىغ",
+    "word_b": "tebligh",
+    "token_a": "▁تە",
+    "token_b": "▁te",
+    "logit_a": 24.51793670654297,
+    "logit_b": 20.54857635498047,
+    "prefers_a": true
+  },
+  {
+    "word_a": "قىلىشتۇر",
+    "word_b": "qilishtur",
+    "token_a": "▁قىلىش",
+    "token_b": "▁qilish",
+    "logit_a": 17.831541061401367,
+    "logit_b": 12.54902172088623,
+    "prefers_a": true
+  },
+  {
+    "word_a": "ئۇلارنىڭ",
+    "word_b": "ularning",
+    "token_a": "▁ئۇلارنىڭ",
+    "token_b": "▁ularning",
+    "logit_a": 4.136221408843994,
+    "logit_b": 8.835773468017578,
+    "prefers_a": false
+  },
+  {
+    "word_a": "تەۋبە",
+    "word_b": "tewbe",
+    "token_a": "▁ت",
+    "token_b": "▁te",
+    "logit_a": 24.232242584228516,
+    "logit_b": 20.862573623657227,
+    "prefers_a": true
+  },
+  {
+    "word_a": "قىلىشى",
+    "word_b": "qilishi",
+    "token_a": "▁قىلىشى",
+    "token_b": "▁qilish",
+    "logit_a": 1.2662540674209595,
+    "logit_b": 9.213113784790039,
+    "prefers_a": false
+  },
+  {
+    "word_a": "ئۈچۈن",
+    "word_b": "üchün",
+    "token_a": "▁ئۈچۈن",
+    "token_b": "▁ü",
+    "logit_a": 5.2516632080078125,
+    "logit_b": 9.915389060974121,
+    "prefers_a": false
+  },
+  {
+    "word_a": "بىز",
+    "word_b": "biz",
+    "token_a": "▁بىز",
+    "token_b": "▁biz",
+    "logit_a": 7.392292022705078,
+    "logit_b": 7.733389854431152,
+    "prefers_a": false
+  },
+  {
+    "word_a": "ئۇلارغا",
+    "word_b": "ulargha",
+    "token_a": "▁ئۇلارغا",
+    "token_b": "▁ular",
+    "logit_a": 2.7676048278808594,
+    "logit_b": 11.913476943969727,
+    "prefers_a": false
+  },
+  {
+    "word_a": "چوقۇم",
+    "word_b": "choqum",
+    "token_a": "▁چوقۇم",
+    "token_b": "▁cho",
+    "logit_a": -1.6924530267715454,
+    "logit_b": 10.639976501464844,
+    "prefers_a": false
+  },
+  {
+    "word_a": "ئەڭ",
+    "word_b": "eng",
+    "token_a": "▁ئەڭ",
+    "token_b": "▁eng",
+    "logit_a": 2.3234305381774902,
+    "logit_b": 14.277185440063477,
+    "prefers_a": false
+  },
+  {
+    "word_a": "ئازابتىن",
+    "word_b": "azabtin",
+    "token_a": "▁ئاز",
+    "token_b": "▁az",
+    "logit_a": 23.715421676635742,
+    "logit_b": 27.596349716186523,
+    "prefers_a": false
+  },
+  {
+    "word_a": "(يەنى",
+    "word_b": "(yeni",
+    "token_a": "▁(",
+    "token_b": "▁(",
+    "logit_a": 19.85249137878418,
+    "logit_b": 19.85249137878418,
+    "prefers_a": false
+  },
+  {
+    "word_a": "ئاخىرەت",
+    "word_b": "axiret",
+    "token_a": "▁ئاخىر",
+    "token_b": "▁a",
+    "logit_a": 16.922794342041016,
+    "logit_b": 19.309328079223633,
+    "prefers_a": false
+  },
+  {
+    "word_a": "ئازابىدىن)",
+    "word_b": "azabidin)",
+    "token_a": "▁ئاز",
+    "token_b": "▁az",
+    "logit_a": 21.741474151611328,
+    "logit_b": 24.981861114501953,
+    "prefers_a": false
+  },
+  {
+    "word_a": "ئىلگىرى",
+    "word_b": "ilgiri",
+    "token_a": "▁ئىلگىرى",
+    "token_b": "▁il",
+    "logit_a": 2.915558338165283,
+    "logit_b": 10.084028244018555,
+    "prefers_a": false
+  },
+  {
+    "word_a": "يېقىنقى",
+    "word_b": "yéqinqi",
+    "token_a": "▁يېقىن",
+    "token_b": "▁y",
+    "logit_a": 14.140389442443848,
+    "logit_b": 21.926694869995117,
+    "prefers_a": false
+  },
+  {
+    "word_a": "ئازاب",
+    "word_b": "azab",
+    "token_a": "▁ئاز",
+    "token_b": "▁az",
+    "logit_a": 23.22998809814453,
+    "logit_b": 27.191038131713867,
+    "prefers_a": false
+  },
+  {
+    "word_a": "دۇنيا",
+    "word_b": "dunya",
+    "token_a": "▁دۇنيا",
+    "token_b": "▁du",
+    "logit_a": 7.058871269226074,
+    "logit_b": 12.912412643432617,
+    "prefers_a": false
+  },
+  {
+    "word_a": "ئازابى)",
+    "word_b": "azabi)",
+    "token_a": "▁ئاز",
+    "token_b": "▁az",
+    "logit_a": 20.113414764404297,
+    "logit_b": 20.828853607177734,
+    "prefers_a": false
+  },
+  {
+    "word_a": "نى",
+    "word_b": "ni",
+    "token_a": "▁",
+    "token_b": "▁ni",
+    "logit_a": 25.53911018371582,
+    "logit_b": 21.32096290588379,
+    "prefers_a": true
+  },
+  {
+    "word_a": "تېتىتىمىز",
+    "word_b": "tétitimiz",
+    "token_a": "▁ت",
+    "token_b": "▁té",
+    "logit_a": 34.82097625732422,
+    "logit_b": 19.951496124267578,
+    "prefers_a": true
+  },
+  {
+    "word_a": "ئۇلاردىن",
+    "word_b": "ulardin",
+    "token_a": "▁ئۇلار",
+    "token_b": "▁ular",
+    "logit_a": 20.983768463134766,
+    "logit_b": 22.485883712768555,
+    "prefers_a": false
+  },
+  {
+    "word_a": "ۋاقىتلىق",
+    "word_b": "waqitliq",
+    "token_a": "▁ۋاقىت",
+    "token_b": "▁wa",
+    "logit_a": 19.111276626586914,
+    "logit_b": 19.483959197998047,
+    "prefers_a": false
+  },
+  {
+    "word_a": "يۈز",
+    "word_b": "yüz",
+    "token_a": "▁يۈز",
+    "token_b": "▁yüz",
+    "logit_a": -0.25564584136009216,
+    "logit_b": 3.793178081512451,
+    "prefers_a": false
+  },
+  {
+    "word_a": "ئۆرۈپ",
+    "word_b": "örüp",
+    "token_a": "▁ئۆ",
+    "token_b": "▁",
+    "logit_a": 15.980344772338867,
+    "logit_b": 25.061649322509766,
+    "prefers_a": false
+  },
+  {
+    "word_a": "تۇرغىن",
+    "word_b": "turghin",
+    "token_a": "▁تۇر",
+    "token_b": "▁tur",
+    "logit_a": 28.3870849609375,
+    "logit_b": 19.501554489135742,
+    "prefers_a": true
+  },
+  {
+    "word_a": "ئىبلىس:",
+    "word_b": "iblis:",
+    "token_a": "▁ئى",
+    "token_b": "▁i",
+    "logit_a": 20.484474182128906,
+    "logit_b": 21.31752586364746,
+    "prefers_a": false
+  },
+  {
+    "word_a": "«پەرۋەردىگارىم!",
+    "word_b": "«perwerdigarim!",
+    "token_a": "▁«",
+    "token_b": "▁«",
+    "logit_a": 45.585548400878906,
+    "logit_b": 45.585548400878906,
+    "prefers_a": false
+  },
+  {
+    "word_a": "ماڭا",
+    "word_b": "manga",
+    "token_a": "▁ماڭا",
+    "token_b": "▁manga",
+    "logit_a": 0.5078413486480713,
+    "logit_b": 14.50870418548584,
+    "prefers_a": false
+  },
+  {
+    "word_a": "خالايىقلار",
+    "word_b": "xalayiqlar",
+    "token_a": "▁خال",
+    "token_b": "▁xalay",
+    "logit_a": 29.887683868408203,
+    "logit_b": 13.233367919921875,
+    "prefers_a": true
+  },
+  {
+    "word_a": "تىرىلدۈرۈلىدىغان",
+    "word_b": "tirildürülidighan",
+    "token_a": "▁ت",
+    "token_b": "▁tir",
+    "logit_a": 32.137451171875,
+    "logit_b": 20.556468963623047,
+    "prefers_a": true
+  },
+  {
+    "word_a": "كۈن",
+    "word_b": "kün",
+    "token_a": "▁كۈن",
+    "token_b": "▁kü",
+    "logit_a": 1.7133212089538574,
+    "logit_b": 7.950808048248291,
+    "prefers_a": false
+  },
+  {
+    "word_a": "قىيامەت",
+    "word_b": "qiyamet",
+    "token_a": "▁قىي",
+    "token_b": "▁qiy",
+    "logit_a": 17.990337371826172,
+    "logit_b": 18.232200622558594,
+    "prefers_a": false
+  },
+  {
+    "word_a": "كۈنى)",
+    "word_b": "küni)",
+    "token_a": "▁كۈنى",
+    "token_b": "▁kü",
+    "logit_a": 5.676936626434326,
+    "logit_b": 9.216257095336914,
+    "prefers_a": false
+  },
+  {
+    "word_a": "گىچە",
+    "word_b": "giche",
+    "token_a": "▁",
+    "token_b": "▁gi",
+    "logit_a": 25.803430557250977,
+    "logit_b": 14.27462100982666,
+    "prefers_a": true
+  },
+  {
+    "word_a": "مۆھلەت",
+    "word_b": "möhlet",
+    "token_a": "▁م",
+    "token_b": "▁mö",
+    "logit_a": 32.12294006347656,
+    "logit_b": 20.74919891357422,
+    "prefers_a": true
+  },
+  {
+    "word_a": "بەرگىن",
+    "word_b": "bergin",
+    "token_a": "▁بەر",
+    "token_b": "▁berg",
+    "logit_a": 17.069293975830078,
+    "logit_b": 12.783066749572754,
+    "prefers_a": true
+  },
+  {
+    "word_a": "(مېنى",
+    "word_b": "(méni",
+    "token_a": "▁(",
+    "token_b": "▁(",
+    "logit_a": 27.90636444091797,
+    "logit_b": 27.90636444091797,
+    "prefers_a": false
+  },
+  {
+    "word_a": "ھايات",
+    "word_b": "hayat",
+    "token_a": "▁ھايات",
+    "token_b": "▁hayat",
+    "logit_a": 4.75851583480835,
+    "logit_b": 7.897317886352539,
+    "prefers_a": false
+  },
+  {
+    "word_a": "قالدۇرغىن)»",
+    "word_b": "qaldurghin)»",
+    "token_a": "▁قال",
+    "token_b": "▁qal",
+    "logit_a": 30.45504379272461,
+    "logit_b": 21.451196670532227,
+    "prefers_a": true
+  },
+  {
+    "word_a": "دېدى",
+    "word_b": "dédi",
+    "token_a": "▁دېدى",
+    "token_b": "▁dé",
+    "logit_a": 8.442980766296387,
+    "logit_b": 9.826238632202148,
+    "prefers_a": false
+  },
+  {
+    "word_a": "ئى",
+    "word_b": "sra'il",
+    "token_a": "▁ئى",
+    "token_b": "▁s",
+    "logit_a": 4.494916915893555,
+    "logit_b": 17.35041618347168,
+    "prefers_a": false
+  },
+  {
+    "word_a": "ئسرائىل",
+    "word_b": "ewladi!",
+    "token_a": "▁",
+    "token_b": "▁ew",
+    "logit_a": 36.528594970703125,
+    "logit_b": 20.081180572509766,
+    "prefers_a": true
+  },
+  {
+    "word_a": "ئەۋلادى!",
+    "word_b": "méning",
+    "token_a": "▁ئەۋلاد",
+    "token_b": "▁mé",
+    "logit_a": 11.738197326660156,
+    "logit_b": 15.684064865112305,
+    "prefers_a": false
+  },
+  {
+    "word_a": "مېنىڭ",
+    "word_b": "silerge",
+    "token_a": "▁مې",
+    "token_b": "▁si",
+    "logit_a": 17.69353675842285,
+    "logit_b": 23.412260055541992,
+    "prefers_a": false
+  },
+  {
+    "word_a": "سىلەرگە",
+    "word_b": "bergen",
+    "token_a": "▁سى",
+    "token_b": "▁bergen",
+    "logit_a": 26.71597671508789,
+    "logit_b": 25.139326095581055,
+    "prefers_a": true
+  },
+  {
+    "word_a": "بەرگەن",
+    "word_b": "némitimni",
+    "token_a": "▁بەرگەن",
+    "token_b": "▁némi",
+    "logit_a": 0.9440104961395264,
+    "logit_b": 6.593869686126709,
+    "prefers_a": false
+  },
+  {
+    "word_a": "نېمىتىمنى",
+    "word_b": "yad",
+    "token_a": "▁",
+    "token_b": "▁ya",
+    "logit_a": 36.16578674316406,
+    "logit_b": 28.51140594482422,
+    "prefers_a": true
+  },
+  {
+    "word_a": "ياد",
+    "word_b": "étinglar،",
+    "token_a": "▁ياد",
+    "token_b": "▁é",
+    "logit_a": 7.956482887268066,
+    "logit_b": 12.12213134765625,
+    "prefers_a": false
+  },
+  {
+    "word_a": "ئېتىڭلار،",
+    "word_b": "(iman",
+    "token_a": "▁ئېتى",
+    "token_b": "▁(",
+    "logit_a": 20.280353546142578,
+    "logit_b": 25.414892196655273,
+    "prefers_a": false
+  },
+  {
+    "word_a": "(ئىمان",
+    "word_b": "éytish",
+    "token_a": "▁(",
+    "token_b": "▁é",
+    "logit_a": 29.73382568359375,
+    "logit_b": 19.983217239379883,
+    "prefers_a": true
+  },
+  {
+    "word_a": "ئېيتىش",
+    "word_b": "ta'et",
+    "token_a": "▁ئېيت",
+    "token_b": "▁ta",
+    "logit_a": 18.328540802001953,
+    "logit_b": 15.289677619934082,
+    "prefers_a": true
+  },
+  {
+    "word_a": "تائەت",
+    "word_b": "ibadet",
+    "token_a": "▁تا",
+    "token_b": "▁i",
+    "logit_a": 20.063796997070312,
+    "logit_b": 18.80128288269043,
+    "prefers_a": true
+  },
+  {
+    "word_a": "ئىبادەت",
+    "word_b": "qilish",
+    "token_a": "▁ئىبادەت",
+    "token_b": "▁qilish",
+    "logit_a": 5.590228080749512,
+    "logit_b": 9.213113784790039,
+    "prefers_a": false
+  },
+  {
+    "word_a": "قىلىش",
+    "word_b": "heqqidiki)",
+    "token_a": "▁قىلىش",
+    "token_b": "▁heq",
+    "logit_a": 7.109283447265625,
+    "logit_b": 2.3216679096221924,
+    "prefers_a": true
+  },
+  {
+    "word_a": "ھەققىدىكى)",
+    "word_b": "wedenglargha",
+    "token_a": "▁ھەق",
+    "token_b": "▁we",
+    "logit_a": 26.791160583496094,
+    "logit_b": 19.127044677734375,
+    "prefers_a": true
+  },
+  {
+    "word_a": "ۋەدەڭلارغا",
+    "word_b": "wapa",
+    "token_a": "▁ۋە",
+    "token_b": "▁wa",
+    "logit_a": 42.078392028808594,
+    "logit_b": 29.05588150024414,
+    "prefers_a": true
+  },
+  {
+    "word_a": "ۋاپا",
+    "word_b": "menmu",
+    "token_a": "▁ۋا",
+    "token_b": "▁men",
+    "logit_a": 17.628902435302734,
+    "logit_b": 15.788015365600586,
+    "prefers_a": true
+  },
+  {
+    "word_a": "مەنمۇ",
+    "word_b": "qilghan",
+    "token_a": "▁مەن",
+    "token_b": "▁qil",
+    "logit_a": 16.999248504638672,
+    "logit_b": 10.928888320922852,
+    "prefers_a": true
+  },
+  {
+    "word_a": "قىلغان",
+    "word_b": "(sawab",
+    "token_a": "▁قىلغان",
+    "token_b": "▁(",
+    "logit_a": 3.687335968017578,
+    "logit_b": 17.336881637573242,
+    "prefers_a": false
+  },
+  {
+    "word_a": "(ساۋاب",
+    "word_b": "bérish",
+    "token_a": "▁(",
+    "token_b": "▁bé",
+    "logit_a": 27.35244369506836,
+    "logit_b": 19.41562843322754,
+    "prefers_a": true
+  },
+  {
+    "word_a": "بېرىش",
+    "word_b": "wedemge",
+    "token_a": "▁بېرىش",
+    "token_b": "▁we",
+    "logit_a": 2.3904614448547363,
+    "logit_b": 9.457198143005371,
+    "prefers_a": false
+  },
+  {
+    "word_a": "ۋەدەمگە",
+    "word_b": "qilimen،",
+    "token_a": "▁ۋە",
+    "token_b": "▁qil",
+    "logit_a": 27.70269775390625,
+    "logit_b": 19.82351303100586,
+    "prefers_a": true
+  },
+  {
+    "word_a": "قىلىمەن،",
+    "word_b": "mendinla",
+    "token_a": "▁قىل",
+    "token_b": "▁mendi",
+    "logit_a": 21.321453094482422,
+    "logit_b": 16.17894744873047,
+    "prefers_a": true
+  },
+  {
+    "word_a": "مەندىنلا",
+    "word_b": "qorqunglar",
+    "token_a": "▁مەن",
+    "token_b": "▁qor",
+    "logit_a": 32.705169677734375,
+    "logit_b": 21.103397369384766,
+    "prefers_a": true
+  },
+  {
+    "word_a": "قورقۇڭلار",
+    "word_b": "oqutush",
+    "token_a": "▁قور",
+    "token_b": "▁o",
+    "logit_a": 20.48116683959961,
+    "logit_b": 25.849483489990234,
+    "prefers_a": false
+  },
+  {
+    "word_a": "ئوقۇتۇش",
+    "word_b": "détalliri",
+    "token_a": "▁ئوقۇ",
+    "token_b": "▁dét",
+    "logit_a": 30.89915657043457,
+    "logit_b": 13.240242004394531,
+    "prefers_a": true
+  },
+  {
+    "word_a": "دېتاللىرى",
+    "word_b": "toplimi",
+    "token_a": "▁دې",
+    "token_b": "▁top",
+    "logit_a": 24.14655113220215,
+    "logit_b": 27.592809677124023,
+    "prefers_a": false
+  },
+  {
+    "word_a": "توپلىمى",
+    "word_b": "gjompris",
+    "token_a": "▁توپ",
+    "token_b": "▁g",
+    "logit_a": 26.665668487548828,
+    "logit_b": 30.231460571289062,
+    "prefers_a": false
+  },
+  {
+    "word_a": "GCompris",
+    "word_b": "arisida:",
+    "token_a": "▁G",
+    "token_b": "▁a",
+    "logit_a": 26.81660270690918,
+    "logit_b": 27.509462356567383,
+    "prefers_a": false
+  },
+  {
+    "word_a": "ئارىسىدا:",
+    "word_b": "«manga",
+    "token_a": "▁ئار",
+    "token_b": "▁«",
+    "logit_a": 36.668067932128906,
+    "logit_b": 36.52490997314453,
+    "prefers_a": true
+  },
+  {
+    "word_a": "«ماڭا",
+    "word_b": "qélishimgha)",
+    "token_a": "▁«",
+    "token_b": "▁q",
+    "logit_a": 21.787351608276367,
+    "logit_b": 14.883203506469727,
+    "prefers_a": true
+  },
+  {
+    "word_a": "قېلىشىمغا)",
+    "word_b": "ruxset",
+    "token_a": "▁قېلىش",
+    "token_b": "▁ru",
+    "logit_a": 18.402498245239258,
+    "logit_b": 17.988304138183594,
+    "prefers_a": true
+  },
+  {
+    "word_a": "رۇخسەت",
+    "word_b": "qilghin،",
+    "token_a": "▁",
+    "token_b": "▁qil",
+    "logit_a": 35.96470642089844,
+    "logit_b": 17.03969383239746,
+    "prefers_a": true
+  },
+  {
+    "word_a": "قىلغىن،",
+    "word_b": "méni",
+    "token_a": "▁قىل",
+    "token_b": "▁mé",
+    "logit_a": 27.437530517578125,
+    "logit_b": 19.74637222290039,
+    "prefers_a": true
+  },
+  {
+    "word_a": "مېنى",
+    "word_b": "balagha",
+    "token_a": "▁مې",
+    "token_b": "▁bala",
+    "logit_a": 15.379132270812988,
+    "logit_b": 19.637571334838867,
+    "prefers_a": false
+  },
+  {
+    "word_a": "بالاغا",
+    "word_b": "giriptar",
+    "token_a": "▁بالا",
+    "token_b": "▁gir",
+    "logit_a": 24.111940383911133,
+    "logit_b": 13.732799530029297,
+    "prefers_a": true
+  },
+  {
+    "word_a": "گىرىپتار",
+    "word_b": "qilmighin",
+    "token_a": "▁گ",
+    "token_b": "▁qil",
+    "logit_a": 29.362083435058594,
+    "logit_b": 19.520761489868164,
+    "prefers_a": true
+  },
+  {
+    "word_a": "قىلمىغىن",
+    "word_b": "rumning",
+    "token_a": "▁قىل",
+    "token_b": "▁rum",
+    "logit_a": 30.425207138061523,
+    "logit_b": 25.874448776245117,
+    "prefers_a": true
+  },
+  {
+    "word_a": "رۇمنىڭ",
+    "word_b": "ayalliri",
+    "token_a": "▁ر",
+    "token_b": "▁ay",
+    "logit_a": 25.359649658203125,
+    "logit_b": 23.583810806274414,
+    "prefers_a": true
+  },
+  {
+    "word_a": "ئاياللىرى",
+    "word_b": "bilen",
+    "token_a": "▁ئايال",
+    "token_b": "▁bilen",
+    "logit_a": 18.487422943115234,
+    "logit_b": 23.376495361328125,
+    "prefers_a": false
+  },
+  {
+    "word_a": "بىلەن",
+    "word_b": "gunah",
+    "token_a": "▁بىلەن",
+    "token_b": "▁guna",
+    "logit_a": 7.3970866203308105,
+    "logit_b": 6.47064733505249,
+    "prefers_a": true
+  },
+  {
+    "word_a": "گۇناھ",
+    "word_b": "qilip",
+    "token_a": "▁گۇناھ",
+    "token_b": "▁qil",
+    "logit_a": 3.78741455078125,
+    "logit_b": 5.3399834632873535,
+    "prefers_a": false
+  },
+  {
+    "word_a": "قىلىپ",
+    "word_b": "sélishimgha",
+    "token_a": "▁قىلىپ",
+    "token_b": "▁sé",
+    "logit_a": 1.2785989046096802,
+    "logit_b": 9.7931547164917,
+    "prefers_a": false
+  },
+  {
+    "word_a": "سېلىشىمغا",
+    "word_b": "sewebchi",
+    "token_a": "▁سېلىش",
+    "token_b": "▁se",
+    "logit_a": 22.866744995117188,
+    "logit_b": 21.9140625,
+    "prefers_a": true
+  },
+  {
+    "word_a": "سەۋەبچى",
+    "word_b": "bolmighin)»",
+    "token_a": "▁سەۋەب",
+    "token_b": "▁bol",
+    "logit_a": 14.673027992248535,
+    "logit_b": 15.859525680541992,
+    "prefers_a": false
+  },
+  {
+    "word_a": "بولمىغىن)»",
+    "word_b": "dégüchilermu",
+    "token_a": "▁بول",
+    "token_b": "▁dé",
+    "logit_a": 31.902420043945312,
+    "logit_b": 22.749061584472656,
+    "prefers_a": true
+  },
+  {
+    "word_a": "دېگۈچىلەرمۇ",
+    "word_b": "bar.",
+    "token_a": "▁دې",
+    "token_b": "▁bar",
+    "logit_a": 41.558406829833984,
+    "logit_b": 25.979787826538086,
+    "prefers_a": true
+  },
+  {
+    "word_a": "بار.",
+    "word_b": "emelde",
+    "token_a": "▁بار",
+    "token_b": "▁emel",
+    "logit_a": 14.974390029907227,
+    "logit_b": 13.94156551361084,
+    "prefers_a": true
+  },
+  {
+    "word_a": "ئەمەلدە",
+    "word_b": "ular",
+    "token_a": "▁ئەمەل",
+    "token_b": "▁ular",
+    "logit_a": 15.18432331085205,
+    "logit_b": 14.437298774719238,
+    "prefers_a": true
+  },
+  {
+    "word_a": "ئۇلار",
+    "word_b": "(munapiqliqtin",
+    "token_a": "▁ئۇلار",
+    "token_b": "▁(",
+    "logit_a": 3.63889479637146,
+    "logit_b": 17.336881637573242,
+    "prefers_a": false
+  },
+  {
+    "word_a": "(مۇناپىقلىقتىن",
+    "word_b": "ibaret",
+    "token_a": "▁(",
+    "token_b": "▁iba",
+    "logit_a": 37.60569763183594,
+    "logit_b": 22.606945037841797,
+    "prefers_a": true
+  },
+  {
+    "word_a": "ئىبارەت",
+    "word_b": "chong)",
+    "token_a": "▁ئىبارەت",
+    "token_b": "▁cho",
+    "logit_a": 0.9678211212158203,
+    "logit_b": 10.639976501464844,
+    "prefers_a": false
+  },
+  {
+    "word_a": "چوڭ)",
+    "word_b": "boldi.",
+    "token_a": "▁چوڭ",
+    "token_b": "▁bol",
+    "logit_a": 1.1173492670059204,
+    "logit_b": 11.363988876342773,
+    "prefers_a": false
+  },
+  {
+    "word_a": "بولدى.",
+    "word_b": "shübhisizki،",
+    "token_a": "▁بولدى",
+    "token_b": "▁sh",
+    "logit_a": 7.779342174530029,
+    "logit_b": 22.217260360717773,
+    "prefers_a": false
+  },
+  {
+    "word_a": "شۈبھىسىزكى،",
+    "word_b": "jehennem",
+    "token_a": "▁ش",
+    "token_b": "▁je",
+    "logit_a": 34.042755126953125,
+    "logit_b": 21.451732635498047,
+    "prefers_a": true
+  },
+  {
+    "word_a": "جەھەننەم",
+    "word_b": "kapirlarni",
+    "token_a": "▁جە",
+    "token_b": "▁kap",
+    "logit_a": 31.69721221923828,
+    "logit_b": 22.344772338867188,
+    "prefers_a": true
+  },
+  {
+    "word_a": "كاپىرلارنى",
+    "word_b": "orap",
+    "token_a": "▁كا",
+    "token_b": "▁o",
+    "logit_a": 25.285289764404297,
+    "logit_b": 30.39033317565918,
+    "prefers_a": false
+  },
+  {
+    "word_a": "ئوراپ",
+    "word_b": "turghuchidur",
+    "token_a": "▁ئور",
+    "token_b": "▁tur",
+    "logit_a": 14.73825740814209,
+    "logit_b": 17.0427303314209,
+    "prefers_a": false
+  },
+  {
+    "word_a": "تۇرغۇچىدۇر",
+    "word_b": "özining",
+    "token_a": "▁تۇر",
+    "token_b": "▁öz",
+    "logit_a": 19.29728889465332,
+    "logit_b": 23.846994400024414,
+    "prefers_a": false
+  },
+  {
+    "word_a": "ئۆزىنىڭ",
+    "word_b": "hemrahi",
+    "token_a": "▁ئۆزىنىڭ",
+    "token_b": "▁hem",
+    "logit_a": 4.282516956329346,
+    "logit_b": 11.76545524597168,
+    "prefers_a": false
+  },
+  {
+    "word_a": "ھەمراھى",
+    "word_b": "muhemmed",
+    "token_a": "▁ھەم",
+    "token_b": "▁mu",
+    "logit_a": 21.969680786132812,
+    "logit_b": 17.870939254760742,
+    "prefers_a": true
+  },
+  {
+    "word_a": "مۇھەممەد",
+    "word_b": "eleyhissalam)",
+    "token_a": "▁مۇھەممەد",
+    "token_b": "▁e",
+    "logit_a": 5.835410118103027,
+    "logit_b": 14.706262588500977,
+    "prefers_a": false
+  },
+  {
+    "word_a": "ئەلەيھىسسالام)",
+    "word_b": "ning",
+    "token_a": "▁",
+    "token_b": "▁ning",
+    "logit_a": 28.81321144104004,
+    "logit_b": 22.065406799316406,
+    "prefers_a": true
+  },
+  {
+    "word_a": "نىڭ",
+    "word_b": "mejnun",
+    "token_a": "▁",
+    "token_b": "▁mej",
+    "logit_a": 27.407432556152344,
+    "logit_b": 17.339366912841797,
+    "prefers_a": true
+  },
+  {
+    "word_a": "مەجنۇن",
+    "word_b": "emeslikini",
+    "token_a": "▁مە",
+    "token_b": "▁em",
+    "logit_a": 23.816226959228516,
+    "logit_b": 19.88148307800293,
+    "prefers_a": true
+  },
+  {
+    "word_a": "ئەمەسلىكىنى",
+    "word_b": "oylimamdu؟",
+    "token_a": "▁ئەمەس",
+    "token_b": "▁o",
+    "logit_a": 18.341201782226562,
+    "logit_b": 29.48997688293457,
+    "prefers_a": false
+  },
+  {
+    "word_a": "ئويلىمامدۇ؟",
+    "word_b": "ashkara",
+    "token_a": "▁ئوي",
+    "token_b": "▁a",
+    "logit_a": 30.45578956604004,
+    "logit_b": 29.579090118408203,
+    "prefers_a": true
+  },
+  {
+    "word_a": "ئۇ",
+    "word_b": "agahlandurghuchidur",
+    "token_a": "▁ئۇ",
+    "token_b": "▁a",
+    "logit_a": 7.902079105377197,
+    "logit_b": 17.6754150390625,
+    "prefers_a": false
+  },
+  {
+    "word_a": "ئاشكارا",
+    "word_b": "asman",
+    "token_a": "▁ئاشكار",
+    "token_b": "▁as",
+    "logit_a": 12.83796215057373,
+    "logit_b": 19.51906394958496,
+    "prefers_a": false
+  },
+  {
+    "word_a": "ئاگاھلاندۇرغۇچىدۇر",
+    "word_b": "zémindiki",
+    "token_a": "▁ئا",
+    "token_b": "▁z",
+    "logit_a": 34.52056121826172,
+    "logit_b": 27.682903289794922,
+    "prefers_a": true
+  },
+  {
+    "word_a": "ئاسمان",
+    "word_b": "héch",
+    "token_a": "▁ئاس",
+    "token_b": "▁hé",
+    "logit_a": 9.248054504394531,
+    "logit_b": 10.504104614257812,
+    "prefers_a": false
+  },
+  {
+    "word_a": "زېمىندىكى",
+    "word_b": "nerse",
+    "token_a": "▁زېمىن",
+    "token_b": "▁ne",
+    "logit_a": 12.652935028076172,
+    "logit_b": 23.399951934814453,
+    "prefers_a": false
+  },
+  {
+    "word_a": "ھېچ",
+    "word_b": "qa",
+    "token_a": "▁ھېچ",
+    "token_b": "▁qa",
+    "logit_a": 2.421384811401367,
+    "logit_b": 8.05869197845459,
+    "prefers_a": false
+  },
+  {
+    "word_a": "نەرسە",
+    "word_b": "mexpiy",
+    "token_a": "▁نە",
+    "token_b": "▁me",
+    "logit_a": 28.66878890991211,
+    "logit_b": 17.81052589416504,
+    "prefers_a": true
+  },
+  {
+    "word_a": "قا",
+    "word_b": "emes",
+    "token_a": "▁قا",
+    "token_b": "▁em",
+    "logit_a": 2.9741125106811523,
+    "logit_b": 10.90074634552002,
+    "prefers_a": false
+  },
+  {
+    "word_a": "مەخپىي",
+    "word_b": "özlirini",
+    "token_a": "▁مە",
+    "token_b": "▁öz",
+    "logit_a": 27.643465042114258,
+    "logit_b": 25.484256744384766,
+    "prefers_a": true
+  },
+  {
+    "word_a": "ئەمەس",
+    "word_b": "pak",
+    "token_a": "▁ئەمەس",
+    "token_b": "▁pak",
+    "logit_a": 1.3617280721664429,
+    "logit_b": 10.911279678344727,
+    "prefers_a": false
+  },
+  {
+    "word_a": "ئۆزلىرىنى",
+    "word_b": "dep",
+    "token_a": "▁ئۆز",
+    "token_b": "▁de",
+    "logit_a": 22.47748565673828,
+    "logit_b": 27.731552124023438,
+    "prefers_a": false
+  },
+  {
+    "word_a": "پاك",
+    "word_b": "qaraydighanlar",
+    "token_a": "▁پاك",
+    "token_b": "▁qara",
+    "logit_a": 5.407835006713867,
+    "logit_b": 9.95562744140625,
+    "prefers_a": false
+  },
+  {
+    "word_a": "دەپ",
+    "word_b": "teqwadarliq",
+    "token_a": "▁دەپ",
+    "token_b": "▁te",
+    "logit_a": 3.9428842067718506,
+    "logit_b": 10.74860954284668,
+    "prefers_a": false
+  },
+  {
+    "word_a": "قارايدىغانلار",
+    "word_b": "medhiyileydighanlarni)",
+    "token_a": "▁قارا",
+    "token_b": "▁med",
+    "logit_a": 36.641849517822266,
+    "logit_b": 20.603721618652344,
+    "prefers_a": true
+  },
+  {
+    "word_a": "تەقۋادارلىق",
+    "word_b": "körmidingmu؟",
+    "token_a": "▁تە",
+    "token_b": "▁kör",
+    "logit_a": 34.97435760498047,
+    "logit_b": 23.876766204833984,
+    "prefers_a": true
+  },
+  {
+    "word_a": "مەدھىيىلەيدىغانلارنى)",
+    "word_b": "undaq",
+    "token_a": "▁مە",
+    "token_b": "▁und",
+    "logit_a": 31.05230712890625,
+    "logit_b": 23.159555435180664,
+    "prefers_a": true
+  },
+  {
+    "word_a": "كۆرمىدىڭمۇ؟",
+    "word_b": "ish",
+    "token_a": "▁كۆر",
+    "token_b": "▁ish",
+    "logit_a": 29.73130226135254,
+    "logit_b": 24.1776180267334,
+    "prefers_a": true
+  },
+  {
+    "word_a": "ئۇنداق",
+    "word_b": "déginidek",
+    "token_a": "▁ئۇنداق",
+    "token_b": "▁dé",
+    "logit_a": 3.1955692768096924,
+    "logit_b": 9.826238632202148,
+    "prefers_a": false
+  },
+  {
+    "word_a": "ئىش",
+    "word_b": "emes)،",
+    "token_a": "▁ئىش",
+    "token_b": "▁em",
+    "logit_a": 2.3973617553710938,
+    "logit_b": 10.90074634552002,
+    "prefers_a": false
+  },
+  {
+    "word_a": "دېگىنىدەك",
+    "word_b": "xalighan",
+    "token_a": "▁دې",
+    "token_b": "▁xa",
+    "logit_a": 35.43861389160156,
+    "logit_b": 24.364686965942383,
+    "prefers_a": true
+  },
+  {
+    "word_a": "ئەمەس)،",
+    "word_b": "bendisini",
+    "token_a": "▁ئەمەس",
+    "token_b": "▁bendi",
+    "logit_a": 6.369423866271973,
+    "logit_b": 11.616585731506348,
+    "prefers_a": false
+  },
+  {
+    "word_a": "خالىغان",
+    "word_b": "qilidu،",
+    "token_a": "▁خا",
+    "token_b": "▁qil",
+    "logit_a": 21.663127899169922,
+    "logit_b": 17.76779556274414,
+    "prefers_a": true
+  },
+  {
+    "word_a": "بەندىسىنى",
+    "word_b": "qilchilikmu",
+    "token_a": "▁ب",
+    "token_b": "▁qil",
+    "logit_a": 33.37397003173828,
+    "logit_b": 20.506162643432617,
+    "prefers_a": true
+  },
+  {
+    "word_a": "قىلىدۇ،",
+    "word_b": "zulum",
+    "token_a": "▁قىلىدۇ",
+    "token_b": "▁zu",
+    "logit_a": 7.552234649658203,
+    "logit_b": 8.53609848022461,
+    "prefers_a": false
+  },
+  {
+    "word_a": "قىلچىلىكمۇ",
+    "word_b": "qilinmaydu",
+    "token_a": "▁قىل",
+    "token_b": "▁qilin",
+    "logit_a": 29.212556838989258,
+    "logit_b": 11.96955680847168,
+    "prefers_a": true
+  },
+  {
+    "word_a": "زۇلۇم",
+    "word_b": "shu",
+    "token_a": "▁ز",
+    "token_b": "▁shu",
+    "logit_a": 30.413646697998047,
+    "logit_b": 22.717243194580078,
+    "prefers_a": true
+  },
+  {
+    "word_a": "قىلىنمايدۇ",
+    "word_b": "yamghur",
+    "token_a": "▁قىلىن",
+    "token_b": "▁ya",
+    "logit_a": 8.58382797241211,
+    "logit_b": 18.328197479248047,
+    "prefers_a": false
+  },
+  {
+    "word_a": "شۇ",
+    "word_b": "xorma",
+    "token_a": "▁شۇ",
+    "token_b": "▁xor",
+    "logit_a": 0.555160641670227,
+    "logit_b": 6.450559139251709,
+    "prefers_a": false
+  },
+  {
+    "word_a": "يامغۇر",
+    "word_b": "baghchiliri",
+    "token_a": "▁",
+    "token_b": "▁bag",
+    "logit_a": 28.796215057373047,
+    "logit_b": 18.848773956298828,
+    "prefers_a": true
+  },
+  {
+    "word_a": "خورما",
+    "word_b": "üzüm",
+    "token_a": "▁خور",
+    "token_b": "▁üzü",
+    "logit_a": 9.614235877990723,
+    "logit_b": 9.415262222290039,
+    "prefers_a": true
+  },
+  {
+    "word_a": "باغچىلىرى",
+    "word_b": "baghchilirini",
+    "token_a": "▁باغ",
+    "token_b": "▁bag",
+    "logit_a": 18.42145538330078,
+    "logit_b": 17.537399291992188,
+    "prefers_a": true
+  },
+  {
+    "word_a": "ئۈزۈم",
+    "word_b": "yétishtürüp",
+    "token_a": "▁ئۈز",
+    "token_b": "▁y",
+    "logit_a": 14.047638893127441,
+    "logit_b": 22.728906631469727,
+    "prefers_a": false
+  },
+  {
+    "word_a": "باغچىلىرىنى",
+    "word_b": "berduq،",
+    "token_a": "▁باغ",
+    "token_b": "▁ber",
+    "logit_a": 28.49152183532715,
+    "logit_b": 22.281980514526367,
+    "prefers_a": true
+  },
+  {
+    "word_a": "يېتىشتۈرۈپ",
+    "word_b": "siler",
+    "token_a": "▁يېتىش",
+    "token_b": "▁si",
+    "logit_a": 27.682579040527344,
+    "logit_b": 18.312313079833984,
+    "prefers_a": true
+  },
+  {
+    "word_a": "بەردۇق،",
+    "word_b": "baghlarda",
+    "token_a": "▁بەر",
+    "token_b": "▁bag",
+    "logit_a": 17.200448989868164,
+    "logit_b": 19.573139190673828,
+    "prefers_a": false
+  },
+  {
+    "word_a": "سىلەر",
+    "word_b": "nurghun",
+    "token_a": "▁",
+    "token_b": "▁nur",
+    "logit_a": 27.892086029052734,
+    "logit_b": 20.169435501098633,
+    "prefers_a": true
+  },
+  {
+    "word_a": "باغلاردا",
+    "word_b": "méwiler",
+    "token_a": "▁باغ",
+    "token_b": "▁mé",
+    "logit_a": 21.258384704589844,
+    "logit_b": 20.124143600463867,
+    "prefers_a": true
+  },
+  {
+    "word_a": "نۇرغۇن",
+    "word_b": "bar،",
+    "token_a": "▁نۇرغۇن",
+    "token_b": "▁bar",
+    "logit_a": 1.5352580547332764,
+    "logit_b": 14.404930114746094,
+    "prefers_a": false
+  },
+  {
+    "word_a": "مېۋىلەر",
+    "word_b": "yeysiler",
+    "token_a": "▁مې",
+    "token_b": "▁y",
+    "logit_a": 27.86768341064453,
+    "logit_b": 25.921161651611328,
+    "prefers_a": true
+  },
+  {
+    "word_a": "بار،",
+    "word_b": "(ene",
+    "token_a": "▁بار",
+    "token_b": "▁(",
+    "logit_a": 13.520512580871582,
+    "logit_b": 17.79515266418457,
+    "prefers_a": false
+  },
+  {
+    "word_a": "يەيسىلەر",
+    "word_b": "shular)",
+    "token_a": "▁ي",
+    "token_b": "▁shu",
+    "logit_a": 27.17573356628418,
+    "logit_b": 20.776561737060547,
+    "prefers_a": true
+  },
+  {
+    "word_a": "(ئەنە",
+    "word_b": "perwerdigaringning",
+    "token_a": "▁(",
+    "token_b": "▁per",
+    "logit_a": 27.90648078918457,
+    "logit_b": 16.117515563964844,
+    "prefers_a": true
+  },
+  {
+    "word_a": "شۇلار)",
+    "word_b": "mukapati،",
+    "token_a": "▁شۇ",
+    "token_b": "▁muka",
+    "logit_a": 9.839868545532227,
+    "logit_b": 16.074247360229492,
+    "prefers_a": false
+  },
+  {
+    "word_a": "پەرۋەردىگارىڭنىڭ",
+    "word_b": "yéterlik",
+    "token_a": "▁",
+    "token_b": "▁y",
+    "logit_a": 36.958221435546875,
+    "logit_b": 29.064456939697266,
+    "prefers_a": true
+  },
+  {
+    "word_a": "مۇكاپاتى،",
+    "word_b": "atasidur",
+    "token_a": "▁مۇكاپات",
+    "token_b": "▁atas",
+    "logit_a": 13.666501998901367,
+    "logit_b": 18.60920524597168,
+    "prefers_a": false
+  },
+  {
+    "word_a": "يېتەرلىك",
+    "word_b": "(peyghemberlerni",
+    "token_a": "▁يې",
+    "token_b": "▁(",
+    "logit_a": 22.61071014404297,
+    "logit_b": 28.538047790527344,
+    "prefers_a": false
+  },
+  {
+    "word_a": "ئاتاسىدۇر",
+    "word_b": "inkar",
+    "token_a": "▁ئاتا",
+    "token_b": "▁in",
+    "logit_a": 32.381465911865234,
+    "logit_b": 25.26282501220703,
+    "prefers_a": true
+  },
+  {
+    "word_a": "(پەيغەمبەرلەرنى",
+    "word_b": "qilishni)",
+    "token_a": "▁(",
+    "token_b": "▁qilish",
+    "logit_a": 37.96636199951172,
+    "logit_b": 15.807170867919922,
+    "prefers_a": true
+  },
+  {
+    "word_a": "ئىنكار",
+    "word_b": "bir",
+    "token_a": "▁ئىن",
+    "token_b": "▁bir",
+    "logit_a": 14.542757034301758,
+    "logit_b": 21.43466567993164,
+    "prefers_a": false
+  },
+  {
+    "word_a": "قىلىشنى)",
+    "word_b": "birige",
+    "token_a": "▁قىلىش",
+    "token_b": "▁bir",
+    "logit_a": 14.18328857421875,
+    "logit_b": 19.158723831176758,
+    "prefers_a": false
+  },
+  {
+    "word_a": "بىر",
+    "word_b": "tewsiye",
+    "token_a": "▁بىر",
+    "token_b": "▁te",
+    "logit_a": 4.977181434631348,
+    "logit_b": 10.74860954284668,
+    "prefers_a": false
+  },
+  {
+    "word_a": "بىرىگە",
+    "word_b": "qilishqanmu؟",
+    "token_a": "▁بىر",
+    "token_b": "▁qilish",
+    "logit_a": 20.662126541137695,
+    "logit_b": 14.505077362060547,
+    "prefers_a": true
+  },
+  {
+    "word_a": "تەۋسىيە",
+    "word_b": "hergiz",
+    "token_a": "▁ت",
+    "token_b": "▁her",
+    "logit_a": 22.65345001220703,
+    "logit_b": 20.96615982055664,
+    "prefers_a": true
+  },
+  {
+    "word_a": "قىلىشقانمۇ؟",
+    "word_b": "qilishqan",
+    "token_a": "▁قىلىشقا",
+    "token_b": "▁qilish",
+    "logit_a": 28.900171279907227,
+    "logit_b": 16.690948486328125,
+    "prefers_a": true
+  },
+  {
+    "word_a": "ھەرگىز",
+    "word_b": "emes)",
+    "token_a": "▁ھەر",
+    "token_b": "▁em",
+    "logit_a": 24.25058364868164,
+    "logit_b": 21.17125701904297,
+    "prefers_a": true
+  },
+  {
+    "word_a": "قىلىشقان",
+    "word_b": "heddidin",
+    "token_a": "▁قىلىشقا",
+    "token_b": "▁he",
+    "logit_a": 11.308980941772461,
+    "logit_b": 16.29058837890625,
+    "prefers_a": false
+  },
+  {
+    "word_a": "ئەمەس)",
+    "word_b": "ashquchi",
+    "token_a": "▁ئەمەس",
+    "token_b": "▁a",
+    "logit_a": 3.5947303771972656,
+    "logit_b": 18.192462921142578,
+    "prefers_a": false
+  },
+  {
+    "word_a": "ھەددىدىن",
+    "word_b": "qewmdur",
+    "token_a": "▁ھە",
+    "token_b": "▁qe",
+    "logit_a": 22.319124221801758,
+    "logit_b": 20.720760345458984,
+    "prefers_a": true
+  },
+  {
+    "word_a": "ئاشقۇچى",
+    "word_b": "asmanlardiki",
+    "token_a": "▁ئاش",
+    "token_b": "▁as",
+    "logit_a": 31.381685256958008,
+    "logit_b": 28.144224166870117,
+    "prefers_a": true
+  },
+  {
+    "word_a": "قەۋمدۇر",
+    "word_b": "nersilerni",
+    "token_a": "▁ق",
+    "token_b": "▁ne",
+    "logit_a": 31.061351776123047,
+    "logit_b": 21.90106201171875,
+    "prefers_a": true
+  },
+  {
+    "word_a": "ئاسمانلاردىكى",
+    "word_b": "bilip",
+    "token_a": "▁ئاس",
+    "token_b": "▁bili",
+    "logit_a": 29.979446411132812,
+    "logit_b": 22.81175994873047,
+    "prefers_a": true
+  },
+  {
+    "word_a": "نەرسىلەرنى",
+    "word_b": "turidu،",
+    "token_a": "▁نەرسى",
+    "token_b": "▁turi",
+    "logit_a": 19.825313568115234,
+    "logit_b": 23.499839782714844,
+    "prefers_a": false
+  },
+  {
+    "word_a": "بىلىپ",
+    "word_b": "(niyetliringlardin،",
+    "token_a": "▁ب",
+    "token_b": "▁(",
+    "logit_a": 22.00583267211914,
+    "logit_b": 22.089414596557617,
+    "prefers_a": false
+  },
+  {
+    "word_a": "تۇرىدۇ،",
+    "word_b": "emelliringlardin)",
+    "token_a": "▁تۇر",
+    "token_b": "▁emel",
+    "logit_a": 16.465627670288086,
+    "logit_b": 18.787487030029297,
+    "prefers_a": false
+  },
+  {
+    "word_a": "(نىيەتلىرىڭلاردىن،",
+    "word_b": "yoshurghanliringlarni",
+    "token_a": "▁(",
+    "token_b": "▁yosh",
+    "logit_a": 38.557762145996094,
+    "logit_b": 22.1905517578125,
+    "prefers_a": true
+  },
+  {
+    "word_a": "ئەمەللىرىڭلاردىن)",
+    "word_b": "ashkarilighanliringlarni",
+    "token_a": "▁ئەمەل",
+    "token_b": "▁a",
+    "logit_a": 19.843631744384766,
+    "logit_b": 30.515506744384766,
+    "prefers_a": false
+  },
+  {
+    "word_a": "يوشۇرغانلىرىڭلارنى",
+    "word_b": "dillardiki",
+    "token_a": "▁يو",
+    "token_b": "▁d",
+    "logit_a": 34.579124450683594,
+    "logit_b": 29.147727966308594,
+    "prefers_a": true
+  },
+  {
+    "word_a": "ئاشكارىلىغانلىرىڭلارنى",
+    "word_b": "sirlarni",
+    "token_a": "▁ئاشكار",
+    "token_b": "▁sir",
+    "logit_a": 34.6346435546875,
+    "logit_b": 25.034074783325195,
+    "prefers_a": true
+  },
+  {
+    "word_a": "دىللاردىكى",
+    "word_b": "bilgüchidur",
+    "token_a": "▁د",
+    "token_b": "▁bil",
+    "logit_a": 34.92290115356445,
+    "logit_b": 20.66070556640625,
+    "prefers_a": true
+  },
+  {
+    "word_a": "سىرلارنى",
+    "word_b": "sen",
+    "token_a": "▁",
+    "token_b": "▁sen",
+    "logit_a": 34.11396408081055,
+    "logit_b": 29.499042510986328,
+    "prefers_a": true
+  },
+  {
+    "word_a": "بىلگۈچىدۇر",
+    "word_b": "hidayet",
+    "token_a": "▁بىل",
+    "token_b": "▁hi",
+    "logit_a": 32.604129791259766,
+    "logit_b": 24.774660110473633,
+    "prefers_a": true
+  },
+  {
+    "word_a": "سەن",
+    "word_b": "tipishigha",
+    "token_a": "▁",
+    "token_b": "▁tip",
+    "logit_a": 23.187984466552734,
+    "logit_b": 14.373418807983398,
+    "prefers_a": true
+  },
+  {
+    "word_a": "ھىدايەت",
+    "word_b": "héris",
+    "token_a": "▁ھ",
+    "token_b": "▁hér",
+    "logit_a": 29.359153747558594,
+    "logit_b": 20.711074829101562,
+    "prefers_a": true
+  },
+  {
+    "word_a": "تىپىشىغا",
+    "word_b": "bolsangmu،",
+    "token_a": "▁",
+    "token_b": "▁bolsa",
+    "logit_a": 33.462520599365234,
+    "logit_b": 18.565753936767578,
+    "prefers_a": true
+  },
+  {
+    "word_a": "ھېرىس",
+    "word_b": "özi",
+    "token_a": "▁ھ",
+    "token_b": "▁öz",
+    "logit_a": 27.266189575195312,
+    "logit_b": 22.164749145507812,
+    "prefers_a": true
+  },
+  {
+    "word_a": "بولساڭمۇ،",
+    "word_b": "gumrah",
+    "token_a": "▁بولسا",
+    "token_b": "▁gum",
+    "logit_a": 28.790172576904297,
+    "logit_b": 16.452058792114258,
+    "prefers_a": true
+  },
+  {
+    "word_a": "ئۆزى",
+    "word_b": "kishini",
+    "token_a": "▁ئۆزى",
+    "token_b": "▁kishin",
+    "logit_a": -0.6726402044296265,
+    "logit_b": 4.514501094818115,
+    "prefers_a": false
+  },
+  {
+    "word_a": "گۇمراھ",
+    "word_b": "qilmaydu،",
+    "token_a": "▁گ",
+    "token_b": "▁qil",
+    "logit_a": 24.00029182434082,
+    "logit_b": 15.211535453796387,
+    "prefers_a": true
+  },
+  {
+    "word_a": "كىشىنى",
+    "word_b": "ularni",
+    "token_a": "▁كىشى",
+    "token_b": "▁ularni",
+    "logit_a": 15.088708877563477,
+    "logit_b": 11.309290885925293,
+    "prefers_a": true
+  },
+  {
+    "word_a": "قىلمايدۇ،",
+    "word_b": "(aﷲ",
+    "token_a": "▁قىل",
+    "token_b": "▁(",
+    "logit_a": 13.987491607666016,
+    "logit_b": 26.299591064453125,
+    "prefers_a": false
+  },
+  {
+    "word_a": "ئۇلارنى",
+    "word_b": "azabidin",
+    "token_a": "▁ئۇلارنى",
+    "token_b": "▁az",
+    "logit_a": 3.0116167068481445,
+    "logit_b": 13.669441223144531,
+    "prefers_a": false
+  },
+  {
+    "word_a": "(اﷲ",
+    "word_b": "qutulduridighan)",
+    "token_a": "▁(",
+    "token_b": "▁qu",
+    "logit_a": 20.547670364379883,
+    "logit_b": 10.836237907409668,
+    "prefers_a": true
+  },
+  {
+    "word_a": "ئازابىدىن",
+    "word_b": "héchqandaq",
+    "token_a": "▁ئاز",
+    "token_b": "▁hé",
+    "logit_a": 25.817705154418945,
+    "logit_b": 21.717777252197266,
+    "prefers_a": true
+  },
+  {
+    "word_a": "قۇتۇلدۇرىدىغان)",
+    "word_b": "medetkar",
+    "token_a": "▁قۇتۇل",
+    "token_b": "▁med",
+    "logit_a": 16.458444595336914,
+    "logit_b": 23.38488006591797,
+    "prefers_a": false
+  },
+  {
+    "word_a": "ھېچقانداق",
+    "word_b": "yoq",
+    "token_a": "▁ھېچ",
+    "token_b": "▁yoq",
+    "logit_a": 19.083232879638672,
+    "logit_b": 10.832721710205078,
+    "prefers_a": true
+  },
+  {
+    "word_a": "مەدەتكار",
+    "word_b": "(i",
+    "token_a": "▁م",
+    "token_b": "▁(",
+    "logit_a": 30.377540588378906,
+    "logit_b": 27.269371032714844,
+    "prefers_a": true
+  },
+  {
+    "word_a": "يوق",
+    "word_b": "muhemmed!",
+    "token_a": "▁يوق",
+    "token_b": "▁mu",
+    "logit_a": 5.549178600311279,
+    "logit_b": 14.89439582824707,
+    "prefers_a": false
+  },
+  {
+    "word_a": "(ئى",
+    "word_b": "bu",
+    "token_a": "▁(",
+    "token_b": "▁bu",
+    "logit_a": 22.77690315246582,
+    "logit_b": 15.672590255737305,
+    "prefers_a": true
+  },
+  {
+    "word_a": "مۇھەممەد!",
+    "word_b": "mushriklargha)",
+    "token_a": "▁مۇھەممەد",
+    "token_b": "▁mush",
+    "logit_a": 8.120514869689941,
+    "logit_b": 9.633800506591797,
+    "prefers_a": false
+  },
+  {
+    "word_a": "بۇ",
+    "word_b": "éytqinki،",
+    "token_a": "▁بۇ",
+    "token_b": "▁é",
+    "logit_a": 3.2110190391540527,
+    "logit_b": 12.12213134765625,
+    "prefers_a": false
+  },
+  {
+    "word_a": "مۇشرىكلارغا)",
+    "word_b": "«perwerdigarim",
+    "token_a": "▁م",
+    "token_b": "▁«",
+    "logit_a": 31.7889347076416,
+    "logit_b": 34.75080871582031,
+    "prefers_a": false
+  },
+  {
+    "word_a": "ئېيتقىنكى،",
+    "word_b": "toghra",
+    "token_a": "▁ئېيت",
+    "token_b": "▁tog",
+    "logit_a": 28.032119750976562,
+    "logit_b": 23.302833557128906,
+    "prefers_a": true
+  },
+  {
+    "word_a": "«پەرۋەردىگارىم",
+    "word_b": "yolgha",
+    "token_a": "▁«",
+    "token_b": "▁yol",
+    "logit_a": 46.4542236328125,
+    "logit_b": 30.409629821777344,
+    "prefers_a": true
+  },
+  {
+    "word_a": "توغرا",
+    "word_b": "yeni",
+    "token_a": "▁توغرا",
+    "token_b": "▁yeni",
+    "logit_a": 2.4332804679870605,
+    "logit_b": 11.313920974731445,
+    "prefers_a": false
+  },
+  {
+    "word_a": "يولغا",
+    "word_b": "din'gha،",
+    "token_a": "▁يولغا",
+    "token_b": "▁din",
+    "logit_a": 0.9367676973342896,
+    "logit_b": 14.431309700012207,
+    "prefers_a": false
+  },
+  {
+    "word_a": "يەنى",
+    "word_b": "batil",
+    "token_a": "▁يەنى",
+    "token_b": "▁bat",
+    "logit_a": -0.335315465927124,
+    "logit_b": 9.829297065734863,
+    "prefers_a": false
+  },
+  {
+    "word_a": "دىنغا،",
+    "word_b": "dinlardin",
+    "token_a": "▁",
+    "token_b": "▁din",
+    "logit_a": 34.702518463134766,
+    "logit_b": 26.553861618041992,
+    "prefers_a": true
+  },
+  {
+    "word_a": "باتىل",
+    "word_b": "din'gha",
+    "token_a": "▁با",
+    "token_b": "▁din",
+    "logit_a": 20.2677001953125,
+    "logit_b": 16.678762435913086,
+    "prefers_a": true
+  },
+  {
+    "word_a": "دىنلاردىن",
+    "word_b": "buralghan",
+    "token_a": "▁",
+    "token_b": "▁bur",
+    "logit_a": 32.0682373046875,
+    "logit_b": 23.398983001708984,
+    "prefers_a": true
+  },
+  {
+    "word_a": "دىنغا",
+    "word_b": "ibrahimning",
+    "token_a": "▁",
+    "token_b": "▁i",
+    "logit_a": 34.588417053222656,
+    "logit_b": 30.858076095581055,
+    "prefers_a": true
+  },
+  {
+    "word_a": "بۇرالغان",
+    "word_b": "dinigha",
+    "token_a": "▁بۇ",
+    "token_b": "▁dini",
+    "logit_a": 28.73586082458496,
+    "logit_b": 20.471712112426758,
+    "prefers_a": true
+  },
+  {
+    "word_a": "ئىبراھىمنىڭ",
+    "word_b": "bashlidi،",
+    "token_a": "▁ئى",
+    "token_b": "▁bas",
+    "logit_a": 38.85052490234375,
+    "logit_b": 24.047107696533203,
+    "prefers_a": true
+  },
+  {
+    "word_a": "دىنىغا",
+    "word_b": "ibrahim",
+    "token_a": "▁",
+    "token_b": "▁i",
+    "logit_a": 38.69483184814453,
+    "logit_b": 33.97630310058594,
+    "prefers_a": true
+  },
+  {
+    "word_a": "باشلىدى،",
+    "word_b": "mushriklardin",
+    "token_a": "▁باش",
+    "token_b": "▁mush",
+    "logit_a": 22.421131134033203,
+    "logit_b": 20.281274795532227,
+    "prefers_a": true
+  },
+  {
+    "word_a": "ئىبراھىم",
+    "word_b": "idi»",
+    "token_a": "▁ئى",
+    "token_b": "▁idi",
+    "logit_a": 35.4213752746582,
+    "logit_b": 23.864727020263672,
+    "prefers_a": true
+  },
+  {
+    "word_a": "مۇشرىكلاردىن",
+    "word_b": "jennette",
+    "token_a": "▁م",
+    "token_b": "▁jen",
+    "logit_a": 34.25377655029297,
+    "logit_b": 21.051101684570312,
+    "prefers_a": true
+  },
+  {
+    "word_a": "ئىدى»",
+    "word_b": "(türlük)",
+    "token_a": "▁ئىدى",
+    "token_b": "▁(",
+    "logit_a": 6.113034725189209,
+    "logit_b": 15.634814262390137,
+    "prefers_a": false
+  },
+  {
+    "word_a": "جەننەتتە",
+    "word_b": "uningdin",
+    "token_a": "▁جە",
+    "token_b": "▁uning",
+    "logit_a": 20.24485206604004,
+    "logit_b": 19.02686882019043,
+    "prefers_a": true
+  },
+  {
+    "word_a": "(تۈرلۈك)",
+    "word_b": "insanni",
+    "token_a": "▁(",
+    "token_b": "▁insan",
+    "logit_a": 29.962512969970703,
+    "logit_b": 15.530405044555664,
+    "prefers_a": true
+  },
+  {
+    "word_a": "ئۇنىڭدىن",
+    "word_b": "ata",
+    "token_a": "▁ئۇنىڭ",
+    "token_b": "▁ata",
+    "logit_a": 22.884767532348633,
+    "logit_b": 21.605152130126953,
+    "prefers_a": true
+  },
+  {
+    "word_a": "ئىنساننى",
+    "word_b": "anisigha",
+    "token_a": "▁ئىنسان",
+    "token_b": "▁ani",
+    "logit_a": 14.547508239746094,
+    "logit_b": 22.177715301513672,
+    "prefers_a": false
+  },
+  {
+    "word_a": "ئاتا",
+    "word_b": "yaxshiliq",
+    "token_a": "▁ئاتا",
+    "token_b": "▁yaxshi",
+    "logit_a": 3.0595016479492188,
+    "logit_b": 7.329616546630859,
+    "prefers_a": false
+  },
+  {
+    "word_a": "ئانىسىغا",
+    "word_b": "qilishqa",
+    "token_a": "▁",
+    "token_b": "▁qilish",
+    "logit_a": 40.27284622192383,
+    "logit_b": 20.931968688964844,
+    "prefers_a": true
+  },
+  {
+    "word_a": "ياخشىلىق",
+    "word_b": "buyruduq،",
+    "token_a": "▁ياخشى",
+    "token_b": "▁buy",
+    "logit_a": 17.40145492553711,
+    "logit_b": 17.421293258666992,
+    "prefers_a": false
+  },
+  {
+    "word_a": "قىلىشقا",
+    "word_b": "anang",
+    "token_a": "▁قىلىشقا",
+    "token_b": "▁an",
+    "logit_a": 3.873809337615967,
+    "logit_b": 14.082950592041016,
+    "prefers_a": false
+  },
+  {
+    "word_a": "بۇيرۇدۇق،",
+    "word_b": "séni",
+    "token_a": "▁بۇ",
+    "token_b": "▁sé",
+    "logit_a": 36.592018127441406,
+    "logit_b": 23.72356414794922,
+    "prefers_a": true
+  },
+  {
+    "word_a": "ئاناڭ",
+    "word_b": "bilmeydighan",
+    "token_a": "▁ئانا",
+    "token_b": "▁bil",
+    "logit_a": 17.415611267089844,
+    "logit_b": 18.316394805908203,
+    "prefers_a": false
+  },
+  {
+    "word_a": "سېنى",
+    "word_b": "nersini",
+    "token_a": "▁سې",
+    "token_b": "▁ner",
+    "logit_a": 17.887170791625977,
+    "logit_b": 18.58774757385254,
+    "prefers_a": false
+  },
+  {
+    "word_a": "بىلمەيدىغان",
+    "word_b": "shérik",
+    "token_a": "▁بىل",
+    "token_b": "▁s",
+    "logit_a": 25.402212142944336,
+    "logit_b": 26.315942764282227,
+    "prefers_a": false
+  },
+  {
+    "word_a": "نەرسىنى",
+    "word_b": "keltürüshke",
+    "token_a": "▁نەرسى",
+    "token_b": "▁kelt",
+    "logit_a": 12.211042404174805,
+    "logit_b": 15.03137493133545,
+    "prefers_a": false
+  },
+  {
+    "word_a": "شېرىك",
+    "word_b": "zorlisa،",
+    "token_a": "▁شې",
+    "token_b": "▁zor",
+    "logit_a": 23.903366088867188,
+    "logit_b": 14.183846473693848,
+    "prefers_a": true
+  },
+  {
+    "word_a": "كەلتۈرۈشكە",
+    "word_b": "qilmighin،",
+    "token_a": "▁كەلتۈر",
+    "token_b": "▁qil",
+    "logit_a": 23.346332550048828,
+    "logit_b": 18.054908752441406,
+    "prefers_a": true
+  },
+  {
+    "word_a": "زورلىسا،",
+    "word_b": "dergahimgha",
+    "token_a": "▁زور",
+    "token_b": "▁der",
+    "logit_a": 29.21592903137207,
+    "logit_b": 23.763885498046875,
+    "prefers_a": true
+  },
+  {
+    "word_a": "قىلمىغىن،",
+    "word_b": "qaytip",
+    "token_a": "▁قىل",
+    "token_b": "▁qay",
+    "logit_a": 26.925500869750977,
+    "logit_b": 19.798063278198242,
+    "prefers_a": true
+  },
+  {
+    "word_a": "دەرگاھىمغا",
+    "word_b": "barisiler،",
+    "token_a": "▁دە",
+    "token_b": "▁bari",
+    "logit_a": 33.59687805175781,
+    "logit_b": 23.0529842376709,
+    "prefers_a": true
+  },
+  {
+    "word_a": "قايتىپ",
+    "word_b": "qimishliringlarni",
+    "token_a": "▁قاي",
+    "token_b": "▁qi",
+    "logit_a": 17.24365997314453,
+    "logit_b": 18.87639808654785,
+    "prefers_a": false
+  },
+  {
+    "word_a": "بارىسىلەر،",
+    "word_b": "xewer",
+    "token_a": "▁بار",
+    "token_b": "▁xe",
+    "logit_a": 23.841102600097656,
+    "logit_b": 22.229700088500977,
+    "prefers_a": true
+  },
+  {
+    "word_a": "قىمىشلىرىڭلارنى",
+    "word_b": "qilimen",
+    "token_a": "▁ق",
+    "token_b": "▁qil",
+    "logit_a": 32.84059143066406,
+    "logit_b": 20.691268920898438,
+    "prefers_a": true
+  },
+  {
+    "word_a": "خەۋەر",
+    "word_b": "(su",
+    "token_a": "▁خەۋەر",
+    "token_b": "▁(",
+    "logit_a": 5.730075836181641,
+    "logit_b": 17.336881637573242,
+    "prefers_a": false
+  },
+  {
+    "word_a": "قىلىمەن",
+    "word_b": "üstide)",
+    "token_a": "▁قىل",
+    "token_b": "▁üst",
+    "logit_a": 15.971053123474121,
+    "logit_b": 16.324520111083984,
+    "prefers_a": false
+  },
+  {
+    "word_a": "(سۇ",
+    "word_b": "yinik",
+    "token_a": "▁(",
+    "token_b": "▁yi",
+    "logit_a": 21.773557662963867,
+    "logit_b": 7.951969146728516,
+    "prefers_a": true
+  },
+  {
+    "word_a": "ئۈستىدە)",
+    "word_b": "mangghuchi",
+    "token_a": "▁ئۈ",
+    "token_b": "▁mang",
+    "logit_a": 28.710281372070312,
+    "logit_b": 16.77107048034668,
+    "prefers_a": true
+  },
+  {
+    "word_a": "يىنىك",
+    "word_b": "kémiler",
+    "token_a": "▁ي",
+    "token_b": "▁kém",
+    "logit_a": 30.33370018005371,
+    "logit_b": 17.28519058227539,
+    "prefers_a": true
+  },
+  {
+    "word_a": "ماڭغۇچى",
+    "word_b": "qesemki،",
+    "token_a": "▁ما",
+    "token_b": "▁qe",
+    "logit_a": 27.677043914794922,
+    "logit_b": 21.554380416870117,
+    "prefers_a": true
+  },
+  {
+    "word_a": "كېمىلەر",
+    "word_b": "buningda",
+    "token_a": "▁كې",
+    "token_b": "▁bu",
+    "logit_a": 24.70669937133789,
+    "logit_b": 20.31517219543457,
+    "prefers_a": true
+  },
+  {
+    "word_a": "قەسەمكى،",
+    "word_b": "elwette",
+    "token_a": "▁ق",
+    "token_b": "▁el",
+    "logit_a": 32.776126861572266,
+    "logit_b": 26.027565002441406,
+    "prefers_a": true
+  },
+  {
+    "word_a": "بۇنىڭدا",
+    "word_b": "(chong)",
+    "token_a": "▁بۇنىڭ",
+    "token_b": "▁(",
+    "logit_a": 13.458788871765137,
+    "logit_b": 21.21390724182129,
+    "prefers_a": false
+  },
+  {
+    "word_a": "ئەلۋەتتە",
+    "word_b": "ibret",
+    "token_a": "▁ئەل",
+    "token_b": "▁i",
+    "logit_a": 24.0738525390625,
+    "logit_b": 25.835058212280273,
+    "prefers_a": false
+  },
+  {
+    "word_a": "(چوڭ)",
+    "word_b": "tolisi",
+    "token_a": "▁(",
+    "token_b": "▁to",
+    "logit_a": 27.518081665039062,
+    "logit_b": 16.174560546875,
+    "prefers_a": true
+  },
+  {
+    "word_a": "ئىبرەت",
+    "word_b": "iman",
+    "token_a": "▁ئى",
+    "token_b": "▁iman",
+    "logit_a": 25.137264251708984,
+    "logit_b": 16.834028244018555,
+    "prefers_a": true
+  },
+  {
+    "word_a": "تولىسى",
+    "word_b": "éytquchilardin",
+    "token_a": "▁",
+    "token_b": "▁é",
+    "logit_a": 30.04022789001465,
+    "logit_b": 21.877288818359375,
+    "prefers_a": true
+  },
+  {
+    "word_a": "ئىمان",
+    "word_b": "bolmidi",
+    "token_a": "▁ئى",
+    "token_b": "▁bol",
+    "logit_a": 14.021695137023926,
+    "logit_b": 12.463255882263184,
+    "prefers_a": true
+  },
+  {
+    "word_a": "ئېيتقۇچىلاردىن",
+    "word_b": "künde،",
+    "token_a": "▁ئېيت",
+    "token_b": "▁k",
+    "logit_a": 18.454174041748047,
+    "logit_b": 28.445262908935547,
+    "prefers_a": false
+  },
+  {
+    "word_a": "بولمىدى",
+    "word_b": "yüzler",
+    "token_a": "▁بول",
+    "token_b": "▁yüz",
+    "logit_a": 20.55942726135254,
+    "logit_b": 13.13868522644043,
+    "prefers_a": true
+  },
+  {
+    "word_a": "كۈندە،",
+    "word_b": "tutuq",
+    "token_a": "▁كۈن",
+    "token_b": "▁tut",
+    "logit_a": 20.97316551208496,
+    "logit_b": 14.926748275756836,
+    "prefers_a": true
+  },
+  {
+    "word_a": "يۈزلەر",
+    "word_b": "bolidu",
+    "token_a": "▁يۈز",
+    "token_b": "▁boli",
+    "logit_a": 13.967855453491211,
+    "logit_b": 17.921491622924805,
+    "prefers_a": false
+  },
+  {
+    "word_a": "تۇتۇق",
+    "word_b": "(xizir)",
+    "token_a": "▁تۇت",
+    "token_b": "▁(",
+    "logit_a": 14.746155738830566,
+    "logit_b": 17.966487884521484,
+    "prefers_a": false
+  },
+  {
+    "word_a": "بولىدۇ",
+    "word_b": "éyitti:",
+    "token_a": "▁بولىدۇ",
+    "token_b": "▁é",
+    "logit_a": 2.9088752269744873,
+    "logit_b": 12.12213134765625,
+    "prefers_a": false
+  },
+  {
+    "word_a": "(خىزىر)",
+    "word_b": "«eger",
+    "token_a": "▁(",
+    "token_b": "▁«",
+    "logit_a": 32.07617950439453,
+    "logit_b": 25.327850341796875,
+    "prefers_a": true
+  },
+  {
+    "word_a": "ئېيىتتى:",
+    "word_b": "egeshseng،",
+    "token_a": "▁ئې",
+    "token_b": "▁eg",
+    "logit_a": 27.512088775634766,
+    "logit_b": 22.422527313232422,
+    "prefers_a": true
+  },
+  {
+    "word_a": "«ئەگەر",
+    "word_b": "(yoluqqan",
+    "token_a": "▁«",
+    "token_b": "▁(",
+    "logit_a": 23.166715621948242,
+    "logit_b": 21.744783401489258,
+    "prefers_a": true
+  },
+  {
+    "word_a": "ئەگەشسەڭ،",
+    "word_b": "toghrisida)",
+    "token_a": "▁ئە",
+    "token_b": "▁to",
+    "logit_a": 33.934242248535156,
+    "logit_b": 25.72710418701172,
+    "prefers_a": true
+  },
+  {
+    "word_a": "(يولۇققان",
+    "word_b": "men",
+    "token_a": "▁(",
+    "token_b": "▁men",
+    "logit_a": 35.11503219604492,
+    "logit_b": 24.06744384765625,
+    "prefers_a": true
+  },
+  {
+    "word_a": "توغرىسىدا)",
+    "word_b": "uni",
+    "token_a": "▁توغرىسىدا",
+    "token_b": "▁uni",
+    "logit_a": 6.517319679260254,
+    "logit_b": 13.012928009033203,
+    "prefers_a": false
+  },
+  {
+    "word_a": "مەن",
+    "word_b": "sözlep",
+    "token_a": "▁مەن",
+    "token_b": "▁söz",
+    "logit_a": 5.098931789398193,
+    "logit_b": 8.127641677856445,
+    "prefers_a": false
+  },
+  {
+    "word_a": "ئۇنى",
+    "word_b": "bergiche",
+    "token_a": "▁ئۇنى",
+    "token_b": "▁berg",
+    "logit_a": 0.17402979731559753,
+    "logit_b": 7.934564113616943,
+    "prefers_a": false
+  },
+  {
+    "word_a": "سۆزلەپ",
+    "word_b": "sorima",
+    "token_a": "▁سۆز",
+    "token_b": "▁so",
+    "logit_a": 19.480939865112305,
+    "logit_b": 23.83743667602539,
+    "prefers_a": false
+  },
+  {
+    "word_a": "بەرگىچە",
+    "word_b": "özüm",
+    "token_a": "▁بەر",
+    "token_b": "▁özü",
+    "logit_a": 11.257165908813477,
+    "logit_b": 14.423646926879883,
+    "prefers_a": false
+  },
+  {
+    "word_a": "سورىما",
+    "word_b": "bermigiche",
+    "token_a": "▁سور",
+    "token_b": "▁ber",
+    "logit_a": 15.757396697998047,
+    "logit_b": 18.328956604003906,
+    "prefers_a": false
+  },
+  {
+    "word_a": "ئۆزۈم",
+    "word_b": "ishlirimdin",
+    "token_a": "▁ئۆز",
+    "token_b": "▁is",
+    "logit_a": 18.206178665161133,
+    "logit_b": 19.129859924316406,
+    "prefers_a": false
+  },
+  {
+    "word_a": "بەرمىگىچە",
+    "word_b": "sorima)»",
+    "token_a": "▁بەر",
+    "token_b": "▁so",
+    "logit_a": 24.274627685546875,
+    "logit_b": 23.448196411132812,
+    "prefers_a": true
+  },
+  {
+    "word_a": "ئىشلىرىمدىن",
+    "word_b": "bérilidighan)",
+    "token_a": "▁ئىشلىرى",
+    "token_b": "▁bér",
+    "logit_a": 29.192142486572266,
+    "logit_b": 16.791648864746094,
+    "prefers_a": true
+  },
+  {
+    "word_a": "سورىما)»",
+    "word_b": "muwapiq",
+    "token_a": "▁سور",
+    "token_b": "▁mu",
+    "logit_a": 20.386825561523438,
+    "logit_b": 18.612499237060547,
+    "prefers_a": true
+  },
+  {
+    "word_a": "بېرىلىدىغان)",
+    "word_b": "jazadur",
+    "token_a": "▁بېرى",
+    "token_b": "▁ja",
+    "logit_a": 23.46328353881836,
+    "logit_b": 16.52399444580078,
+    "prefers_a": true
+  },
+  {
+    "word_a": "مۇۋاپىق",
+    "word_b": "heqni",
+    "token_a": "▁مۇۋاپىق",
+    "token_b": "▁heq",
+    "logit_a": 3.369699716567993,
+    "logit_b": 2.3216679096221924,
+    "prefers_a": true
+  },
+  {
+    "word_a": "جازادۇر",
+    "word_b": "ayriydighan",
+    "token_a": "▁جازا",
+    "token_b": "▁ay",
+    "logit_a": 16.6466121673584,
+    "logit_b": 20.4141845703125,
+    "prefers_a": false
+  },
+  {
+    "word_a": "ھەقنى",
+    "word_b": "insanlarning",
+    "token_a": "▁ھەق",
+    "token_b": "▁insanlar",
+    "logit_a": 15.842113494873047,
+    "logit_b": 14.999576568603516,
+    "prefers_a": true
+  },
+  {
+    "word_a": "ئايرىيدىغان",
+    "word_b": "hemmisining",
+    "token_a": "▁ئايرى",
+    "token_b": "▁hem",
+    "logit_a": 17.122236251831055,
+    "logit_b": 21.82444953918457,
+    "prefers_a": false
+  },
+  {
+    "word_a": "ئىنسانلارنىڭ",
+    "word_b": "(hésabi",
+    "token_a": "▁ئىنسان",
+    "token_b": "▁(",
+    "logit_a": 21.405433654785156,
+    "logit_b": 31.257320404052734,
+    "prefers_a": false
+  },
+  {
+    "word_a": "ھەممىسىنىڭ",
+    "word_b": "üchün)",
+    "token_a": "▁ھەممىسى",
+    "token_b": "▁ü",
+    "logit_a": 15.380844116210938,
+    "logit_b": 24.201904296875,
+    "prefers_a": false
+  },
+  {
+    "word_a": "(ھېسابى",
+    "word_b": "teyinlen'gen",
+    "token_a": "▁(",
+    "token_b": "▁te",
+    "logit_a": 35.91489791870117,
+    "logit_b": 29.420339584350586,
+    "prefers_a": true
+  },
+  {
+    "word_a": "ئۈچۈن)",
+    "word_b": "waqittur",
+    "token_a": "▁ئۈچۈن",
+    "token_b": "▁wa",
+    "logit_a": 6.827503681182861,
+    "logit_b": 11.81691837310791,
+    "prefers_a": false
+  },
+  {
+    "word_a": "تەيىنلەنگەن",
+    "word_b": "sur",
+    "token_a": "▁ت",
+    "token_b": "▁sur",
+    "logit_a": 32.024505615234375,
+    "logit_b": 24.19780158996582,
+    "prefers_a": true
+  },
+  {
+    "word_a": "ۋاقىتتۇر",
+    "word_b": "chélin'ghanda",
+    "token_a": "▁ۋاقىت",
+    "token_b": "▁",
+    "logit_a": 21.663599014282227,
+    "logit_b": 21.181682586669922,
+    "prefers_a": true
+  },
+  {
+    "word_a": "سۇر",
+    "word_b": "xalighandin",
+    "token_a": "▁سۇ",
+    "token_b": "▁xal",
+    "logit_a": 16.51220703125,
+    "logit_b": 10.69226360321045,
+    "prefers_a": true
+  },
+  {
+    "word_a": "چېلىنغاندا",
+    "word_b": "bashqa",
+    "token_a": "▁چې",
+    "token_b": "▁ba",
+    "logit_a": 33.27898406982422,
+    "logit_b": 28.17038917541504,
+    "prefers_a": true
+  },
+  {
+    "word_a": "خالىغاندىن",
+    "word_b": "mexluqatlarning",
+    "token_a": "▁خا",
+    "token_b": "▁me",
+    "logit_a": 33.82884216308594,
+    "logit_b": 28.138568878173828,
+    "prefers_a": true
+  },
+  {
+    "word_a": "باشقا",
+    "word_b": "hemmisi",
+    "token_a": "▁باشقا",
+    "token_b": "▁hem",
+    "logit_a": 2.0217833518981934,
+    "logit_b": 11.76545524597168,
+    "prefers_a": false
+  },
+  {
+    "word_a": "مەخلۇقاتلارنىڭ",
+    "word_b": "ölidu،",
+    "token_a": "▁مە",
+    "token_b": "▁öl",
+    "logit_a": 35.07352828979492,
+    "logit_b": 23.199344635009766,
+    "prefers_a": true
+  },
+  {
+    "word_a": "ھەممىسى",
+    "word_b": "andin",
+    "token_a": "▁ھەممىسى",
+    "token_b": "▁and",
+    "logit_a": 1.736570119857788,
+    "logit_b": 16.074859619140625,
+    "prefers_a": false
+  },
+  {
+    "word_a": "ئۆلىدۇ،",
+    "word_b": "ikkinchi",
+    "token_a": "▁ئۆل",
+    "token_b": "▁ikkinchi",
+    "logit_a": 15.908218383789062,
+    "logit_b": 11.041338920593262,
+    "prefers_a": true
+  },
+  {
+    "word_a": "ئاندىن",
+    "word_b": "qétim",
+    "token_a": "▁ئاندىن",
+    "token_b": "▁q",
+    "logit_a": 3.151026725769043,
+    "logit_b": 9.656740188598633,
+    "prefers_a": false
+  },
+  {
+    "word_a": "ئىككىنچى",
+    "word_b": "nagahan",
+    "token_a": "▁ئىككىنچى",
+    "token_b": "▁nag",
+    "logit_a": 3.9139833450317383,
+    "logit_b": 10.998249053955078,
+    "prefers_a": false
+  },
+  {
+    "word_a": "قېتىم",
+    "word_b": "turup",
+    "token_a": "▁قېتىم",
+    "token_b": "▁tu",
+    "logit_a": 5.631696701049805,
+    "logit_b": 11.292359352111816,
+    "prefers_a": false
+  },
+  {
+    "word_a": "ناگاھان",
+    "word_b": "(némige",
+    "token_a": "▁نا",
+    "token_b": "▁(",
+    "logit_a": 28.113025665283203,
+    "logit_b": 33.11768341064453,
+    "prefers_a": false
+  },
+  {
+    "word_a": "تۇرۇپ",
+    "word_b": "buyrulidighanliqlirigha)",
+    "token_a": "▁تۇرۇپ",
+    "token_b": "▁buy",
+    "logit_a": 4.391796588897705,
+    "logit_b": 9.266972541809082,
+    "prefers_a": false
+  },
+  {
+    "word_a": "(نېمىگە",
+    "word_b": "qarap",
+    "token_a": "▁(",
+    "token_b": "▁qara",
+    "logit_a": 33.53110122680664,
+    "logit_b": 25.328275680541992,
+    "prefers_a": true
+  },
+  {
+    "word_a": "بۇيرۇلىدىغانلىقلىرىغا)",
+    "word_b": "turidu",
+    "token_a": "▁بۇ",
+    "token_b": "▁turi",
+    "logit_a": 35.95869445800781,
+    "logit_b": 21.920656204223633,
+    "prefers_a": true
+  },
+  {
+    "word_a": "قاراپ",
+    "word_b": "jihadqa",
+    "token_a": "▁قاراپ",
+    "token_b": "▁jihad",
+    "logit_a": 0.7555990815162659,
+    "logit_b": 9.954094886779785,
+    "prefers_a": false
+  },
+  {
+    "word_a": "تۇرىدۇ",
+    "word_b": "chiqish",
+    "token_a": "▁تۇر",
+    "token_b": "▁chiqish",
+    "logit_a": 15.93601131439209,
+    "logit_b": 12.744775772094727,
+    "prefers_a": true
+  },
+  {
+    "word_a": "جىھادقا",
+    "word_b": "niyiti",
+    "token_a": "▁",
+    "token_b": "▁ni",
+    "logit_a": 29.313501358032227,
+    "logit_b": 22.864486694335938,
+    "prefers_a": true
+  },
+  {
+    "word_a": "چىقىش",
+    "word_b": "bolsa،",
+    "token_a": "▁چىقىش",
+    "token_b": "▁bolsa",
+    "logit_a": 6.034233093261719,
+    "logit_b": 7.582920074462891,
+    "prefers_a": false
+  },
+  {
+    "word_a": "نىيىتى",
+    "word_b": "uninggha",
+    "token_a": "▁",
+    "token_b": "▁uning",
+    "logit_a": 30.373889923095703,
+    "logit_b": 18.00038719177246,
+    "prefers_a": true
+  },
+  {
+    "word_a": "بولسا،",
+    "word_b": "teyyarliq",
+    "token_a": "▁بولسا",
+    "token_b": "▁te",
+    "logit_a": 9.327183723449707,
+    "logit_b": 8.531057357788086,
+    "prefers_a": true
+  },
+  {
+    "word_a": "ئۇنىڭغا",
+    "word_b": "qilatti،",
+    "token_a": "▁ئۇنىڭغا",
+    "token_b": "▁qila",
+    "logit_a": 2.5617377758026123,
+    "logit_b": 7.32888126373291,
+    "prefers_a": false
+  },
+  {
+    "word_a": "تەييارلىق",
+    "word_b": "lékin",
+    "token_a": "▁تەييار",
+    "token_b": "▁lék",
+    "logit_a": 16.495975494384766,
+    "logit_b": 11.187575340270996,
+    "prefers_a": true
+  },
+  {
+    "word_a": "قىلاتتى،",
+    "word_b": "chiqishini",
+    "token_a": "▁قىل",
+    "token_b": "▁chiqish",
+    "logit_a": 26.27685546875,
+    "logit_b": 21.12261199951172,
+    "prefers_a": true
+  },
+  {
+    "word_a": "لېكىن",
+    "word_b": "yaqturmidi،",
+    "token_a": "▁لېكىن",
+    "token_b": "▁ya",
+    "logit_a": -0.44142675399780273,
+    "logit_b": 12.538444519042969,
+    "prefers_a": false
+  },
+  {
+    "word_a": "چىقىشىنى",
+    "word_b": "(ularning",
+    "token_a": "▁چىقىش",
+    "token_b": "▁(",
+    "logit_a": 17.527132034301758,
+    "logit_b": 27.160747528076172,
+    "prefers_a": false
+  },
+  {
+    "word_a": "ياقتۇرمىدى،",
+    "word_b": "dillirigha",
+    "token_a": "▁ي",
+    "token_b": "▁di",
+    "logit_a": 33.535255432128906,
+    "logit_b": 23.95830535888672,
+    "prefers_a": true
+  },
+  {
+    "word_a": "(ئۇلارنىڭ",
+    "word_b": "hurunluqni",
+    "token_a": "▁(",
+    "token_b": "▁hur",
+    "logit_a": 23.10024642944336,
+    "logit_b": 15.572493553161621,
+    "prefers_a": true
+  },
+  {
+    "word_a": "دىللىرىغا",
+    "word_b": "sélip)",
+    "token_a": "▁د",
+    "token_b": "▁sé",
+    "logit_a": 27.24892807006836,
+    "logit_b": 22.761795043945312,
+    "prefers_a": true
+  },
+  {
+    "word_a": "ھۇرۇنلۇقنى",
+    "word_b": "iradisini",
+    "token_a": "▁ھ",
+    "token_b": "▁i",
+    "logit_a": 35.327091217041016,
+    "logit_b": 29.38921546936035,
+    "prefers_a": true
+  },
+  {
+    "word_a": "سېلىپ)",
+    "word_b": "sundurdi.",
+    "token_a": "▁سې",
+    "token_b": "▁su",
+    "logit_a": 20.73288345336914,
+    "logit_b": 17.871417999267578,
+    "prefers_a": true
+  },
+  {
+    "word_a": "ئىرادىسىنى",
+    "word_b": "(ulargha)",
+    "token_a": "▁ئى",
+    "token_b": "▁(",
+    "logit_a": 26.651948928833008,
+    "logit_b": 31.457733154296875,
+    "prefers_a": false
+  },
+  {
+    "word_a": "سۇندۇردى.",
+    "word_b": "«öyliride",
+    "token_a": "▁",
+    "token_b": "▁«",
+    "logit_a": 35.32113265991211,
+    "logit_b": 34.251976013183594,
+    "prefers_a": true
+  },
+  {
+    "word_a": "(ئۇلارغا)",
+    "word_b": "qélip",
+    "token_a": "▁(",
+    "token_b": "▁q",
+    "logit_a": 29.111858367919922,
+    "logit_b": 10.597575187683105,
+    "prefers_a": true
+  },
+  {
+    "word_a": "«ئۆيلىرىدە",
+    "word_b": "qalghuchilar",
+    "token_a": "▁«",
+    "token_b": "▁qal",
+    "logit_a": 39.74256134033203,
+    "logit_b": 29.397415161132812,
+    "prefers_a": true
+  },
+  {
+    "word_a": "قېلىپ",
+    "word_b": "ayallar،",
+    "token_a": "▁قې",
+    "token_b": "▁aya",
+    "logit_a": 22.381576538085938,
+    "logit_b": 16.500202178955078,
+    "prefers_a": true
+  },
+  {
+    "word_a": "قالغۇچىلار",
+    "word_b": "kichik",
+    "token_a": "▁قال",
+    "token_b": "▁kichik",
+    "logit_a": 26.442781448364258,
+    "logit_b": 17.230403900146484,
+    "prefers_a": true
+  },
+  {
+    "word_a": "ئاياللار،",
+    "word_b": "balilar،",
+    "token_a": "▁ئاياللار",
+    "token_b": "▁bali",
+    "logit_a": 9.881665229797363,
+    "logit_b": 11.47231674194336,
+    "prefers_a": false
+  },
+  {
+    "word_a": "كىچىك",
+    "word_b": "ajizlar)",
+    "token_a": "▁كى",
+    "token_b": "▁a",
+    "logit_a": 24.974218368530273,
+    "logit_b": 23.668895721435547,
+    "prefers_a": true
+  },
+  {
+    "word_a": "بالىلار،",
+    "word_b": "qélinglar»",
+    "token_a": "▁بالىلار",
+    "token_b": "▁q",
+    "logit_a": 9.218912124633789,
+    "logit_b": 7.2067999839782715,
+    "prefers_a": true
+  },
+  {
+    "word_a": "ئاجىزلار)",
+    "word_b": "déyildi",
+    "token_a": "▁ئاجىز",
+    "token_b": "▁dé",
+    "logit_a": 11.313915252685547,
+    "logit_b": 8.522974014282227,
+    "prefers_a": true
+  },
+  {
+    "word_a": "قېلىڭلار»",
+    "word_b": "möminlerni",
+    "token_a": "▁قې",
+    "token_b": "▁mö",
+    "logit_a": 21.152509689331055,
+    "logit_b": 21.3204402923584,
+    "prefers_a": false
+  },
+  {
+    "word_a": "دېيىلدى",
+    "word_b": "küzitishke",
+    "token_a": "▁دې",
+    "token_b": "▁kü",
+    "logit_a": 26.782310485839844,
+    "logit_b": 21.997934341430664,
+    "prefers_a": true
+  },
+  {
+    "word_a": "مۆمىنلەرنى",
+    "word_b": "ewetilgini",
+    "token_a": "▁م",
+    "token_b": "▁e",
+    "logit_a": 28.09772300720215,
+    "logit_b": 32.28315353393555,
+    "prefers_a": false
+  },
+  {
+    "word_a": "كۈزىتىشكە",
+    "word_b": "jüptiliri",
+    "token_a": "▁",
+    "token_b": "▁j",
+    "logit_a": 36.893592834472656,
+    "logit_b": 26.824440002441406,
+    "prefers_a": true
+  },
+  {
+    "word_a": "ئەۋەتىلگىنى",
+    "word_b": "(jennetlerning)",
+    "token_a": "▁ئەۋەت",
+    "token_b": "▁(",
+    "logit_a": 27.337997436523438,
+    "logit_b": 31.217681884765625,
+    "prefers_a": false
+  },
+  {
+    "word_a": "جۈپتىلىرى",
+    "word_b": "sayiliri",
+    "token_a": "▁ج",
+    "token_b": "▁say",
+    "logit_a": 32.27427291870117,
+    "logit_b": 22.31609344482422,
+    "prefers_a": true
+  },
+  {
+    "word_a": "(جەننەتلەرنىڭ)",
+    "word_b": "astida",
+    "token_a": "▁(",
+    "token_b": "▁asti",
+    "logit_a": 41.38098907470703,
+    "logit_b": 19.601734161376953,
+    "prefers_a": true
+  },
+  {
+    "word_a": "سايىلىرى",
+    "word_b": "textlerge",
+    "token_a": "▁ساي",
+    "token_b": "▁text",
+    "logit_a": 22.352251052856445,
+    "logit_b": 21.61701202392578,
+    "prefers_a": true
+  },
+  {
+    "word_a": "ئاستىدا",
+    "word_b": "yölen'gen",
+    "token_a": "▁ئاستى",
+    "token_b": "▁yö",
+    "logit_a": 9.5554838180542,
+    "logit_b": 9.564567565917969,
+    "prefers_a": false
+  },
+  {
+    "word_a": "تەختلەرگە",
+    "word_b": "halda",
+    "token_a": "▁تە",
+    "token_b": "▁halda",
+    "logit_a": 22.002880096435547,
+    "logit_b": 21.012462615966797,
+    "prefers_a": true
+  },
+  {
+    "word_a": "يۆلەنگەن",
+    "word_b": "qur'an",
+    "token_a": "▁ي",
+    "token_b": "▁qur",
+    "logit_a": 26.997421264648438,
+    "logit_b": 21.326274871826172,
+    "prefers_a": true
+  },
+  {
+    "word_a": "ھالدا",
+    "word_b": "heqiqeten",
+    "token_a": "▁ھالدا",
+    "token_b": "▁he",
+    "logit_a": 0.5510664582252502,
+    "logit_b": 10.752300262451172,
+    "prefers_a": false
+  },
+  {
+    "word_a": "قۇرئان",
+    "word_b": "bashlaydu،",
+    "token_a": "▁قۇر",
+    "token_b": "▁",
+    "logit_a": 19.988601684570312,
+    "logit_b": 27.099241256713867,
+    "prefers_a": false
+  },
+  {
+    "word_a": "ھەقىقەتەن",
+    "word_b": "yaxshi",
+    "token_a": "▁ھەق",
+    "token_b": "▁yaxshi",
+    "logit_a": 30.462888717651367,
+    "logit_b": 18.401697158813477,
+    "prefers_a": true
+  },
+  {
+    "word_a": "باشلايدۇ،",
+    "word_b": "ishlarni",
+    "token_a": "▁باش",
+    "token_b": "▁ishlar",
+    "logit_a": 21.76654624938965,
+    "logit_b": 6.619864463806152,
+    "prefers_a": true
+  },
+  {
+    "word_a": "ياخشى",
+    "word_b": "qilidighan",
+    "token_a": "▁ياخشى",
+    "token_b": "▁qil",
+    "logit_a": 2.813925266265869,
+    "logit_b": 5.3399834632873535,
+    "prefers_a": false
+  },
+  {
+    "word_a": "ئىشلارنى",
+    "word_b": "möminlerge",
+    "token_a": "▁ئىشلار",
+    "token_b": "▁mö",
+    "logit_a": 14.72286319732666,
+    "logit_b": 17.331636428833008,
+    "prefers_a": false
+  },
+  {
+    "word_a": "قىلىدىغان",
+    "word_b": "mukapatqa",
+    "token_a": "▁قىلىدىغان",
+    "token_b": "▁muka",
+    "logit_a": 1.6963016986846924,
+    "logit_b": 9.288705825805664,
+    "prefers_a": false
+  },
+  {
+    "word_a": "مۆمىنلەرگە",
+    "word_b": "érishidighanliqi",
+    "token_a": "▁م",
+    "token_b": "▁ér",
+    "logit_a": 29.33310317993164,
+    "logit_b": 21.611568450927734,
+    "prefers_a": true
+  },
+  {
+    "word_a": "مۇكاپاتقا",
+    "word_b": "xush",
+    "token_a": "▁مۇكاپات",
+    "token_b": "▁xu",
+    "logit_a": 16.067668914794922,
+    "logit_b": 15.444347381591797,
+    "prefers_a": true
+  },
+  {
+    "word_a": "ئېرىشىدىغانلىقى",
+    "word_b": "béridu",
+    "token_a": "▁ئېرىش",
+    "token_b": "▁bér",
+    "logit_a": 21.024192810058594,
+    "logit_b": 16.554319381713867,
+    "prefers_a": true
+  },
+  {
+    "word_a": "خۇش",
+    "word_b": "heq",
+    "token_a": "▁خۇ",
+    "token_b": "▁heq",
+    "logit_a": 14.783134460449219,
+    "logit_b": 3.2948904037475586,
+    "prefers_a": true
+  },
+  {
+    "word_a": "بېرىدۇ",
+    "word_b": "arqiliq",
+    "token_a": "▁بېرىدۇ",
+    "token_b": "▁ar",
+    "logit_a": 4.897988319396973,
+    "logit_b": 15.729413032531738,
+    "prefers_a": false
+  },
+  {
+    "word_a": "ھەق",
+    "word_b": "batilgha",
+    "token_a": "▁ھەق",
+    "token_b": "▁bat",
+    "logit_a": -0.13169384002685547,
+    "logit_b": 9.829297065734863,
+    "prefers_a": false
+  },
+  {
+    "word_a": "ئارقىلىق",
+    "word_b": "hujum",
+    "token_a": "▁ئارقىلىق",
+    "token_b": "▁hujum",
+    "logit_a": 1.0266034603118896,
+    "logit_b": 6.760817527770996,
+    "prefers_a": false
+  },
+  {
+    "word_a": "باتىلغا",
+    "word_b": "qilimiz،",
+    "token_a": "▁با",
+    "token_b": "▁qil",
+    "logit_a": 31.529033660888672,
+    "logit_b": 21.23134994506836,
+    "prefers_a": true
+  },
+  {
+    "word_a": "ھۇجۇم",
+    "word_b": "batilni",
+    "token_a": "▁ھۇجۇم",
+    "token_b": "▁bati",
+    "logit_a": 2.1431796550750732,
+    "logit_b": 9.387222290039062,
+    "prefers_a": false
+  },
+  {
+    "word_a": "قىلىمىز،",
+    "word_b": "yoqitidu،",
+    "token_a": "▁قىل",
+    "token_b": "▁yoq",
+    "logit_a": 13.60897445678711,
+    "logit_b": 10.000734329223633,
+    "prefers_a": true
+  },
+  {
+    "word_a": "باتىلنى",
+    "word_b": "yoqilidu،",
+    "token_a": "▁با",
+    "token_b": "▁yoq",
+    "logit_a": 28.174686431884766,
+    "logit_b": 22.09467315673828,
+    "prefers_a": true
+  },
+  {
+    "word_a": "يوقىتىدۇ،",
+    "word_b": "kuffarlar",
+    "token_a": "▁يوق",
+    "token_b": "▁ku",
+    "logit_a": 31.217243194580078,
+    "logit_b": 23.978919982910156,
+    "prefers_a": true
+  },
+  {
+    "word_a": "يوقىلىدۇ،",
+    "word_b": "jama'esi!",
+    "token_a": "▁يوق",
+    "token_b": "▁ja",
+    "logit_a": 18.899747848510742,
+    "logit_b": 23.982126235961914,
+    "prefers_a": false
+  },
+  {
+    "word_a": "كۇففارلار",
+    "word_b": "balisi",
+    "token_a": "▁كۇ",
+    "token_b": "▁bali",
+    "logit_a": 23.497779846191406,
+    "logit_b": 24.896671295166016,
+    "prefers_a": false
+  },
+  {
+    "word_a": "جامائەسى!",
+    "word_b": "xotuni",
+    "token_a": "▁جام",
+    "token_b": "▁xo",
+    "logit_a": 28.91262435913086,
+    "logit_b": 23.416841506958008,
+    "prefers_a": true
+  },
+  {
+    "word_a": "بالىسى",
+    "word_b": "bar",
+    "token_a": "▁بال",
+    "token_b": "▁bar",
+    "logit_a": 21.989076614379883,
+    "logit_b": 24.11915397644043,
+    "prefers_a": false
+  },
+  {
+    "word_a": "خوتۇنى",
+    "word_b": "dep)",
+    "token_a": "▁خو",
+    "token_b": "▁de",
+    "logit_a": 29.28322982788086,
+    "logit_b": 23.599397659301758,
+    "prefers_a": true
+  },
+  {
+    "word_a": "بار",
+    "word_b": "süpetligen",
+    "token_a": "▁بار",
+    "token_b": "▁sü",
+    "logit_a": 9.64509105682373,
+    "logit_b": 9.482946395874023,
+    "prefers_a": true
+  },
+  {
+    "word_a": "دەپ)",
+    "word_b": "sözünglardin",
+    "token_a": "▁دەپ",
+    "token_b": "▁sözü",
+    "logit_a": 5.990742206573486,
+    "logit_b": 9.295328140258789,
+    "prefers_a": false
+  },
+  {
+    "word_a": "سۈپەتلىگەن",
+    "word_b": "way!",
+    "token_a": "▁س",
+    "token_b": "▁way",
+    "logit_a": 34.449371337890625,
+    "logit_b": 19.597684860229492,
+    "prefers_a": true
+  },
+  {
+    "word_a": "سۆزۈڭلاردىن",
+    "word_b": "berikiti",
+    "token_a": "▁سۆز",
+    "token_b": "▁ber",
+    "logit_a": 30.377613067626953,
+    "logit_b": 22.974842071533203,
+    "prefers_a": true
+  },
+  {
+    "word_a": "ۋاي!",
+    "word_b": "büyükturki،",
+    "token_a": "▁ۋا",
+    "token_b": "▁büyük",
+    "logit_a": 14.37911605834961,
+    "logit_b": 13.503320693969727,
+    "prefers_a": true
+  },
+  {
+    "word_a": "بەرىكىتى",
+    "word_b": "xalisa",
+    "token_a": "▁بەر",
+    "token_b": "▁xa",
+    "logit_a": 29.687515258789062,
+    "logit_b": 18.86050033569336,
+    "prefers_a": true
+  },
+  {
+    "word_a": "بۈيۈكتۇركى،",
+    "word_b": "éytqanliridinmu",
+    "token_a": "▁ب",
+    "token_b": "▁é",
+    "logit_a": 33.911258697509766,
+    "logit_b": 22.76581573486328,
+    "prefers_a": true
+  },
+  {
+    "word_a": "خالىسا",
+    "word_b": "yaxshi،",
+    "token_a": "▁خال",
+    "token_b": "▁yaxshi",
+    "logit_a": 17.121295928955078,
+    "logit_b": 9.601865768432617,
+    "prefers_a": true
+  },
+  {
+    "word_a": "ئېيتقانلىرىدىنمۇ",
+    "word_b": "astidin",
+    "token_a": "▁ئېيت",
+    "token_b": "▁asti",
+    "logit_a": 32.10087203979492,
+    "logit_b": 21.724388122558594,
+    "prefers_a": true
+  },
+  {
+    "word_a": "ياخشى،",
+    "word_b": "östenglar",
+    "token_a": "▁ياخشى",
+    "token_b": "▁öst",
+    "logit_a": 8.480819702148438,
+    "logit_b": 6.819245338439941,
+    "prefers_a": true
+  },
+  {
+    "word_a": "ئاستىدىن",
+    "word_b": "éqip",
+    "token_a": "▁ئاستى",
+    "token_b": "▁é",
+    "logit_a": 15.815258026123047,
+    "logit_b": 21.79368782043457,
+    "prefers_a": false
+  },
+  {
+    "word_a": "ئۆستەڭلار",
+    "word_b": "turidighan",
+    "token_a": "▁ئۆس",
+    "token_b": "▁turi",
+    "logit_a": 20.45297622680664,
+    "logit_b": 18.420448303222656,
+    "prefers_a": true
+  },
+  {
+    "word_a": "ئېقىپ",
+    "word_b": "baghlarni",
+    "token_a": "▁ئې",
+    "token_b": "▁bag",
+    "logit_a": 17.78060531616211,
+    "logit_b": 10.455780982971191,
+    "prefers_a": true
+  },
+  {
+    "word_a": "تۇرىدىغان",
+    "word_b": "saraylarni",
+    "token_a": "▁تۇر",
+    "token_b": "▁sa",
+    "logit_a": 9.788540840148926,
+    "logit_b": 18.941959381103516,
+    "prefers_a": false
+  },
+  {
+    "word_a": "باغلارنى",
+    "word_b": "qilatti",
+    "token_a": "▁باغ",
+    "token_b": "▁qila",
+    "logit_a": 22.172046661376953,
+    "logit_b": 16.74604606628418,
+    "prefers_a": true
+  },
+  {
+    "word_a": "سارايلارنى",
+    "word_b": "éytqan",
+    "token_a": "▁سارا",
+    "token_b": "▁é",
+    "logit_a": 25.426895141601562,
+    "logit_b": 20.112913131713867,
+    "prefers_a": true
+  },
+  {
+    "word_a": "قىلاتتى",
+    "word_b": "emellerni",
+    "token_a": "▁قىل",
+    "token_b": "▁em",
+    "logit_a": 24.56818389892578,
+    "logit_b": 27.50167465209961,
+    "prefers_a": false
+  },
+  {
+    "word_a": "ئېيتقان",
+    "word_b": "qilghanlarni",
+    "token_a": "▁ئېيت",
+    "token_b": "▁qil",
+    "logit_a": 15.774145126342773,
+    "logit_b": 13.306228637695312,
+    "prefers_a": true
+  },
+  {
+    "word_a": "ئەمەللەرنى",
+    "word_b": "jennetke",
+    "token_a": "▁ئەمەل",
+    "token_b": "▁jen",
+    "logit_a": 19.043519973754883,
+    "logit_b": 24.1838436126709,
+    "prefers_a": false
+  },
+  {
+    "word_a": "قىلغانلارنى",
+    "word_b": "kirgüzimiz.",
+    "token_a": "▁قىلغان",
+    "token_b": "▁kir",
+    "logit_a": 19.304121017456055,
+    "logit_b": 22.344432830810547,
+    "prefers_a": false
+  },
+  {
+    "word_a": "جەننەتكە",
+    "word_b": "menggü",
+    "token_a": "▁جە",
+    "token_b": "▁meng",
+    "logit_a": 33.45482635498047,
+    "logit_b": 25.923921585083008,
+    "prefers_a": true
+  },
+  {
+    "word_a": "كىرگۈزىمىز.",
+    "word_b": "qalidu.",
+    "token_a": "▁كىرگۈز",
+    "token_b": "▁qal",
+    "logit_a": 10.773140907287598,
+    "logit_b": 17.31137466430664,
+    "prefers_a": false
+  },
+  {
+    "word_a": "مەڭگۈ",
+    "word_b": "wedisi",
+    "token_a": "▁م",
+    "token_b": "▁wedi",
+    "logit_a": 23.984052658081055,
+    "logit_b": 18.404991149902344,
+    "prefers_a": true
+  },
+  {
+    "word_a": "قالىدۇ.",
+    "word_b": "heqtur،",
+    "token_a": "▁قال",
+    "token_b": "▁heq",
+    "logit_a": 21.07677459716797,
+    "logit_b": 17.25960922241211,
+    "prefers_a": true
+  },
+  {
+    "word_a": "ۋەدىسى",
+    "word_b": "tinmu",
+    "token_a": "▁ۋە",
+    "token_b": "▁tin",
+    "logit_a": 23.876506805419922,
+    "logit_b": 20.202600479125977,
+    "prefers_a": true
+  },
+  {
+    "word_a": "ھەقتۇر،",
+    "word_b": "rast",
+    "token_a": "▁ھەق",
+    "token_b": "▁rast",
+    "logit_a": 23.5938720703125,
+    "logit_b": 19.471288681030273,
+    "prefers_a": true
+  },
+  {
+    "word_a": "تىنمۇ",
+    "word_b": "sözlük",
+    "token_a": "▁",
+    "token_b": "▁söz",
+    "logit_a": 29.62589454650879,
+    "logit_b": 18.441558837890625,
+    "prefers_a": true
+  },
+  {
+    "word_a": "راست",
+    "word_b": "kim",
+    "token_a": "▁راست",
+    "token_b": "▁kim",
+    "logit_a": 9.175265312194824,
+    "logit_b": 8.535103797912598,
+    "prefers_a": true
+  },
+  {
+    "word_a": "سۆزلۈك",
+    "word_b": "bar؟",
+    "token_a": "▁سۆز",
+    "token_b": "▁bar",
+    "logit_a": 16.386539459228516,
+    "logit_b": 12.653997421264648,
+    "prefers_a": true
+  },
+  {
+    "word_a": "كىم",
+    "word_b": "ehedi",
+    "token_a": "▁كىم",
+    "token_b": "▁e",
+    "logit_a": 2.4685938358306885,
+    "logit_b": 14.706262588500977,
+    "prefers_a": false
+  },
+  {
+    "word_a": "بار؟",
+    "word_b": "bolmaydu)",
+    "token_a": "▁بار",
+    "token_b": "▁bol",
+    "logit_a": 14.414976119995117,
+    "logit_b": 10.008648872375488,
+    "prefers_a": true
+  },
+  {
+    "word_a": "ئەھەدى",
+    "word_b": "hékmetlik",
+    "token_a": "▁ئە",
+    "token_b": "▁hé",
+    "logit_a": 27.17842674255371,
+    "logit_b": 19.50699234008789,
+    "prefers_a": true
+  },
+  {
+    "word_a": "بولمايدۇ)",
+    "word_b": "muhemmed!)",
+    "token_a": "▁بولمايدۇ",
+    "token_b": "▁mu",
+    "logit_a": 5.478654384613037,
+    "logit_b": 13.919280052185059,
+    "prefers_a": false
+  },
+  {
+    "word_a": "ھېكمەتلىك",
+    "word_b": "shek",
+    "token_a": "▁ھ",
+    "token_b": "▁she",
+    "logit_a": 32.26594161987305,
+    "logit_b": 23.13852882385254,
+    "prefers_a": true
+  },
+  {
+    "word_a": "مۇھەممەد!)",
+    "word_b": "peyghemberlerdinsen",
+    "token_a": "▁مۇھەممەد",
+    "token_b": "▁pey",
+    "logit_a": 6.1887335777282715,
+    "logit_b": 9.699511528015137,
+    "prefers_a": false
+  },
+  {
+    "word_a": "شەك",
+    "word_b": "birdin",
+    "token_a": "▁شە",
+    "token_b": "▁bir",
+    "logit_a": 14.166606903076172,
+    "logit_b": 14.012869834899902,
+    "prefers_a": true
+  },
+  {
+    "word_a": "پەيغەمبەرلەردىنسەن",
+    "word_b": "jawabi:",
+    "token_a": "▁پەيغەمبەر",
+    "token_b": "▁jawab",
+    "logit_a": 23.222152709960938,
+    "logit_b": 22.597736358642578,
+    "prefers_a": true
+  },
+  {
+    "word_a": "بىردىن",
+    "word_b": "«lutning",
+    "token_a": "▁بىر",
+    "token_b": "▁«",
+    "logit_a": 24.33601951599121,
+    "logit_b": 32.86518096923828,
+    "prefers_a": false
+  },
+  {
+    "word_a": "جاۋابى:",
+    "word_b": "tewelirini",
+    "token_a": "▁جاۋاب",
+    "token_b": "▁te",
+    "logit_a": 16.726524353027344,
+    "logit_b": 15.729985237121582,
+    "prefers_a": true
+  },
+  {
+    "word_a": "«لۇتنىڭ",
+    "word_b": "shehiringlardin",
+    "token_a": "▁«",
+    "token_b": "▁she",
+    "logit_a": 34.958316802978516,
+    "logit_b": 22.88582992553711,
+    "prefers_a": true
+  },
+  {
+    "word_a": "تەۋەلىرىنى",
+    "word_b": "heydep",
+    "token_a": "▁تەۋە",
+    "token_b": "▁hey",
+    "logit_a": 19.00875473022461,
+    "logit_b": 25.23995018005371,
+    "prefers_a": false
+  },
+  {
+    "word_a": "شەھىرىڭلاردىن",
+    "word_b": "chiqiringlar،",
+    "token_a": "▁شەھىرى",
+    "token_b": "▁chi",
+    "logit_a": 28.03850555419922,
+    "logit_b": 24.52569007873535,
+    "prefers_a": true
+  },
+  {
+    "word_a": "ھەيدەپ",
+    "word_b": "kishilerdur»",
+    "token_a": "▁ھەي",
+    "token_b": "▁kishi",
+    "logit_a": 17.221067428588867,
+    "logit_b": 16.873218536376953,
+    "prefers_a": true
+  },
+  {
+    "word_a": "چىقىرىڭلار،",
+    "word_b": "déyishtin",
+    "token_a": "▁چىقىر",
+    "token_b": "▁dé",
+    "logit_a": 19.579011917114258,
+    "logit_b": 19.43846893310547,
+    "prefers_a": true
+  },
+  {
+    "word_a": "كىشىلەردۇر»",
+    "word_b": "boldi",
+    "token_a": "▁كىشىلەر",
+    "token_b": "▁bol",
+    "logit_a": 18.326839447021484,
+    "logit_b": 14.947283744812012,
+    "prefers_a": true
+  },
+  {
+    "word_a": "دېيىشتىن",
+    "word_b": "yusufning",
+    "token_a": "▁دې",
+    "token_b": "▁y",
+    "logit_a": 32.238128662109375,
+    "logit_b": 27.437345504760742,
+    "prefers_a": true
+  },
+  {
+    "word_a": "بولدى",
+    "word_b": "qéshigha",
+    "token_a": "▁بولدى",
+    "token_b": "▁q",
+    "logit_a": 4.184817314147949,
+    "logit_b": 9.656740188598633,
+    "prefers_a": false
+  },
+  {
+    "word_a": "يۇسۇفنىڭ",
+    "word_b": "kirginide:",
+    "token_a": "▁",
+    "token_b": "▁kir",
+    "logit_a": 35.81116485595703,
+    "logit_b": 21.939350128173828,
+    "prefers_a": true
+  },
+  {
+    "word_a": "قېشىغا",
+    "word_b": "«i",
+    "token_a": "▁قې",
+    "token_b": "▁«",
+    "logit_a": 29.844085693359375,
+    "logit_b": 34.71897506713867,
+    "prefers_a": false
+  },
+  {
+    "word_a": "كىرگىنىدە:",
+    "word_b": "aliyjanab",
+    "token_a": "▁كىر",
+    "token_b": "▁ali",
+    "logit_a": 25.652481079101562,
+    "logit_b": 26.53177833557129,
+    "prefers_a": false
+  },
+  {
+    "word_a": "«ئى",
+    "word_b": "zat!",
+    "token_a": "▁«",
+    "token_b": "▁zat",
+    "logit_a": 23.51459312438965,
+    "logit_b": 14.055127143859863,
+    "prefers_a": true
+  },
+  {
+    "word_a": "ئالىيجاناب",
+    "word_b": "bizge",
+    "token_a": "▁ئالىي",
+    "token_b": "▁biz",
+    "logit_a": 21.311912536621094,
+    "logit_b": 19.39238929748535,
+    "prefers_a": true
+  },
+  {
+    "word_a": "زات!",
+    "word_b": "a'ilimizge",
+    "token_a": "▁",
+    "token_b": "▁a",
+    "logit_a": 29.17439842224121,
+    "logit_b": 25.166160583496094,
+    "prefers_a": true
+  },
+  {
+    "word_a": "بىزگە",
+    "word_b": "acharchiliq",
+    "token_a": "▁بىز",
+    "token_b": "▁ach",
+    "logit_a": 17.24579429626465,
+    "logit_b": 15.851930618286133,
+    "prefers_a": true
+  },
+  {
+    "word_a": "ئائىلىمىزگە",
+    "word_b": "yetti،",
+    "token_a": "▁ئائىلى",
+    "token_b": "▁yet",
+    "logit_a": 32.66303253173828,
+    "logit_b": 24.34564971923828,
+    "prefers_a": true
+  },
+  {
+    "word_a": "ئاچارچىلىق",
+    "word_b": "(aldinggha)",
+    "token_a": "▁ئاچ",
+    "token_b": "▁(",
+    "logit_a": 20.972707748413086,
+    "logit_b": 28.226703643798828,
+    "prefers_a": false
+  },
+  {
+    "word_a": "يەتتى،",
+    "word_b": "nachar",
+    "token_a": "▁ي",
+    "token_b": "▁nach",
+    "logit_a": 24.233875274658203,
+    "logit_b": 19.949081420898438,
+    "prefers_a": true
+  },
+  {
+    "word_a": "(ئالدىڭغا)",
+    "word_b": "ötmes",
+    "token_a": "▁(",
+    "token_b": "▁öt",
+    "logit_a": 41.08723449707031,
+    "logit_b": 18.085803985595703,
+    "prefers_a": true
+  },
+  {
+    "word_a": "ناچار",
+    "word_b": "mallar",
+    "token_a": "▁ناچار",
+    "token_b": "▁mal",
+    "logit_a": 7.262927055358887,
+    "logit_b": 11.486041069030762,
+    "prefers_a": false
+  },
+  {
+    "word_a": "ئۆتمەس",
+    "word_b": "kélip",
+    "token_a": "▁ئۆت",
+    "token_b": "▁",
+    "logit_a": 20.749000549316406,
+    "logit_b": 24.402565002441406,
+    "prefers_a": false
+  },
+  {
+    "word_a": "ماللار",
+    "word_b": "qalduq،",
+    "token_a": "▁مال",
+    "token_b": "▁qal",
+    "logit_a": 23.098865509033203,
+    "logit_b": 14.092634201049805,
+    "prefers_a": true
+  },
+  {
+    "word_a": "كېلىپ",
+    "word_b": "ashliq",
+    "token_a": "▁كېلىپ",
+    "token_b": "▁a",
+    "logit_a": -1.7796868085861206,
+    "logit_b": 17.6754150390625,
+    "prefers_a": false
+  },
+  {
+    "word_a": "قالدۇق،",
+    "word_b": "bergin،",
+    "token_a": "▁قال",
+    "token_b": "▁berg",
+    "logit_a": 21.24318504333496,
+    "logit_b": 20.549488067626953,
+    "prefers_a": true
+  },
+  {
+    "word_a": "ئاشلىق",
+    "word_b": "sediqe",
+    "token_a": "▁ئاش",
+    "token_b": "▁se",
+    "logit_a": 15.36259651184082,
+    "logit_b": 17.11895179748535,
+    "prefers_a": false
+  },
+  {
+    "word_a": "بەرگىن،",
+    "word_b": "qilghuchilarni",
+    "token_a": "▁بەر",
+    "token_b": "▁qil",
+    "logit_a": 21.72113800048828,
+    "logit_b": 14.756114959716797,
+    "prefers_a": true
+  },
+  {
+    "word_a": "سەدىقە",
+    "word_b": "mukapatlaydu»",
+    "token_a": "▁سە",
+    "token_b": "▁muka",
+    "logit_a": 32.090049743652344,
+    "logit_b": 23.392091751098633,
+    "prefers_a": true
+  },
+  {
+    "word_a": "قىلغۇچىلارنى",
+    "word_b": "jibri'ilni",
+    "token_a": "▁قىلغۇچى",
+    "token_b": "▁ji",
+    "logit_a": 18.02549934387207,
+    "logit_b": 24.500003814697266,
+    "prefers_a": false
+  },
+  {
+    "word_a": "مۇكاپاتلايدۇ»",
+    "word_b": "sidretulmunteha",
+    "token_a": "▁مۇكاپات",
+    "token_b": "▁si",
+    "logit_a": 12.293846130371094,
+    "logit_b": 20.388465881347656,
+    "prefers_a": false
+  },
+  {
+    "word_a": "جىبرىئىلنى",
+    "word_b": "(derixining)",
+    "token_a": "▁",
+    "token_b": "▁(",
+    "logit_a": 31.036911010742188,
+    "logit_b": 30.447986602783203,
+    "prefers_a": true
+  },
+  {
+    "word_a": "سىدرەتۇلمۇنتەھا",
+    "word_b": "yénida",
+    "token_a": "▁سى",
+    "token_b": "▁y",
+    "logit_a": 34.159297943115234,
+    "logit_b": 25.77398109436035,
+    "prefers_a": true
+  },
+  {
+    "word_a": "(دەرىخىنىڭ)",
+    "word_b": "kördi",
+    "token_a": "▁(",
+    "token_b": "▁kör",
+    "logit_a": 38.40177917480469,
+    "logit_b": 23.55730438232422,
+    "prefers_a": true
+  },
+  {
+    "word_a": "يېنىدا",
+    "word_b": "éytip",
+    "token_a": "▁يې",
+    "token_b": "▁é",
+    "logit_a": 21.90393829345703,
+    "logit_b": 20.085067749023438,
+    "prefers_a": true
+  },
+  {
+    "word_a": "كۆردى",
+    "word_b": "baqsangchu؟",
+    "token_a": "▁كۆر",
+    "token_b": "▁ba",
+    "logit_a": 20.39087677001953,
+    "logit_b": 17.194704055786133,
+    "prefers_a": true
+  },
+  {
+    "word_a": "ئېيتىپ",
+    "word_b": "nepsi",
+    "token_a": "▁ئېيت",
+    "token_b": "▁ne",
+    "logit_a": 11.286023139953613,
+    "logit_b": 18.380067825317383,
+    "prefers_a": false
+  },
+  {
+    "word_a": "باقساڭچۇ؟",
+    "word_b": "xahishini",
+    "token_a": "▁با",
+    "token_b": "▁xa",
+    "logit_a": 34.40095520019531,
+    "logit_b": 25.083358764648438,
+    "prefers_a": true
+  },
+  {
+    "word_a": "نەپسى",
+    "word_b": "ilah",
+    "token_a": "▁ن",
+    "token_b": "▁i",
+    "logit_a": 28.858768463134766,
+    "logit_b": 29.23902130126953,
+    "prefers_a": false
+  },
+  {
+    "word_a": "خاھىشىنى",
+    "word_b": "qiliwalghan",
+    "token_a": "▁خا",
+    "token_b": "▁qil",
+    "logit_a": 32.818565368652344,
+    "logit_b": 20.053993225097656,
+    "prefers_a": true
+  },
+  {
+    "word_a": "ئىلاھ",
+    "word_b": "ademge",
+    "token_a": "▁ئىل",
+    "token_b": "▁a",
+    "logit_a": 16.06700897216797,
+    "logit_b": 25.296884536743164,
+    "prefers_a": false
+  },
+  {
+    "word_a": "قىلىۋالغان",
+    "word_b": "(nepsi",
+    "token_a": "▁",
+    "token_b": "▁(",
+    "logit_a": 36.0185546875,
+    "logit_b": 33.71501922607422,
+    "prefers_a": true
+  },
+  {
+    "word_a": "ئادەمگە",
+    "word_b": "xahishigha",
+    "token_a": "▁ئادەم",
+    "token_b": "▁xa",
+    "logit_a": 14.594768524169922,
+    "logit_b": 16.71221351623535,
+    "prefers_a": false
+  },
+  {
+    "word_a": "(نەپسى",
+    "word_b": "egishishtin",
+    "token_a": "▁(",
+    "token_b": "▁e",
+    "logit_a": 39.76385498046875,
+    "logit_b": 33.69603729248047,
+    "prefers_a": true
+  },
+  {
+    "word_a": "خاھىشىغا",
+    "word_b": "saqlash",
+    "token_a": "▁خا",
+    "token_b": "▁saqlash",
+    "logit_a": 28.033355712890625,
+    "logit_b": 13.359701156616211,
+    "prefers_a": true
+  },
+  {
+    "word_a": "ئەگىشىشتىن",
+    "word_b": "hamiy",
+    "token_a": "▁ئە",
+    "token_b": "▁ham",
+    "logit_a": 35.635704040527344,
+    "logit_b": 26.002832412719727,
+    "prefers_a": true
+  },
+  {
+    "word_a": "ساقلاش",
+    "word_b": "bolalamsen",
+    "token_a": "▁ساق",
+    "token_b": "▁bola",
+    "logit_a": 19.962556838989258,
+    "logit_b": 12.44957160949707,
+    "prefers_a": true
+  },
+  {
+    "word_a": "ھامىي",
+    "word_b": "insanlar!)",
+    "token_a": "▁ھا",
+    "token_b": "▁insanlar",
+    "logit_a": 20.651674270629883,
+    "logit_b": 13.832403182983398,
+    "prefers_a": true
+  },
+  {
+    "word_a": "بولالامسەن",
+    "word_b": "silerning",
+    "token_a": "▁بولا",
+    "token_b": "▁si",
+    "logit_a": 23.631839752197266,
+    "logit_b": 23.617156982421875,
+    "prefers_a": true
+  },
+  {
+    "word_a": "ئىنسانلار!)",
+    "word_b": "dininglar",
+    "token_a": "▁ئىنسان",
+    "token_b": "▁di",
+    "logit_a": 14.962800979614258,
+    "logit_b": 17.195819854736328,
+    "prefers_a": false
+  },
+  {
+    "word_a": "سىلەرنىڭ",
+    "word_b": "dindur.",
+    "token_a": "▁سى",
+    "token_b": "▁din",
+    "logit_a": 24.586050033569336,
+    "logit_b": 28.239259719848633,
+    "prefers_a": false
+  },
+  {
+    "word_a": "دىنىڭلار",
+    "word_b": "perwerdigaringlardurmen،",
+    "token_a": "▁د",
+    "token_b": "▁per",
+    "logit_a": 31.04530143737793,
+    "logit_b": 23.561016082763672,
+    "prefers_a": true
+  },
+  {
+    "word_a": "دىندۇر.",
+    "word_b": "mangila",
+    "token_a": "▁",
+    "token_b": "▁mang",
+    "logit_a": 26.123600006103516,
+    "logit_b": 15.200643539428711,
+    "prefers_a": true
+  },
+  {
+    "word_a": "پەرۋەردىگارىڭلاردۇرمەن،",
+    "word_b": "qilinglar",
+    "token_a": "▁",
+    "token_b": "▁qiling",
+    "logit_a": 39.93822479248047,
+    "logit_b": 18.388174057006836,
+    "prefers_a": true
+  },
+  {
+    "word_a": "ماڭىلا",
+    "word_b": "yultuzlargha",
+    "token_a": "▁ما",
+    "token_b": "▁y",
+    "logit_a": 35.31379318237305,
+    "logit_b": 26.15377426147461,
+    "prefers_a": true
+  },
+  {
+    "word_a": "قىلىڭلار",
+    "word_b": "qaridi،",
+    "token_a": "▁",
+    "token_b": "▁qar",
+    "logit_a": 34.066123962402344,
+    "logit_b": 24.82830047607422,
+    "prefers_a": true
+  },
+  {
+    "word_a": "يۇلتۇزلارغا",
+    "word_b": "andin:",
+    "token_a": "▁",
+    "token_b": "▁and",
+    "logit_a": 36.064659118652344,
+    "logit_b": 28.83678436279297,
+    "prefers_a": true
+  },
+  {
+    "word_a": "قارىدى،",
+    "word_b": "«men",
+    "token_a": "▁قارى",
+    "token_b": "▁«",
+    "logit_a": 26.356088638305664,
+    "logit_b": 27.062206268310547,
+    "prefers_a": false
+  },
+  {
+    "word_a": "ئاندىن:",
+    "word_b": "késel",
+    "token_a": "▁ئاندىن",
+    "token_b": "▁kés",
+    "logit_a": 6.534375190734863,
+    "logit_b": 1.9102556705474854,
+    "prefers_a": true
+  },
+  {
+    "word_a": "«مەن",
+    "word_b": "bolup",
+    "token_a": "▁«",
+    "token_b": "▁bol",
+    "logit_a": 26.172039031982422,
+    "logit_b": 18.375703811645508,
+    "prefers_a": true
+  },
+  {
+    "word_a": "كېسەل",
+    "word_b": "qalimen»",
+    "token_a": "▁كېسەل",
+    "token_b": "▁qal",
+    "logit_a": 1.1883913278579712,
+    "logit_b": 9.060497283935547,
+    "prefers_a": false
+  },
+  {
+    "word_a": "بولۇپ",
+    "word_b": "zéminni",
+    "token_a": "▁بولۇپ",
+    "token_b": "▁z",
+    "logit_a": 3.5424718856811523,
+    "logit_b": 11.76401138305664,
+    "prefers_a": false
+  },
+  {
+    "word_a": "قالىمەن»",
+    "word_b": "bisat",
+    "token_a": "▁قال",
+    "token_b": "▁bisa",
+    "logit_a": 19.49372100830078,
+    "logit_b": 18.08901023864746,
+    "prefers_a": true
+  },
+  {
+    "word_a": "زېمىننى",
+    "word_b": "berdi،",
+    "token_a": "▁زېمىن",
+    "token_b": "▁berdi",
+    "logit_a": 13.339513778686523,
+    "logit_b": 15.99354076385498,
+    "prefers_a": false
+  },
+  {
+    "word_a": "بىسات",
+    "word_b": "yollarni",
+    "token_a": "▁بى",
+    "token_b": "▁yollar",
+    "logit_a": 17.614421844482422,
+    "logit_b": 14.77699089050293,
+    "prefers_a": true
+  },
+  {
+    "word_a": "بەردى،",
+    "word_b": "échip",
+    "token_a": "▁بەردى",
+    "token_b": "▁é",
+    "logit_a": 8.117990493774414,
+    "logit_b": 11.0697603225708,
+    "prefers_a": false
+  },
+  {
+    "word_a": "يوللارنى",
+    "word_b": "buluttin",
+    "token_a": "▁يول",
+    "token_b": "▁bulu",
+    "logit_a": 19.086994171142578,
+    "logit_b": 22.606441497802734,
+    "prefers_a": false
+  },
+  {
+    "word_a": "ئېچىپ",
+    "word_b": "yaghdurup",
+    "token_a": "▁ئېچى",
+    "token_b": "▁ya",
+    "logit_a": 11.723406791687012,
+    "logit_b": 17.0540714263916,
+    "prefers_a": false
+  },
+  {
+    "word_a": "بۇلۇتتىن",
+    "word_b": "uning",
+    "token_a": "▁بۇل",
+    "token_b": "▁uning",
+    "logit_a": 29.333066940307617,
+    "logit_b": 22.404537200927734,
+    "prefers_a": true
+  },
+  {
+    "word_a": "ياغدۇرۇپ",
+    "word_b": "ösümlüklerni",
+    "token_a": "▁يا",
+    "token_b": "▁",
+    "logit_a": 27.402982711791992,
+    "logit_b": 25.313621520996094,
+    "prefers_a": true
+  },
+  {
+    "word_a": "ئۇنىڭ",
+    "word_b": "östürüp",
+    "token_a": "▁ئۇنىڭ",
+    "token_b": "▁öst",
+    "logit_a": 6.192803859710693,
+    "logit_b": 8.60889720916748,
+    "prefers_a": false
+  },
+  {
+    "word_a": "ئۆسۈملۈكلەرنى",
+    "word_b": "berdi»",
+    "token_a": "▁ئۆس",
+    "token_b": "▁berdi",
+    "logit_a": 33.67538833618164,
+    "logit_b": 20.291866302490234,
+    "prefers_a": true
+  },
+  {
+    "word_a": "ئۆستۈرۈپ",
+    "word_b": "her",
+    "token_a": "▁ئۆس",
+    "token_b": "▁her",
+    "logit_a": 29.11252212524414,
+    "logit_b": 19.975975036621094,
+    "prefers_a": true
+  },
+  {
+    "word_a": "بەردى»",
+    "word_b": "insan",
+    "token_a": "▁بەردى",
+    "token_b": "▁insan",
+    "logit_a": 3.0154359340667725,
+    "logit_b": 9.277605056762695,
+    "prefers_a": false
+  },
+  {
+    "word_a": "ھەر",
+    "word_b": "(mehshergahqa)",
+    "token_a": "▁ھەر",
+    "token_b": "▁(",
+    "logit_a": 3.961198568344116,
+    "logit_b": 17.336881637573242,
+    "prefers_a": false
+  },
+  {
+    "word_a": "ئىنسان",
+    "word_b": "kélidu،",
+    "token_a": "▁ئىنسان",
+    "token_b": "▁",
+    "logit_a": 6.064177513122559,
+    "logit_b": 22.887454986572266,
+    "prefers_a": false
+  },
+  {
+    "word_a": "(مەھشەرگاھقا)",
+    "word_b": "(uni",
+    "token_a": "▁(",
+    "token_b": "▁(",
+    "logit_a": 38.73401641845703,
+    "logit_b": 38.73401641845703,
+    "prefers_a": false
+  },
+  {
+    "word_a": "كېلىدۇ،",
+    "word_b": "mehshergahqa)",
+    "token_a": "▁كېلىدۇ",
+    "token_b": "▁meh",
+    "logit_a": 7.7264885902404785,
+    "logit_b": 8.180685043334961,
+    "prefers_a": false
+  },
+  {
+    "word_a": "(ئۇنى",
+    "word_b": "heydigüchi",
+    "token_a": "▁(",
+    "token_b": "▁hey",
+    "logit_a": 23.255022048950195,
+    "logit_b": 16.79947853088379,
+    "prefers_a": true
+  },
+  {
+    "word_a": "مەھشەرگاھقا)",
+    "word_b": "(uning",
+    "token_a": "▁مەھ",
+    "token_b": "▁(",
+    "logit_a": 22.717683792114258,
+    "logit_b": 40.35615158081055,
+    "prefers_a": false
+  },
+  {
+    "word_a": "ھەيدىگۈچى",
+    "word_b": "emelige)",
+    "token_a": "▁ھەي",
+    "token_b": "▁em",
+    "logit_a": 25.598264694213867,
+    "logit_b": 20.859399795532227,
+    "prefers_a": true
+  },
+  {
+    "word_a": "(ئۇنىڭ",
+    "word_b": "guwah",
+    "token_a": "▁(",
+    "token_b": "▁gu",
+    "logit_a": 21.436433792114258,
+    "logit_b": 13.47134780883789,
+    "prefers_a": true
+  },
+  {
+    "word_a": "ئەمەلىگە)",
+    "word_b": "bolghuchi",
+    "token_a": "▁ئەمەل",
+    "token_b": "▁bol",
+    "logit_a": 12.670586585998535,
+    "logit_b": 20.260921478271484,
+    "prefers_a": false
+  }
+]

@@ -1,0 +1,1826 @@
+{
+  "run_id": "20260518_001132",
+  "started": "2026-05-18T00:11:32.353702+00:00",
+  "config": {
+    "N_WORD_PAIRS": 500,
+    "N_SENT_PAIRS": 2000,
+    "N_RETRIEVAL": 500,
+    "N_DISTRACTORS": 19,
+    "LAYER_FRACS": [
+      0.0,
+      0.25,
+      0.5,
+      0.75,
+      1.0
+    ],
+    "ENCODER_MODELS": {
+      "xlm-r": "xlm-roberta-large",
+      "byt5": "google/byt5-large",
+      "mt5": "google/mt5-large"
+    },
+    "DEVICE": "cuda"
+  },
+  "environment": {
+    "python": "3.12.12",
+    "torch": "2.10.0+cu128",
+    "transformers": "5.0.0",
+    "sklearn": "1.6.1",
+    "cuda": "12.8",
+    "gpu": "Tesla T4"
+  },
+  "files": [
+    {
+      "rel_path": "corpus/kazakh_pairs.json",
+      "kind": "json",
+      "description": "kazakh sentence pairs",
+      "sha256": "0c2b7077af19d3399bfe2f67055bbf515502f9ceea33e6f638a3b1ab0716d125",
+      "size_bytes": 645909,
+      "saved_at": "2026-05-18T00:11:36.167314+00:00"
+    },
+    {
+      "rel_path": "corpus/kazakh_words_a.json",
+      "kind": "json",
+      "description": "kazakh script-A word list",
+      "sha256": "2177d8bd07b24b15dfee170418623174f2b3cf1ba425098872baa0fab75f816c",
+      "size_bytes": 9871,
+      "saved_at": "2026-05-18T00:11:36.168044+00:00"
+    },
+    {
+      "rel_path": "corpus/kazakh_words_b.json",
+      "kind": "json",
+      "description": "kazakh script-B word list",
+      "sha256": "a6d598828b9511415067ed938771e43bb0e15d1fe5ba6664e6441cb6eb77f699",
+      "size_bytes": 7148,
+      "saved_at": "2026-05-18T00:11:36.168583+00:00"
+    },
+    {
+      "rel_path": "corpus/kazakh_meta.json",
+      "kind": "json",
+      "description": "kazakh corpus metadata",
+      "sha256": "0ee30cd3cbba42c9c132a7eaaf712f5e0594af81e0f08914978af3b2379fdaf0",
+      "size_bytes": 255,
+      "saved_at": "2026-05-18T00:11:36.168923+00:00"
+    },
+    {
+      "rel_path": "corpus/serbian_pairs.json",
+      "kind": "json",
+      "description": "serbian sentence pairs",
+      "sha256": "2c6e5826280c04ece5b8ddf747a5de99fbc24d7a2c8ee46d3878184cddc98282",
+      "size_bytes": 616566,
+      "saved_at": "2026-05-18T00:11:38.092177+00:00"
+    },
+    {
+      "rel_path": "corpus/serbian_words_a.json",
+      "kind": "json",
+      "description": "serbian script-A word list",
+      "sha256": "453e57dbd2e3f7e85bb9c2a1de81c9a9546488c91a67a762181acdb05e1f7157",
+      "size_bytes": 8822,
+      "saved_at": "2026-05-18T00:11:38.092976+00:00"
+    },
+    {
+      "rel_path": "corpus/serbian_words_b.json",
+      "kind": "json",
+      "description": "serbian script-B word list",
+      "sha256": "b7aba2f9c18dbb7d48c7be8413c0937866760c493cf6df97e6cfa275c0efa54b",
+      "size_bytes": 6354,
+      "saved_at": "2026-05-18T00:11:38.093508+00:00"
+    },
+    {
+      "rel_path": "corpus/serbian_meta.json",
+      "kind": "json",
+      "description": "serbian corpus metadata",
+      "sha256": "5c5bf9f81c6c117351769147e5f65454e4759ce024b5b8a63341b7c8831fbd0c",
+      "size_bytes": 258,
+      "saved_at": "2026-05-18T00:11:38.093895+00:00"
+    },
+    {
+      "rel_path": "corpus/chinese_pairs.json",
+      "kind": "json",
+      "description": "chinese sentence pairs",
+      "sha256": "e53cf6dd9ceda3e27e36760007e9a833958b9e27a5390b7990726cae1165718f",
+      "size_bytes": 530346,
+      "saved_at": "2026-05-18T00:11:41.021967+00:00"
+    },
+    {
+      "rel_path": "corpus/chinese_words_a.json",
+      "kind": "json",
+      "description": "chinese script-A word list",
+      "sha256": "1ba1c423ba76919ef967e62cd1999c07f11247d1604a3cd36faa36f218599b3b",
+      "size_bytes": 7029,
+      "saved_at": "2026-05-18T00:11:41.023081+00:00"
+    },
+    {
+      "rel_path": "corpus/chinese_words_b.json",
+      "kind": "json",
+      "description": "chinese script-B word list",
+      "sha256": "be8f963d49989731f74b68cf140e218ca0ca67f54262ba141e0a648f888dc009",
+      "size_bytes": 7029,
+      "saved_at": "2026-05-18T00:11:41.024049+00:00"
+    },
+    {
+      "rel_path": "corpus/chinese_meta.json",
+      "kind": "json",
+      "description": "chinese corpus metadata",
+      "sha256": "8f136d73d1e34a6cef8344dbd3d06a885378a55fd0577907e92b3524c7505708",
+      "size_bytes": 287,
+      "saved_at": "2026-05-18T00:11:41.024861+00:00"
+    },
+    {
+      "rel_path": "corpus/chinese_divergent_flags.json",
+      "kind": "json",
+      "description": "Per-sentence lexical-divergence flag for Chinese",
+      "sha256": "526615888acc7fb18c77a96f58013a115b17c059491040d63870177d18f1bf67",
+      "size_bytes": 17436,
+      "saved_at": "2026-05-18T00:11:41.026395+00:00"
+    },
+    {
+      "rel_path": "corpus/hindi_urdu_pairs.json",
+      "kind": "json",
+      "description": "hindi_urdu sentence pairs",
+      "sha256": "fc4f25e3618fa9f46739b4bed5264dba23c3cf40cb8815a53bea7363365a666d",
+      "size_bytes": 657569,
+      "saved_at": "2026-05-18T00:11:45.963604+00:00"
+    },
+    {
+      "rel_path": "corpus/hindi_urdu_words_a.json",
+      "kind": "json",
+      "description": "hindi_urdu script-A word list",
+      "sha256": "958aee25c9bf019f457f0bfce31eeeadee2ac02944c1810b7bf7c907b1f10375",
+      "size_bytes": 9044,
+      "saved_at": "2026-05-18T00:11:45.964477+00:00"
+    },
+    {
+      "rel_path": "corpus/hindi_urdu_words_b.json",
+      "kind": "json",
+      "description": "hindi_urdu script-B word list",
+      "sha256": "4158b9499b03a4c0196221fdabfc199cdafb60125dfda25836c0cd9195bfaef7",
+      "size_bytes": 8961,
+      "saved_at": "2026-05-18T00:11:45.965130+00:00"
+    },
+    {
+      "rel_path": "corpus/hindi_urdu_meta.json",
+      "kind": "json",
+      "description": "hindi_urdu corpus metadata",
+      "sha256": "7764846cefb7f7cdaea28f76b2662a4508f0fab3c33b2e3474ce6948f31d43e0",
+      "size_bytes": 288,
+      "saved_at": "2026-05-18T00:11:45.965566+00:00"
+    },
+    {
+      "rel_path": "corpus/uyghur_pairs.json",
+      "kind": "json",
+      "description": "uyghur sentence pairs",
+      "sha256": "12a8bb09da1015d54ef2ae5e683e157c101a14f0aea21dccab24f01688381123",
+      "size_bytes": 839605,
+      "saved_at": "2026-05-18T00:11:47.806173+00:00"
+    },
+    {
+      "rel_path": "corpus/uyghur_words_a.json",
+      "kind": "json",
+      "description": "uyghur script-A word list",
+      "sha256": "227a5e19d2a3f0bc2e484369b6d789c7fdc707065799e184c0c3af6ac27ff221",
+      "size_bytes": 10524,
+      "saved_at": "2026-05-18T00:11:47.807128+00:00"
+    },
+    {
+      "rel_path": "corpus/uyghur_words_b.json",
+      "kind": "json",
+      "description": "uyghur script-B word list",
+      "sha256": "467e6e7126f8fc80edb5ef1bd53d531b2c516fa97d6980fb31757fbaf49b4f0a",
+      "size_bytes": 7110,
+      "saved_at": "2026-05-18T00:11:47.807871+00:00"
+    },
+    {
+      "rel_path": "corpus/uyghur_meta.json",
+      "kind": "json",
+      "description": "uyghur corpus metadata",
+      "sha256": "aeb53accbef3df4cba8e581e5861fd100bf175d98b2fd12d773a481f8b6dc903",
+      "size_bytes": 261,
+      "saved_at": "2026-05-18T00:11:47.808400+00:00"
+    },
+    {
+      "rel_path": "corpus/japanese_pairs.json",
+      "kind": "json",
+      "description": "japanese sentence pairs",
+      "sha256": "2315c1b14a7e5c1bba825c3aaef6ff73ef60829f1f8f79be3e3c0d2b1b391b95",
+      "size_bytes": 704974,
+      "saved_at": "2026-05-18T00:11:53.214384+00:00"
+    },
+    {
+      "rel_path": "corpus/japanese_words_a.json",
+      "kind": "json",
+      "description": "japanese script-A word list",
+      "sha256": "5cc9681b0ab83037439deac07708454072b919a669b905b47db192fce6e411e9",
+      "size_bytes": 16430,
+      "saved_at": "2026-05-18T00:11:53.216661+00:00"
+    },
+    {
+      "rel_path": "corpus/japanese_words_b.json",
+      "kind": "json",
+      "description": "japanese script-B word list",
+      "sha256": "654c76c301a7c1aeba1639eb5ccbc7f27e52af08fe01d746d3e8e9fd2106e0bf",
+      "size_bytes": 20902,
+      "saved_at": "2026-05-18T00:11:53.218630+00:00"
+    },
+    {
+      "rel_path": "corpus/japanese_meta.json",
+      "kind": "json",
+      "description": "japanese corpus metadata",
+      "sha256": "d311dc033ebbee6e81026e3887e305c56509f55f7abafb7594b35039865e361c",
+      "size_bytes": 262,
+      "saved_at": "2026-05-18T00:11:53.220087+00:00"
+    },
+    {
+      "rel_path": "corpus/dataset_index.json",
+      "kind": "json",
+      "description": "Dataset summary",
+      "sha256": "04f43b7480c1032eb4e78cbac5893c53f6667d3a181b5b9770705c7a75df6b10",
+      "size_bytes": 728,
+      "saved_at": "2026-05-18T00:11:53.222533+00:00"
+    },
+    {
+      "rel_path": "embeddings/xlm-r/kazakh_words_a.npz",
+      "kind": "npz",
+      "description": "xlm-r embeddings — kazakh (words_a)",
+      "sha256": "e9eadd2b81f338dbfba15e101847c6dbf47fe6ea0b5464f95d2bc42e58cec948",
+      "size_bytes": 9523503,
+      "saved_at": "2026-05-18T00:12:12.319989+00:00"
+    },
+    {
+      "rel_path": "embeddings/xlm-r/kazakh_words_b.npz",
+      "kind": "npz",
+      "description": "xlm-r embeddings — kazakh (words_b)",
+      "sha256": "25448329ce5db335c8954d9d26eff40a512c954c166b24038270f40a73098820",
+      "size_bytes": 9524383,
+      "saved_at": "2026-05-18T00:12:12.828790+00:00"
+    },
+    {
+      "rel_path": "embeddings/xlm-r/serbian_words_a.npz",
+      "kind": "npz",
+      "description": "xlm-r embeddings — serbian (words_a)",
+      "sha256": "c05f29580beae85e82f90cfaf37c3ca1e2bbc31f4433c46dae033d95b7865ffe",
+      "size_bytes": 9524388,
+      "saved_at": "2026-05-18T00:12:15.097810+00:00"
+    },
+    {
+      "rel_path": "embeddings/xlm-r/serbian_words_b.npz",
+      "kind": "npz",
+      "description": "xlm-r embeddings — serbian (words_b)",
+      "sha256": "d9821f94dbf136d9ac96fd3bb6c3c36f3e5121610d328aa66e0b2d75cd99a980",
+      "size_bytes": 9523820,
+      "saved_at": "2026-05-18T00:12:15.605768+00:00"
+    },
+    {
+      "rel_path": "embeddings/xlm-r/chinese_words_a.npz",
+      "kind": "npz",
+      "description": "xlm-r embeddings — chinese (words_a)",
+      "sha256": "1b1f2283311f818a7b7ade1c2f3c1cb9d19d9dcb73479bd44dfe2bec193b7530",
+      "size_bytes": 9526563,
+      "saved_at": "2026-05-18T00:12:18.316462+00:00"
+    },
+    {
+      "rel_path": "embeddings/xlm-r/chinese_words_b.npz",
+      "kind": "npz",
+      "description": "xlm-r embeddings — chinese (words_b)",
+      "sha256": "01c22bb68bb59a65c31db32827e77a621a12fe2c8c9c83f5133ea7669c0c01a8",
+      "size_bytes": 9526527,
+      "saved_at": "2026-05-18T00:12:18.843543+00:00"
+    },
+    {
+      "rel_path": "embeddings/xlm-r/uyghur_words_a.npz",
+      "kind": "npz",
+      "description": "xlm-r embeddings — uyghur (words_a)",
+      "sha256": "fc2a493686dba334350fe877eca36fdab4fbc1faac76a30ca3bd7dc630d9aeab",
+      "size_bytes": 9520742,
+      "saved_at": "2026-05-18T00:12:21.284883+00:00"
+    },
+    {
+      "rel_path": "embeddings/xlm-r/uyghur_words_b.npz",
+      "kind": "npz",
+      "description": "xlm-r embeddings — uyghur (words_b)",
+      "sha256": "09f100d35e50979b1368fb615a717ee1fe7923aaec898b413a546552e43841a0",
+      "size_bytes": 9522532,
+      "saved_at": "2026-05-18T00:12:21.797509+00:00"
+    },
+    {
+      "rel_path": "embeddings/xlm-r/japanese_words_a.npz",
+      "kind": "npz",
+      "description": "xlm-r embeddings — japanese (words_a)",
+      "sha256": "f395b10e1e1c199ba5b63118aab0f7137cd9001a2ec9062e35e60fd0db6f9a5e",
+      "size_bytes": 9526111,
+      "saved_at": "2026-05-18T00:12:28.603807+00:00"
+    },
+    {
+      "rel_path": "embeddings/xlm-r/japanese_words_b.npz",
+      "kind": "npz",
+      "description": "xlm-r embeddings — japanese (words_b)",
+      "sha256": "555ce637f373bae289911b4bae0681332f9d1d1fb9f9f94b253cb05935c78fae",
+      "size_bytes": 9524191,
+      "saved_at": "2026-05-18T00:12:29.109515+00:00"
+    },
+    {
+      "rel_path": "embeddings/xlm-r/hindi_urdu_words_a.npz",
+      "kind": "npz",
+      "description": "xlm-r embeddings — hindi_urdu (words_a)",
+      "sha256": "96920cfee7db03e3c42a82b85f90454069b4c515eacd2035a15f2d3e3e02ce3a",
+      "size_bytes": 9524376,
+      "saved_at": "2026-05-18T00:12:31.817906+00:00"
+    },
+    {
+      "rel_path": "embeddings/xlm-r/hindi_urdu_words_b.npz",
+      "kind": "npz",
+      "description": "xlm-r embeddings — hindi_urdu (words_b)",
+      "sha256": "1c6d79669ccac9cc864318cc6fec5b316b67e993bdfc9d8e9e1cfaeb23397586",
+      "size_bytes": 9519097,
+      "saved_at": "2026-05-18T00:12:32.349124+00:00"
+    },
+    {
+      "rel_path": "exp1/xlm-r_layerwise.json",
+      "kind": "json",
+      "description": "Exp 1 layer-wise cosine similarity — xlm-r",
+      "sha256": "3e08b0265693e910f11422da6de01b5ab84af6d93a574d96a0cad07a3886fd19",
+      "size_bytes": 3244,
+      "saved_at": "2026-05-18T00:12:32.362467+00:00"
+    },
+    {
+      "rel_path": "embeddings/byt5/kazakh_words_a.npz",
+      "kind": "npz",
+      "description": "byt5 embeddings — kazakh (words_a)",
+      "sha256": "cddffdf4f75da017328d7f32bdd13fff0c176dd4acf4d614b622ecef4af33dc7",
+      "size_bytes": 14327010,
+      "saved_at": "2026-05-18T00:13:16.476567+00:00"
+    },
+    {
+      "rel_path": "embeddings/byt5/kazakh_words_b.npz",
+      "kind": "npz",
+      "description": "byt5 embeddings — kazakh (words_b)",
+      "sha256": "e192eb7464bf79d19159a64b17ab66f0d90cde6b9f2924374e72601c4b992abf",
+      "size_bytes": 14327356,
+      "saved_at": "2026-05-18T00:13:17.259606+00:00"
+    },
+    {
+      "rel_path": "embeddings/byt5/serbian_words_a.npz",
+      "kind": "npz",
+      "description": "byt5 embeddings — serbian (words_a)",
+      "sha256": "068183966e8fdfb5019c54d661fdd4d8944cbf42891c44c2913dc88c8fc5f5db",
+      "size_bytes": 14326259,
+      "saved_at": "2026-05-18T00:13:27.832932+00:00"
+    },
+    {
+      "rel_path": "embeddings/byt5/serbian_words_b.npz",
+      "kind": "npz",
+      "description": "byt5 embeddings — serbian (words_b)",
+      "sha256": "8961da2295b79c4a4431e4175604356ac1b7efccb0d6dea38369a4b57701e59b",
+      "size_bytes": 14327209,
+      "saved_at": "2026-05-18T00:13:28.592273+00:00"
+    },
+    {
+      "rel_path": "embeddings/byt5/chinese_words_a.npz",
+      "kind": "npz",
+      "description": "byt5 embeddings — chinese (words_a)",
+      "sha256": "138c806ba081ce0c13255ffdf823586a7b3bc7f74aa86ddbfe70e0264c3d7eb5",
+      "size_bytes": 14326895,
+      "saved_at": "2026-05-18T00:13:39.494319+00:00"
+    },
+    {
+      "rel_path": "embeddings/byt5/chinese_words_b.npz",
+      "kind": "npz",
+      "description": "byt5 embeddings — chinese (words_b)",
+      "sha256": "81ed18039d2f8c97e412bef658bc3ed81e9d042869a44e0951f4b2e78b3ca704",
+      "size_bytes": 14326793,
+      "saved_at": "2026-05-18T00:13:40.251251+00:00"
+    },
+    {
+      "rel_path": "embeddings/byt5/uyghur_words_a.npz",
+      "kind": "npz",
+      "description": "byt5 embeddings — uyghur (words_a)",
+      "sha256": "53548d96af39bbfbabf41a451324f5c9c3aaa5e723a2766f630524498f25c74a",
+      "size_bytes": 14325331,
+      "saved_at": "2026-05-18T00:13:53.937069+00:00"
+    },
+    {
+      "rel_path": "embeddings/byt5/uyghur_words_b.npz",
+      "kind": "npz",
+      "description": "byt5 embeddings — uyghur (words_b)",
+      "sha256": "8bf4b5c0804304dd95120894586da7e4b3d46f2bf89d41302531ac0520a2db2b",
+      "size_bytes": 14325863,
+      "saved_at": "2026-05-18T00:13:54.695673+00:00"
+    },
+    {
+      "rel_path": "embeddings/byt5/japanese_words_a.npz",
+      "kind": "npz",
+      "description": "byt5 embeddings — japanese (words_a)",
+      "sha256": "1b2b118c5463460418711882ef3d48142c585915701e8f1ebc95d83a8867e81a",
+      "size_bytes": 14334985,
+      "saved_at": "2026-05-18T00:14:48.294475+00:00"
+    },
+    {
+      "rel_path": "embeddings/byt5/japanese_words_b.npz",
+      "kind": "npz",
+      "description": "byt5 embeddings — japanese (words_b)",
+      "sha256": "6d2e17fa2cf22710ea8a9fe211e1fc444d7876daff27598ff6dce8bc36b85998",
+      "size_bytes": 14337021,
+      "saved_at": "2026-05-18T00:14:49.049890+00:00"
+    },
+    {
+      "rel_path": "embeddings/byt5/hindi_urdu_words_a.npz",
+      "kind": "npz",
+      "description": "byt5 embeddings — hindi_urdu (words_a)",
+      "sha256": "6d583d09e7a9501ea4f70002d28a16559dc32c043889c2ea02729030bfba369d",
+      "size_bytes": 14325634,
+      "saved_at": "2026-05-18T00:15:04.024048+00:00"
+    },
+    {
+      "rel_path": "embeddings/byt5/hindi_urdu_words_b.npz",
+      "kind": "npz",
+      "description": "byt5 embeddings — hindi_urdu (words_b)",
+      "sha256": "c3d9942364ae9b88b914dc61558d7e790de60a21d4d3d0cbe4b18f4ded70eb93",
+      "size_bytes": 14325602,
+      "saved_at": "2026-05-18T00:15:04.781261+00:00"
+    },
+    {
+      "rel_path": "exp1/byt5_layerwise.json",
+      "kind": "json",
+      "description": "Exp 1 layer-wise cosine similarity — byt5",
+      "sha256": "3e01a573b5a70bf99a32cc46052f660d5abe96f0aa516bcfdd750e9e65e702c9",
+      "size_bytes": 3218,
+      "saved_at": "2026-05-18T00:15:04.798385+00:00"
+    },
+    {
+      "rel_path": "embeddings/mt5/kazakh_words_a.npz",
+      "kind": "npz",
+      "description": "mt5 embeddings — kazakh (words_a)",
+      "sha256": "28dda75130b31d261947db2461e5bbd7692087fc6c8cbc1fc01b2559d727297e",
+      "size_bytes": 9569850,
+      "saved_at": "2026-05-18T00:16:03.759144+00:00"
+    },
+    {
+      "rel_path": "embeddings/mt5/kazakh_words_b.npz",
+      "kind": "npz",
+      "description": "mt5 embeddings — kazakh (words_b)",
+      "sha256": "bea929f43917f881d71c3f54e011afa5f10c2eaf7971f9be095691ec8e823123",
+      "size_bytes": 9568529,
+      "saved_at": "2026-05-18T00:16:04.297163+00:00"
+    },
+    {
+      "rel_path": "embeddings/mt5/serbian_words_a.npz",
+      "kind": "npz",
+      "description": "mt5 embeddings — serbian (words_a)",
+      "sha256": "284bdd2cfc159acf633d1748fca7fa612bcaccab19120d466db1e3c1e628c7bd",
+      "size_bytes": 9570792,
+      "saved_at": "2026-05-18T00:16:06.767656+00:00"
+    },
+    {
+      "rel_path": "embeddings/mt5/serbian_words_b.npz",
+      "kind": "npz",
+      "description": "mt5 embeddings — serbian (words_b)",
+      "sha256": "12b0d5fec2c81a36b440f1ffba0f43fb2424d87936bb5888adeb187570d88953",
+      "size_bytes": 9572088,
+      "saved_at": "2026-05-18T00:16:07.272474+00:00"
+    },
+    {
+      "rel_path": "embeddings/mt5/chinese_words_a.npz",
+      "kind": "npz",
+      "description": "mt5 embeddings — chinese (words_a)",
+      "sha256": "e18655ffcbeac69472f4ec03d2fb55a8cf306a33e5fe2b2a45138609ed14796a",
+      "size_bytes": 9573331,
+      "saved_at": "2026-05-18T00:16:09.645725+00:00"
+    },
+    {
+      "rel_path": "embeddings/mt5/chinese_words_b.npz",
+      "kind": "npz",
+      "description": "mt5 embeddings — chinese (words_b)",
+      "sha256": "c9f60d8f41f11e408a1106160fc5bc5c2fa0add6ea251fc0f92bf8893f8e6a13",
+      "size_bytes": 9573384,
+      "saved_at": "2026-05-18T00:16:10.162343+00:00"
+    },
+    {
+      "rel_path": "embeddings/mt5/uyghur_words_a.npz",
+      "kind": "npz",
+      "description": "mt5 embeddings — uyghur (words_a)",
+      "sha256": "eaa023046c9f0f393e874dd02e8cc231b7f580c94364d1a25ca855c33a65c7b2",
+      "size_bytes": 9567471,
+      "saved_at": "2026-05-18T00:16:13.140373+00:00"
+    },
+    {
+      "rel_path": "embeddings/mt5/uyghur_words_b.npz",
+      "kind": "npz",
+      "description": "mt5 embeddings — uyghur (words_b)",
+      "sha256": "e91b3427c53c07e13800c7418387013f6e390a1fd5ef8312914b8eff251c4938",
+      "size_bytes": 9565586,
+      "saved_at": "2026-05-18T00:16:13.666600+00:00"
+    },
+    {
+      "rel_path": "embeddings/mt5/japanese_words_a.npz",
+      "kind": "npz",
+      "description": "mt5 embeddings — japanese (words_a)",
+      "sha256": "13b3f6ff90a2cf3ab4c073daecebde0a776f1a0b860621a676d211f624720bfd",
+      "size_bytes": 9572221,
+      "saved_at": "2026-05-18T00:16:21.105596+00:00"
+    },
+    {
+      "rel_path": "embeddings/mt5/japanese_words_b.npz",
+      "kind": "npz",
+      "description": "mt5 embeddings — japanese (words_b)",
+      "sha256": "47d845372428c3a3f0a2d97e109345a2abb76240574e0d2befd1368acc570653",
+      "size_bytes": 9572846,
+      "saved_at": "2026-05-18T00:16:21.629214+00:00"
+    },
+    {
+      "rel_path": "embeddings/mt5/hindi_urdu_words_a.npz",
+      "kind": "npz",
+      "description": "mt5 embeddings — hindi_urdu (words_a)",
+      "sha256": "9129590f58a10a4ba100b3e721e019473f2388329754ead5eb4c55b130f71a50",
+      "size_bytes": 9569938,
+      "saved_at": "2026-05-18T00:16:24.470299+00:00"
+    },
+    {
+      "rel_path": "embeddings/mt5/hindi_urdu_words_b.npz",
+      "kind": "npz",
+      "description": "mt5 embeddings — hindi_urdu (words_b)",
+      "sha256": "b53bb8cf4f8a00e5b126f0fe29d393b555d63b5d11a549d55ec6fb22ce90afae",
+      "size_bytes": 9570402,
+      "saved_at": "2026-05-18T00:16:24.969289+00:00"
+    },
+    {
+      "rel_path": "exp1/mt5_layerwise.json",
+      "kind": "json",
+      "description": "Exp 1 layer-wise cosine similarity — mt5",
+      "sha256": "177b4337d4b3c5aaf518fe60ef42820715cb2267dd5e853021a6d8cfac5738ec",
+      "size_bytes": 3243,
+      "saved_at": "2026-05-18T00:16:24.982714+00:00"
+    },
+    {
+      "rel_path": "exp1/all_layerwise.json",
+      "kind": "json",
+      "description": "Exp 1 layer-wise cosine similarity — all models",
+      "sha256": "99e8069af2e1c45a6ef4f4abbb17341aecd0b89c3912d5b8fff95f9f4210155c",
+      "size_bytes": 10721,
+      "saved_at": "2026-05-18T00:16:25.092160+00:00"
+    },
+    {
+      "rel_path": "figures/exp1_layerwise.pdf",
+      "kind": "pdf",
+      "description": "Exp 1 figure",
+      "sha256": "f5ecde9da38b834d9cd3bbf8cc7caa6e7716c29177b7c9235d2341fca99f90d6",
+      "size_bytes": 36917,
+      "saved_at": "2026-05-18T00:16:26.275727+00:00"
+    },
+    {
+      "rel_path": "embeddings/xlm-r/kazakh_sents.npz",
+      "kind": "npz",
+      "description": "xlm-r embeddings — kazakh (sents)",
+      "sha256": "01853db6adf68b3fff8160e0d602d2587ec7a859aaf158102b869ece986c6014",
+      "size_bytes": 15227422,
+      "saved_at": "2026-05-18T00:17:34.991879+00:00"
+    },
+    {
+      "rel_path": "embeddings/xlm-r/serbian_sents.npz",
+      "kind": "npz",
+      "description": "xlm-r embeddings — serbian (sents)",
+      "sha256": "f78e7798e841a004d60b122a13ae59dcfaaf5f72b6ef52b954563b46fd91fe50",
+      "size_bytes": 15219970,
+      "saved_at": "2026-05-18T00:18:15.856303+00:00"
+    },
+    {
+      "rel_path": "embeddings/xlm-r/chinese_sents.npz",
+      "kind": "npz",
+      "description": "xlm-r embeddings — chinese (sents)",
+      "sha256": "02df2eb5829b5ad48acdad74e0d533faa915487a148619cf69b596984df1f1db",
+      "size_bytes": 15038439,
+      "saved_at": "2026-05-18T00:19:16.713487+00:00"
+    },
+    {
+      "rel_path": "embeddings/xlm-r/uyghur_sents.npz",
+      "kind": "npz",
+      "description": "xlm-r embeddings — uyghur (sents)",
+      "sha256": "f6fb7a1316544b1ca2d5adb750667f6f8fa629d5b28bae4ab70a3ef9ecec6615",
+      "size_bytes": 15172214,
+      "saved_at": "2026-05-18T00:20:31.502825+00:00"
+    },
+    {
+      "rel_path": "embeddings/xlm-r/japanese_sents.npz",
+      "kind": "npz",
+      "description": "xlm-r embeddings — japanese (sents)",
+      "sha256": "a6ba07567d3ec347422959a22146e0f8664eb0686615568b6bdacb6bfd4da65d",
+      "size_bytes": 15194420,
+      "saved_at": "2026-05-18T00:21:43.262385+00:00"
+    },
+    {
+      "rel_path": "embeddings/xlm-r/hindi_urdu_sents.npz",
+      "kind": "npz",
+      "description": "xlm-r embeddings — hindi_urdu (sents)",
+      "sha256": "671663f303581d6ba6f4d3ef0edd865ed1c73d75c4655547ee35072e92876690",
+      "size_bytes": 15221543,
+      "saved_at": "2026-05-18T00:22:51.816835+00:00"
+    },
+    {
+      "rel_path": "exp2/xlm-r_silhouette.json",
+      "kind": "json",
+      "description": "Exp 2 silhouette scores — xlm-r",
+      "sha256": "17a2d56412149b8ddf952a5ebbec70e7aea1a351deb70003feecf4c2f4dd97e9",
+      "size_bytes": 168,
+      "saved_at": "2026-05-18T00:22:51.818832+00:00"
+    },
+    {
+      "rel_path": "embeddings/byt5/kazakh_sents.npz",
+      "kind": "npz",
+      "description": "byt5 embeddings — kazakh (sents)",
+      "sha256": "07b8fd24b9c6fadf3b44ee72dbbb17d427c4451c9d563978cf0d030493846a37",
+      "size_bytes": 22815801,
+      "saved_at": "2026-05-18T00:28:09.998521+00:00"
+    },
+    {
+      "rel_path": "embeddings/byt5/serbian_sents.npz",
+      "kind": "npz",
+      "description": "byt5 embeddings — serbian (sents)",
+      "sha256": "8fa3e9e01c4332709e5ebc17c752b1a0fd0a03104342812634d653a5510215e1",
+      "size_bytes": 22793330,
+      "saved_at": "2026-05-18T00:33:17.177274+00:00"
+    },
+    {
+      "rel_path": "embeddings/byt5/chinese_sents.npz",
+      "kind": "npz",
+      "description": "byt5 embeddings — chinese (sents)",
+      "sha256": "d8dc7ade7beeba09e14b24d323616e208c863082a564414b075bb6e98504b1e4",
+      "size_bytes": 22508832,
+      "saved_at": "2026-05-18T00:38:17.968327+00:00"
+    },
+    {
+      "rel_path": "embeddings/byt5/uyghur_sents.npz",
+      "kind": "npz",
+      "description": "byt5 embeddings — uyghur (sents)",
+      "sha256": "84fc90230c85ce9f6c08a48e45448f3e89978b9046d854f54131c3831181a0d6",
+      "size_bytes": 22779838,
+      "saved_at": "2026-05-18T00:43:31.854126+00:00"
+    },
+    {
+      "rel_path": "embeddings/byt5/japanese_sents.npz",
+      "kind": "npz",
+      "description": "byt5 embeddings — japanese (sents)",
+      "sha256": "550b9c5c75d3909bffc49fabbd410bede07d0343a8f67b7481edce57c366c0a2",
+      "size_bytes": 22735458,
+      "saved_at": "2026-05-18T00:48:38.762937+00:00"
+    },
+    {
+      "rel_path": "embeddings/byt5/hindi_urdu_sents.npz",
+      "kind": "npz",
+      "description": "byt5 embeddings — hindi_urdu (sents)",
+      "sha256": "49f40bfc4ad59ea216be08f6d9ce35e29e26682267703713e9d1f4c7b01c7ae5",
+      "size_bytes": 22809437,
+      "saved_at": "2026-05-18T00:53:46.829200+00:00"
+    },
+    {
+      "rel_path": "exp2/byt5_silhouette.json",
+      "kind": "json",
+      "description": "Exp 2 silhouette scores — byt5",
+      "sha256": "033c78d21edad7ae797a995b78e58d3bde8c04498c8bc9a0d4ee94a4e91e0e62",
+      "size_bytes": 168,
+      "saved_at": "2026-05-18T00:53:46.831122+00:00"
+    },
+    {
+      "rel_path": "embeddings/mt5/kazakh_sents.npz",
+      "kind": "npz",
+      "description": "mt5 embeddings — kazakh (sents)",
+      "sha256": "7b4f49e8fbb49d988fe9b5a20342f822fe231eb124248cae24aa8a444e3f96bc",
+      "size_bytes": 15237738,
+      "saved_at": "2026-05-18T00:54:59.140258+00:00"
+    },
+    {
+      "rel_path": "embeddings/mt5/serbian_sents.npz",
+      "kind": "npz",
+      "description": "mt5 embeddings — serbian (sents)",
+      "sha256": "75aa076404d1f7a46861825fe86d040c67b4fd0d4458808e5a2cb0773d77d62b",
+      "size_bytes": 15221452,
+      "saved_at": "2026-05-18T00:55:47.839724+00:00"
+    },
+    {
+      "rel_path": "embeddings/mt5/chinese_sents.npz",
+      "kind": "npz",
+      "description": "mt5 embeddings — chinese (sents)",
+      "sha256": "f708f42011acdaf26353eb1f88580be4eba900e8e440db8fd97f2b6584ab1b86",
+      "size_bytes": 15045140,
+      "saved_at": "2026-05-18T00:56:55.978992+00:00"
+    },
+    {
+      "rel_path": "embeddings/mt5/uyghur_sents.npz",
+      "kind": "npz",
+      "description": "mt5 embeddings — uyghur (sents)",
+      "sha256": "d2e9a04be546ba78020cf15ffd3907b126d9e943f894ce9a33dd3865b401ef56",
+      "size_bytes": 15194595,
+      "saved_at": "2026-05-18T00:58:34.226687+00:00"
+    },
+    {
+      "rel_path": "embeddings/mt5/japanese_sents.npz",
+      "kind": "npz",
+      "description": "mt5 embeddings — japanese (sents)",
+      "sha256": "fb898147c4e480186c89290bc0f25642c68c90a0269fbdfb4492308e93609c73",
+      "size_bytes": 15192288,
+      "saved_at": "2026-05-18T00:59:48.565046+00:00"
+    },
+    {
+      "rel_path": "embeddings/mt5/hindi_urdu_sents.npz",
+      "kind": "npz",
+      "description": "mt5 embeddings — hindi_urdu (sents)",
+      "sha256": "d59e46e2147af9505a7b4d6f044d8e41b6661adf4056bf0ad367628805b3b676",
+      "size_bytes": 15240557,
+      "saved_at": "2026-05-18T01:01:11.994806+00:00"
+    },
+    {
+      "rel_path": "exp2/mt5_silhouette.json",
+      "kind": "json",
+      "description": "Exp 2 silhouette scores — mt5",
+      "sha256": "e2e23f62338a836e0283ef34381ed00c4808ea6e2d21247277992b9eb7610b99",
+      "size_bytes": 169,
+      "saved_at": "2026-05-18T01:01:11.996669+00:00"
+    },
+    {
+      "rel_path": "figures/exp2_umap.pdf",
+      "kind": "pdf",
+      "description": "Exp 2 UMAP figure",
+      "sha256": "9fb37557036619ed83b8b7d9de50059b0e3afb77df45bada07b7d691b04244d1",
+      "size_bytes": 1134876,
+      "saved_at": "2026-05-18T01:08:00.577314+00:00"
+    },
+    {
+      "rel_path": "exp2/umap_coordinates.json",
+      "kind": "json",
+      "description": "Exp 2 UMAP 2D coordinates",
+      "sha256": "90ba7663f267debf938dbdf5d6d37e8339a7fae10bfe011ad663125b5e8bc601",
+      "size_bytes": 5141081,
+      "saved_at": "2026-05-18T01:08:02.131397+00:00"
+    },
+    {
+      "rel_path": "exp2/silhouette_scores.csv",
+      "kind": "csv",
+      "description": "Exp 2 silhouette scores — all models",
+      "sha256": "c15660bf0c03c8bb4f4425f8d74497b4a77e0aa8a9c4d87ef362614918f2bdb3",
+      "size_bytes": 369,
+      "saved_at": "2026-05-18T01:08:02.147009+00:00"
+    },
+    {
+      "rel_path": "figures/exp2_silhouette_heatmap.pdf",
+      "kind": "pdf",
+      "description": "Exp 2 silhouette heatmap",
+      "sha256": "98053bf12151da8524d7524d4cf27f59aa1a38d6d33a448d9fb5d27ad300a3d9",
+      "size_bytes": 26137,
+      "saved_at": "2026-05-18T01:08:02.409997+00:00"
+    },
+    {
+      "rel_path": "exp3/xlm-r_kazakh_per_pair.json",
+      "kind": "json",
+      "description": "Exp 3 MLM per-pair logits — kazakh",
+      "sha256": "83e7e54fd68771ca8201df241c62dd15e196fed9df091c1f253e9262758e4f00",
+      "size_bytes": 106619,
+      "saved_at": "2026-05-18T01:08:17.055666+00:00"
+    },
+    {
+      "rel_path": "exp3/xlm-r_serbian_per_pair.json",
+      "kind": "json",
+      "description": "Exp 3 MLM per-pair logits — serbian",
+      "sha256": "5dd731fcf8a8b53577ae497be60d84e47f15f67412105f93ada1520a36cffb7b",
+      "size_bytes": 105600,
+      "saved_at": "2026-05-18T01:08:26.614661+00:00"
+    },
+    {
+      "rel_path": "exp3/xlm-r_chinese_per_pair.json",
+      "kind": "json",
+      "description": "Exp 3 MLM per-pair logits — chinese",
+      "sha256": "013c3b2720b22f9ba8e16246d344546be3ffd9b5a4aaec87d4c406751418c2ec",
+      "size_bytes": 102712,
+      "saved_at": "2026-05-18T01:08:36.167077+00:00"
+    },
+    {
+      "rel_path": "exp3/xlm-r_uyghur_per_pair.json",
+      "kind": "json",
+      "description": "Exp 3 MLM per-pair logits — uyghur",
+      "sha256": "695deb02f2935e1b8230ed567f216d6d8567e62bf2c967c40a3a5971b2a23425",
+      "size_bytes": 106413,
+      "saved_at": "2026-05-18T01:08:45.945870+00:00"
+    },
+    {
+      "rel_path": "exp3/xlm-r_japanese_per_pair.json",
+      "kind": "json",
+      "description": "Exp 3 MLM per-pair logits — japanese",
+      "sha256": "4d61a7d3a1d78f2974ddea4907ce9490d41ed32b34b045950757828ebedaf0e6",
+      "size_bytes": 123797,
+      "saved_at": "2026-05-18T01:08:55.897102+00:00"
+    },
+    {
+      "rel_path": "exp3/xlm-r_hindi_urdu_per_pair.json",
+      "kind": "json",
+      "description": "Exp 3 MLM per-pair logits — hindi_urdu",
+      "sha256": "ffc2db258d21a7ae2b7818fb74839070507f79e720396a57815514108972aab3",
+      "size_bytes": 107637,
+      "saved_at": "2026-05-18T01:09:05.282765+00:00"
+    },
+    {
+      "rel_path": "exp3/xlm-r_aggregate.json",
+      "kind": "json",
+      "description": "Exp 3 MLM aggregate script preference",
+      "sha256": "4b6b55ab8afa3f8b52de6bda8617fd05664506ea3f8906f69275e0c3da3a7422",
+      "size_bytes": 337,
+      "saved_at": "2026-05-18T01:09:05.284481+00:00"
+    },
+    {
+      "rel_path": "embeddings/xlm-r/kazakh_retrieval_q.npz",
+      "kind": "npz",
+      "description": "xlm-r embeddings — kazakh (retrieval_q)",
+      "sha256": "8d52888f4ceccc6b13f2185990f3a774bce867b42b5ee0bf892dc61bdd2ccc4b",
+      "size_bytes": 1905162,
+      "saved_at": "2026-05-18T01:11:48.500625+00:00"
+    },
+    {
+      "rel_path": "embeddings/xlm-r/kazakh_retrieval_k.npz",
+      "kind": "npz",
+      "description": "xlm-r embeddings — kazakh (retrieval_k)",
+      "sha256": "82647e7c22987eb2e7cb97cfa31a44f004ea9401929023ce6a5b980967335231",
+      "size_bytes": 38039393,
+      "saved_at": "2026-05-18T01:11:50.554141+00:00"
+    },
+    {
+      "rel_path": "exp4/xlm-r_kazakh_pool.json",
+      "kind": "json",
+      "description": "Exp 4 retrieval pool — xlm-r × kazakh",
+      "sha256": "690a6af9c9a0449d957dcdefd94e165daccdc398a4dc122328966d2508a9fd0c",
+      "size_bytes": 1331594,
+      "saved_at": "2026-05-18T01:11:50.574451+00:00"
+    },
+    {
+      "rel_path": "exp4/xlm-r_kazakh_per_query.json",
+      "kind": "json",
+      "description": "Exp 4 per-query ranks — xlm-r × kazakh",
+      "sha256": "27c870930b30976aec84a6025e6e8ddbdf73a419ef0766dfcb7aec437c8b02b8",
+      "size_bytes": 40194,
+      "saved_at": "2026-05-18T01:11:50.816103+00:00"
+    },
+    {
+      "rel_path": "embeddings/xlm-r/serbian_retrieval_q.npz",
+      "kind": "npz",
+      "description": "xlm-r embeddings — serbian (retrieval_q)",
+      "sha256": "aace97731f5e818e2f759f958eaec8c646269f0ed0285fff64bd4aeca0534357",
+      "size_bytes": 1900237,
+      "saved_at": "2026-05-18T01:13:34.984564+00:00"
+    },
+    {
+      "rel_path": "embeddings/xlm-r/serbian_retrieval_k.npz",
+      "kind": "npz",
+      "description": "xlm-r embeddings — serbian (retrieval_k)",
+      "sha256": "4d64278b54ec3edcd493c70f24093d5e89db8b70b67e37f357e3774bd8aa9fb6",
+      "size_bytes": 38060298,
+      "saved_at": "2026-05-18T01:13:37.032174+00:00"
+    },
+    {
+      "rel_path": "exp4/xlm-r_serbian_pool.json",
+      "kind": "json",
+      "description": "Exp 4 retrieval pool — xlm-r × serbian",
+      "sha256": "0463db98a057b2dff036120704cca2a8ba429e7f442cfe6a09c41fbf6a8d20bd",
+      "size_bytes": 1221372,
+      "saved_at": "2026-05-18T01:13:37.051028+00:00"
+    },
+    {
+      "rel_path": "exp4/xlm-r_serbian_per_query.json",
+      "kind": "json",
+      "description": "Exp 4 per-query ranks — xlm-r × serbian",
+      "sha256": "90461cf8b8cef762e575b3b1886bdd34d21004969d8b3a51a193498397bafaf6",
+      "size_bytes": 32940,
+      "saved_at": "2026-05-18T01:13:37.336984+00:00"
+    },
+    {
+      "rel_path": "embeddings/xlm-r/chinese_retrieval_q.npz",
+      "kind": "npz",
+      "description": "xlm-r embeddings — chinese (retrieval_q)",
+      "sha256": "c73feb60532a994081eb9d44baa104fa43ae8864e39d37c043abe6b2653b9775",
+      "size_bytes": 1890331,
+      "saved_at": "2026-05-18T01:16:14.625687+00:00"
+    },
+    {
+      "rel_path": "embeddings/xlm-r/chinese_retrieval_k.npz",
+      "kind": "npz",
+      "description": "xlm-r embeddings — chinese (retrieval_k)",
+      "sha256": "abec3bd468ee8654dbdef19f64f6192de7556ded8bcdc7b9aecf5ba1471c4cda",
+      "size_bytes": 37567137,
+      "saved_at": "2026-05-18T01:16:16.656689+00:00"
+    },
+    {
+      "rel_path": "exp4/xlm-r_chinese_pool.json",
+      "kind": "json",
+      "description": "Exp 4 retrieval pool — xlm-r × chinese",
+      "sha256": "6819829a23203fc51953db52f27f4d239e717c62122beebd02a97b83cb590adc",
+      "size_bytes": 1353748,
+      "saved_at": "2026-05-18T01:16:16.675404+00:00"
+    },
+    {
+      "rel_path": "exp4/xlm-r_chinese_per_query.json",
+      "kind": "json",
+      "description": "Exp 4 per-query ranks — xlm-r × chinese",
+      "sha256": "fd3206968bfa619d92e22c01fae68388dc7e1598921943e6a8174246635616c0",
+      "size_bytes": 31244,
+      "saved_at": "2026-05-18T01:16:16.876192+00:00"
+    },
+    {
+      "rel_path": "embeddings/xlm-r/uyghur_retrieval_q.npz",
+      "kind": "npz",
+      "description": "xlm-r embeddings — uyghur (retrieval_q)",
+      "sha256": "a6d382cf016aebfe75a548e1896da6c3a257631ac3bf16945f7206b4762eda49",
+      "size_bytes": 1896006,
+      "saved_at": "2026-05-18T01:19:36.059982+00:00"
+    },
+    {
+      "rel_path": "embeddings/xlm-r/uyghur_retrieval_k.npz",
+      "kind": "npz",
+      "description": "xlm-r embeddings — uyghur (retrieval_k)",
+      "sha256": "cf113f60aa4b9f865536e371b5dbd89257f783d37d19f9d085ec415e643a649b",
+      "size_bytes": 37965974,
+      "saved_at": "2026-05-18T01:19:38.115796+00:00"
+    },
+    {
+      "rel_path": "exp4/xlm-r_uyghur_pool.json",
+      "kind": "json",
+      "description": "Exp 4 retrieval pool — xlm-r × uyghur",
+      "sha256": "87fce412cf685b1301b309cc6ace0c7c1a1f87b60c31b8c765f62d3b71219546",
+      "size_bytes": 1655291,
+      "saved_at": "2026-05-18T01:19:38.140685+00:00"
+    },
+    {
+      "rel_path": "exp4/xlm-r_uyghur_per_query.json",
+      "kind": "json",
+      "description": "Exp 4 per-query ranks — xlm-r × uyghur",
+      "sha256": "f2dcca12af56d33eb7def373c97d73e38aee88ffdfbaf2d9bc26b42c38bc7b07",
+      "size_bytes": 39898,
+      "saved_at": "2026-05-18T01:19:38.374138+00:00"
+    },
+    {
+      "rel_path": "embeddings/xlm-r/japanese_retrieval_q.npz",
+      "kind": "npz",
+      "description": "xlm-r embeddings — japanese (retrieval_q)",
+      "sha256": "b325c3dda6d795975b1c65ff0ec1d83d5fb2116495649db11d48385aa77a93c0",
+      "size_bytes": 1904976,
+      "saved_at": "2026-05-18T01:23:00.475966+00:00"
+    },
+    {
+      "rel_path": "embeddings/xlm-r/japanese_retrieval_k.npz",
+      "kind": "npz",
+      "description": "xlm-r embeddings — japanese (retrieval_k)",
+      "sha256": "0cb54d07e3bda357fd807709864a029688a8de6b315d8867b5f51d31f68aded6",
+      "size_bytes": 37965038,
+      "saved_at": "2026-05-18T01:23:02.565145+00:00"
+    },
+    {
+      "rel_path": "exp4/xlm-r_japanese_pool.json",
+      "kind": "json",
+      "description": "Exp 4 retrieval pool — xlm-r × japanese",
+      "sha256": "c7fb34265816151544d9b684a0a1beb5116aaa2e25d976f6615a954d41451923",
+      "size_bytes": 2016050,
+      "saved_at": "2026-05-18T01:23:02.586667+00:00"
+    },
+    {
+      "rel_path": "exp4/xlm-r_japanese_per_query.json",
+      "kind": "json",
+      "description": "Exp 4 per-query ranks — xlm-r × japanese",
+      "sha256": "32935404c2c4b02be31bde90bbcfdf4c6600f6898d173aaf3763def8738dd62c",
+      "size_bytes": 37407,
+      "saved_at": "2026-05-18T01:23:02.846151+00:00"
+    },
+    {
+      "rel_path": "embeddings/xlm-r/hindi_urdu_retrieval_q.npz",
+      "kind": "npz",
+      "description": "xlm-r embeddings — hindi_urdu (retrieval_q)",
+      "sha256": "85c82b348a198d59cae4b031238dabb154cba7be577c4a0211bb6881e6fbe7ba",
+      "size_bytes": 1903603,
+      "saved_at": "2026-05-18T01:26:55.760614+00:00"
+    },
+    {
+      "rel_path": "embeddings/xlm-r/hindi_urdu_retrieval_k.npz",
+      "kind": "npz",
+      "description": "xlm-r embeddings — hindi_urdu (retrieval_k)",
+      "sha256": "5597838a803127ec272260a57a28f4f96461cf2ec972b860d477783ad0a051fc",
+      "size_bytes": 38038357,
+      "saved_at": "2026-05-18T01:26:57.834239+00:00"
+    },
+    {
+      "rel_path": "exp4/xlm-r_hindi_urdu_pool.json",
+      "kind": "json",
+      "description": "Exp 4 retrieval pool — xlm-r × hindi_urdu",
+      "sha256": "a5fea1161498479596d1b4fb82a5a28568d9bb61c65dc0818c28913aef47ffb5",
+      "size_bytes": 1677924,
+      "saved_at": "2026-05-18T01:26:57.860783+00:00"
+    },
+    {
+      "rel_path": "exp4/xlm-r_hindi_urdu_per_query.json",
+      "kind": "json",
+      "description": "Exp 4 per-query ranks — xlm-r × hindi_urdu",
+      "sha256": "cf7d9f8b7afe86695313f9c13d8b25eaa2f98278b54ae3625b5316fcdce72c88",
+      "size_bytes": 40127,
+      "saved_at": "2026-05-18T01:26:58.081950+00:00"
+    },
+    {
+      "rel_path": "exp4/xlm-r_mrr.json",
+      "kind": "json",
+      "description": "Exp 4 MRR — xlm-r",
+      "sha256": "2257b6719868f09dd57cfef95d858452903953e7e5113d1e466922ced3554795",
+      "size_bytes": 209,
+      "saved_at": "2026-05-18T01:26:58.084450+00:00"
+    },
+    {
+      "rel_path": "embeddings/byt5/kazakh_retrieval_q.npz",
+      "kind": "npz",
+      "description": "byt5 embeddings — kazakh (retrieval_q)",
+      "sha256": "fd9b095d93ee1db31ce4e7487f2c28385e87ecb697685b117c1c810f0b2541fc",
+      "size_bytes": 2853168,
+      "saved_at": "2026-05-18T01:40:17.600247+00:00"
+    },
+    {
+      "rel_path": "embeddings/byt5/kazakh_retrieval_k.npz",
+      "kind": "npz",
+      "description": "byt5 embeddings — kazakh (retrieval_k)",
+      "sha256": "59d28c2ba31513dee3807664a9a9303ad58942125ea594709f12b494a4426ff4",
+      "size_bytes": 57018652,
+      "saved_at": "2026-05-18T01:40:20.715658+00:00"
+    },
+    {
+      "rel_path": "exp4/byt5_kazakh_pool.json",
+      "kind": "json",
+      "description": "Exp 4 retrieval pool — byt5 × kazakh",
+      "sha256": "690a6af9c9a0449d957dcdefd94e165daccdc398a4dc122328966d2508a9fd0c",
+      "size_bytes": 1331594,
+      "saved_at": "2026-05-18T01:40:20.736221+00:00"
+    },
+    {
+      "rel_path": "exp4/byt5_kazakh_per_query.json",
+      "kind": "json",
+      "description": "Exp 4 per-query ranks — byt5 × kazakh",
+      "sha256": "73b05a064e90bcba9e8b3f97df0102a115c03e90a50148bbd9f932fec0047c8c",
+      "size_bytes": 38088,
+      "saved_at": "2026-05-18T01:40:20.972828+00:00"
+    },
+    {
+      "rel_path": "embeddings/byt5/serbian_retrieval_q.npz",
+      "kind": "npz",
+      "description": "byt5 embeddings — serbian (retrieval_q)",
+      "sha256": "3eb00a49c13740ba7267f14a53ce9f2cc509d23ee4399ba3e130db512bccfad1",
+      "size_bytes": 2842025,
+      "saved_at": "2026-05-18T01:53:32.489252+00:00"
+    },
+    {
+      "rel_path": "embeddings/byt5/serbian_retrieval_k.npz",
+      "kind": "npz",
+      "description": "byt5 embeddings — serbian (retrieval_k)",
+      "sha256": "25516cd630f9a5662fa90fba4c2f660b1832e6bd5c9d9286f8d1e0a26dfdf0bf",
+      "size_bytes": 56991858,
+      "saved_at": "2026-05-18T01:53:35.572867+00:00"
+    },
+    {
+      "rel_path": "exp4/byt5_serbian_pool.json",
+      "kind": "json",
+      "description": "Exp 4 retrieval pool — byt5 × serbian",
+      "sha256": "0463db98a057b2dff036120704cca2a8ba429e7f442cfe6a09c41fbf6a8d20bd",
+      "size_bytes": 1221372,
+      "saved_at": "2026-05-18T01:53:35.592540+00:00"
+    },
+    {
+      "rel_path": "exp4/byt5_serbian_per_query.json",
+      "kind": "json",
+      "description": "Exp 4 per-query ranks — byt5 × serbian",
+      "sha256": "c2f67b6f29bd732341c452c8f981ce2af802cd2190036dad086a486ea7ce121c",
+      "size_bytes": 33632,
+      "saved_at": "2026-05-18T01:53:35.828064+00:00"
+    },
+    {
+      "rel_path": "embeddings/byt5/chinese_retrieval_q.npz",
+      "kind": "npz",
+      "description": "byt5 embeddings — chinese (retrieval_q)",
+      "sha256": "5b06b32e390f05a9dc9e6fa566c1f434429d0f88bca93ca8b6a3e9bad07df2c3",
+      "size_bytes": 2830883,
+      "saved_at": "2026-05-18T02:06:40.410917+00:00"
+    },
+    {
+      "rel_path": "embeddings/byt5/chinese_retrieval_k.npz",
+      "kind": "npz",
+      "description": "byt5 embeddings — chinese (retrieval_k)",
+      "sha256": "451d0a7b9def04614512b3d9f582df17a01bde9bc11d6b80464767fb3e72e277",
+      "size_bytes": 56215190,
+      "saved_at": "2026-05-18T02:06:43.473437+00:00"
+    },
+    {
+      "rel_path": "exp4/byt5_chinese_pool.json",
+      "kind": "json",
+      "description": "Exp 4 retrieval pool — byt5 × chinese",
+      "sha256": "6819829a23203fc51953db52f27f4d239e717c62122beebd02a97b83cb590adc",
+      "size_bytes": 1353748,
+      "saved_at": "2026-05-18T02:06:43.491912+00:00"
+    },
+    {
+      "rel_path": "exp4/byt5_chinese_per_query.json",
+      "kind": "json",
+      "description": "Exp 4 per-query ranks — byt5 × chinese",
+      "sha256": "f63a73afb6ce861ce47339346afce030fd91da9592a005e64d37fb11241d3863",
+      "size_bytes": 31413,
+      "saved_at": "2026-05-18T02:06:43.729520+00:00"
+    },
+    {
+      "rel_path": "embeddings/byt5/uyghur_retrieval_q.npz",
+      "kind": "npz",
+      "description": "byt5 embeddings — uyghur (retrieval_q)",
+      "sha256": "5d763d250f35064373ca0668073f3d32017ead9ab11a27b9428d5a065a8c23b7",
+      "size_bytes": 2853015,
+      "saved_at": "2026-05-18T02:20:06.811729+00:00"
+    },
+    {
+      "rel_path": "embeddings/byt5/uyghur_retrieval_k.npz",
+      "kind": "npz",
+      "description": "byt5 embeddings — uyghur (retrieval_k)",
+      "sha256": "7d8f341d1e3840981138c3470b8e371314d15d88517d8b68f25fbfa32b58127f",
+      "size_bytes": 56953129,
+      "saved_at": "2026-05-18T02:20:09.937269+00:00"
+    },
+    {
+      "rel_path": "exp4/byt5_uyghur_pool.json",
+      "kind": "json",
+      "description": "Exp 4 retrieval pool — byt5 × uyghur",
+      "sha256": "87fce412cf685b1301b309cc6ace0c7c1a1f87b60c31b8c765f62d3b71219546",
+      "size_bytes": 1655291,
+      "saved_at": "2026-05-18T02:20:09.962506+00:00"
+    },
+    {
+      "rel_path": "exp4/byt5_uyghur_per_query.json",
+      "kind": "json",
+      "description": "Exp 4 per-query ranks — byt5 × uyghur",
+      "sha256": "1230c2abca44c536c98cf9a8408a830cce411ce90c43a7af225e0f9d153e1b96",
+      "size_bytes": 40037,
+      "saved_at": "2026-05-18T02:20:10.209337+00:00"
+    },
+    {
+      "rel_path": "embeddings/byt5/japanese_retrieval_q.npz",
+      "kind": "npz",
+      "description": "byt5 embeddings — japanese (retrieval_q)",
+      "sha256": "3c49d465bfe28eeac31aa3d7ed06a5ff155d38a577060da11a4dc734c844523f",
+      "size_bytes": 2853535,
+      "saved_at": "2026-05-18T02:33:40.353721+00:00"
+    },
+    {
+      "rel_path": "embeddings/byt5/japanese_retrieval_k.npz",
+      "kind": "npz",
+      "description": "byt5 embeddings — japanese (retrieval_k)",
+      "sha256": "3463c79165b565c22229d0962f90bee01ec3bd415ba6d5da224062ff984909b1",
+      "size_bytes": 56802939,
+      "saved_at": "2026-05-18T02:33:43.448375+00:00"
+    },
+    {
+      "rel_path": "exp4/byt5_japanese_pool.json",
+      "kind": "json",
+      "description": "Exp 4 retrieval pool — byt5 × japanese",
+      "sha256": "c7fb34265816151544d9b684a0a1beb5116aaa2e25d976f6615a954d41451923",
+      "size_bytes": 2016050,
+      "saved_at": "2026-05-18T02:33:43.469939+00:00"
+    },
+    {
+      "rel_path": "exp4/byt5_japanese_per_query.json",
+      "kind": "json",
+      "description": "Exp 4 per-query ranks — byt5 × japanese",
+      "sha256": "8c7dff5d249a3e291e1118544c14b6e6d6b2c7a7bdaecf0b560e14d3680aa772",
+      "size_bytes": 37424,
+      "saved_at": "2026-05-18T02:33:43.715531+00:00"
+    },
+    {
+      "rel_path": "embeddings/byt5/hindi_urdu_retrieval_q.npz",
+      "kind": "npz",
+      "description": "byt5 embeddings — hindi_urdu (retrieval_q)",
+      "sha256": "a14f7e7442334043f04c7cd3211a3a6ccb8d1452363b37c3f91ffd9a8d56d1da",
+      "size_bytes": 2851409,
+      "saved_at": "2026-05-18T02:47:08.271056+00:00"
+    },
+    {
+      "rel_path": "embeddings/byt5/hindi_urdu_retrieval_k.npz",
+      "kind": "npz",
+      "description": "byt5 embeddings — hindi_urdu (retrieval_k)",
+      "sha256": "f4c1ef281a57f0fe9cff5e2bd063605fe412559fed2caa68bdd8ce6597193031",
+      "size_bytes": 57024199,
+      "saved_at": "2026-05-18T02:47:11.382104+00:00"
+    },
+    {
+      "rel_path": "exp4/byt5_hindi_urdu_pool.json",
+      "kind": "json",
+      "description": "Exp 4 retrieval pool — byt5 × hindi_urdu",
+      "sha256": "a5fea1161498479596d1b4fb82a5a28568d9bb61c65dc0818c28913aef47ffb5",
+      "size_bytes": 1677924,
+      "saved_at": "2026-05-18T02:47:11.403655+00:00"
+    },
+    {
+      "rel_path": "exp4/byt5_hindi_urdu_per_query.json",
+      "kind": "json",
+      "description": "Exp 4 per-query ranks — byt5 × hindi_urdu",
+      "sha256": "d99a27eaff6ee74545224be2b16bd7e1e192d12d7007a9bce87cb073225470b9",
+      "size_bytes": 39465,
+      "saved_at": "2026-05-18T02:47:11.642100+00:00"
+    },
+    {
+      "rel_path": "exp4/byt5_mrr.json",
+      "kind": "json",
+      "description": "Exp 4 MRR — byt5",
+      "sha256": "793452457fd2609abe6251bfc94a6b219e200c972231da77dac4771dcf2b4aeb",
+      "size_bytes": 211,
+      "saved_at": "2026-05-18T02:47:11.645223+00:00"
+    },
+    {
+      "rel_path": "embeddings/mt5/kazakh_retrieval_q.npz",
+      "kind": "npz",
+      "description": "mt5 embeddings — kazakh (retrieval_q)",
+      "sha256": "dc4db7dabfb488406d8358ccad43c7da7b91d427e771ed6dcc11422bf6bd917f",
+      "size_bytes": 1905765,
+      "saved_at": "2026-05-18T02:50:11.376061+00:00"
+    },
+    {
+      "rel_path": "embeddings/mt5/kazakh_retrieval_k.npz",
+      "kind": "npz",
+      "description": "mt5 embeddings — kazakh (retrieval_k)",
+      "sha256": "94bac0eee7ffce382a245a0545a5633392ed8cc5019ded97066803c8f95c7cc0",
+      "size_bytes": 38074334,
+      "saved_at": "2026-05-18T02:50:13.491335+00:00"
+    },
+    {
+      "rel_path": "exp4/mt5_kazakh_pool.json",
+      "kind": "json",
+      "description": "Exp 4 retrieval pool — mt5 × kazakh",
+      "sha256": "690a6af9c9a0449d957dcdefd94e165daccdc398a4dc122328966d2508a9fd0c",
+      "size_bytes": 1331594,
+      "saved_at": "2026-05-18T02:50:13.512395+00:00"
+    },
+    {
+      "rel_path": "exp4/mt5_kazakh_per_query.json",
+      "kind": "json",
+      "description": "Exp 4 per-query ranks — mt5 × kazakh",
+      "sha256": "e0a5ad37ce7e6a89442445408403cbf396bc56527128a03da4835e4c3fc8f425",
+      "size_bytes": 36783,
+      "saved_at": "2026-05-18T02:50:13.728934+00:00"
+    },
+    {
+      "rel_path": "embeddings/mt5/serbian_retrieval_q.npz",
+      "kind": "npz",
+      "description": "mt5 embeddings — serbian (retrieval_q)",
+      "sha256": "9e8c28b1368c18ff13bd4c93b5043909628705c77592269b76708131db05ba47",
+      "size_bytes": 1901127,
+      "saved_at": "2026-05-18T02:52:20.026574+00:00"
+    },
+    {
+      "rel_path": "embeddings/mt5/serbian_retrieval_k.npz",
+      "kind": "npz",
+      "description": "mt5 embeddings — serbian (retrieval_k)",
+      "sha256": "aa607c97b70d55d1fd3f4742fb3c03f616738cd64f3088fa4d03e00e184193f4",
+      "size_bytes": 38051392,
+      "saved_at": "2026-05-18T02:52:22.109857+00:00"
+    },
+    {
+      "rel_path": "exp4/mt5_serbian_pool.json",
+      "kind": "json",
+      "description": "Exp 4 retrieval pool — mt5 × serbian",
+      "sha256": "0463db98a057b2dff036120704cca2a8ba429e7f442cfe6a09c41fbf6a8d20bd",
+      "size_bytes": 1221372,
+      "saved_at": "2026-05-18T02:52:22.130024+00:00"
+    },
+    {
+      "rel_path": "exp4/mt5_serbian_per_query.json",
+      "kind": "json",
+      "description": "Exp 4 per-query ranks — mt5 × serbian",
+      "sha256": "fe3045b8d0010cd452a57f715b53610892c2e9bb8f6fb99a0e675325994043f6",
+      "size_bytes": 31861,
+      "saved_at": "2026-05-18T02:52:22.331651+00:00"
+    },
+    {
+      "rel_path": "embeddings/mt5/chinese_retrieval_q.npz",
+      "kind": "npz",
+      "description": "mt5 embeddings — chinese (retrieval_q)",
+      "sha256": "e878c25df173cbc6a0dbfec2d6c493a07877920af54a223e9eb802c0b6625836",
+      "size_bytes": 1889541,
+      "saved_at": "2026-05-18T02:55:18.903462+00:00"
+    },
+    {
+      "rel_path": "embeddings/mt5/chinese_retrieval_k.npz",
+      "kind": "npz",
+      "description": "mt5 embeddings — chinese (retrieval_k)",
+      "sha256": "ddf149f881ae0fcc822f884f22d832fea1bd60fdb49be94a260e9c78625ad5d6",
+      "size_bytes": 37573883,
+      "saved_at": "2026-05-18T02:55:20.946892+00:00"
+    },
+    {
+      "rel_path": "exp4/mt5_chinese_pool.json",
+      "kind": "json",
+      "description": "Exp 4 retrieval pool — mt5 × chinese",
+      "sha256": "6819829a23203fc51953db52f27f4d239e717c62122beebd02a97b83cb590adc",
+      "size_bytes": 1353748,
+      "saved_at": "2026-05-18T02:55:20.965707+00:00"
+    },
+    {
+      "rel_path": "exp4/mt5_chinese_per_query.json",
+      "kind": "json",
+      "description": "Exp 4 per-query ranks — mt5 × chinese",
+      "sha256": "a448af964f021f9b885d1aa406fab5b5335998dffe824e12bd64b07ba1440d85",
+      "size_bytes": 31338,
+      "saved_at": "2026-05-18T02:55:21.163613+00:00"
+    },
+    {
+      "rel_path": "embeddings/mt5/uyghur_retrieval_q.npz",
+      "kind": "npz",
+      "description": "mt5 embeddings — uyghur (retrieval_q)",
+      "sha256": "e7c78593a6da7be5091bf072a0e3adc3f7a9a8b9018c8d07ca95b45228e4e396",
+      "size_bytes": 1900300,
+      "saved_at": "2026-05-18T02:59:07.769077+00:00"
+    },
+    {
+      "rel_path": "embeddings/mt5/uyghur_retrieval_k.npz",
+      "kind": "npz",
+      "description": "mt5 embeddings — uyghur (retrieval_k)",
+      "sha256": "c7ce7e795aca136a8323d6a36b50c2aca44fd95a3754d56c1aed4d895a7b4df7",
+      "size_bytes": 37994768,
+      "saved_at": "2026-05-18T02:59:09.827784+00:00"
+    },
+    {
+      "rel_path": "exp4/mt5_uyghur_pool.json",
+      "kind": "json",
+      "description": "Exp 4 retrieval pool — mt5 × uyghur",
+      "sha256": "87fce412cf685b1301b309cc6ace0c7c1a1f87b60c31b8c765f62d3b71219546",
+      "size_bytes": 1655291,
+      "saved_at": "2026-05-18T02:59:09.852630+00:00"
+    },
+    {
+      "rel_path": "exp4/mt5_uyghur_per_query.json",
+      "kind": "json",
+      "description": "Exp 4 per-query ranks — mt5 × uyghur",
+      "sha256": "b175624438c2748fee4b16337c8ed11f0e6758746e730cc5668af8687d754772",
+      "size_bytes": 39571,
+      "saved_at": "2026-05-18T02:59:10.038676+00:00"
+    },
+    {
+      "rel_path": "embeddings/mt5/japanese_retrieval_q.npz",
+      "kind": "npz",
+      "description": "mt5 embeddings — japanese (retrieval_q)",
+      "sha256": "e387e52e775c648c34d724be8d4ae6b99a0164f2457213e25e15dbe664921788",
+      "size_bytes": 1903700,
+      "saved_at": "2026-05-18T03:02:39.255464+00:00"
+    },
+    {
+      "rel_path": "embeddings/mt5/japanese_retrieval_k.npz",
+      "kind": "npz",
+      "description": "mt5 embeddings — japanese (retrieval_k)",
+      "sha256": "8482fffec0a2bd17b34b161aae4ba25fa11a22f5e2205b46ebcf74e2a2dab88d",
+      "size_bytes": 37977105,
+      "saved_at": "2026-05-18T03:02:41.318486+00:00"
+    },
+    {
+      "rel_path": "exp4/mt5_japanese_pool.json",
+      "kind": "json",
+      "description": "Exp 4 retrieval pool — mt5 × japanese",
+      "sha256": "c7fb34265816151544d9b684a0a1beb5116aaa2e25d976f6615a954d41451923",
+      "size_bytes": 2016050,
+      "saved_at": "2026-05-18T03:02:41.342495+00:00"
+    },
+    {
+      "rel_path": "exp4/mt5_japanese_per_query.json",
+      "kind": "json",
+      "description": "Exp 4 per-query ranks — mt5 × japanese",
+      "sha256": "7d1217a2c87673981864db4d4341e6a28858ad46c216604f8395a6e2ab778955",
+      "size_bytes": 34413,
+      "saved_at": "2026-05-18T03:02:41.536208+00:00"
+    },
+    {
+      "rel_path": "embeddings/mt5/hindi_urdu_retrieval_q.npz",
+      "kind": "npz",
+      "description": "mt5 embeddings — hindi_urdu (retrieval_q)",
+      "sha256": "ae0ca064f1431529a7e5bcbd6b802f6117d57f17beb1fe752ba57375c98da2ff",
+      "size_bytes": 1906419,
+      "saved_at": "2026-05-18T03:07:10.372720+00:00"
+    },
+    {
+      "rel_path": "embeddings/mt5/hindi_urdu_retrieval_k.npz",
+      "kind": "npz",
+      "description": "mt5 embeddings — hindi_urdu (retrieval_k)",
+      "sha256": "ad9b7c513664a175d8d9c7e842068888aad5057038e52301120d86e6c84cb69d",
+      "size_bytes": 38083207,
+      "saved_at": "2026-05-18T03:07:12.483706+00:00"
+    },
+    {
+      "rel_path": "exp4/mt5_hindi_urdu_pool.json",
+      "kind": "json",
+      "description": "Exp 4 retrieval pool — mt5 × hindi_urdu",
+      "sha256": "a5fea1161498479596d1b4fb82a5a28568d9bb61c65dc0818c28913aef47ffb5",
+      "size_bytes": 1677924,
+      "saved_at": "2026-05-18T03:07:12.505417+00:00"
+    },
+    {
+      "rel_path": "exp4/mt5_hindi_urdu_per_query.json",
+      "kind": "json",
+      "description": "Exp 4 per-query ranks — mt5 × hindi_urdu",
+      "sha256": "d13d8f54b85ccebf2e20a34119b226edcd5e7561289cb2df87ec648dfa4941e9",
+      "size_bytes": 38862,
+      "saved_at": "2026-05-18T03:07:12.705990+00:00"
+    },
+    {
+      "rel_path": "exp4/mt5_mrr.json",
+      "kind": "json",
+      "description": "Exp 4 MRR — mt5",
+      "sha256": "5b10a83c2081ad01e6a254344b21825273d4f8641302be1e7e7737d94113ae31",
+      "size_bytes": 207,
+      "saved_at": "2026-05-18T03:07:12.709607+00:00"
+    },
+    {
+      "rel_path": "exp4/all_mrr.json",
+      "kind": "json",
+      "description": "Exp 4 MRR — all models",
+      "sha256": "41bd31dc885c70510640ca5ca1107db645c0d8fd3d870ca4672df77bceac2077",
+      "size_bytes": 707,
+      "saved_at": "2026-05-18T03:07:12.878876+00:00"
+    },
+    {
+      "rel_path": "exp5/decomposition.csv",
+      "kind": "csv",
+      "description": "Exp 5 causal decomposition table",
+      "sha256": "ca2138bdb3c8ddb1e26fc481844d38e0d1f7e74490cb8d022d372111fe4d0536",
+      "size_bytes": 384,
+      "saved_at": "2026-05-18T03:07:13.000935+00:00"
+    },
+    {
+      "rel_path": "exp5/decomposition.json",
+      "kind": "json",
+      "description": "Exp 5 causal decomposition (JSON)",
+      "sha256": "19ea6897335cc9bc90b6c138d84efe1e847e34a2b09fbe54dc96a77cee8fcdb4",
+      "size_bytes": 1449,
+      "saved_at": "2026-05-18T03:07:13.003054+00:00"
+    },
+    {
+      "rel_path": "figures/exp5_decomposition_heatmaps.pdf",
+      "kind": "pdf",
+      "description": "Exp 5 causal decomposition heatmaps",
+      "sha256": "16c7f82600de37ca3a0257325f7794ced8bd4ecf44f914ea93c6df577f83b371",
+      "size_bytes": 29800,
+      "saved_at": "2026-05-18T03:07:13.454943+00:00"
+    },
+    {
+      "rel_path": "embeddings/xlm-r/kazakh_int_query.npz",
+      "kind": "npz",
+      "description": "xlm-r embeddings — kazakh (int_query)",
+      "sha256": "8d52888f4ceccc6b13f2185990f3a774bce867b42b5ee0bf892dc61bdd2ccc4b",
+      "size_bytes": 1905162,
+      "saved_at": "2026-05-18T03:09:56.422546+00:00"
+    },
+    {
+      "rel_path": "embeddings/xlm-r/kazakh_int_key_baseline.npz",
+      "kind": "npz",
+      "description": "xlm-r embeddings — kazakh (int_key_baseline)",
+      "sha256": "82647e7c22987eb2e7cb97cfa31a44f004ea9401929023ce6a5b980967335231",
+      "size_bytes": 38039393,
+      "saved_at": "2026-05-18T03:09:58.490320+00:00"
+    },
+    {
+      "rel_path": "embeddings/xlm-r/kazakh_int_key_norm.npz",
+      "kind": "npz",
+      "description": "xlm-r embeddings — kazakh (int_key_norm)",
+      "sha256": "82647e7c22987eb2e7cb97cfa31a44f004ea9401929023ce6a5b980967335231",
+      "size_bytes": 38039393,
+      "saved_at": "2026-05-18T03:12:34.174476+00:00"
+    },
+    {
+      "rel_path": "exp6/kazakh_norm_texts.json",
+      "kind": "json",
+      "description": "Exp 6 normalised texts — kazakh",
+      "sha256": "ed969227125c4083c21960a93957db408ba6f57c2cb7b18283440d52ffe5667d",
+      "size_bytes": 2458656,
+      "saved_at": "2026-05-18T03:12:34.211693+00:00"
+    },
+    {
+      "rel_path": "exp6/kazakh_per_query.json",
+      "kind": "json",
+      "description": "Exp 6 per-query ranks — kazakh",
+      "sha256": "cd1b1d88310f817112b2a64c565c53d244be01db62acfebe4f29e462ea6a5c3d",
+      "size_bytes": 90428,
+      "saved_at": "2026-05-18T04:19:11.464794+00:00"
+    },
+    {
+      "rel_path": "exp6/kazakh_layer_mrrs.json",
+      "kind": "json",
+      "description": "Exp 6 layer-wise MRR — kazakh",
+      "sha256": "73bf268d14a90de6ced4607b3efeeef6dc34ea7294700ff3c72363b4cd1d3b2d",
+      "size_bytes": 592,
+      "saved_at": "2026-05-18T04:19:11.467404+00:00"
+    },
+    {
+      "rel_path": "exp6/kazakh_results.json",
+      "kind": "json",
+      "description": "Exp 6 full intervention results — kazakh",
+      "sha256": "3b9d9902b7786275f091992946b4262c70fd7b232b927ecd8f835ff23a0c1434",
+      "size_bytes": 963,
+      "saved_at": "2026-05-18T04:19:11.469619+00:00"
+    },
+    {
+      "rel_path": "embeddings/xlm-r/serbian_int_query.npz",
+      "kind": "npz",
+      "description": "xlm-r embeddings — serbian (int_query)",
+      "sha256": "aace97731f5e818e2f759f958eaec8c646269f0ed0285fff64bd4aeca0534357",
+      "size_bytes": 1900237,
+      "saved_at": "2026-05-18T04:20:55.719062+00:00"
+    },
+    {
+      "rel_path": "embeddings/xlm-r/serbian_int_key_baseline.npz",
+      "kind": "npz",
+      "description": "xlm-r embeddings — serbian (int_key_baseline)",
+      "sha256": "4d64278b54ec3edcd493c70f24093d5e89db8b70b67e37f357e3774bd8aa9fb6",
+      "size_bytes": 38060298,
+      "saved_at": "2026-05-18T04:20:57.762689+00:00"
+    },
+    {
+      "rel_path": "embeddings/xlm-r/serbian_int_key_norm.npz",
+      "kind": "npz",
+      "description": "xlm-r embeddings — serbian (int_key_norm)",
+      "sha256": "4d64278b54ec3edcd493c70f24093d5e89db8b70b67e37f357e3774bd8aa9fb6",
+      "size_bytes": 38060298,
+      "saved_at": "2026-05-18T04:22:39.111951+00:00"
+    },
+    {
+      "rel_path": "exp6/serbian_norm_texts.json",
+      "kind": "json",
+      "description": "Exp 6 normalised texts — serbian",
+      "sha256": "6be2d0cdf8da3b524210904577097147d7bfab1660bf230a8af32b0f7fb55967",
+      "size_bytes": 2261026,
+      "saved_at": "2026-05-18T04:22:39.147194+00:00"
+    },
+    {
+      "rel_path": "exp6/serbian_per_query.json",
+      "kind": "json",
+      "description": "Exp 6 per-query ranks — serbian",
+      "sha256": "f9e47e837a6cdd57fa6d886b92c8b028c1e7ac92e27181ecb7e5f1c194694803",
+      "size_bytes": 75920,
+      "saved_at": "2026-05-18T05:06:51.281222+00:00"
+    },
+    {
+      "rel_path": "exp6/serbian_layer_mrrs.json",
+      "kind": "json",
+      "description": "Exp 6 layer-wise MRR — serbian",
+      "sha256": "d42eb68439558729c6b8abe4563340f9961eb57fcb1f154525769cd9bf29739c",
+      "size_bytes": 562,
+      "saved_at": "2026-05-18T05:06:51.283573+00:00"
+    },
+    {
+      "rel_path": "exp6/serbian_results.json",
+      "kind": "json",
+      "description": "Exp 6 full intervention results — serbian",
+      "sha256": "703b9367e0bb47ac10b3a7d30789afa3c0190fc2c88ef37f0ea669ca553fbcc3",
+      "size_bytes": 929,
+      "saved_at": "2026-05-18T05:06:51.285554+00:00"
+    },
+    {
+      "rel_path": "embeddings/xlm-r/chinese_int_query.npz",
+      "kind": "npz",
+      "description": "xlm-r embeddings — chinese (int_query)",
+      "sha256": "c73feb60532a994081eb9d44baa104fa43ae8864e39d37c043abe6b2653b9775",
+      "size_bytes": 1890331,
+      "saved_at": "2026-05-18T05:09:28.728926+00:00"
+    },
+    {
+      "rel_path": "embeddings/xlm-r/chinese_int_key_baseline.npz",
+      "kind": "npz",
+      "description": "xlm-r embeddings — chinese (int_key_baseline)",
+      "sha256": "abec3bd468ee8654dbdef19f64f6192de7556ded8bcdc7b9aecf5ba1471c4cda",
+      "size_bytes": 37567137,
+      "saved_at": "2026-05-18T05:09:30.743114+00:00"
+    },
+    {
+      "rel_path": "embeddings/xlm-r/chinese_int_key_norm.npz",
+      "kind": "npz",
+      "description": "xlm-r embeddings — chinese (int_key_norm)",
+      "sha256": "af0ac52b3eac581d3f86d9a0c9226e85774762911f466d2eb70a52f6793643b7",
+      "size_bytes": 37552174,
+      "saved_at": "2026-05-18T05:12:01.588251+00:00"
+    },
+    {
+      "rel_path": "exp6/chinese_norm_texts.json",
+      "kind": "json",
+      "description": "Exp 6 normalised texts — chinese",
+      "sha256": "69b6f61b591e4d5d26e147a906897b994b67ae1285f85e0d4637b98a1ba44655",
+      "size_bytes": 2571846,
+      "saved_at": "2026-05-18T05:12:01.621659+00:00"
+    },
+    {
+      "rel_path": "exp6/chinese_per_query.json",
+      "kind": "json",
+      "description": "Exp 6 per-query ranks — chinese",
+      "sha256": "d6b8a759221bb01c529c22487dc6c2e80e2880da5bbdcbd78f46e77d5ebe8072",
+      "size_bytes": 72655,
+      "saved_at": "2026-05-18T06:18:32.066409+00:00"
+    },
+    {
+      "rel_path": "exp6/chinese_layer_mrrs.json",
+      "kind": "json",
+      "description": "Exp 6 layer-wise MRR — chinese",
+      "sha256": "eb3355fa3d4ef4023f36d6add044e501ea11ac6e1284838a7a5036216839176e",
+      "size_bytes": 559,
+      "saved_at": "2026-05-18T06:18:32.068757+00:00"
+    },
+    {
+      "rel_path": "exp6/chinese_results.json",
+      "kind": "json",
+      "description": "Exp 6 full intervention results — chinese",
+      "sha256": "d0b1151b9b768e18cd89b630b8e3017a341acdde4c45364f841de1f705b4704a",
+      "size_bytes": 921,
+      "saved_at": "2026-05-18T06:18:32.070792+00:00"
+    },
+    {
+      "rel_path": "embeddings/xlm-r/uyghur_int_query.npz",
+      "kind": "npz",
+      "description": "xlm-r embeddings — uyghur (int_query)",
+      "sha256": "a6d382cf016aebfe75a548e1896da6c3a257631ac3bf16945f7206b4762eda49",
+      "size_bytes": 1896006,
+      "saved_at": "2026-05-18T06:21:51.072884+00:00"
+    },
+    {
+      "rel_path": "embeddings/xlm-r/uyghur_int_key_baseline.npz",
+      "kind": "npz",
+      "description": "xlm-r embeddings — uyghur (int_key_baseline)",
+      "sha256": "cf113f60aa4b9f865536e371b5dbd89257f783d37d19f9d085ec415e643a649b",
+      "size_bytes": 37965974,
+      "saved_at": "2026-05-18T06:21:53.189208+00:00"
+    },
+    {
+      "rel_path": "embeddings/xlm-r/uyghur_int_key_norm.npz",
+      "kind": "npz",
+      "description": "xlm-r embeddings — uyghur (int_key_norm)",
+      "sha256": "7bc2d9826b4c4722275041d496c59f3dbdbe0e3fe7ba73cf2c0add86608888e1",
+      "size_bytes": 37954298,
+      "saved_at": "2026-05-18T06:25:40.541023+00:00"
+    },
+    {
+      "rel_path": "exp6/uyghur_norm_texts.json",
+      "kind": "json",
+      "description": "Exp 6 normalised texts — uyghur",
+      "sha256": "efb4f535394ad4bf29355943a39455bbf4cb6654413ec3abbc38a05bec6db5cc",
+      "size_bytes": 3116441,
+      "saved_at": "2026-05-18T06:25:40.587239+00:00"
+    },
+    {
+      "rel_path": "exp6/uyghur_per_query.json",
+      "kind": "json",
+      "description": "Exp 6 per-query ranks — uyghur",
+      "sha256": "cab57b99b7599e57336cfd7d07486075155309d9b306c8596a872aa20fb26069",
+      "size_bytes": 89967,
+      "saved_at": "2026-05-18T07:50:00.593381+00:00"
+    },
+    {
+      "rel_path": "exp6/uyghur_layer_mrrs.json",
+      "kind": "json",
+      "description": "Exp 6 layer-wise MRR — uyghur",
+      "sha256": "32e8073b0880ffd9e58225885dbfec841571197291a51872e9c3d0112743315f",
+      "size_bytes": 582,
+      "saved_at": "2026-05-18T07:50:00.596007+00:00"
+    },
+    {
+      "rel_path": "exp6/uyghur_results.json",
+      "kind": "json",
+      "description": "Exp 6 full intervention results — uyghur",
+      "sha256": "d08e0b4d616c58e7113d73a3588a162a3dda0a10517ffde79ad26729d67a208c",
+      "size_bytes": 953,
+      "saved_at": "2026-05-18T07:50:00.598445+00:00"
+    },
+    {
+      "rel_path": "embeddings/xlm-r/japanese_int_query.npz",
+      "kind": "npz",
+      "description": "xlm-r embeddings — japanese (int_query)",
+      "sha256": "b325c3dda6d795975b1c65ff0ec1d83d5fb2116495649db11d48385aa77a93c0",
+      "size_bytes": 1904976,
+      "saved_at": "2026-05-18T07:53:22.684197+00:00"
+    },
+    {
+      "rel_path": "embeddings/xlm-r/japanese_int_key_baseline.npz",
+      "kind": "npz",
+      "description": "xlm-r embeddings — japanese (int_key_baseline)",
+      "sha256": "0cb54d07e3bda357fd807709864a029688a8de6b315d8867b5f51d31f68aded6",
+      "size_bytes": 37965038,
+      "saved_at": "2026-05-18T07:53:24.752144+00:00"
+    },
+    {
+      "rel_path": "embeddings/xlm-r/japanese_int_key_norm.npz",
+      "kind": "npz",
+      "description": "xlm-r embeddings — japanese (int_key_norm)",
+      "sha256": "0cb54d07e3bda357fd807709864a029688a8de6b315d8867b5f51d31f68aded6",
+      "size_bytes": 37965038,
+      "saved_at": "2026-05-18T07:56:49.283430+00:00"
+    },
+    {
+      "rel_path": "exp6/japanese_norm_texts.json",
+      "kind": "json",
+      "description": "Exp 6 normalised texts — japanese",
+      "sha256": "eb25ceceeb0ecb559e50c75fbc7d837df98612b207c57f4f0e3aa4a4df18f704",
+      "size_bytes": 3849046,
+      "saved_at": "2026-05-18T07:56:49.322435+00:00"
+    },
+    {
+      "rel_path": "exp6/japanese_per_query.json",
+      "kind": "json",
+      "description": "Exp 6 per-query ranks — japanese",
+      "sha256": "a2f1a2be5115164d12dd5ae4ce7e83fa4a3e3a1a9ec649c36d2c48d427dce1c4",
+      "size_bytes": 84854,
+      "saved_at": "2026-05-18T09:22:30.248931+00:00"
+    },
+    {
+      "rel_path": "exp6/japanese_layer_mrrs.json",
+      "kind": "json",
+      "description": "Exp 6 layer-wise MRR — japanese",
+      "sha256": "cdea21a66cf2cda22917d8e18d966c1c8ea086ba115e9b698f74dfc09aa5f647",
+      "size_bytes": 568,
+      "saved_at": "2026-05-18T09:22:30.251538+00:00"
+    },
+    {
+      "rel_path": "exp6/japanese_results.json",
+      "kind": "json",
+      "description": "Exp 6 full intervention results — japanese",
+      "sha256": "540c92b15f728f47fd336f9c400713aa1452b2e950777dbd8f12969f3a0f5ad4",
+      "size_bytes": 932,
+      "saved_at": "2026-05-18T09:22:30.253908+00:00"
+    },
+    {
+      "rel_path": "embeddings/xlm-r/hindi_urdu_int_query.npz",
+      "kind": "npz",
+      "description": "xlm-r embeddings — hindi_urdu (int_query)",
+      "sha256": "85c82b348a198d59cae4b031238dabb154cba7be577c4a0211bb6881e6fbe7ba",
+      "size_bytes": 1903603,
+      "saved_at": "2026-05-18T09:26:22.879477+00:00"
+    },
+    {
+      "rel_path": "embeddings/xlm-r/hindi_urdu_int_key_baseline.npz",
+      "kind": "npz",
+      "description": "xlm-r embeddings — hindi_urdu (int_key_baseline)",
+      "sha256": "5597838a803127ec272260a57a28f4f96461cf2ec972b860d477783ad0a051fc",
+      "size_bytes": 38038357,
+      "saved_at": "2026-05-18T09:26:24.944043+00:00"
+    },
+    {
+      "rel_path": "embeddings/xlm-r/hindi_urdu_int_key_norm.npz",
+      "kind": "npz",
+      "description": "xlm-r embeddings — hindi_urdu (int_key_norm)",
+      "sha256": "9507c92570f7f28bf973830880ffe1dc8e4adea07eecafebd63017c19fd5ed9a",
+      "size_bytes": 38039888,
+      "saved_at": "2026-05-18T09:30:23.798950+00:00"
+    },
+    {
+      "rel_path": "exp6/hindi_urdu_norm_texts.json",
+      "kind": "json",
+      "description": "Exp 6 normalised texts — hindi_urdu",
+      "sha256": "e51a59c253b593ea994d83368a73fb80a1a7d3fb4bd70e1a782868efa48dd41e",
+      "size_bytes": 3175676,
+      "saved_at": "2026-05-18T09:30:23.838289+00:00"
+    },
+    {
+      "rel_path": "exp6/hindi_urdu_per_query.json",
+      "kind": "json",
+      "description": "Exp 6 per-query ranks — hindi_urdu",
+      "sha256": "0a3c752b27e998b55e85b5d05d06e4ef123af301a3d0716aebb4894a48181544",
+      "size_bytes": 90298,
+      "saved_at": "2026-05-18T11:08:34.739326+00:00"
+    },
+    {
+      "rel_path": "exp6/hindi_urdu_layer_mrrs.json",
+      "kind": "json",
+      "description": "Exp 6 layer-wise MRR — hindi_urdu",
+      "sha256": "191839ba604a3d946613c06003a03d38ce17eef807217d78258d3d15e63511bc",
+      "size_bytes": 596,
+      "saved_at": "2026-05-18T11:08:34.741935+00:00"
+    },
+    {
+      "rel_path": "exp6/hindi_urdu_results.json",
+      "kind": "json",
+      "description": "Exp 6 full intervention results — hindi_urdu",
+      "sha256": "ce2d7f11db5f5c2eea8409208a3c8220fcd3b721547b9d8f867c2a67bddd4189",
+      "size_bytes": 968,
+      "saved_at": "2026-05-18T11:08:34.744236+00:00"
+    },
+    {
+      "rel_path": "exp6/all_results.json",
+      "kind": "json",
+      "description": "Exp 6 all intervention results",
+      "sha256": "7137dfb851987e7a1abc33f06290b4188e085b7a5679dc5200eb3c6e2de92385",
+      "size_bytes": 6192,
+      "saved_at": "2026-05-18T11:08:34.746909+00:00"
+    },
+    {
+      "rel_path": "figures/exp6_interventions.pdf",
+      "kind": "pdf",
+      "description": "Exp 6 intervention bar chart",
+      "sha256": "4b453f74af67e6278c7a546653e0fde08dc79273077336dced3044a159c8b24f",
+      "size_bytes": 26089,
+      "saved_at": "2026-05-18T11:08:35.037116+00:00"
+    },
+    {
+      "rel_path": "figures/exp6_layer_mrr.pdf",
+      "kind": "pdf",
+      "description": "Exp 6 layer-wise MRR figure",
+      "sha256": "4edd7ba9e7fc226d7ed92859f9b03f9af3848e2a0decd9612538448e37b88894",
+      "size_bytes": 27336,
+      "saved_at": "2026-05-18T11:08:35.854378+00:00"
+    },
+    {
+      "rel_path": "full_summary.json",
+      "kind": "json",
+      "description": "Complete results summary — all experiments",
+      "sha256": "17062b408dcf398e135a8b9992c15686eb71139f7cf838f3651e84904fc54a08",
+      "size_bytes": 8508,
+      "saved_at": "2026-05-18T11:08:36.468140+00:00"
+    }
+  ],
+  "completed": "2026-05-18T11:08:36.470349+00:00"
+}

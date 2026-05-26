@@ -1,0 +1,435 @@
+{
+  "exp1_layerwise": [
+    {
+      "Model": "xlm-r",
+      "Language": "kazakh",
+      "Final-layer sim": 0.995
+    },
+    {
+      "Model": "xlm-r",
+      "Language": "serbian",
+      "Final-layer sim": 0.997
+    },
+    {
+      "Model": "xlm-r",
+      "Language": "chinese",
+      "Final-layer sim": 1.0
+    },
+    {
+      "Model": "xlm-r",
+      "Language": "uyghur",
+      "Final-layer sim": 0.993
+    },
+    {
+      "Model": "xlm-r",
+      "Language": "japanese",
+      "Final-layer sim": 0.998
+    },
+    {
+      "Model": "xlm-r",
+      "Language": "hindi_urdu",
+      "Final-layer sim": 0.993
+    },
+    {
+      "Model": "byt5",
+      "Language": "kazakh",
+      "Final-layer sim": 0.531
+    },
+    {
+      "Model": "byt5",
+      "Language": "serbian",
+      "Final-layer sim": 0.535
+    },
+    {
+      "Model": "byt5",
+      "Language": "chinese",
+      "Final-layer sim": 0.999
+    },
+    {
+      "Model": "byt5",
+      "Language": "uyghur",
+      "Final-layer sim": 0.436
+    },
+    {
+      "Model": "byt5",
+      "Language": "japanese",
+      "Final-layer sim": 0.796
+    },
+    {
+      "Model": "byt5",
+      "Language": "hindi_urdu",
+      "Final-layer sim": 0.536
+    },
+    {
+      "Model": "mt5",
+      "Language": "kazakh",
+      "Final-layer sim": 0.517
+    },
+    {
+      "Model": "mt5",
+      "Language": "serbian",
+      "Final-layer sim": 0.652
+    },
+    {
+      "Model": "mt5",
+      "Language": "chinese",
+      "Final-layer sim": 0.997
+    },
+    {
+      "Model": "mt5",
+      "Language": "uyghur",
+      "Final-layer sim": 0.237
+    },
+    {
+      "Model": "mt5",
+      "Language": "japanese",
+      "Final-layer sim": 0.714
+    },
+    {
+      "Model": "mt5",
+      "Language": "hindi_urdu",
+      "Final-layer sim": 0.353
+    }
+  ],
+  "exp2_silhouette": [
+    {
+      "Model": "xlm-r",
+      "Language": "kazakh",
+      "Silhouette": 0.44699999690055847
+    },
+    {
+      "Model": "xlm-r",
+      "Language": "serbian",
+      "Silhouette": 0.21699999272823334
+    },
+    {
+      "Model": "xlm-r",
+      "Language": "chinese",
+      "Silhouette": 0.003000000026077032
+    },
+    {
+      "Model": "xlm-r",
+      "Language": "uyghur",
+      "Silhouette": 0.421999990940094
+    },
+    {
+      "Model": "xlm-r",
+      "Language": "japanese",
+      "Silhouette": 0.20399999618530273
+    },
+    {
+      "Model": "xlm-r",
+      "Language": "hindi_urdu",
+      "Silhouette": 0.37299999594688416
+    },
+    {
+      "Model": "byt5",
+      "Language": "kazakh",
+      "Silhouette": 0.2619999945163727
+    },
+    {
+      "Model": "byt5",
+      "Language": "serbian",
+      "Silhouette": 0.07599999755620956
+    },
+    {
+      "Model": "byt5",
+      "Language": "chinese",
+      "Silhouette": -0.0
+    },
+    {
+      "Model": "byt5",
+      "Language": "uyghur",
+      "Silhouette": 0.37700000405311584
+    },
+    {
+      "Model": "byt5",
+      "Language": "japanese",
+      "Silhouette": 0.16899999976158142
+    },
+    {
+      "Model": "byt5",
+      "Language": "hindi_urdu",
+      "Silhouette": 0.29499998688697815
+    },
+    {
+      "Model": "mt5",
+      "Language": "kazakh",
+      "Silhouette": 0.2409999966621399
+    },
+    {
+      "Model": "mt5",
+      "Language": "serbian",
+      "Silhouette": 0.10000000149011612
+    },
+    {
+      "Model": "mt5",
+      "Language": "chinese",
+      "Silhouette": -0.0
+    },
+    {
+      "Model": "mt5",
+      "Language": "uyghur",
+      "Silhouette": 0.2199999988079071
+    },
+    {
+      "Model": "mt5",
+      "Language": "japanese",
+      "Silhouette": 0.11100000143051147
+    },
+    {
+      "Model": "mt5",
+      "Language": "hindi_urdu",
+      "Silhouette": 0.2750000059604645
+    }
+  ],
+  "exp3_mlm": {
+    "kazakh": {
+      "prefer_a": 0.428,
+      "n": 500
+    },
+    "serbian": {
+      "prefer_a": 0.396,
+      "n": 500
+    },
+    "chinese": {
+      "prefer_a": 0.0,
+      "n": 500
+    },
+    "uyghur": {
+      "prefer_a": 0.57,
+      "n": 500
+    },
+    "japanese": {
+      "prefer_a": 0.078,
+      "n": 500
+    },
+    "hindi_urdu": {
+      "prefer_a": 0.732,
+      "n": 500
+    }
+  },
+  "exp4_mrr": [
+    {
+      "Model": "xlm-r",
+      "Language": "kazakh",
+      "MRR": 0.007
+    },
+    {
+      "Model": "xlm-r",
+      "Language": "serbian",
+      "MRR": 0.36
+    },
+    {
+      "Model": "xlm-r",
+      "Language": "chinese",
+      "MRR": 0.452
+    },
+    {
+      "Model": "xlm-r",
+      "Language": "uyghur",
+      "MRR": 0.01
+    },
+    {
+      "Model": "xlm-r",
+      "Language": "japanese",
+      "MRR": 0.124
+    },
+    {
+      "Model": "xlm-r",
+      "Language": "hindi_urdu",
+      "MRR": 0.014
+    },
+    {
+      "Model": "byt5",
+      "Language": "kazakh",
+      "MRR": 0.072
+    },
+    {
+      "Model": "byt5",
+      "Language": "serbian",
+      "MRR": 0.292
+    },
+    {
+      "Model": "byt5",
+      "Language": "chinese",
+      "MRR": 0.49
+    },
+    {
+      "Model": "byt5",
+      "Language": "uyghur",
+      "MRR": 0.006
+    },
+    {
+      "Model": "byt5",
+      "Language": "japanese",
+      "MRR": 0.123
+    },
+    {
+      "Model": "byt5",
+      "Language": "hindi_urdu",
+      "MRR": 0.026
+    },
+    {
+      "Model": "mt5",
+      "Language": "kazakh",
+      "MRR": 0.133
+    },
+    {
+      "Model": "mt5",
+      "Language": "serbian",
+      "MRR": 0.423
+    },
+    {
+      "Model": "mt5",
+      "Language": "chinese",
+      "MRR": 0.454
+    },
+    {
+      "Model": "mt5",
+      "Language": "uyghur",
+      "MRR": 0.026
+    },
+    {
+      "Model": "mt5",
+      "Language": "japanese",
+      "MRR": 0.26
+    },
+    {
+      "Model": "mt5",
+      "Language": "hindi_urdu",
+      "MRR": 0.053
+    }
+  ],
+  "exp5_decomposition": [
+    {
+      "Language": "kazakh",
+      "XLM-R sim": 0.995,
+      "byT5 sim": 0.531,
+      "mT5 sim": 0.517,
+      "Tok. effect": 0.464,
+      "Residual (byT5)": 0.531,
+      "MRR (XLM-R)": 0.007,
+      "MRR (byT5)": 0.072
+    },
+    {
+      "Language": "serbian",
+      "XLM-R sim": 0.997,
+      "byT5 sim": 0.535,
+      "mT5 sim": 0.652,
+      "Tok. effect": 0.462,
+      "Residual (byT5)": 0.535,
+      "MRR (XLM-R)": 0.36,
+      "MRR (byT5)": 0.292
+    },
+    {
+      "Language": "chinese",
+      "XLM-R sim": 1.0,
+      "byT5 sim": 0.999,
+      "mT5 sim": 0.997,
+      "Tok. effect": 0.001,
+      "Residual (byT5)": 0.999,
+      "MRR (XLM-R)": 0.452,
+      "MRR (byT5)": 0.49
+    },
+    {
+      "Language": "uyghur",
+      "XLM-R sim": 0.993,
+      "byT5 sim": 0.436,
+      "mT5 sim": 0.237,
+      "Tok. effect": 0.557,
+      "Residual (byT5)": 0.436,
+      "MRR (XLM-R)": 0.01,
+      "MRR (byT5)": 0.006
+    },
+    {
+      "Language": "japanese",
+      "XLM-R sim": 0.998,
+      "byT5 sim": 0.796,
+      "mT5 sim": 0.714,
+      "Tok. effect": 0.202,
+      "Residual (byT5)": 0.796,
+      "MRR (XLM-R)": 0.124,
+      "MRR (byT5)": 0.123
+    },
+    {
+      "Language": "hindi_urdu",
+      "XLM-R sim": 0.993,
+      "byT5 sim": 0.536,
+      "mT5 sim": 0.353,
+      "Tok. effect": 0.457,
+      "Residual (byT5)": 0.536,
+      "MRR (XLM-R)": 0.014,
+      "MRR (byT5)": 0.026
+    }
+  ],
+  "exp5_data_vol_effect": 0.0014140605926513672,
+  "exp6_interventions": [
+    {
+      "Language": "kazakh",
+      "Baseline": 0.007,
+      "Norm.": 0.007,
+      "Whitened": 0.18,
+      "CSLS": 0.013,
+      "Contrastive": 0.308,
+      "Best layer": 1,
+      "Best MRR": 0.04,
+      "Tok. overlap": 0.204
+    },
+    {
+      "Language": "serbian",
+      "Baseline": 0.36,
+      "Norm.": 0.36,
+      "Whitened": 0.482,
+      "CSLS": 0.451,
+      "Contrastive": 0.482,
+      "Best layer": 5,
+      "Best MRR": 0.493,
+      "Tok. overlap": 0.177
+    },
+    {
+      "Language": "chinese",
+      "Baseline": 0.452,
+      "Norm.": 0.484,
+      "Whitened": 0.453,
+      "CSLS": 0.475,
+      "Contrastive": 0.446,
+      "Best layer": 1,
+      "Best MRR": 0.504,
+      "Tok. overlap": 0.989
+    },
+    {
+      "Language": "uyghur",
+      "Baseline": 0.01,
+      "Norm.": 0.007,
+      "Whitened": 0.25,
+      "CSLS": 0.031,
+      "Contrastive": 0.333,
+      "Best layer": 17,
+      "Best MRR": 0.112,
+      "Tok. overlap": 0.029
+    },
+    {
+      "Language": "japanese",
+      "Baseline": 0.124,
+      "Norm.": 0.124,
+      "Whitened": 0.351,
+      "CSLS": 0.165,
+      "Contrastive": 0.399,
+      "Best layer": 0,
+      "Best MRR": 0.186,
+      "Tok. overlap": 0.663
+    },
+    {
+      "Language": "hindi_urdu",
+      "Baseline": 0.014,
+      "Norm.": 0.018,
+      "Whitened": 0.08,
+      "CSLS": 0.016,
+      "Contrastive": 0.236,
+      "Best layer": 19,
+      "Best MRR": 0.022,
+      "Tok. overlap": 0.012
+    }
+  ]
+}

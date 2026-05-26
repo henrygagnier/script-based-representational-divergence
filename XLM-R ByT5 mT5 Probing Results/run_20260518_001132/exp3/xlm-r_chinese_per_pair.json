@@ -1,0 +1,4502 @@
+[
+  {
+    "word_a": "{|",
+    "word_b": "{|",
+    "token_a": "▁{",
+    "token_b": "▁{",
+    "logit_a": 17.55938148498535,
+    "logit_b": 17.55938148498535,
+    "prefers_a": false
+  },
+  {
+    "word_a": "style=\"border:1px",
+    "word_b": "style=\"border:1px",
+    "token_a": "▁style",
+    "token_b": "▁style",
+    "logit_a": 42.59941101074219,
+    "logit_b": 42.59941101074219,
+    "prefers_a": false
+  },
+  {
+    "word_a": "solid",
+    "word_b": "solid",
+    "token_a": "▁solid",
+    "token_b": "▁solid",
+    "logit_a": 17.3753662109375,
+    "logit_b": 17.3753662109375,
+    "prefers_a": false
+  },
+  {
+    "word_a": "#ddd;",
+    "word_b": "#ddd;",
+    "token_a": "▁#",
+    "token_b": "▁#",
+    "logit_a": 25.14727020263672,
+    "logit_b": 25.14727020263672,
+    "prefers_a": false
+  },
+  {
+    "word_a": "text-align:center;",
+    "word_b": "text-align:center;",
+    "token_a": "▁text",
+    "token_b": "▁text",
+    "logit_a": 26.162189483642578,
+    "logit_b": 26.162189483642578,
+    "prefers_a": false
+  },
+  {
+    "word_a": "margin:",
+    "word_b": "margin:",
+    "token_a": "▁margin",
+    "token_b": "▁margin",
+    "logit_a": 13.941142082214355,
+    "logit_b": 13.941142082214355,
+    "prefers_a": false
+  },
+  {
+    "word_a": "auto;\"",
+    "word_b": "auto;\"",
+    "token_a": "▁auto",
+    "token_b": "▁auto",
+    "logit_a": 15.031996726989746,
+    "logit_b": 15.031996726989746,
+    "prefers_a": false
+  },
+  {
+    "word_a": "cellspacing=\"15\"",
+    "word_b": "cellspacing=\"15\"",
+    "token_a": "▁cell",
+    "token_b": "▁cell",
+    "logit_a": 24.678878784179688,
+    "logit_b": 24.678878784179688,
+    "prefers_a": false
+  },
+  {
+    "word_a": "數學邏輯",
+    "word_b": "數學邏輯",
+    "token_a": "▁",
+    "token_b": "▁",
+    "logit_a": 39.04251480102539,
+    "logit_b": 39.04251480102539,
+    "prefers_a": false
+  },
+  {
+    "word_a": "||",
+    "word_b": "||",
+    "token_a": "▁",
+    "token_b": "▁",
+    "logit_a": 23.018564224243164,
+    "logit_b": 23.018564224243164,
+    "prefers_a": false
+  },
+  {
+    "word_a": "集合論",
+    "word_b": "集合論",
+    "token_a": "▁",
+    "token_b": "▁",
+    "logit_a": 29.48019790649414,
+    "logit_b": 29.48019790649414,
+    "prefers_a": false
+  },
+  {
+    "word_a": "範疇論",
+    "word_b": "範疇論",
+    "token_a": "▁",
+    "token_b": "▁",
+    "logit_a": 31.239635467529297,
+    "logit_b": 31.239635467529297,
+    "prefers_a": false
+  },
+  {
+    "word_a": "cellspacing=\"20\"",
+    "word_b": "cellspacing=\"20\"",
+    "token_a": "▁cell",
+    "token_b": "▁cell",
+    "logit_a": 25.184280395507812,
+    "logit_b": 25.184280395507812,
+    "prefers_a": false
+  },
+  {
+    "word_a": "自然數||",
+    "word_b": "自然數||",
+    "token_a": "▁",
+    "token_b": "▁",
+    "logit_a": 31.424320220947266,
+    "logit_b": 31.424320220947266,
+    "prefers_a": false
+  },
+  {
+    "word_a": "整數",
+    "word_b": "整數",
+    "token_a": "▁",
+    "token_b": "▁",
+    "logit_a": 25.079627990722656,
+    "logit_b": 25.079627990722656,
+    "prefers_a": false
+  },
+  {
+    "word_a": "有理數",
+    "word_b": "有理數",
+    "token_a": "▁",
+    "token_b": "▁",
+    "logit_a": 33.06500244140625,
+    "logit_b": 33.06500244140625,
+    "prefers_a": false
+  },
+  {
+    "word_a": "實數",
+    "word_b": "實數",
+    "token_a": "▁",
+    "token_b": "▁",
+    "logit_a": 26.92095947265625,
+    "logit_b": 26.92095947265625,
+    "prefers_a": false
+  },
+  {
+    "word_a": "複數",
+    "word_b": "複數",
+    "token_a": "▁",
+    "token_b": "▁",
+    "logit_a": 30.45440673828125,
+    "logit_b": 30.45440673828125,
+    "prefers_a": false
+  },
+  {
+    "word_a": "數論",
+    "word_b": "數論",
+    "token_a": "▁",
+    "token_b": "▁",
+    "logit_a": 30.638408660888672,
+    "logit_b": 30.638408660888672,
+    "prefers_a": false
+  },
+  {
+    "word_a": "群論",
+    "word_b": "羣論",
+    "token_a": "▁",
+    "token_b": "▁",
+    "logit_a": 25.63489532470703,
+    "logit_b": 25.63489532470703,
+    "prefers_a": false
+  },
+  {
+    "word_a": "圖論",
+    "word_b": "圖論",
+    "token_a": "▁",
+    "token_b": "▁",
+    "logit_a": 25.58980941772461,
+    "logit_b": 25.58980941772461,
+    "prefers_a": false
+  },
+  {
+    "word_a": "序理論",
+    "word_b": "序理論",
+    "token_a": "▁",
+    "token_b": "▁",
+    "logit_a": 26.168643951416016,
+    "logit_b": 26.168643951416016,
+    "prefers_a": false
+  },
+  {
+    "word_a": "|幾何",
+    "word_b": "|幾何",
+    "token_a": "▁",
+    "token_b": "▁",
+    "logit_a": 23.339738845825195,
+    "logit_b": 23.339738845825195,
+    "prefers_a": false
+  },
+  {
+    "word_a": "三角學",
+    "word_b": "三角學",
+    "token_a": "▁",
+    "token_b": "▁",
+    "logit_a": 30.636110305786133,
+    "logit_b": 30.636110305786133,
+    "prefers_a": false
+  },
+  {
+    "word_a": "微分幾何",
+    "word_b": "微分幾何",
+    "token_a": "▁",
+    "token_b": "▁",
+    "logit_a": 32.56489181518555,
+    "logit_b": 32.56489181518555,
+    "prefers_a": false
+  },
+  {
+    "word_a": "拓撲學",
+    "word_b": "拓撲學",
+    "token_a": "▁",
+    "token_b": "▁",
+    "logit_a": 30.916061401367188,
+    "logit_b": 30.916061401367188,
+    "prefers_a": false
+  },
+  {
+    "word_a": "碎形",
+    "word_b": "碎形",
+    "token_a": "▁",
+    "token_b": "▁",
+    "logit_a": 26.868648529052734,
+    "logit_b": 26.868648529052734,
+    "prefers_a": false
+  },
+  {
+    "word_a": "測度論",
+    "word_b": "測度論",
+    "token_a": "▁",
+    "token_b": "▁",
+    "logit_a": 34.00965881347656,
+    "logit_b": 34.00965881347656,
+    "prefers_a": false
+  },
+  {
+    "word_a": "組合數學",
+    "word_b": "組合數學",
+    "token_a": "▁",
+    "token_b": "▁",
+    "logit_a": 25.77393341064453,
+    "logit_b": 25.77393341064453,
+    "prefers_a": false
+  },
+  {
+    "word_a": "計算理論",
+    "word_b": "計算理論",
+    "token_a": "▁",
+    "token_b": "▁",
+    "logit_a": 29.447399139404297,
+    "logit_b": 29.447399139404297,
+    "prefers_a": false
+  },
+  {
+    "word_a": "密碼學",
+    "word_b": "密碼學",
+    "token_a": "▁",
+    "token_b": "▁",
+    "logit_a": 32.69962692260742,
+    "logit_b": 32.69962692260742,
+    "prefers_a": false
+  },
+  {
+    "word_a": "Benson,",
+    "word_b": "Benson,",
+    "token_a": "▁Ben",
+    "token_b": "▁Ben",
+    "logit_a": 28.402551651000977,
+    "logit_b": 28.402551651000977,
+    "prefers_a": false
+  },
+  {
+    "word_a": "Donald",
+    "word_b": "Donald",
+    "token_a": "▁Donald",
+    "token_b": "▁Donald",
+    "logit_a": 15.214859962463379,
+    "logit_b": 15.214859962463379,
+    "prefers_a": false
+  },
+  {
+    "word_a": "C.,",
+    "word_b": "C.,",
+    "token_a": "▁C",
+    "token_b": "▁C",
+    "logit_a": 21.571130752563477,
+    "logit_b": 21.571130752563477,
+    "prefers_a": false
+  },
+  {
+    "word_a": "The",
+    "word_b": "The",
+    "token_a": "▁The",
+    "token_b": "▁The",
+    "logit_a": 18.6179256439209,
+    "logit_b": 18.6179256439209,
+    "prefers_a": false
+  },
+  {
+    "word_a": "Moment",
+    "word_b": "Moment",
+    "token_a": "▁Moment",
+    "token_b": "▁Moment",
+    "logit_a": 16.58174705505371,
+    "logit_b": 16.58174705505371,
+    "prefers_a": false
+  },
+  {
+    "word_a": "of",
+    "word_b": "of",
+    "token_a": "▁of",
+    "token_b": "▁of",
+    "logit_a": 14.09630298614502,
+    "logit_b": 14.09630298614502,
+    "prefers_a": false
+  },
+  {
+    "word_a": "Proof:",
+    "word_b": "Proof:",
+    "token_a": "▁Pro",
+    "token_b": "▁Pro",
+    "logit_a": 28.59231185913086,
+    "logit_b": 28.59231185913086,
+    "prefers_a": false
+  },
+  {
+    "word_a": "Mathematical",
+    "word_b": "Mathematical",
+    "token_a": "▁Mathe",
+    "token_b": "▁Mathe",
+    "logit_a": 28.79073715209961,
+    "logit_b": 28.79073715209961,
+    "prefers_a": false
+  },
+  {
+    "word_a": "Epiphanies,",
+    "word_b": "Epiphanies,",
+    "token_a": "▁Epi",
+    "token_b": "▁Epi",
+    "logit_a": 22.521371841430664,
+    "logit_b": 22.521371841430664,
+    "prefers_a": false
+  },
+  {
+    "word_a": "Oxford",
+    "word_b": "Oxford",
+    "token_a": "▁Oxford",
+    "token_b": "▁Oxford",
+    "logit_a": 19.85222816467285,
+    "logit_b": 19.85222816467285,
+    "prefers_a": false
+  },
+  {
+    "word_a": "University",
+    "word_b": "University",
+    "token_a": "▁University",
+    "token_b": "▁University",
+    "logit_a": 18.699989318847656,
+    "logit_b": 18.699989318847656,
+    "prefers_a": false
+  },
+  {
+    "word_a": "Press,",
+    "word_b": "Press,",
+    "token_a": "▁Press",
+    "token_b": "▁Press",
+    "logit_a": 20.036983489990234,
+    "logit_b": 20.036983489990234,
+    "prefers_a": false
+  },
+  {
+    "word_a": "USA;",
+    "word_b": "USA;",
+    "token_a": "▁USA",
+    "token_b": "▁USA",
+    "logit_a": 18.130159378051758,
+    "logit_b": 18.130159378051758,
+    "prefers_a": false
+  },
+  {
+    "word_a": "New",
+    "word_b": "New",
+    "token_a": "▁New",
+    "token_b": "▁New",
+    "logit_a": 16.550537109375,
+    "logit_b": 16.550537109375,
+    "prefers_a": false
+  },
+  {
+    "word_a": "Ed",
+    "word_b": "Ed",
+    "token_a": "▁Ed",
+    "token_b": "▁Ed",
+    "logit_a": 14.245341300964355,
+    "logit_b": 14.245341300964355,
+    "prefers_a": false
+  },
+  {
+    "word_a": "edition",
+    "word_b": "edition",
+    "token_a": "▁edition",
+    "token_b": "▁edition",
+    "logit_a": 14.920450210571289,
+    "logit_b": 14.920450210571289,
+    "prefers_a": false
+  },
+  {
+    "word_a": "(December",
+    "word_b": "(December",
+    "token_a": "▁(",
+    "token_b": "▁(",
+    "logit_a": 28.806968688964844,
+    "logit_b": 28.806968688964844,
+    "prefers_a": false
+  },
+  {
+    "word_a": "14,",
+    "word_b": "14,",
+    "token_a": "▁14",
+    "token_b": "▁14",
+    "logit_a": 25.176233291625977,
+    "logit_b": 25.176233291625977,
+    "prefers_a": false
+  },
+  {
+    "word_a": "2000).",
+    "word_b": "2000).",
+    "token_a": "▁2000",
+    "token_b": "▁2000",
+    "logit_a": 21.760391235351562,
+    "logit_b": 21.760391235351562,
+    "prefers_a": false
+  },
+  {
+    "word_a": "ISBN",
+    "word_b": "ISBN",
+    "token_a": "▁ISBN",
+    "token_b": "▁ISBN",
+    "logit_a": 15.385857582092285,
+    "logit_b": 15.385857582092285,
+    "prefers_a": false
+  },
+  {
+    "word_a": "978-0-19-513919-8.",
+    "word_b": "978-0-19-513919-8.",
+    "token_a": "▁978-",
+    "token_b": "▁978-",
+    "logit_a": 22.38056182861328,
+    "logit_b": 22.38056182861328,
+    "prefers_a": false
+  },
+  {
+    "word_a": "Kline,",
+    "word_b": "Kline,",
+    "token_a": "▁K",
+    "token_b": "▁K",
+    "logit_a": 22.591115951538086,
+    "logit_b": 22.591115951538086,
+    "prefers_a": false
+  },
+  {
+    "word_a": "Morris,",
+    "word_b": "Morris,",
+    "token_a": "▁Morris",
+    "token_b": "▁Morris",
+    "logit_a": 17.29674530029297,
+    "logit_b": 17.29674530029297,
+    "prefers_a": false
+  },
+  {
+    "word_a": "Thought",
+    "word_b": "Thought",
+    "token_a": "▁Though",
+    "token_b": "▁Though",
+    "logit_a": 14.171600341796875,
+    "logit_b": 14.171600341796875,
+    "prefers_a": false
+  },
+  {
+    "word_a": "from",
+    "word_b": "from",
+    "token_a": "▁from",
+    "token_b": "▁from",
+    "logit_a": 13.484289169311523,
+    "logit_b": 13.484289169311523,
+    "prefers_a": false
+  },
+  {
+    "word_a": "Ancient",
+    "word_b": "Ancient",
+    "token_a": "▁An",
+    "token_b": "▁An",
+    "logit_a": 24.81139373779297,
+    "logit_b": 24.81139373779297,
+    "prefers_a": false
+  },
+  {
+    "word_a": "to",
+    "word_b": "to",
+    "token_a": "▁to",
+    "token_b": "▁to",
+    "logit_a": 14.01270580291748,
+    "logit_b": 14.01270580291748,
+    "prefers_a": false
+  },
+  {
+    "word_a": "Modern",
+    "word_b": "Modern",
+    "token_a": "▁Modern",
+    "token_b": "▁Modern",
+    "logit_a": 20.978912353515625,
+    "logit_b": 20.978912353515625,
+    "prefers_a": false
+  },
+  {
+    "word_a": "Times,",
+    "word_b": "Times,",
+    "token_a": "▁Times",
+    "token_b": "▁Times",
+    "logit_a": 21.0018310546875,
+    "logit_b": 21.0018310546875,
+    "prefers_a": false
+  },
+  {
+    "word_a": "Paperback",
+    "word_b": "Paperback",
+    "token_a": "▁Paper",
+    "token_b": "▁Paper",
+    "logit_a": 29.728673934936523,
+    "logit_b": 29.728673934936523,
+    "prefers_a": false
+  },
+  {
+    "word_a": "(March",
+    "word_b": "(March",
+    "token_a": "▁(",
+    "token_b": "▁(",
+    "logit_a": 27.249679565429688,
+    "logit_b": 27.249679565429688,
+    "prefers_a": false
+  },
+  {
+    "word_a": "1,",
+    "word_b": "1,",
+    "token_a": "▁1",
+    "token_b": "▁1",
+    "logit_a": 28.549877166748047,
+    "logit_b": 28.549877166748047,
+    "prefers_a": false
+  },
+  {
+    "word_a": "1990).",
+    "word_b": "1990).",
+    "token_a": "▁1990",
+    "token_b": "▁1990",
+    "logit_a": 21.692901611328125,
+    "logit_b": 21.692901611328125,
+    "prefers_a": false
+  },
+  {
+    "word_a": "978-0-19-506135-2.",
+    "word_b": "978-0-19-506135-2.",
+    "token_a": "▁978-",
+    "token_b": "▁978-",
+    "logit_a": 24.26451873779297,
+    "logit_b": 24.26451873779297,
+    "prefers_a": false
+  },
+  {
+    "word_a": "Pappas,",
+    "word_b": "Pappas,",
+    "token_a": "▁Papp",
+    "token_b": "▁Papp",
+    "logit_a": 27.512287139892578,
+    "logit_b": 27.512287139892578,
+    "prefers_a": false
+  },
+  {
+    "word_a": "Theoni,",
+    "word_b": "Theoni,",
+    "token_a": "▁Theo",
+    "token_b": "▁Theo",
+    "logit_a": 25.75779914855957,
+    "logit_b": 25.75779914855957,
+    "prefers_a": false
+  },
+  {
+    "word_a": "Joy",
+    "word_b": "Joy",
+    "token_a": "▁Joy",
+    "token_b": "▁Joy",
+    "logit_a": 14.346128463745117,
+    "logit_b": 14.346128463745117,
+    "prefers_a": false
+  },
+  {
+    "word_a": "Of",
+    "word_b": "Of",
+    "token_a": "▁Of",
+    "token_b": "▁Of",
+    "logit_a": 12.943178176879883,
+    "logit_b": 12.943178176879883,
+    "prefers_a": false
+  },
+  {
+    "word_a": "Mathematics,",
+    "word_b": "Mathematics,",
+    "token_a": "▁Mathe",
+    "token_b": "▁Mathe",
+    "logit_a": 29.14743423461914,
+    "logit_b": 29.14743423461914,
+    "prefers_a": false
+  },
+  {
+    "word_a": "Wide",
+    "word_b": "Wide",
+    "token_a": "▁Wide",
+    "token_b": "▁Wide",
+    "logit_a": 13.770565032958984,
+    "logit_b": 13.770565032958984,
+    "prefers_a": false
+  },
+  {
+    "word_a": "World",
+    "word_b": "World",
+    "token_a": "▁World",
+    "token_b": "▁World",
+    "logit_a": 20.785829544067383,
+    "logit_b": 20.785829544067383,
+    "prefers_a": false
+  },
+  {
+    "word_a": "Publishing;",
+    "word_b": "Publishing;",
+    "token_a": "▁Publishing",
+    "token_b": "▁Publishing",
+    "logit_a": 17.574932098388672,
+    "logit_b": 17.574932098388672,
+    "prefers_a": false
+  },
+  {
+    "word_a": "Revised",
+    "word_b": "Revised",
+    "token_a": "▁Revi",
+    "token_b": "▁Revi",
+    "logit_a": 16.562028884887695,
+    "logit_b": 16.562028884887695,
+    "prefers_a": false
+  },
+  {
+    "word_a": "(June",
+    "word_b": "(June",
+    "token_a": "▁(",
+    "token_b": "▁(",
+    "logit_a": 29.42880630493164,
+    "logit_b": 29.42880630493164,
+    "prefers_a": false
+  },
+  {
+    "word_a": "1989).",
+    "word_b": "1989).",
+    "token_a": "▁1989",
+    "token_b": "▁1989",
+    "logit_a": 22.35321617126465,
+    "logit_b": 22.35321617126465,
+    "prefers_a": false
+  },
+  {
+    "word_a": "978-0-933174-65-8.",
+    "word_b": "978-0-933174-65-8.",
+    "token_a": "▁978-",
+    "token_b": "▁978-",
+    "logit_a": 23.05430030822754,
+    "logit_b": 23.05430030822754,
+    "prefers_a": false
+  },
+  {
+    "word_a": "Weisstein,",
+    "word_b": "Weisstein,",
+    "token_a": "▁Weiss",
+    "token_b": "▁Weiss",
+    "logit_a": 28.088491439819336,
+    "logit_b": 28.088491439819336,
+    "prefers_a": false
+  },
+  {
+    "word_a": "Eric:",
+    "word_b": "Eric:",
+    "token_a": "▁Eric",
+    "token_b": "▁Eric",
+    "logit_a": 14.610383987426758,
+    "logit_b": 14.610383987426758,
+    "prefers_a": false
+  },
+  {
+    "word_a": "Mathematics",
+    "word_b": "Mathematics",
+    "token_a": "▁Mathe",
+    "token_b": "▁Mathe",
+    "logit_a": 29.858102798461914,
+    "logit_b": 29.858102798461914,
+    "prefers_a": false
+  },
+  {
+    "word_a": "，一个在线的数学百科全书",
+    "word_b": "，一個在線的數學百科全書",
+    "token_a": "▁",
+    "token_b": "▁",
+    "logit_a": 35.263553619384766,
+    "logit_b": 35.263553619384766,
+    "prefers_a": false
+  },
+  {
+    "word_a": "\"英漢對照數學用語\"",
+    "word_b": "\"英漢對照數學用語\"",
+    "token_a": "▁\"",
+    "token_b": "▁\"",
+    "logit_a": 37.623695373535156,
+    "logit_b": 37.623695373535156,
+    "prefers_a": false
+  },
+  {
+    "word_a": "英漢對照數學用語).",
+    "word_b": "英漢對照數學用語).",
+    "token_a": "▁",
+    "token_b": "▁",
+    "logit_a": 31.860963821411133,
+    "logit_b": 31.860963821411133,
+    "prefers_a": false
+  },
+  {
+    "word_a": "Albany.",
+    "word_b": "Albany.",
+    "token_a": "▁Alban",
+    "token_b": "▁Alban",
+    "logit_a": 19.711769104003906,
+    "logit_b": 19.711769104003906,
+    "prefers_a": false
+  },
+  {
+    "word_a": "Bureau",
+    "word_b": "Bureau",
+    "token_a": "▁Bureau",
+    "token_b": "▁Bureau",
+    "logit_a": 12.528291702270508,
+    "logit_b": 12.528291702270508,
+    "prefers_a": false
+  },
+  {
+    "word_a": "Bilingual",
+    "word_b": "Bilingual",
+    "token_a": "▁Bil",
+    "token_b": "▁Bil",
+    "logit_a": 27.91758155822754,
+    "logit_b": 27.91758155822754,
+    "prefers_a": false
+  },
+  {
+    "word_a": "Education.",
+    "word_b": "Education.",
+    "token_a": "▁Education",
+    "token_b": "▁Education",
+    "logit_a": 23.06540298461914,
+    "logit_b": 23.06540298461914,
+    "prefers_a": false
+  },
+  {
+    "word_a": "1988.",
+    "word_b": "1988.",
+    "token_a": "▁1988",
+    "token_b": "▁1988",
+    "logit_a": 18.56543731689453,
+    "logit_b": 18.56543731689453,
+    "prefers_a": false
+  },
+  {
+    "word_a": "--",
+    "word_b": "--",
+    "token_a": "▁--",
+    "token_b": "▁--",
+    "logit_a": 20.93291473388672,
+    "logit_b": 20.93291473388672,
+    "prefers_a": false
+  },
+  {
+    "word_a": "See",
+    "word_b": "See",
+    "token_a": "▁See",
+    "token_b": "▁See",
+    "logit_a": 12.7866849899292,
+    "logit_b": 12.7866849899292,
+    "prefers_a": false
+  },
+  {
+    "word_a": "profile",
+    "word_b": "profile",
+    "token_a": "▁profile",
+    "token_b": "▁profile",
+    "logit_a": 16.97501564025879,
+    "logit_b": 16.97501564025879,
+    "prefers_a": false
+  },
+  {
+    "word_a": "at(",
+    "word_b": "at(",
+    "token_a": "▁at",
+    "token_b": "▁at",
+    "logit_a": 14.582021713256836,
+    "logit_b": 14.582021713256836,
+    "prefers_a": false
+  },
+  {
+    "word_a": "Reese,",
+    "word_b": "Reese,",
+    "token_a": "▁Re",
+    "token_b": "▁Re",
+    "logit_a": 22.740955352783203,
+    "logit_b": 22.740955352783203,
+    "prefers_a": false
+  },
+  {
+    "word_a": "W.",
+    "word_b": "W.",
+    "token_a": "▁W",
+    "token_b": "▁W",
+    "logit_a": 19.146240234375,
+    "logit_b": 19.146240234375,
+    "prefers_a": false
+  },
+  {
+    "word_a": "L.",
+    "word_b": "L.",
+    "token_a": "▁L",
+    "token_b": "▁L",
+    "logit_a": 23.565542221069336,
+    "logit_b": 23.565542221069336,
+    "prefers_a": false
+  },
+  {
+    "word_a": "Dictionary",
+    "word_b": "Dictionary",
+    "token_a": "▁Dictionary",
+    "token_b": "▁Dictionary",
+    "logit_a": 16.28064727783203,
+    "logit_b": 16.28064727783203,
+    "prefers_a": false
+  },
+  {
+    "word_a": "Philosophy",
+    "word_b": "Philosophy",
+    "token_a": "▁",
+    "token_b": "▁",
+    "logit_a": 35.170654296875,
+    "logit_b": 35.170654296875,
+    "prefers_a": false
+  },
+  {
+    "word_a": "and",
+    "word_b": "and",
+    "token_a": "▁and",
+    "token_b": "▁and",
+    "logit_a": 16.074859619140625,
+    "logit_b": 16.074859619140625,
+    "prefers_a": false
+  },
+  {
+    "word_a": "Religion:",
+    "word_b": "Religion:",
+    "token_a": "▁Religion",
+    "token_b": "▁Religion",
+    "logit_a": 21.188892364501953,
+    "logit_b": 21.188892364501953,
+    "prefers_a": false
+  },
+  {
+    "word_a": "Eastern",
+    "word_b": "Eastern",
+    "token_a": "▁East",
+    "token_b": "▁East",
+    "logit_a": 22.70654296875,
+    "logit_b": 22.70654296875,
+    "prefers_a": false
+  },
+  {
+    "word_a": "Western",
+    "word_b": "Western",
+    "token_a": "▁Western",
+    "token_b": "▁Western",
+    "logit_a": 16.553627014160156,
+    "logit_b": 16.553627014160156,
+    "prefers_a": false
+  },
+  {
+    "word_a": "Thought.",
+    "word_b": "Thought.",
+    "token_a": "▁Though",
+    "token_b": "▁Though",
+    "logit_a": 15.361937522888184,
+    "logit_b": 15.361937522888184,
+    "prefers_a": false
+  },
+  {
+    "word_a": "Atlantic",
+    "word_b": "Atlantic",
+    "token_a": "▁Atlantic",
+    "token_b": "▁Atlantic",
+    "logit_a": 16.041614532470703,
+    "logit_b": 16.041614532470703,
+    "prefers_a": false
+  },
+  {
+    "word_a": "Highlands,",
+    "word_b": "Highlands,",
+    "token_a": "▁Highland",
+    "token_b": "▁Highland",
+    "logit_a": 18.634246826171875,
+    "logit_b": 18.634246826171875,
+    "prefers_a": false
+  },
+  {
+    "word_a": "N.J.:",
+    "word_b": "N.J.:",
+    "token_a": "▁N",
+    "token_b": "▁N",
+    "logit_a": 21.699424743652344,
+    "logit_b": 21.699424743652344,
+    "prefers_a": false
+  },
+  {
+    "word_a": "Humanities",
+    "word_b": "Humanities",
+    "token_a": "▁Humanit",
+    "token_b": "▁Humanit",
+    "logit_a": 20.71977996826172,
+    "logit_b": 20.71977996826172,
+    "prefers_a": false
+  },
+  {
+    "word_a": "1980.",
+    "word_b": "1980.",
+    "token_a": "▁1980",
+    "token_b": "▁1980",
+    "logit_a": 18.5865421295166,
+    "logit_b": 18.5865421295166,
+    "prefers_a": false
+  },
+  {
+    "word_a": "iv,",
+    "word_b": "iv,",
+    "token_a": "▁i",
+    "token_b": "▁i",
+    "logit_a": 23.405941009521484,
+    "logit_b": 23.405941009521484,
+    "prefers_a": false
+  },
+  {
+    "word_a": "644",
+    "word_b": "644",
+    "token_a": "▁",
+    "token_b": "▁",
+    "logit_a": 24.17205238342285,
+    "logit_b": 24.17205238342285,
+    "prefers_a": false
+  },
+  {
+    "word_a": "p.",
+    "word_b": "p.",
+    "token_a": "▁p",
+    "token_b": "▁p",
+    "logit_a": 23.441957473754883,
+    "logit_b": 23.441957473754883,
+    "prefers_a": false
+  },
+  {
+    "word_a": "978-0-391-00688-1",
+    "word_b": "978-0-391-00688-1",
+    "token_a": "▁978-",
+    "token_b": "▁978-",
+    "logit_a": 15.499597549438477,
+    "logit_b": 15.499597549438477,
+    "prefers_a": false
+  },
+  {
+    "word_a": "Appiah,",
+    "word_b": "Appiah,",
+    "token_a": "▁App",
+    "token_b": "▁App",
+    "logit_a": 24.373693466186523,
+    "logit_b": 24.373693466186523,
+    "prefers_a": false
+  },
+  {
+    "word_a": "Kwame",
+    "word_b": "Kwame",
+    "token_a": "▁Kwa",
+    "token_b": "▁Kwa",
+    "logit_a": 19.72029685974121,
+    "logit_b": 19.72029685974121,
+    "prefers_a": false
+  },
+  {
+    "word_a": "Anthony.",
+    "word_b": "Anthony.",
+    "token_a": "▁Anthony",
+    "token_b": "▁Anthony",
+    "logit_a": 18.530620574951172,
+    "logit_b": 18.530620574951172,
+    "prefers_a": false
+  },
+  {
+    "word_a": "Thinking",
+    "word_b": "Thinking",
+    "token_a": "▁Think",
+    "token_b": "▁Think",
+    "logit_a": 22.073034286499023,
+    "logit_b": 22.073034286499023,
+    "prefers_a": false
+  },
+  {
+    "word_a": "it",
+    "word_b": "it",
+    "token_a": "▁it",
+    "token_b": "▁it",
+    "logit_a": 10.05883502960205,
+    "logit_b": 10.05883502960205,
+    "prefers_a": false
+  },
+  {
+    "word_a": "Through",
+    "word_b": "Through",
+    "token_a": "▁Through",
+    "token_b": "▁Through",
+    "logit_a": 14.280021667480469,
+    "logit_b": 14.280021667480469,
+    "prefers_a": false
+  },
+  {
+    "word_a": "An",
+    "word_b": "An",
+    "token_a": "▁An",
+    "token_b": "▁An",
+    "logit_a": 15.787421226501465,
+    "logit_b": 15.787421226501465,
+    "prefers_a": false
+  },
+  {
+    "word_a": "Introduction",
+    "word_b": "Introduction",
+    "token_a": "▁Introdu",
+    "token_b": "▁Introdu",
+    "logit_a": 30.81219482421875,
+    "logit_b": 30.81219482421875,
+    "prefers_a": false
+  },
+  {
+    "word_a": "Contemporary",
+    "word_b": "Contemporary",
+    "token_a": "▁Con",
+    "token_b": "▁Con",
+    "logit_a": 27.642744064331055,
+    "logit_b": 27.642744064331055,
+    "prefers_a": false
+  },
+  {
+    "word_a": "Philosophy,",
+    "word_b": "Philosophy,",
+    "token_a": "▁",
+    "token_b": "▁",
+    "logit_a": 33.818138122558594,
+    "logit_b": 33.818138122558594,
+    "prefers_a": false
+  },
+  {
+    "word_a": "2003,",
+    "word_b": "2003,",
+    "token_a": "▁2003,",
+    "token_b": "▁2003,",
+    "logit_a": 11.49305248260498,
+    "logit_b": 11.49305248260498,
+    "prefers_a": false
+  },
+  {
+    "word_a": "978-0-19-513458-2",
+    "word_b": "978-0-19-513458-2",
+    "token_a": "▁978-",
+    "token_b": "▁978-",
+    "logit_a": 15.10037612915039,
+    "logit_b": 15.10037612915039,
+    "prefers_a": false
+  },
+  {
+    "word_a": "Blumenau,",
+    "word_b": "Blumenau,",
+    "token_a": "▁Blumen",
+    "token_b": "▁Blumen",
+    "logit_a": 22.5831356048584,
+    "logit_b": 22.5831356048584,
+    "prefers_a": false
+  },
+  {
+    "word_a": "Ralph.",
+    "word_b": "Ralph.",
+    "token_a": "▁Ralph",
+    "token_b": "▁Ralph",
+    "logit_a": 17.99671173095703,
+    "logit_b": 17.99671173095703,
+    "prefers_a": false
+  },
+  {
+    "word_a": "Living.",
+    "word_b": "Living.",
+    "token_a": "▁Living",
+    "token_b": "▁Living",
+    "logit_a": 21.130191802978516,
+    "logit_b": 21.130191802978516,
+    "prefers_a": false
+  },
+  {
+    "word_a": "978-0-907845-33-1",
+    "word_b": "978-0-907845-33-1",
+    "token_a": "▁978-",
+    "token_b": "▁978-",
+    "logit_a": 15.822080612182617,
+    "logit_b": 15.822080612182617,
+    "prefers_a": false
+  },
+  {
+    "word_a": "Craig,",
+    "word_b": "Craig,",
+    "token_a": "▁Craig",
+    "token_b": "▁Craig",
+    "logit_a": 18.84483528137207,
+    "logit_b": 18.84483528137207,
+    "prefers_a": false
+  },
+  {
+    "word_a": "Edward.",
+    "word_b": "Edward.",
+    "token_a": "▁Edward",
+    "token_b": "▁Edward",
+    "logit_a": 20.969480514526367,
+    "logit_b": 20.969480514526367,
+    "prefers_a": false
+  },
+  {
+    "word_a": "Philosophy:",
+    "word_b": "Philosophy:",
+    "token_a": "▁",
+    "token_b": "▁",
+    "logit_a": 33.2861328125,
+    "logit_b": 33.2861328125,
+    "prefers_a": false
+  },
+  {
+    "word_a": "Very",
+    "word_b": "Very",
+    "token_a": "▁Very",
+    "token_b": "▁Very",
+    "logit_a": 11.53150749206543,
+    "logit_b": 11.53150749206543,
+    "prefers_a": false
+  },
+  {
+    "word_a": "Short",
+    "word_b": "Short",
+    "token_a": "▁Short",
+    "token_b": "▁Short",
+    "logit_a": 15.458075523376465,
+    "logit_b": 15.458075523376465,
+    "prefers_a": false
+  },
+  {
+    "word_a": "Introduction.",
+    "word_b": "Introduction.",
+    "token_a": "▁Introdu",
+    "token_b": "▁Introdu",
+    "logit_a": 34.055870056152344,
+    "logit_b": 34.055870056152344,
+    "prefers_a": false
+  },
+  {
+    "word_a": "978-0-19-285421-6",
+    "word_b": "978-0-19-285421-6",
+    "token_a": "▁978-",
+    "token_b": "▁978-",
+    "logit_a": 15.003755569458008,
+    "logit_b": 15.003755569458008,
+    "prefers_a": false
+  },
+  {
+    "word_a": "Curley,",
+    "word_b": "Curley,",
+    "token_a": "▁Cur",
+    "token_b": "▁Cur",
+    "logit_a": 21.91676902770996,
+    "logit_b": 21.91676902770996,
+    "prefers_a": false
+  },
+  {
+    "word_a": "Edwin,",
+    "word_b": "Edwin,",
+    "token_a": "▁Edwin",
+    "token_b": "▁Edwin",
+    "logit_a": 16.22415542602539,
+    "logit_b": 16.22415542602539,
+    "prefers_a": false
+  },
+  {
+    "word_a": "Spinoza",
+    "word_b": "Spinoza",
+    "token_a": "▁Spin",
+    "token_b": "▁Spin",
+    "logit_a": 16.99597930908203,
+    "logit_b": 16.99597930908203,
+    "prefers_a": false
+  },
+  {
+    "word_a": "Reader,",
+    "word_b": "Reader,",
+    "token_a": "▁Reader",
+    "token_b": "▁Reader",
+    "logit_a": 19.400104522705078,
+    "logit_b": 19.400104522705078,
+    "prefers_a": false
+  },
+  {
+    "word_a": "Princeton,",
+    "word_b": "Princeton,",
+    "token_a": "▁Prince",
+    "token_b": "▁Prince",
+    "logit_a": 25.700170516967773,
+    "logit_b": 25.700170516967773,
+    "prefers_a": false
+  },
+  {
+    "word_a": "1994,",
+    "word_b": "1994,",
+    "token_a": "▁1994",
+    "token_b": "▁1994",
+    "logit_a": 18.4782657623291,
+    "logit_b": 18.4782657623291,
+    "prefers_a": false
+  },
+  {
+    "word_a": "978-0-691-00067-1",
+    "word_b": "978-0-691-00067-1",
+    "token_a": "▁978-",
+    "token_b": "▁978-",
+    "logit_a": 13.212553024291992,
+    "logit_b": 13.212553024291992,
+    "prefers_a": false
+  },
+  {
+    "word_a": "Durant,",
+    "word_b": "Durant,",
+    "token_a": "▁Durant",
+    "token_b": "▁Durant",
+    "logit_a": 16.316667556762695,
+    "logit_b": 16.316667556762695,
+    "prefers_a": false
+  },
+  {
+    "word_a": "Will,",
+    "word_b": "Will,",
+    "token_a": "▁Will",
+    "token_b": "▁Will",
+    "logit_a": 17.1053524017334,
+    "logit_b": 17.1053524017334,
+    "prefers_a": false
+  },
+  {
+    "word_a": "Story",
+    "word_b": "Story",
+    "token_a": "▁Story",
+    "token_b": "▁Story",
+    "logit_a": 16.767839431762695,
+    "logit_b": 16.767839431762695,
+    "prefers_a": false
+  },
+  {
+    "word_a": "Lives",
+    "word_b": "Lives",
+    "token_a": "▁Live",
+    "token_b": "▁Live",
+    "logit_a": 16.367259979248047,
+    "logit_b": 16.367259979248047,
+    "prefers_a": false
+  },
+  {
+    "word_a": "Opinions",
+    "word_b": "Opinions",
+    "token_a": "▁Opinion",
+    "token_b": "▁Opinion",
+    "logit_a": 17.283802032470703,
+    "logit_b": 17.283802032470703,
+    "prefers_a": false
+  },
+  {
+    "word_a": "the",
+    "word_b": "the",
+    "token_a": "▁the",
+    "token_b": "▁the",
+    "logit_a": 15.89617919921875,
+    "logit_b": 15.89617919921875,
+    "prefers_a": false
+  },
+  {
+    "word_a": "World's",
+    "word_b": "World's",
+    "token_a": "▁World",
+    "token_b": "▁World",
+    "logit_a": 26.520959854125977,
+    "logit_b": 26.520959854125977,
+    "prefers_a": false
+  },
+  {
+    "word_a": "Greatest",
+    "word_b": "Greatest",
+    "token_a": "▁Great",
+    "token_b": "▁Great",
+    "logit_a": 26.72174835205078,
+    "logit_b": 26.72174835205078,
+    "prefers_a": false
+  },
+  {
+    "word_a": "Philosophers,",
+    "word_b": "Philosophers,",
+    "token_a": "▁",
+    "token_b": "▁",
+    "logit_a": 33.444766998291016,
+    "logit_b": 33.444766998291016,
+    "prefers_a": false
+  },
+  {
+    "word_a": "Pocket,",
+    "word_b": "Pocket,",
+    "token_a": "▁Pocket",
+    "token_b": "▁Pocket",
+    "logit_a": 17.932865142822266,
+    "logit_b": 17.932865142822266,
+    "prefers_a": false
+  },
+  {
+    "word_a": "1991,",
+    "word_b": "1991,",
+    "token_a": "▁1991",
+    "token_b": "▁1991",
+    "logit_a": 17.879547119140625,
+    "logit_b": 17.879547119140625,
+    "prefers_a": false
+  },
+  {
+    "word_a": "978-0-671-73916-4",
+    "word_b": "978-0-671-73916-4",
+    "token_a": "▁978-",
+    "token_b": "▁978-",
+    "logit_a": 15.094011306762695,
+    "logit_b": 15.094011306762695,
+    "prefers_a": false
+  },
+  {
+    "word_a": "Harrison-Barbet,",
+    "word_b": "Harrison-Barbet,",
+    "token_a": "▁Harrison",
+    "token_b": "▁Harrison",
+    "logit_a": 17.58894920349121,
+    "logit_b": 17.58894920349121,
+    "prefers_a": false
+  },
+  {
+    "word_a": "Anthony,",
+    "word_b": "Anthony,",
+    "token_a": "▁Anthony",
+    "token_b": "▁Anthony",
+    "logit_a": 19.770410537719727,
+    "logit_b": 19.770410537719727,
+    "prefers_a": false
+  },
+  {
+    "word_a": "Mastering",
+    "word_b": "Mastering",
+    "token_a": "▁Master",
+    "token_b": "▁Master",
+    "logit_a": 24.36658477783203,
+    "logit_b": 24.36658477783203,
+    "prefers_a": false
+  },
+  {
+    "word_a": "Philosophy.",
+    "word_b": "Philosophy.",
+    "token_a": "▁",
+    "token_b": "▁",
+    "logit_a": 34.31003189086914,
+    "logit_b": 34.31003189086914,
+    "prefers_a": false
+  },
+  {
+    "word_a": "978-0-333-69343-8",
+    "word_b": "978-0-333-69343-8",
+    "token_a": "▁978-",
+    "token_b": "▁978-",
+    "logit_a": 14.942569732666016,
+    "logit_b": 14.942569732666016,
+    "prefers_a": false
+  },
+  {
+    "word_a": "Higgins,",
+    "word_b": "Higgins,",
+    "token_a": "▁Hi",
+    "token_b": "▁Hi",
+    "logit_a": 31.459625244140625,
+    "logit_b": 31.459625244140625,
+    "prefers_a": false
+  },
+  {
+    "word_a": "Kathleen",
+    "word_b": "Kathleen",
+    "token_a": "▁Kat",
+    "token_b": "▁Kat",
+    "logit_a": 28.610671997070312,
+    "logit_b": 28.610671997070312,
+    "prefers_a": false
+  },
+  {
+    "word_a": "M.",
+    "word_b": "M.",
+    "token_a": "▁M",
+    "token_b": "▁M",
+    "logit_a": 21.67323112487793,
+    "logit_b": 21.67323112487793,
+    "prefers_a": false
+  },
+  {
+    "word_a": "Solomon,",
+    "word_b": "Solomon,",
+    "token_a": "▁Solomon",
+    "token_b": "▁Solomon",
+    "logit_a": 16.909839630126953,
+    "logit_b": 16.909839630126953,
+    "prefers_a": false
+  },
+  {
+    "word_a": "Robert",
+    "word_b": "Robert",
+    "token_a": "▁Robert",
+    "token_b": "▁Robert",
+    "logit_a": 15.785530090332031,
+    "logit_b": 15.785530090332031,
+    "prefers_a": false
+  },
+  {
+    "word_a": "C.",
+    "word_b": "C.",
+    "token_a": "▁C",
+    "token_b": "▁C",
+    "logit_a": 22.171640396118164,
+    "logit_b": 22.171640396118164,
+    "prefers_a": false
+  },
+  {
+    "word_a": "History",
+    "word_b": "History",
+    "token_a": "▁History",
+    "token_b": "▁History",
+    "logit_a": 19.500091552734375,
+    "logit_b": 19.500091552734375,
+    "prefers_a": false
+  },
+  {
+    "word_a": "978-0-19-510196-6",
+    "word_b": "978-0-19-510196-6",
+    "token_a": "▁978-",
+    "token_b": "▁978-",
+    "logit_a": 15.252215385437012,
+    "logit_b": 15.252215385437012,
+    "prefers_a": false
+  },
+  {
+    "word_a": "Russell,",
+    "word_b": "Russell,",
+    "token_a": "▁Russell",
+    "token_b": "▁Russell",
+    "logit_a": 17.277326583862305,
+    "logit_b": 17.277326583862305,
+    "prefers_a": false
+  },
+  {
+    "word_a": "Bertrand.",
+    "word_b": "Bertrand.",
+    "token_a": "▁Bert",
+    "token_b": "▁Bert",
+    "logit_a": 19.296131134033203,
+    "logit_b": 19.296131134033203,
+    "prefers_a": false
+  },
+  {
+    "word_a": "Problems",
+    "word_b": "Problems",
+    "token_a": "▁Problem",
+    "token_b": "▁Problem",
+    "logit_a": 18.206356048583984,
+    "logit_b": 18.206356048583984,
+    "prefers_a": false
+  },
+  {
+    "word_a": "978-0-19-511552-9",
+    "word_b": "978-0-19-511552-9",
+    "token_a": "▁978-",
+    "token_b": "▁978-",
+    "logit_a": 15.139961242675781,
+    "logit_b": 15.139961242675781,
+    "prefers_a": false
+  },
+  {
+    "word_a": "Sinclair,",
+    "word_b": "Sinclair,",
+    "token_a": "▁Sin",
+    "token_b": "▁Sin",
+    "logit_a": 29.420116424560547,
+    "logit_b": 29.420116424560547,
+    "prefers_a": false
+  },
+  {
+    "word_a": "Alistair",
+    "word_b": "Alistair",
+    "token_a": "▁Al",
+    "token_b": "▁Al",
+    "logit_a": 30.30585479736328,
+    "logit_b": 30.30585479736328,
+    "prefers_a": false
+  },
+  {
+    "word_a": "J.",
+    "word_b": "J.",
+    "token_a": "▁J",
+    "token_b": "▁J",
+    "logit_a": 21.675975799560547,
+    "logit_b": 21.675975799560547,
+    "prefers_a": false
+  },
+  {
+    "word_a": "What",
+    "word_b": "What",
+    "token_a": "▁What",
+    "token_b": "▁What",
+    "logit_a": 13.625701904296875,
+    "logit_b": 13.625701904296875,
+    "prefers_a": false
+  },
+  {
+    "word_a": "is",
+    "word_b": "is",
+    "token_a": "▁is",
+    "token_b": "▁is",
+    "logit_a": 13.945127487182617,
+    "logit_b": 13.945127487182617,
+    "prefers_a": false
+  },
+  {
+    "word_a": "Philosophy?",
+    "word_b": "Philosophy?",
+    "token_a": "▁",
+    "token_b": "▁",
+    "logit_a": 32.46759033203125,
+    "logit_b": 32.46759033203125,
+    "prefers_a": false
+  },
+  {
+    "word_a": "Introduction,",
+    "word_b": "Introduction,",
+    "token_a": "▁Introdu",
+    "token_b": "▁Introdu",
+    "logit_a": 32.05126190185547,
+    "logit_b": 32.05126190185547,
+    "prefers_a": false
+  },
+  {
+    "word_a": "2008,",
+    "word_b": "2008,",
+    "token_a": "▁2008,",
+    "token_b": "▁2008,",
+    "logit_a": 13.239545822143555,
+    "logit_b": 13.239545822143555,
+    "prefers_a": false
+  },
+  {
+    "word_a": "978-1-903765-94-4",
+    "word_b": "978-1-903765-94-4",
+    "token_a": "▁978-",
+    "token_b": "▁978-",
+    "logit_a": 17.947172164916992,
+    "logit_b": 17.947172164916992,
+    "prefers_a": false
+  },
+  {
+    "word_a": "Sober,",
+    "word_b": "Sober,",
+    "token_a": "▁So",
+    "token_b": "▁So",
+    "logit_a": 26.516036987304688,
+    "logit_b": 26.516036987304688,
+    "prefers_a": false
+  },
+  {
+    "word_a": "Elliott.（2001）.",
+    "word_b": "Elliott.（2001）.",
+    "token_a": "▁Elliot",
+    "token_b": "▁Elliot",
+    "logit_a": 16.90268325805664,
+    "logit_b": 16.90268325805664,
+    "prefers_a": false
+  },
+  {
+    "word_a": "Core",
+    "word_b": "Core",
+    "token_a": "▁Core",
+    "token_b": "▁Core",
+    "logit_a": 13.662878036499023,
+    "logit_b": 13.662878036499023,
+    "prefers_a": false
+  },
+  {
+    "word_a": "Questions",
+    "word_b": "Questions",
+    "token_a": "▁Question",
+    "token_b": "▁Question",
+    "logit_a": 16.687952041625977,
+    "logit_b": 16.687952041625977,
+    "prefers_a": false
+  },
+  {
+    "word_a": "in",
+    "word_b": "in",
+    "token_a": "▁in",
+    "token_b": "▁in",
+    "logit_a": 13.96850299835205,
+    "logit_b": 13.96850299835205,
+    "prefers_a": false
+  },
+  {
+    "word_a": "Text",
+    "word_b": "Text",
+    "token_a": "▁Text",
+    "token_b": "▁Text",
+    "logit_a": 16.35163116455078,
+    "logit_b": 16.35163116455078,
+    "prefers_a": false
+  },
+  {
+    "word_a": "with",
+    "word_b": "with",
+    "token_a": "▁with",
+    "token_b": "▁with",
+    "logit_a": 12.362431526184082,
+    "logit_b": 12.362431526184082,
+    "prefers_a": false
+  },
+  {
+    "word_a": "Readings.",
+    "word_b": "Readings.",
+    "token_a": "▁Reading",
+    "token_b": "▁Reading",
+    "logit_a": 24.03126335144043,
+    "logit_b": 24.03126335144043,
+    "prefers_a": false
+  },
+  {
+    "word_a": "Upper",
+    "word_b": "Upper",
+    "token_a": "▁Upp",
+    "token_b": "▁Upp",
+    "logit_a": 23.312515258789062,
+    "logit_b": 23.312515258789062,
+    "prefers_a": false
+  },
+  {
+    "word_a": "Saddle",
+    "word_b": "Saddle",
+    "token_a": "▁Sad",
+    "token_b": "▁Sad",
+    "logit_a": 17.3548583984375,
+    "logit_b": 17.3548583984375,
+    "prefers_a": false
+  },
+  {
+    "word_a": "River,",
+    "word_b": "River,",
+    "token_a": "▁River",
+    "token_b": "▁River",
+    "logit_a": 17.254377365112305,
+    "logit_b": 17.254377365112305,
+    "prefers_a": false
+  },
+  {
+    "word_a": "Prentice",
+    "word_b": "Prentice",
+    "token_a": "▁Pre",
+    "token_b": "▁Pre",
+    "logit_a": 32.10475158691406,
+    "logit_b": 32.10475158691406,
+    "prefers_a": false
+  },
+  {
+    "word_a": "Hall.",
+    "word_b": "Hall.",
+    "token_a": "▁Hall",
+    "token_b": "▁Hall",
+    "logit_a": 18.69690704345703,
+    "logit_b": 18.69690704345703,
+    "prefers_a": false
+  },
+  {
+    "word_a": "978-0-13-189869-1",
+    "word_b": "978-0-13-189869-1",
+    "token_a": "▁978-",
+    "token_b": "▁978-",
+    "logit_a": 14.253013610839844,
+    "logit_b": 14.253013610839844,
+    "prefers_a": false
+  },
+  {
+    "word_a": "Big",
+    "word_b": "Big",
+    "token_a": "▁Big",
+    "token_b": "▁Big",
+    "logit_a": 13.03669261932373,
+    "logit_b": 13.03669261932373,
+    "prefers_a": false
+  },
+  {
+    "word_a": "Questions:",
+    "word_b": "Questions:",
+    "token_a": "▁Question",
+    "token_b": "▁Question",
+    "logit_a": 20.703569412231445,
+    "logit_b": 20.703569412231445,
+    "prefers_a": false
+  },
+  {
+    "word_a": "978-0-534-16708-0",
+    "word_b": "978-0-534-16708-0",
+    "token_a": "▁978-",
+    "token_b": "▁978-",
+    "logit_a": 15.90538215637207,
+    "logit_b": 15.90538215637207,
+    "prefers_a": false
+  },
+  {
+    "word_a": "Warburton,",
+    "word_b": "Warburton,",
+    "token_a": "▁War",
+    "token_b": "▁War",
+    "logit_a": 16.348501205444336,
+    "logit_b": 16.348501205444336,
+    "prefers_a": false
+  },
+  {
+    "word_a": "Nigel.",
+    "word_b": "Nigel.",
+    "token_a": "▁Ni",
+    "token_b": "▁Ni",
+    "logit_a": 22.059186935424805,
+    "logit_b": 22.059186935424805,
+    "prefers_a": false
+  },
+  {
+    "word_a": "Basics.",
+    "word_b": "Basics.",
+    "token_a": "▁Basic",
+    "token_b": "▁Basic",
+    "logit_a": 21.149972915649414,
+    "logit_b": 21.149972915649414,
+    "prefers_a": false
+  },
+  {
+    "word_a": "978-0-415-14694-4",
+    "word_b": "978-0-415-14694-4",
+    "token_a": "▁978-",
+    "token_b": "▁978-",
+    "logit_a": 17.650188446044922,
+    "logit_b": 17.650188446044922,
+    "prefers_a": false
+  },
+  {
+    "word_a": "Think:",
+    "word_b": "Think:",
+    "token_a": "▁Think",
+    "token_b": "▁Think",
+    "logit_a": 14.898841857910156,
+    "logit_b": 14.898841857910156,
+    "prefers_a": false
+  },
+  {
+    "word_a": "philosophy",
+    "word_b": "philosophy",
+    "token_a": "▁",
+    "token_b": "▁",
+    "logit_a": 30.534608840942383,
+    "logit_b": 30.534608840942383,
+    "prefers_a": false
+  },
+  {
+    "word_a": "for",
+    "word_b": "for",
+    "token_a": "▁for",
+    "token_b": "▁for",
+    "logit_a": 15.492770195007324,
+    "logit_b": 15.492770195007324,
+    "prefers_a": false
+  },
+  {
+    "word_a": "everyone",
+    "word_b": "everyone",
+    "token_a": "▁everyone",
+    "token_b": "▁everyone",
+    "logit_a": 12.933627128601074,
+    "logit_b": 12.933627128601074,
+    "prefers_a": false
+  },
+  {
+    "word_a": "Lively",
+    "word_b": "Lively",
+    "token_a": "▁Live",
+    "token_b": "▁Live",
+    "logit_a": 22.913049697875977,
+    "logit_b": 22.913049697875977,
+    "prefers_a": false
+  },
+  {
+    "word_a": "accessible",
+    "word_b": "accessible",
+    "token_a": "▁accessible",
+    "token_b": "▁accessible",
+    "logit_a": 9.587349891662598,
+    "logit_b": 9.587349891662598,
+    "prefers_a": false
+  },
+  {
+    "word_a": "articles",
+    "word_b": "articles",
+    "token_a": "▁articles",
+    "token_b": "▁articles",
+    "logit_a": 12.011258125305176,
+    "logit_b": 12.011258125305176,
+    "prefers_a": false
+  },
+  {
+    "word_a": "written",
+    "word_b": "written",
+    "token_a": "▁written",
+    "token_b": "▁written",
+    "logit_a": 9.827576637268066,
+    "logit_b": 9.827576637268066,
+    "prefers_a": false
+  },
+  {
+    "word_a": "by",
+    "word_b": "by",
+    "token_a": "▁by",
+    "token_b": "▁by",
+    "logit_a": 12.10798168182373,
+    "logit_b": 12.10798168182373,
+    "prefers_a": false
+  },
+  {
+    "word_a": "philosophers",
+    "word_b": "philosophers",
+    "token_a": "▁",
+    "token_b": "▁",
+    "logit_a": 31.454574584960938,
+    "logit_b": 31.454574584960938,
+    "prefers_a": false
+  },
+  {
+    "word_a": "pre-eminent",
+    "word_b": "pre-eminent",
+    "token_a": "▁pre",
+    "token_b": "▁pre",
+    "logit_a": 24.6308650970459,
+    "logit_b": 24.6308650970459,
+    "prefers_a": false
+  },
+  {
+    "word_a": "their",
+    "word_b": "their",
+    "token_a": "▁their",
+    "token_b": "▁their",
+    "logit_a": 13.081450462341309,
+    "logit_b": 13.081450462341309,
+    "prefers_a": false
+  },
+  {
+    "word_a": "fields,",
+    "word_b": "fields,",
+    "token_a": "▁field",
+    "token_b": "▁field",
+    "logit_a": 17.4077091217041,
+    "logit_b": 17.4077091217041,
+    "prefers_a": false
+  },
+  {
+    "word_a": "broad",
+    "word_b": "broad",
+    "token_a": "▁broad",
+    "token_b": "▁broad",
+    "logit_a": 7.1407623291015625,
+    "logit_b": 7.1407623291015625,
+    "prefers_a": false
+  },
+  {
+    "word_a": "audience.",
+    "word_b": "audience.",
+    "token_a": "▁audience",
+    "token_b": "▁audience",
+    "logit_a": 16.703269958496094,
+    "logit_b": 16.703269958496094,
+    "prefers_a": false
+  },
+  {
+    "word_a": "Free",
+    "word_b": "Free",
+    "token_a": "▁Free",
+    "token_b": "▁Free",
+    "logit_a": 15.94533634185791,
+    "logit_b": 15.94533634185791,
+    "prefers_a": false
+  },
+  {
+    "word_a": "are",
+    "word_b": "are",
+    "token_a": "▁are",
+    "token_b": "▁are",
+    "logit_a": 15.379952430725098,
+    "logit_b": 15.379952430725098,
+    "prefers_a": false
+  },
+  {
+    "word_a": "available",
+    "word_b": "available",
+    "token_a": "▁available",
+    "token_b": "▁available",
+    "logit_a": 16.016128540039062,
+    "logit_b": 16.016128540039062,
+    "prefers_a": false
+  },
+  {
+    "word_a": "online.",
+    "word_b": "online.",
+    "token_a": "▁online",
+    "token_b": "▁online",
+    "logit_a": 22.892200469970703,
+    "logit_b": 22.892200469970703,
+    "prefers_a": false
+  },
+  {
+    "word_a": "Gerald",
+    "word_b": "Gerald",
+    "token_a": "▁Gerald",
+    "token_b": "▁Gerald",
+    "logit_a": 12.653573989868164,
+    "logit_b": 12.653573989868164,
+    "prefers_a": false
+  },
+  {
+    "word_a": "Rochelle",
+    "word_b": "Rochelle",
+    "token_a": "▁Roche",
+    "token_b": "▁Roche",
+    "logit_a": 19.959386825561523,
+    "logit_b": 19.959386825561523,
+    "prefers_a": false
+  },
+  {
+    "word_a": "Doing",
+    "word_b": "Doing",
+    "token_a": "▁Do",
+    "token_b": "▁Do",
+    "logit_a": 23.217342376708984,
+    "logit_b": 23.217342376708984,
+    "prefers_a": false
+  },
+  {
+    "word_a": "2012,",
+    "word_b": "2012,",
+    "token_a": "▁2012,",
+    "token_b": "▁2012,",
+    "logit_a": 12.460790634155273,
+    "logit_b": 12.460790634155273,
+    "prefers_a": false
+  },
+  {
+    "word_a": "978-1-78046-004-8",
+    "word_b": "978-1-78046-004-8",
+    "token_a": "▁978-",
+    "token_b": "▁978-",
+    "logit_a": 19.69632339477539,
+    "logit_b": 19.69632339477539,
+    "prefers_a": false
+  },
+  {
+    "word_a": "Copleston,",
+    "word_b": "Copleston,",
+    "token_a": "▁Cop",
+    "token_b": "▁Cop",
+    "logit_a": 22.240558624267578,
+    "logit_b": 22.240558624267578,
+    "prefers_a": false
+  },
+  {
+    "word_a": "Frederick.",
+    "word_b": "Frederick.",
+    "token_a": "▁Frederic",
+    "token_b": "▁Frederic",
+    "logit_a": 19.913787841796875,
+    "logit_b": 19.913787841796875,
+    "prefers_a": false
+  },
+  {
+    "word_a": "Russia:",
+    "word_b": "Russia:",
+    "token_a": "▁Russia",
+    "token_b": "▁Russia",
+    "logit_a": 15.224601745605469,
+    "logit_b": 15.224601745605469,
+    "prefers_a": false
+  },
+  {
+    "word_a": "From",
+    "word_b": "From",
+    "token_a": "▁From",
+    "token_b": "▁From",
+    "logit_a": 15.884955406188965,
+    "logit_b": 15.884955406188965,
+    "prefers_a": false
+  },
+  {
+    "word_a": "Herzen",
+    "word_b": "Herzen",
+    "token_a": "▁Herzen",
+    "token_b": "▁Herzen",
+    "logit_a": 11.01637077331543,
+    "logit_b": 11.01637077331543,
+    "prefers_a": false
+  },
+  {
+    "word_a": "Lenin",
+    "word_b": "Lenin",
+    "token_a": "▁Lenin",
+    "token_b": "▁Lenin",
+    "logit_a": 15.581467628479004,
+    "logit_b": 15.581467628479004,
+    "prefers_a": false
+  },
+  {
+    "word_a": "Berdyaev.",
+    "word_b": "Berdyaev.",
+    "token_a": "▁Ber",
+    "token_b": "▁Ber",
+    "logit_a": 21.15469741821289,
+    "logit_b": 21.15469741821289,
+    "prefers_a": false
+  },
+  {
+    "word_a": "978-0-268-01569-5",
+    "word_b": "978-0-268-01569-5",
+    "token_a": "▁978-",
+    "token_b": "▁978-",
+    "logit_a": 16.703298568725586,
+    "logit_b": 16.703298568725586,
+    "prefers_a": false
+  },
+  {
+    "word_a": "Critchley,",
+    "word_b": "Critchley,",
+    "token_a": "▁Cri",
+    "token_b": "▁Cri",
+    "logit_a": 18.516733169555664,
+    "logit_b": 18.516733169555664,
+    "prefers_a": false
+  },
+  {
+    "word_a": "Simon.",
+    "word_b": "Simon.",
+    "token_a": "▁Simon",
+    "token_b": "▁Simon",
+    "logit_a": 22.688491821289062,
+    "logit_b": 22.688491821289062,
+    "prefers_a": false
+  },
+  {
+    "word_a": "Continental",
+    "word_b": "Continental",
+    "token_a": "▁Continental",
+    "token_b": "▁Continental",
+    "logit_a": 17.68071174621582,
+    "logit_b": 17.68071174621582,
+    "prefers_a": false
+  },
+  {
+    "word_a": "978-0-19-285359-2",
+    "word_b": "978-0-19-285359-2",
+    "token_a": "▁978-",
+    "token_b": "▁978-",
+    "logit_a": 14.06026554107666,
+    "logit_b": 14.06026554107666,
+    "prefers_a": false
+  },
+  {
+    "word_a": "Hamilton,",
+    "word_b": "Hamilton,",
+    "token_a": "▁Hamilton",
+    "token_b": "▁Hamilton",
+    "logit_a": 17.491947174072266,
+    "logit_b": 17.491947174072266,
+    "prefers_a": false
+  },
+  {
+    "word_a": "Sue.",
+    "word_b": "Sue.",
+    "token_a": "▁Sue",
+    "token_b": "▁Sue",
+    "logit_a": 16.56699562072754,
+    "logit_b": 16.56699562072754,
+    "prefers_a": false
+  },
+  {
+    "word_a": "Indian",
+    "word_b": "Indian",
+    "token_a": "▁Indian",
+    "token_b": "▁Indian",
+    "logit_a": 17.407560348510742,
+    "logit_b": 17.407560348510742,
+    "prefers_a": false
+  },
+  {
+    "word_a": "978-0-19-285374-5",
+    "word_b": "978-0-19-285374-5",
+    "token_a": "▁978-",
+    "token_b": "▁978-",
+    "logit_a": 14.085166931152344,
+    "logit_b": 14.085166931152344,
+    "prefers_a": false
+  },
+  {
+    "word_a": "Harwood,",
+    "word_b": "Harwood,",
+    "token_a": "▁Har",
+    "token_b": "▁Har",
+    "logit_a": 28.820842742919922,
+    "logit_b": 28.820842742919922,
+    "prefers_a": false
+  },
+  {
+    "word_a": "Sterling,",
+    "word_b": "Sterling,",
+    "token_a": "▁Ster",
+    "token_b": "▁Ster",
+    "logit_a": 21.33269691467285,
+    "logit_b": 21.33269691467285,
+    "prefers_a": false
+  },
+  {
+    "word_a": "ed.,",
+    "word_b": "ed.,",
+    "token_a": "▁ed",
+    "token_b": "▁ed",
+    "logit_a": 19.834474563598633,
+    "logit_b": 19.834474563598633,
+    "prefers_a": false
+  },
+  {
+    "word_a": "Business",
+    "word_b": "Business",
+    "token_a": "▁Business",
+    "token_b": "▁Business",
+    "logit_a": 18.304533004760742,
+    "logit_b": 18.304533004760742,
+    "prefers_a": false
+  },
+  {
+    "word_a": "as",
+    "word_b": "as",
+    "token_a": "▁as",
+    "token_b": "▁as",
+    "logit_a": 12.831277847290039,
+    "logit_b": 12.831277847290039,
+    "prefers_a": false
+  },
+  {
+    "word_a": "Ethical",
+    "word_b": "Ethical",
+    "token_a": "▁E",
+    "token_b": "▁E",
+    "logit_a": 23.2745418548584,
+    "logit_b": 23.2745418548584,
+    "prefers_a": false
+  },
+  {
+    "word_a": "Usual（Belmont,",
+    "word_b": "Usual（Belmont,",
+    "token_a": "▁Usu",
+    "token_b": "▁Usu",
+    "logit_a": 15.375247955322266,
+    "logit_b": 15.375247955322266,
+    "prefers_a": false
+  },
+  {
+    "word_a": "CA:",
+    "word_b": "CA:",
+    "token_a": "▁CA",
+    "token_b": "▁CA",
+    "logit_a": 17.254602432250977,
+    "logit_b": 17.254602432250977,
+    "prefers_a": false
+  },
+  {
+    "word_a": "Wadsworth",
+    "word_b": "Wadsworth",
+    "token_a": "▁Wad",
+    "token_b": "▁Wad",
+    "logit_a": 19.668882369995117,
+    "logit_b": 19.668882369995117,
+    "prefers_a": false
+  },
+  {
+    "word_a": "Publishing",
+    "word_b": "Publishing",
+    "token_a": "▁Publishing",
+    "token_b": "▁Publishing",
+    "logit_a": 16.44071388244629,
+    "logit_b": 16.44071388244629,
+    "prefers_a": false
+  },
+  {
+    "word_a": "Co.,",
+    "word_b": "Co.,",
+    "token_a": "▁Co",
+    "token_b": "▁Co",
+    "logit_a": 18.762920379638672,
+    "logit_b": 18.762920379638672,
+    "prefers_a": false
+  },
+  {
+    "word_a": "2000）;",
+    "word_b": "2000）;",
+    "token_a": "▁2000",
+    "token_b": "▁2000",
+    "logit_a": 15.293663024902344,
+    "logit_b": 15.293663024902344,
+    "prefers_a": false
+  },
+  {
+    "word_a": "www.sterlingharwood.com",
+    "word_b": "www.sterlingharwood.com",
+    "token_a": "▁www",
+    "token_b": "▁www",
+    "logit_a": 35.02931213378906,
+    "logit_b": 35.02931213378906,
+    "prefers_a": false
+  },
+  {
+    "word_a": "Imbo,",
+    "word_b": "Imbo,",
+    "token_a": "▁I",
+    "token_b": "▁I",
+    "logit_a": 26.566104888916016,
+    "logit_b": 26.566104888916016,
+    "prefers_a": false
+  },
+  {
+    "word_a": "Samuel",
+    "word_b": "Samuel",
+    "token_a": "▁Samuel",
+    "token_b": "▁Samuel",
+    "logit_a": 18.2004451751709,
+    "logit_b": 18.2004451751709,
+    "prefers_a": false
+  },
+  {
+    "word_a": "Oluoch.",
+    "word_b": "Oluoch.",
+    "token_a": "▁Olu",
+    "token_b": "▁Olu",
+    "logit_a": 25.691524505615234,
+    "logit_b": 25.691524505615234,
+    "prefers_a": false
+  },
+  {
+    "word_a": "'3'An",
+    "word_b": "'3'An",
+    "token_a": "▁'",
+    "token_b": "▁'",
+    "logit_a": 22.175189971923828,
+    "logit_b": 22.175189971923828,
+    "prefers_a": false
+  },
+  {
+    "word_a": "African",
+    "word_b": "African",
+    "token_a": "▁African",
+    "token_b": "▁African",
+    "logit_a": 15.068528175354004,
+    "logit_b": 15.068528175354004,
+    "prefers_a": false
+  },
+  {
+    "word_a": "978-0-8476-8841-8",
+    "word_b": "978-0-8476-8841-8",
+    "token_a": "▁978-",
+    "token_b": "▁978-",
+    "logit_a": 15.199088096618652,
+    "logit_b": 15.199088096618652,
+    "prefers_a": false
+  },
+  {
+    "word_a": "Knight,",
+    "word_b": "Knight,",
+    "token_a": "▁Knight",
+    "token_b": "▁Knight",
+    "logit_a": 19.07835578918457,
+    "logit_b": 19.07835578918457,
+    "prefers_a": false
+  },
+  {
+    "word_a": "Kelvin.",
+    "word_b": "Kelvin.",
+    "token_a": "▁Kel",
+    "token_b": "▁Kel",
+    "logit_a": 23.250741958618164,
+    "logit_b": 23.250741958618164,
+    "prefers_a": false
+  },
+  {
+    "word_a": "Aristotelian",
+    "word_b": "Aristotelian",
+    "token_a": "▁Aristo",
+    "token_b": "▁Aristo",
+    "logit_a": 23.397933959960938,
+    "logit_b": 23.397933959960938,
+    "prefers_a": false
+  },
+  {
+    "word_a": "Ethics",
+    "word_b": "Ethics",
+    "token_a": "▁Et",
+    "token_b": "▁Et",
+    "logit_a": 36.51338577270508,
+    "logit_b": 36.51338577270508,
+    "prefers_a": false
+  },
+  {
+    "word_a": "Politics",
+    "word_b": "Politics",
+    "token_a": "▁Politic",
+    "token_b": "▁Politic",
+    "logit_a": 17.3218994140625,
+    "logit_b": 17.3218994140625,
+    "prefers_a": false
+  },
+  {
+    "word_a": "Aristotle",
+    "word_b": "Aristotle",
+    "token_a": "▁Aristo",
+    "token_b": "▁Aristo",
+    "logit_a": 19.24584197998047,
+    "logit_b": 19.24584197998047,
+    "prefers_a": false
+  },
+  {
+    "word_a": "MacIntyre.",
+    "word_b": "MacIntyre.",
+    "token_a": "▁Mac",
+    "token_b": "▁Mac",
+    "logit_a": 31.0946102142334,
+    "logit_b": 31.0946102142334,
+    "prefers_a": false
+  },
+  {
+    "word_a": "978-0-7456-1977-4",
+    "word_b": "978-0-7456-1977-4",
+    "token_a": "▁978-",
+    "token_b": "▁978-",
+    "logit_a": 17.101642608642578,
+    "logit_b": 17.101642608642578,
+    "prefers_a": false
+  },
+  {
+    "word_a": "Kupperman,",
+    "word_b": "Kupperman,",
+    "token_a": "▁Ku",
+    "token_b": "▁Ku",
+    "logit_a": 25.609027862548828,
+    "logit_b": 25.609027862548828,
+    "prefers_a": false
+  },
+  {
+    "word_a": "Joel",
+    "word_b": "Joel",
+    "token_a": "▁Joel",
+    "token_b": "▁Joel",
+    "logit_a": 12.57381820678711,
+    "logit_b": 12.57381820678711,
+    "prefers_a": false
+  },
+  {
+    "word_a": "Classic",
+    "word_b": "Classic",
+    "token_a": "▁Classic",
+    "token_b": "▁Classic",
+    "logit_a": 20.517223358154297,
+    "logit_b": 20.517223358154297,
+    "prefers_a": false
+  },
+  {
+    "word_a": "Asian",
+    "word_b": "Asian",
+    "token_a": "▁Asian",
+    "token_b": "▁Asian",
+    "logit_a": 14.740801811218262,
+    "logit_b": 14.740801811218262,
+    "prefers_a": false
+  },
+  {
+    "word_a": "Guide",
+    "word_b": "Guide",
+    "token_a": "▁Guide",
+    "token_b": "▁Guide",
+    "logit_a": 14.350617408752441,
+    "logit_b": 14.350617408752441,
+    "prefers_a": false
+  },
+  {
+    "word_a": "Essential",
+    "word_b": "Essential",
+    "token_a": "▁Essential",
+    "token_b": "▁Essential",
+    "logit_a": 19.527463912963867,
+    "logit_b": 19.527463912963867,
+    "prefers_a": false
+  },
+  {
+    "word_a": "Texts.",
+    "word_b": "Texts.",
+    "token_a": "▁Text",
+    "token_b": "▁Text",
+    "logit_a": 24.585838317871094,
+    "logit_b": 24.585838317871094,
+    "prefers_a": false
+  },
+  {
+    "word_a": "978-0-19-513335-6",
+    "word_b": "978-0-19-513335-6",
+    "token_a": "▁978-",
+    "token_b": "▁978-",
+    "logit_a": 14.228235244750977,
+    "logit_b": 14.228235244750977,
+    "prefers_a": false
+  },
+  {
+    "word_a": "Leaman,",
+    "word_b": "Leaman,",
+    "token_a": "▁Le",
+    "token_b": "▁Le",
+    "logit_a": 27.268293380737305,
+    "logit_b": 27.268293380737305,
+    "prefers_a": false
+  },
+  {
+    "word_a": "Oliver.",
+    "word_b": "Oliver.",
+    "token_a": "▁Oliver",
+    "token_b": "▁Oliver",
+    "logit_a": 19.151119232177734,
+    "logit_b": 19.151119232177734,
+    "prefers_a": false
+  },
+  {
+    "word_a": "Brief",
+    "word_b": "Brief",
+    "token_a": "▁Brief",
+    "token_b": "▁Brief",
+    "logit_a": 8.318904876708984,
+    "logit_b": 8.318904876708984,
+    "prefers_a": false
+  },
+  {
+    "word_a": "Islamic",
+    "word_b": "Islamic",
+    "token_a": "▁Islamic",
+    "token_b": "▁Islamic",
+    "logit_a": 16.68354034423828,
+    "logit_b": 16.68354034423828,
+    "prefers_a": false
+  },
+  {
+    "word_a": "978-0-7456-1960-6",
+    "word_b": "978-0-7456-1960-6",
+    "token_a": "▁978-",
+    "token_b": "▁978-",
+    "logit_a": 18.164649963378906,
+    "logit_b": 18.164649963378906,
+    "prefers_a": false
+  },
+  {
+    "word_a": "Lee,",
+    "word_b": "Lee,",
+    "token_a": "▁Lee",
+    "token_b": "▁Lee",
+    "logit_a": 17.979955673217773,
+    "logit_b": 17.979955673217773,
+    "prefers_a": false
+  },
+  {
+    "word_a": "Joe",
+    "word_b": "Joe",
+    "token_a": "▁Joe",
+    "token_b": "▁Joe",
+    "logit_a": 13.0496244430542,
+    "logit_b": 13.0496244430542,
+    "prefers_a": false
+  },
+  {
+    "word_a": "Powell,",
+    "word_b": "Powell,",
+    "token_a": "▁Po",
+    "token_b": "▁Po",
+    "logit_a": 25.718704223632812,
+    "logit_b": 25.718704223632812,
+    "prefers_a": false
+  },
+  {
+    "word_a": "Jim.",
+    "word_b": "Jim.",
+    "token_a": "▁Jim",
+    "token_b": "▁Jim",
+    "logit_a": 16.149112701416016,
+    "logit_b": 16.149112701416016,
+    "prefers_a": false
+  },
+  {
+    "word_a": "For",
+    "word_b": "For",
+    "token_a": "▁For",
+    "token_b": "▁For",
+    "logit_a": 18.758790969848633,
+    "logit_b": 18.758790969848633,
+    "prefers_a": false
+  },
+  {
+    "word_a": "Beginners.",
+    "word_b": "Beginners.",
+    "token_a": "▁Beginn",
+    "token_b": "▁Beginn",
+    "logit_a": 27.413360595703125,
+    "logit_b": 27.413360595703125,
+    "prefers_a": false
+  },
+  {
+    "word_a": "978-0-86316-282-4",
+    "word_b": "978-0-86316-282-4",
+    "token_a": "▁978-",
+    "token_b": "▁978-",
+    "logit_a": 16.21946144104004,
+    "logit_b": 16.21946144104004,
+    "prefers_a": false
+  },
+  {
+    "word_a": "Nagel,",
+    "word_b": "Nagel,",
+    "token_a": "▁Na",
+    "token_b": "▁Na",
+    "logit_a": 19.581220626831055,
+    "logit_b": 19.581220626831055,
+    "prefers_a": false
+  },
+  {
+    "word_a": "Thomas.",
+    "word_b": "Thomas.",
+    "token_a": "▁Thomas",
+    "token_b": "▁Thomas",
+    "logit_a": 19.692882537841797,
+    "logit_b": 19.692882537841797,
+    "prefers_a": false
+  },
+  {
+    "word_a": "Does",
+    "word_b": "Does",
+    "token_a": "▁Does",
+    "token_b": "▁Does",
+    "logit_a": 8.30890941619873,
+    "logit_b": 8.30890941619873,
+    "prefers_a": false
+  },
+  {
+    "word_a": "It",
+    "word_b": "It",
+    "token_a": "▁It",
+    "token_b": "▁It",
+    "logit_a": 11.45477294921875,
+    "logit_b": 11.45477294921875,
+    "prefers_a": false
+  },
+  {
+    "word_a": "All",
+    "word_b": "All",
+    "token_a": "▁All",
+    "token_b": "▁All",
+    "logit_a": 16.114112854003906,
+    "logit_b": 16.114112854003906,
+    "prefers_a": false
+  },
+  {
+    "word_a": "Mean?",
+    "word_b": "Mean?",
+    "token_a": "▁Me",
+    "token_b": "▁Me",
+    "logit_a": 23.607303619384766,
+    "logit_b": 23.607303619384766,
+    "prefers_a": false
+  },
+  {
+    "word_a": "978-0-19-505292-3",
+    "word_b": "978-0-19-505292-3",
+    "token_a": "▁978-",
+    "token_b": "▁978-",
+    "logit_a": 15.343362808227539,
+    "logit_b": 15.343362808227539,
+    "prefers_a": false
+  },
+  {
+    "word_a": "Scruton,",
+    "word_b": "Scruton,",
+    "token_a": "▁Scr",
+    "token_b": "▁Scr",
+    "logit_a": 26.24164581298828,
+    "logit_b": 26.24164581298828,
+    "prefers_a": false
+  },
+  {
+    "word_a": "Roger.",
+    "word_b": "Roger.",
+    "token_a": "▁Roger",
+    "token_b": "▁Roger",
+    "logit_a": 18.599895477294922,
+    "logit_b": 18.599895477294922,
+    "prefers_a": false
+  },
+  {
+    "word_a": "978-0-415-26763-2",
+    "word_b": "978-0-415-26763-2",
+    "token_a": "▁978-",
+    "token_b": "▁978-",
+    "logit_a": 19.058902740478516,
+    "logit_b": 19.058902740478516,
+    "prefers_a": false
+  },
+  {
+    "word_a": "Smart,",
+    "word_b": "Smart,",
+    "token_a": "▁Smart",
+    "token_b": "▁Smart",
+    "logit_a": 19.781808853149414,
+    "logit_b": 19.781808853149414,
+    "prefers_a": false
+  },
+  {
+    "word_a": "Ninian.",
+    "word_b": "Ninian.",
+    "token_a": "▁Ni",
+    "token_b": "▁Ni",
+    "logit_a": 30.029544830322266,
+    "logit_b": 30.029544830322266,
+    "prefers_a": false
+  },
+  {
+    "word_a": "Philosophies.",
+    "word_b": "Philosophies.",
+    "token_a": "▁Philosophi",
+    "token_b": "▁Philosophi",
+    "logit_a": 20.411155700683594,
+    "logit_b": 20.411155700683594,
+    "prefers_a": false
+  },
+  {
+    "word_a": "978-0-415-22852-7",
+    "word_b": "978-0-415-22852-7",
+    "token_a": "▁978-",
+    "token_b": "▁978-",
+    "logit_a": 15.12999439239502,
+    "logit_b": 15.12999439239502,
+    "prefers_a": false
+  },
+  {
+    "word_a": "Tarnas,",
+    "word_b": "Tarnas,",
+    "token_a": "▁Tar",
+    "token_b": "▁Tar",
+    "logit_a": 20.77027702331543,
+    "logit_b": 20.77027702331543,
+    "prefers_a": false
+  },
+  {
+    "word_a": "Richard.",
+    "word_b": "Richard.",
+    "token_a": "▁Richard",
+    "token_b": "▁Richard",
+    "logit_a": 19.618593215942383,
+    "logit_b": 19.618593215942383,
+    "prefers_a": false
+  },
+  {
+    "word_a": "Passion",
+    "word_b": "Passion",
+    "token_a": "▁Passion",
+    "token_b": "▁Passion",
+    "logit_a": 17.011104583740234,
+    "logit_b": 17.011104583740234,
+    "prefers_a": false
+  },
+  {
+    "word_a": "Mind:",
+    "word_b": "Mind:",
+    "token_a": "▁Mind",
+    "token_b": "▁Mind",
+    "logit_a": 20.580707550048828,
+    "logit_b": 20.580707550048828,
+    "prefers_a": false
+  },
+  {
+    "word_a": "Understanding",
+    "word_b": "Understanding",
+    "token_a": "▁Under",
+    "token_b": "▁Under",
+    "logit_a": 33.206180572509766,
+    "logit_b": 33.206180572509766,
+    "prefers_a": false
+  },
+  {
+    "word_a": "Ideas",
+    "word_b": "Ideas",
+    "token_a": "▁Idea",
+    "token_b": "▁Idea",
+    "logit_a": 14.950733184814453,
+    "logit_b": 14.950733184814453,
+    "prefers_a": false
+  },
+  {
+    "word_a": "That",
+    "word_b": "That",
+    "token_a": "▁That",
+    "token_b": "▁That",
+    "logit_a": 12.398468971252441,
+    "logit_b": 12.398468971252441,
+    "prefers_a": false
+  },
+  {
+    "word_a": "Have",
+    "word_b": "Have",
+    "token_a": "▁Have",
+    "token_b": "▁Have",
+    "logit_a": 12.377036094665527,
+    "logit_b": 12.377036094665527,
+    "prefers_a": false
+  },
+  {
+    "word_a": "Shaped",
+    "word_b": "Shaped",
+    "token_a": "▁Sha",
+    "token_b": "▁Sha",
+    "logit_a": 24.825641632080078,
+    "logit_b": 24.825641632080078,
+    "prefers_a": false
+  },
+  {
+    "word_a": "Our",
+    "word_b": "Our",
+    "token_a": "▁Our",
+    "token_b": "▁Our",
+    "logit_a": 13.383355140686035,
+    "logit_b": 13.383355140686035,
+    "prefers_a": false
+  },
+  {
+    "word_a": "View.",
+    "word_b": "View.",
+    "token_a": "▁View",
+    "token_b": "▁View",
+    "logit_a": 22.752639770507812,
+    "logit_b": 22.752639770507812,
+    "prefers_a": false
+  },
+  {
+    "word_a": "978-0-345-36809-6",
+    "word_b": "978-0-345-36809-6",
+    "token_a": "▁978-",
+    "token_b": "▁978-",
+    "logit_a": 17.257774353027344,
+    "logit_b": 17.257774353027344,
+    "prefers_a": false
+  },
+  {
+    "word_a": "Classics",
+    "word_b": "Classics",
+    "token_a": "▁Classic",
+    "token_b": "▁Classic",
+    "logit_a": 18.39858627319336,
+    "logit_b": 18.39858627319336,
+    "prefers_a": false
+  },
+  {
+    "word_a": "Philosophy（Vols.",
+    "word_b": "Philosophy（Vols.",
+    "token_a": "▁",
+    "token_b": "▁",
+    "logit_a": 31.08603858947754,
+    "logit_b": 31.08603858947754,
+    "prefers_a": false
+  },
+  {
+    "word_a": "2,",
+    "word_b": "2,",
+    "token_a": "▁2",
+    "token_b": "▁2",
+    "logit_a": 27.585174560546875,
+    "logit_b": 27.585174560546875,
+    "prefers_a": false
+  },
+  {
+    "word_a": "2nd",
+    "word_b": "2nd",
+    "token_a": "▁2",
+    "token_b": "▁2",
+    "logit_a": 33.83876419067383,
+    "logit_b": 33.83876419067383,
+    "prefers_a": false
+  },
+  {
+    "word_a": "edition）by",
+    "word_b": "edition）by",
+    "token_a": "▁edition",
+    "token_b": "▁edition",
+    "logit_a": 18.81474494934082,
+    "logit_b": 18.81474494934082,
+    "prefers_a": false
+  },
+  {
+    "word_a": "Louis",
+    "word_b": "Louis",
+    "token_a": "▁Louis",
+    "token_b": "▁Louis",
+    "logit_a": 14.767181396484375,
+    "logit_b": 14.767181396484375,
+    "prefers_a": false
+  },
+  {
+    "word_a": "P.",
+    "word_b": "P.",
+    "token_a": "▁P",
+    "token_b": "▁P",
+    "logit_a": 21.930805206298828,
+    "logit_b": 21.930805206298828,
+    "prefers_a": false
+  },
+  {
+    "word_a": "Pojman",
+    "word_b": "Pojman",
+    "token_a": "▁Po",
+    "token_b": "▁Po",
+    "logit_a": 21.060958862304688,
+    "logit_b": 21.060958862304688,
+    "prefers_a": false
+  },
+  {
+    "word_a": "20th",
+    "word_b": "20th",
+    "token_a": "▁20",
+    "token_b": "▁20",
+    "logit_a": 26.047683715820312,
+    "logit_b": 26.047683715820312,
+    "prefers_a": false
+  },
+  {
+    "word_a": "Century（Vol.",
+    "word_b": "Century（Vol.",
+    "token_a": "▁Century",
+    "token_b": "▁Century",
+    "logit_a": 18.291122436523438,
+    "logit_b": 18.291122436523438,
+    "prefers_a": false
+  },
+  {
+    "word_a": "3）by",
+    "word_b": "3）by",
+    "token_a": "▁3",
+    "token_b": "▁3",
+    "logit_a": 28.509777069091797,
+    "logit_b": 28.509777069091797,
+    "prefers_a": false
+  },
+  {
+    "word_a": "English",
+    "word_b": "English",
+    "token_a": "▁English",
+    "token_b": "▁English",
+    "logit_a": 22.24516487121582,
+    "logit_b": 22.24516487121582,
+    "prefers_a": false
+  },
+  {
+    "word_a": "Philosophers",
+    "word_b": "Philosophers",
+    "token_a": "▁",
+    "token_b": "▁",
+    "logit_a": 34.62895965576172,
+    "logit_b": 34.62895965576172,
+    "prefers_a": false
+  },
+  {
+    "word_a": "Bacon",
+    "word_b": "Bacon",
+    "token_a": "▁Ba",
+    "token_b": "▁Ba",
+    "logit_a": 21.60148811340332,
+    "logit_b": 21.60148811340332,
+    "prefers_a": false
+  },
+  {
+    "word_a": "Mill",
+    "word_b": "Mill",
+    "token_a": "▁Mill",
+    "token_b": "▁Mill",
+    "logit_a": 7.725028991699219,
+    "logit_b": 7.725028991699219,
+    "prefers_a": false
+  },
+  {
+    "word_a": "Edwin",
+    "word_b": "Edwin",
+    "token_a": "▁Edwin",
+    "token_b": "▁Edwin",
+    "logit_a": 14.983482360839844,
+    "logit_b": 14.983482360839844,
+    "prefers_a": false
+  },
+  {
+    "word_a": "Arthur",
+    "word_b": "Arthur",
+    "token_a": "▁Arthur",
+    "token_b": "▁Arthur",
+    "logit_a": 14.719685554504395,
+    "logit_b": 14.719685554504395,
+    "prefers_a": false
+  },
+  {
+    "word_a": "European",
+    "word_b": "European",
+    "token_a": "▁European",
+    "token_b": "▁European",
+    "logit_a": 21.092041015625,
+    "logit_b": 21.092041015625,
+    "prefers_a": false
+  },
+  {
+    "word_a": "Descartes",
+    "word_b": "Descartes",
+    "token_a": "▁Desc",
+    "token_b": "▁Desc",
+    "logit_a": 23.58382797241211,
+    "logit_b": 23.58382797241211,
+    "prefers_a": false
+  },
+  {
+    "word_a": "Nietzsche",
+    "word_b": "Nietzsche",
+    "token_a": "▁Nietzsche",
+    "token_b": "▁Nietzsche",
+    "logit_a": 15.685442924499512,
+    "logit_b": 15.685442924499512,
+    "prefers_a": false
+  },
+  {
+    "word_a": "Monroe",
+    "word_b": "Monroe",
+    "token_a": "▁Monroe",
+    "token_b": "▁Monroe",
+    "logit_a": 17.440048217773438,
+    "logit_b": 17.440048217773438,
+    "prefers_a": false
+  },
+  {
+    "word_a": "Beardsley",
+    "word_b": "Beardsley",
+    "token_a": "▁Be",
+    "token_b": "▁Be",
+    "logit_a": 26.139995574951172,
+    "logit_b": 26.139995574951172,
+    "prefers_a": false
+  },
+  {
+    "word_a": "Analytic",
+    "word_b": "Analytic",
+    "token_a": "▁Analytic",
+    "token_b": "▁Analytic",
+    "logit_a": 13.102729797363281,
+    "logit_b": 13.102729797363281,
+    "prefers_a": false
+  },
+  {
+    "word_a": "Readings",
+    "word_b": "Readings",
+    "token_a": "▁Reading",
+    "token_b": "▁Reading",
+    "logit_a": 17.046669006347656,
+    "logit_b": 17.046669006347656,
+    "prefers_a": false
+  },
+  {
+    "word_a": "James",
+    "word_b": "James",
+    "token_a": "▁James",
+    "token_b": "▁James",
+    "logit_a": 15.091986656188965,
+    "logit_b": 15.091986656188965,
+    "prefers_a": false
+  },
+  {
+    "word_a": "Baillie",
+    "word_b": "Baillie",
+    "token_a": "▁Ba",
+    "token_b": "▁Ba",
+    "logit_a": 28.375385284423828,
+    "logit_b": 28.375385284423828,
+    "prefers_a": false
+  },
+  {
+    "word_a": "Existentialism:",
+    "word_b": "Existentialism:",
+    "token_a": "▁Existen",
+    "token_b": "▁Existen",
+    "logit_a": 33.97782897949219,
+    "logit_b": 33.97782897949219,
+    "prefers_a": false
+  },
+  {
+    "word_a": "Basic",
+    "word_b": "Basic",
+    "token_a": "▁Basic",
+    "token_b": "▁Basic",
+    "logit_a": 16.37494659423828,
+    "logit_b": 16.37494659423828,
+    "prefers_a": false
+  },
+  {
+    "word_a": "Writings",
+    "word_b": "Writings",
+    "token_a": "▁Writing",
+    "token_b": "▁Writing",
+    "logit_a": 14.796195030212402,
+    "logit_b": 14.796195030212402,
+    "prefers_a": false
+  },
+  {
+    "word_a": "(Second",
+    "word_b": "(Second",
+    "token_a": "▁(",
+    "token_b": "▁(",
+    "logit_a": 33.423728942871094,
+    "logit_b": 33.423728942871094,
+    "prefers_a": false
+  },
+  {
+    "word_a": "Edition)",
+    "word_b": "Edition)",
+    "token_a": "▁Edition",
+    "token_b": "▁Edition",
+    "logit_a": 15.84408187866211,
+    "logit_b": 15.84408187866211,
+    "prefers_a": false
+  },
+  {
+    "word_a": "Charles",
+    "word_b": "Charles",
+    "token_a": "▁Charles",
+    "token_b": "▁Charles",
+    "logit_a": 15.606759071350098,
+    "logit_b": 15.606759071350098,
+    "prefers_a": false
+  },
+  {
+    "word_a": "Guignon,",
+    "word_b": "Guignon,",
+    "token_a": "▁Gu",
+    "token_b": "▁Gu",
+    "logit_a": 24.83458709716797,
+    "logit_b": 24.83458709716797,
+    "prefers_a": false
+  },
+  {
+    "word_a": "Derk",
+    "word_b": "Derk",
+    "token_a": "▁Der",
+    "token_b": "▁Der",
+    "logit_a": 13.784703254699707,
+    "logit_b": 13.784703254699707,
+    "prefers_a": false
+  },
+  {
+    "word_a": "Pereboom",
+    "word_b": "Pereboom",
+    "token_a": "▁Pere",
+    "token_b": "▁Pere",
+    "logit_a": 22.591838836669922,
+    "logit_b": 22.591838836669922,
+    "prefers_a": false
+  },
+  {
+    "word_a": "Phenomenology",
+    "word_b": "Phenomenology",
+    "token_a": "▁Phen",
+    "token_b": "▁Phen",
+    "logit_a": 22.580921173095703,
+    "logit_b": 22.580921173095703,
+    "prefers_a": false
+  },
+  {
+    "word_a": "Reader",
+    "word_b": "Reader",
+    "token_a": "▁Reader",
+    "token_b": "▁Reader",
+    "logit_a": 16.95285987854004,
+    "logit_b": 16.95285987854004,
+    "prefers_a": false
+  },
+  {
+    "word_a": "Dermot",
+    "word_b": "Dermot",
+    "token_a": "▁Der",
+    "token_b": "▁Der",
+    "logit_a": 35.33878707885742,
+    "logit_b": 35.33878707885742,
+    "prefers_a": false
+  },
+  {
+    "word_a": "Moran,",
+    "word_b": "Moran,",
+    "token_a": "▁Mor",
+    "token_b": "▁Mor",
+    "logit_a": 23.715551376342773,
+    "logit_b": 23.715551376342773,
+    "prefers_a": false
+  },
+  {
+    "word_a": "Timothy",
+    "word_b": "Timothy",
+    "token_a": "▁Timo",
+    "token_b": "▁Timo",
+    "logit_a": 23.339080810546875,
+    "logit_b": 23.339080810546875,
+    "prefers_a": false
+  },
+  {
+    "word_a": "Mooney",
+    "word_b": "Mooney",
+    "token_a": "▁Moon",
+    "token_b": "▁Moon",
+    "logit_a": 22.026199340820312,
+    "logit_b": 22.026199340820312,
+    "prefers_a": false
+  },
+  {
+    "word_a": "Medieval",
+    "word_b": "Medieval",
+    "token_a": "▁Medi",
+    "token_b": "▁Medi",
+    "logit_a": 25.049114227294922,
+    "logit_b": 25.049114227294922,
+    "prefers_a": false
+  },
+  {
+    "word_a": "Philosophical",
+    "word_b": "Philosophical",
+    "token_a": "▁Philosophi",
+    "token_b": "▁Philosophi",
+    "logit_a": 14.799992561340332,
+    "logit_b": 14.799992561340332,
+    "prefers_a": false
+  },
+  {
+    "word_a": "edited",
+    "word_b": "edited",
+    "token_a": "▁edit",
+    "token_b": "▁edit",
+    "logit_a": 23.369464874267578,
+    "logit_b": 23.369464874267578,
+    "prefers_a": false
+  },
+  {
+    "word_a": "Muhammad",
+    "word_b": "Muhammad",
+    "token_a": "▁Muhammad",
+    "token_b": "▁Muhammad",
+    "logit_a": 17.042064666748047,
+    "logit_b": 17.042064666748047,
+    "prefers_a": false
+  },
+  {
+    "word_a": "Ali",
+    "word_b": "Ali",
+    "token_a": "▁Ali",
+    "token_b": "▁Ali",
+    "logit_a": 15.819952011108398,
+    "logit_b": 15.819952011108398,
+    "prefers_a": false
+  },
+  {
+    "word_a": "Khalidi",
+    "word_b": "Khalidi",
+    "token_a": "▁Khalid",
+    "token_b": "▁Khalid",
+    "logit_a": 16.698083877563477,
+    "logit_b": 16.698083877563477,
+    "prefers_a": false
+  },
+  {
+    "word_a": "Source",
+    "word_b": "Source",
+    "token_a": "▁Source",
+    "token_b": "▁Source",
+    "logit_a": 18.466459274291992,
+    "logit_b": 18.466459274291992,
+    "prefers_a": false
+  },
+  {
+    "word_a": "Book",
+    "word_b": "Book",
+    "token_a": "▁Book",
+    "token_b": "▁Book",
+    "logit_a": 15.423212051391602,
+    "logit_b": 15.423212051391602,
+    "prefers_a": false
+  },
+  {
+    "word_a": "Sarvepalli",
+    "word_b": "Sarvepalli",
+    "token_a": "▁Sar",
+    "token_b": "▁Sar",
+    "logit_a": 29.669742584228516,
+    "logit_b": 29.669742584228516,
+    "prefers_a": false
+  },
+  {
+    "word_a": "Radhakrishnan,",
+    "word_b": "Radhakrishnan,",
+    "token_a": "▁Rad",
+    "token_b": "▁Rad",
+    "logit_a": 31.957029342651367,
+    "logit_b": 31.957029342651367,
+    "prefers_a": false
+  },
+  {
+    "word_a": "A.",
+    "word_b": "A.",
+    "token_a": "▁A",
+    "token_b": "▁A",
+    "logit_a": 24.262693405151367,
+    "logit_b": 24.262693405151367,
+    "prefers_a": false
+  },
+  {
+    "word_a": "Moore",
+    "word_b": "Moore",
+    "token_a": "▁Moore",
+    "token_b": "▁Moore",
+    "logit_a": 12.008414268493652,
+    "logit_b": 12.008414268493652,
+    "prefers_a": false
+  },
+  {
+    "word_a": "Chinese",
+    "word_b": "Chinese",
+    "token_a": "▁Chinese",
+    "token_b": "▁Chinese",
+    "logit_a": 19.600479125976562,
+    "logit_b": 19.600479125976562,
+    "prefers_a": false
+  },
+  {
+    "word_a": "陈荣捷著",
+    "word_b": "陳榮捷著",
+    "token_a": "▁",
+    "token_b": "▁",
+    "logit_a": 31.77688980102539,
+    "logit_b": 31.77688980102539,
+    "prefers_a": false
+  },
+  {
+    "word_a": "Kim,",
+    "word_b": "Kim,",
+    "token_a": "▁Kim",
+    "token_b": "▁Kim",
+    "logit_a": 16.418115615844727,
+    "logit_b": 16.418115615844727,
+    "prefers_a": false
+  },
+  {
+    "word_a": "Ernest",
+    "word_b": "Ernest",
+    "token_a": "▁Ernest",
+    "token_b": "▁Ernest",
+    "logit_a": 17.77591323852539,
+    "logit_b": 17.77591323852539,
+    "prefers_a": false
+  },
+  {
+    "word_a": "Sosa,",
+    "word_b": "Sosa,",
+    "token_a": "▁So",
+    "token_b": "▁So",
+    "logit_a": 29.892574310302734,
+    "logit_b": 29.892574310302734,
+    "prefers_a": false
+  },
+  {
+    "word_a": "Ed.（1999）.",
+    "word_b": "Ed.（1999）.",
+    "token_a": "▁Ed",
+    "token_b": "▁Ed",
+    "logit_a": 16.60011100769043,
+    "logit_b": 16.60011100769043,
+    "prefers_a": false
+  },
+  {
+    "word_a": "Metaphysics:",
+    "word_b": "Metaphysics:",
+    "token_a": "▁Meta",
+    "token_b": "▁Meta",
+    "logit_a": 33.58381652832031,
+    "logit_b": 33.58381652832031,
+    "prefers_a": false
+  },
+  {
+    "word_a": "Anthology.",
+    "word_b": "Anthology.",
+    "token_a": "▁Anth",
+    "token_b": "▁Anth",
+    "logit_a": 27.400009155273438,
+    "logit_b": 27.400009155273438,
+    "prefers_a": false
+  },
+  {
+    "word_a": "Blackwell",
+    "word_b": "Blackwell",
+    "token_a": "▁Black",
+    "token_b": "▁Black",
+    "logit_a": 26.061491012573242,
+    "logit_b": 26.061491012573242,
+    "prefers_a": false
+  },
+  {
+    "word_a": "Anthologies.",
+    "word_b": "Anthologies.",
+    "token_a": "▁Anth",
+    "token_b": "▁Anth",
+    "logit_a": 25.339920043945312,
+    "logit_b": 25.339920043945312,
+    "prefers_a": false
+  },
+  {
+    "word_a": "Oxford,",
+    "word_b": "Oxford,",
+    "token_a": "▁Oxford",
+    "token_b": "▁Oxford",
+    "logit_a": 22.52257537841797,
+    "logit_b": 22.52257537841797,
+    "prefers_a": false
+  },
+  {
+    "word_a": "Publishers",
+    "word_b": "Publishers",
+    "token_a": "▁Publisher",
+    "token_b": "▁Publisher",
+    "logit_a": 17.269695281982422,
+    "logit_b": 17.269695281982422,
+    "prefers_a": false
+  },
+  {
+    "word_a": "Ltd.",
+    "word_b": "Ltd.",
+    "token_a": "▁Ltd",
+    "token_b": "▁Ltd",
+    "logit_a": 17.435062408447266,
+    "logit_b": 17.435062408447266,
+    "prefers_a": false
+  },
+  {
+    "word_a": "Handbook",
+    "word_b": "Handbook",
+    "token_a": "▁Hand",
+    "token_b": "▁Hand",
+    "logit_a": 27.404346466064453,
+    "logit_b": 27.404346466064453,
+    "prefers_a": false
+  },
+  {
+    "word_a": "Will（2004）edited",
+    "word_b": "Will（2004）edited",
+    "token_a": "▁Will",
+    "token_b": "▁Will",
+    "logit_a": 18.429279327392578,
+    "logit_b": 18.429279327392578,
+    "prefers_a": false
+  },
+  {
+    "word_a": "Kane",
+    "word_b": "Kane",
+    "token_a": "▁Kan",
+    "token_b": "▁Kan",
+    "logit_a": 17.604541778564453,
+    "logit_b": 17.604541778564453,
+    "prefers_a": false
+  },
+  {
+    "word_a": "Husserl,",
+    "word_b": "Husserl,",
+    "token_a": "▁Hus",
+    "token_b": "▁Hus",
+    "logit_a": 25.765850067138672,
+    "logit_b": 25.765850067138672,
+    "prefers_a": false
+  },
+  {
+    "word_a": "Edmund",
+    "word_b": "Edmund",
+    "token_a": "▁Edmund",
+    "token_b": "▁Edmund",
+    "logit_a": 14.126580238342285,
+    "logit_b": 14.126580238342285,
+    "prefers_a": false
+  },
+  {
+    "word_a": "Donn",
+    "word_b": "Donn",
+    "token_a": "▁Don",
+    "token_b": "▁Don",
+    "logit_a": 13.709074020385742,
+    "logit_b": 13.709074020385742,
+    "prefers_a": false
+  },
+  {
+    "word_a": "Welton",
+    "word_b": "Welton",
+    "token_a": "▁Welt",
+    "token_b": "▁Welt",
+    "logit_a": 21.65192985534668,
+    "logit_b": 21.65192985534668,
+    "prefers_a": false
+  },
+  {
+    "word_a": "(1999).",
+    "word_b": "(1999).",
+    "token_a": "▁(1999)",
+    "token_b": "▁(1999)",
+    "logit_a": 12.26457691192627,
+    "logit_b": 12.26457691192627,
+    "prefers_a": false
+  },
+  {
+    "word_a": "Husserl:",
+    "word_b": "Husserl:",
+    "token_a": "▁Hus",
+    "token_b": "▁Hus",
+    "logit_a": 23.477230072021484,
+    "logit_b": 23.477230072021484,
+    "prefers_a": false
+  },
+  {
+    "word_a": "Transcendental",
+    "word_b": "Transcendental",
+    "token_a": "▁Trans",
+    "token_b": "▁Trans",
+    "logit_a": 26.49752426147461,
+    "logit_b": 26.49752426147461,
+    "prefers_a": false
+  },
+  {
+    "word_a": "Phenomenology,",
+    "word_b": "Phenomenology,",
+    "token_a": "▁Phen",
+    "token_b": "▁Phen",
+    "logit_a": 22.27953338623047,
+    "logit_b": 22.27953338623047,
+    "prefers_a": false
+  },
+  {
+    "word_a": "Indiana",
+    "word_b": "Indiana",
+    "token_a": "▁Indiana",
+    "token_b": "▁Indiana",
+    "logit_a": 18.706628799438477,
+    "logit_b": 18.706628799438477,
+    "prefers_a": false
+  },
+  {
+    "word_a": "Press.",
+    "word_b": "Press.",
+    "token_a": "▁Press",
+    "token_b": "▁Press",
+    "logit_a": 21.233510971069336,
+    "logit_b": 21.233510971069336,
+    "prefers_a": false
+  },
+  {
+    "word_a": "978-0-253-21273-3",
+    "word_b": "978-0-253-21273-3",
+    "token_a": "▁978-",
+    "token_b": "▁978-",
+    "logit_a": 14.809932708740234,
+    "logit_b": 14.809932708740234,
+    "prefers_a": false
+  },
+  {
+    "word_a": "Cottingham,",
+    "word_b": "Cottingham,",
+    "token_a": "▁Co",
+    "token_b": "▁Co",
+    "logit_a": 34.373985290527344,
+    "logit_b": 34.373985290527344,
+    "prefers_a": false
+  },
+  {
+    "word_a": "John.",
+    "word_b": "John.",
+    "token_a": "▁John",
+    "token_b": "▁John",
+    "logit_a": 22.582950592041016,
+    "logit_b": 22.582950592041016,
+    "prefers_a": false
+  },
+  {
+    "word_a": "ed.",
+    "word_b": "ed.",
+    "token_a": "▁ed",
+    "token_b": "▁ed",
+    "logit_a": 21.501068115234375,
+    "logit_b": 21.501068115234375,
+    "prefers_a": false
+  },
+  {
+    "word_a": "Malden,",
+    "word_b": "Malden,",
+    "token_a": "▁Mal",
+    "token_b": "▁Mal",
+    "logit_a": 26.56267738342285,
+    "logit_b": 26.56267738342285,
+    "prefers_a": false
+  },
+  {
+    "word_a": "MA:",
+    "word_b": "MA:",
+    "token_a": "▁MA",
+    "token_b": "▁MA",
+    "logit_a": 15.672266006469727,
+    "logit_b": 15.672266006469727,
+    "prefers_a": false
+  },
+  {
+    "word_a": "Pub.,",
+    "word_b": "Pub.,",
+    "token_a": "▁Pub",
+    "token_b": "▁Pub",
+    "logit_a": 16.270875930786133,
+    "logit_b": 16.270875930786133,
+    "prefers_a": false
+  },
+  {
+    "word_a": "2008.",
+    "word_b": "2008.",
+    "token_a": "▁2008.",
+    "token_b": "▁2008.",
+    "logit_a": 12.65162467956543,
+    "logit_b": 12.65162467956543,
+    "prefers_a": false
+  },
+  {
+    "word_a": "Print.",
+    "word_b": "Print.",
+    "token_a": "▁Print",
+    "token_b": "▁Print",
+    "logit_a": 22.014259338378906,
+    "logit_b": 22.014259338378906,
+    "prefers_a": false
+  },
+  {
+    "word_a": "Companion",
+    "word_b": "Companion",
+    "token_a": "▁Comp",
+    "token_b": "▁Comp",
+    "logit_a": 21.57833480834961,
+    "logit_b": 21.57833480834961,
+    "prefers_a": false
+  },
+  {
+    "word_a": "Ted",
+    "word_b": "Ted",
+    "token_a": "▁Ted",
+    "token_b": "▁Ted",
+    "logit_a": 10.065589904785156,
+    "logit_b": 10.065589904785156,
+    "prefers_a": false
+  },
+  {
+    "word_a": "Honderich",
+    "word_b": "Honderich",
+    "token_a": "▁Hon",
+    "token_b": "▁Hon",
+    "logit_a": 26.26446533203125,
+    "logit_b": 26.26446533203125,
+    "prefers_a": false
+  },
+  {
+    "word_a": "Cambridge",
+    "word_b": "Cambridge",
+    "token_a": "▁Cambridge",
+    "token_b": "▁Cambridge",
+    "logit_a": 16.953502655029297,
+    "logit_b": 16.953502655029297,
+    "prefers_a": false
+  },
+  {
+    "word_a": "Audi",
+    "word_b": "Audi",
+    "token_a": "▁Audi",
+    "token_b": "▁Audi",
+    "logit_a": 12.587540626525879,
+    "logit_b": 12.587540626525879,
+    "prefers_a": false
+  },
+  {
+    "word_a": "Routledge",
+    "word_b": "Routledge",
+    "token_a": "▁Rou",
+    "token_b": "▁Rou",
+    "logit_a": 18.19870948791504,
+    "logit_b": 18.19870948791504,
+    "prefers_a": false
+  },
+  {
+    "word_a": "Encyclopedia",
+    "word_b": "Encyclopedia",
+    "token_a": "▁E",
+    "token_b": "▁E",
+    "logit_a": 30.675241470336914,
+    "logit_b": 30.675241470336914,
+    "prefers_a": false
+  },
+  {
+    "word_a": "Philosophy（10",
+    "word_b": "Philosophy（10",
+    "token_a": "▁",
+    "token_b": "▁",
+    "logit_a": 30.744121551513672,
+    "logit_b": 30.744121551513672,
+    "prefers_a": false
+  },
+  {
+    "word_a": "vols.）edited",
+    "word_b": "vols.）edited",
+    "token_a": "▁vol",
+    "token_b": "▁vol",
+    "logit_a": 19.25774574279785,
+    "logit_b": 19.25774574279785,
+    "prefers_a": false
+  },
+  {
+    "word_a": "Edward",
+    "word_b": "Edward",
+    "token_a": "▁Edward",
+    "token_b": "▁Edward",
+    "logit_a": 17.33495330810547,
+    "logit_b": 17.33495330810547,
+    "prefers_a": false
+  },
+  {
+    "word_a": "Luciano",
+    "word_b": "Luciano",
+    "token_a": "▁Lucian",
+    "token_b": "▁Lucian",
+    "logit_a": 14.80069637298584,
+    "logit_b": 14.80069637298584,
+    "prefers_a": false
+  },
+  {
+    "word_a": "Floridi（available",
+    "word_b": "Floridi（available",
+    "token_a": "▁Flori",
+    "token_b": "▁Flori",
+    "logit_a": 18.301647186279297,
+    "logit_b": 18.301647186279297,
+    "prefers_a": false
+  },
+  {
+    "word_a": "online",
+    "word_b": "online",
+    "token_a": "▁online",
+    "token_b": "▁online",
+    "logit_a": 21.39723014831543,
+    "logit_b": 21.39723014831543,
+    "prefers_a": false
+  },
+  {
+    "word_a": "subscription）;",
+    "word_b": "subscription）;",
+    "token_a": "▁sub",
+    "token_b": "▁sub",
+    "logit_a": 26.82088851928711,
+    "logit_b": 26.82088851928711,
+    "prefers_a": false
+  },
+  {
+    "word_a": "or",
+    "word_b": "or",
+    "token_a": "▁or",
+    "token_b": "▁or",
+    "logit_a": 14.14318561553955,
+    "logit_b": 14.14318561553955,
+    "prefers_a": false
+  },
+  {
+    "word_a": "Concise",
+    "word_b": "Concise",
+    "token_a": "▁Con",
+    "token_b": "▁Con",
+    "logit_a": 33.429168701171875,
+    "logit_b": 33.429168701171875,
+    "prefers_a": false
+  },
+  {
+    "word_a": "Craig",
+    "word_b": "Craig",
+    "token_a": "▁Craig",
+    "token_b": "▁Craig",
+    "logit_a": 15.625665664672852,
+    "logit_b": 15.625665664672852,
+    "prefers_a": false
+  },
+  {
+    "word_a": "(an",
+    "word_b": "(an",
+    "token_a": "▁(",
+    "token_b": "▁(",
+    "logit_a": 22.259145736694336,
+    "logit_b": 22.259145736694336,
+    "prefers_a": false
+  },
+  {
+    "word_a": "abridgement)",
+    "word_b": "abridgement)",
+    "token_a": "▁a",
+    "token_b": "▁a",
+    "logit_a": 30.733848571777344,
+    "logit_b": 30.733848571777344,
+    "prefers_a": false
+  },
+  {
+    "word_a": "Philosophy（8",
+    "word_b": "Philosophy（8",
+    "token_a": "▁",
+    "token_b": "▁",
+    "logit_a": 30.16816520690918,
+    "logit_b": 30.16816520690918,
+    "prefers_a": false
+  },
+  {
+    "word_a": "Paul",
+    "word_b": "Paul",
+    "token_a": "▁Paul",
+    "token_b": "▁Paul",
+    "logit_a": 16.47623062133789,
+    "logit_b": 16.47623062133789,
+    "prefers_a": false
+  },
+  {
+    "word_a": "Edwards;",
+    "word_b": "Edwards;",
+    "token_a": "▁Edward",
+    "token_b": "▁Edward",
+    "logit_a": 17.582212448120117,
+    "logit_b": 17.582212448120117,
+    "prefers_a": false
+  },
+  {
+    "word_a": "1996,",
+    "word_b": "1996,",
+    "token_a": "▁1996",
+    "token_b": "▁1996",
+    "logit_a": 18.685688018798828,
+    "logit_b": 18.685688018798828,
+    "prefers_a": false
+  },
+  {
+    "word_a": "ninth",
+    "word_b": "ninth",
+    "token_a": "▁nin",
+    "token_b": "▁nin",
+    "logit_a": 18.837976455688477,
+    "logit_b": 18.837976455688477,
+    "prefers_a": false
+  },
+  {
+    "word_a": "supplemental",
+    "word_b": "supplemental",
+    "token_a": "▁supplement",
+    "token_b": "▁supplement",
+    "logit_a": 20.29789924621582,
+    "logit_b": 20.29789924621582,
+    "prefers_a": false
+  },
+  {
+    "word_a": "volume",
+    "word_b": "volume",
+    "token_a": "▁volume",
+    "token_b": "▁volume",
+    "logit_a": 15.900405883789062,
+    "logit_b": 15.900405883789062,
+    "prefers_a": false
+  },
+  {
+    "word_a": "appeared",
+    "word_b": "appeared",
+    "token_a": "▁appeared",
+    "token_b": "▁appeared",
+    "logit_a": 6.289531707763672,
+    "logit_b": 6.289531707763672,
+    "prefers_a": false
+  },
+  {
+    "word_a": "that",
+    "word_b": "that",
+    "token_a": "▁that",
+    "token_b": "▁that",
+    "logit_a": 12.711292266845703,
+    "logit_b": 12.711292266845703,
+    "prefers_a": false
+  },
+  {
+    "word_a": "updated",
+    "word_b": "updated",
+    "token_a": "▁updated",
+    "token_b": "▁updated",
+    "logit_a": 9.915851593017578,
+    "logit_b": 9.915851593017578,
+    "prefers_a": false
+  },
+  {
+    "word_a": "classic",
+    "word_b": "classic",
+    "token_a": "▁classic",
+    "token_b": "▁classic",
+    "logit_a": 12.743898391723633,
+    "logit_b": 12.743898391723633,
+    "prefers_a": false
+  },
+  {
+    "word_a": "1967",
+    "word_b": "1967",
+    "token_a": "▁1967",
+    "token_b": "▁1967",
+    "logit_a": 16.943832397460938,
+    "logit_b": 16.943832397460938,
+    "prefers_a": false
+  },
+  {
+    "word_a": "encyclopedia.",
+    "word_b": "encyclopedia.",
+    "token_a": "▁e",
+    "token_b": "▁e",
+    "logit_a": 33.13145446777344,
+    "logit_b": 33.13145446777344,
+    "prefers_a": false
+  },
+  {
+    "word_a": "International",
+    "word_b": "International",
+    "token_a": "▁International",
+    "token_b": "▁International",
+    "logit_a": 25.184024810791016,
+    "logit_b": 25.184024810791016,
+    "prefers_a": false
+  },
+  {
+    "word_a": "Directory",
+    "word_b": "Directory",
+    "token_a": "▁Director",
+    "token_b": "▁Director",
+    "logit_a": 21.422252655029297,
+    "logit_b": 21.422252655029297,
+    "prefers_a": false
+  },
+  {
+    "word_a": "Philosophers.",
+    "word_b": "Philosophers.",
+    "token_a": "▁",
+    "token_b": "▁",
+    "logit_a": 34.79487609863281,
+    "logit_b": 34.79487609863281,
+    "prefers_a": false
+  },
+  {
+    "word_a": "Charlottesville,",
+    "word_b": "Charlottesville,",
+    "token_a": "▁Charlotte",
+    "token_b": "▁Charlotte",
+    "logit_a": 29.91851043701172,
+    "logit_b": 29.91851043701172,
+    "prefers_a": false
+  },
+  {
+    "word_a": "Documentation",
+    "word_b": "Documentation",
+    "token_a": "▁Document",
+    "token_b": "▁Document",
+    "logit_a": 32.95634078979492,
+    "logit_b": 32.95634078979492,
+    "prefers_a": false
+  },
+  {
+    "word_a": "Center.",
+    "word_b": "Center.",
+    "token_a": "▁Center",
+    "token_b": "▁Center",
+    "logit_a": 17.11026382446289,
+    "logit_b": 17.11026382446289,
+    "prefers_a": false
+  },
+  {
+    "word_a": "American",
+    "word_b": "American",
+    "token_a": "▁American",
+    "token_b": "▁American",
+    "logit_a": 18.815433502197266,
+    "logit_b": 18.815433502197266,
+    "prefers_a": false
+  },
+  {
+    "word_a": "John",
+    "word_b": "John",
+    "token_a": "▁John",
+    "token_b": "▁John",
+    "logit_a": 16.458951950073242,
+    "logit_b": 16.458951950073242,
+    "prefers_a": false
+  },
+  {
+    "word_a": "Marenbon",
+    "word_b": "Marenbon",
+    "token_a": "▁Mar",
+    "token_b": "▁Mar",
+    "logit_a": 28.697895050048828,
+    "logit_b": 28.697895050048828,
+    "prefers_a": false
+  },
+  {
+    "word_a": "Philosophy（9",
+    "word_b": "Philosophy（9",
+    "token_a": "▁",
+    "token_b": "▁",
+    "logit_a": 30.118627548217773,
+    "logit_b": 30.118627548217773,
+    "prefers_a": false
+  },
+  {
+    "word_a": "vols.）by",
+    "word_b": "vols.）by",
+    "token_a": "▁vol",
+    "token_b": "▁vol",
+    "logit_a": 19.318275451660156,
+    "logit_b": 19.318275451660156,
+    "prefers_a": false
+  },
+  {
+    "word_a": "Frederick",
+    "word_b": "Frederick",
+    "token_a": "▁Frederic",
+    "token_b": "▁Frederic",
+    "logit_a": 13.942728042602539,
+    "logit_b": 13.942728042602539,
+    "prefers_a": false
+  },
+  {
+    "word_a": "Copleston",
+    "word_b": "Copleston",
+    "token_a": "▁Cop",
+    "token_b": "▁Cop",
+    "logit_a": 21.754695892333984,
+    "logit_b": 21.754695892333984,
+    "prefers_a": false
+  },
+  {
+    "word_a": "Philosophy（5",
+    "word_b": "Philosophy（5",
+    "token_a": "▁",
+    "token_b": "▁",
+    "logit_a": 30.18604850769043,
+    "logit_b": 30.18604850769043,
+    "prefers_a": false
+  },
+  {
+    "word_a": "T.",
+    "word_b": "T.",
+    "token_a": "▁T",
+    "token_b": "▁T",
+    "logit_a": 19.217973709106445,
+    "logit_b": 19.217973709106445,
+    "prefers_a": false
+  },
+  {
+    "word_a": "Jones",
+    "word_b": "Jones",
+    "token_a": "▁Jones",
+    "token_b": "▁Jones",
+    "logit_a": 15.093417167663574,
+    "logit_b": 15.093417167663574,
+    "prefers_a": false
+  },
+  {
+    "word_a": "Italian",
+    "word_b": "Italian",
+    "token_a": "▁Italian",
+    "token_b": "▁Italian",
+    "logit_a": 18.729337692260742,
+    "logit_b": 18.729337692260742,
+    "prefers_a": false
+  },
+  {
+    "word_a": "Philosophy（2",
+    "word_b": "Philosophy（2",
+    "token_a": "▁",
+    "token_b": "▁",
+    "logit_a": 29.777690887451172,
+    "logit_b": 29.777690887451172,
+    "prefers_a": false
+  },
+  {
+    "word_a": "Eugenio",
+    "word_b": "Eugenio",
+    "token_a": "▁Eugen",
+    "token_b": "▁Eugen",
+    "logit_a": 20.19347381591797,
+    "logit_b": 20.19347381591797,
+    "prefers_a": false
+  },
+  {
+    "word_a": "Garin.",
+    "word_b": "Garin.",
+    "token_a": "▁Gar",
+    "token_b": "▁Gar",
+    "logit_a": 25.559833526611328,
+    "logit_b": 25.559833526611328,
+    "prefers_a": false
+  },
+  {
+    "word_a": "Translated",
+    "word_b": "Translated",
+    "token_a": "▁Trans",
+    "token_b": "▁Trans",
+    "logit_a": 28.775447845458984,
+    "logit_b": 28.775447845458984,
+    "prefers_a": false
+  },
+  {
+    "word_a": "Edited",
+    "word_b": "Edited",
+    "token_a": "▁Edit",
+    "token_b": "▁Edit",
+    "logit_a": 23.53761100769043,
+    "logit_b": 23.53761100769043,
+    "prefers_a": false
+  },
+  {
+    "word_a": "Giorgio",
+    "word_b": "Giorgio",
+    "token_a": "▁Giorgio",
+    "token_b": "▁Giorgio",
+    "logit_a": 12.14501667022705,
+    "logit_b": 12.14501667022705,
+    "prefers_a": false
+  },
+  {
+    "word_a": "Pinton.",
+    "word_b": "Pinton.",
+    "token_a": "▁Pin",
+    "token_b": "▁Pin",
+    "logit_a": 23.650733947753906,
+    "logit_b": 23.650733947753906,
+    "prefers_a": false
+  },
+  {
+    "word_a": "Leon",
+    "word_b": "Leon",
+    "token_a": "▁Leon",
+    "token_b": "▁Leon",
+    "logit_a": 14.032927513122559,
+    "logit_b": 14.032927513122559,
+    "prefers_a": false
+  },
+  {
+    "word_a": "Pompa.",
+    "word_b": "Pompa.",
+    "token_a": "▁Pomp",
+    "token_b": "▁Pomp",
+    "logit_a": 21.199020385742188,
+    "logit_b": 21.199020385742188,
+    "prefers_a": false
+  },
+  {
+    "word_a": "Encyclopaedia",
+    "word_b": "Encyclopaedia",
+    "token_a": "▁En",
+    "token_b": "▁En",
+    "logit_a": 33.555355072021484,
+    "logit_b": 33.555355072021484,
+    "prefers_a": false
+  },
+  {
+    "word_a": "Philosophies（8",
+    "word_b": "Philosophies（8",
+    "token_a": "▁Philosophi",
+    "token_b": "▁Philosophi",
+    "logit_a": 12.499313354492188,
+    "logit_b": 12.499313354492188,
+    "prefers_a": false
+  },
+  {
+    "word_a": "vols.）,",
+    "word_b": "vols.）,",
+    "token_a": "▁vol",
+    "token_b": "▁vol",
+    "logit_a": 16.158037185668945,
+    "logit_b": 16.158037185668945,
+    "prefers_a": false
+  },
+  {
+    "word_a": "Karl",
+    "word_b": "Karl",
+    "token_a": "▁Karl",
+    "token_b": "▁Karl",
+    "logit_a": 13.260449409484863,
+    "logit_b": 13.260449409484863,
+    "prefers_a": false
+  },
+  {
+    "word_a": "H.",
+    "word_b": "H.",
+    "token_a": "▁H",
+    "token_b": "▁H",
+    "logit_a": 22.708755493164062,
+    "logit_b": 22.708755493164062,
+    "prefers_a": false
+  },
+  {
+    "word_a": "Potter",
+    "word_b": "Potter",
+    "token_a": "▁Potter",
+    "token_b": "▁Potter",
+    "logit_a": 16.297256469726562,
+    "logit_b": 16.297256469726562,
+    "prefers_a": false
+  },
+  {
+    "word_a": "et",
+    "word_b": "et",
+    "token_a": "▁et",
+    "token_b": "▁et",
+    "logit_a": 12.624855995178223,
+    "logit_b": 12.624855995178223,
+    "prefers_a": false
+  },
+  {
+    "word_a": "al.（first",
+    "word_b": "al.（first",
+    "token_a": "▁al",
+    "token_b": "▁al",
+    "logit_a": 22.797609329223633,
+    "logit_b": 22.797609329223633,
+    "prefers_a": false
+  },
+  {
+    "word_a": "volumes",
+    "word_b": "volumes",
+    "token_a": "▁volume",
+    "token_b": "▁volume",
+    "logit_a": 15.933650016784668,
+    "logit_b": 15.933650016784668,
+    "prefers_a": false
+  },
+  {
+    "word_a": "out",
+    "word_b": "out",
+    "token_a": "▁out",
+    "token_b": "▁out",
+    "logit_a": 11.007637977600098,
+    "logit_b": 11.007637977600098,
+    "prefers_a": false
+  },
+  {
+    "word_a": "print）",
+    "word_b": "print）",
+    "token_a": "▁print",
+    "token_b": "▁print",
+    "logit_a": 15.811016082763672,
+    "logit_b": 15.811016082763672,
+    "prefers_a": false
+  },
+  {
+    "word_a": "Surendranath",
+    "word_b": "Surendranath",
+    "token_a": "▁Sur",
+    "token_b": "▁Sur",
+    "logit_a": 34.30599594116211,
+    "logit_b": 34.30599594116211,
+    "prefers_a": false
+  },
+  {
+    "word_a": "Dasgupta",
+    "word_b": "Dasgupta",
+    "token_a": "▁Das",
+    "token_b": "▁Das",
+    "logit_a": 31.810577392578125,
+    "logit_b": 31.810577392578125,
+    "prefers_a": false
+  },
+  {
+    "word_a": "Fung",
+    "word_b": "Fung",
+    "token_a": "▁Fung",
+    "token_b": "▁Fung",
+    "logit_a": 13.261408805847168,
+    "logit_b": 13.261408805847168,
+    "prefers_a": false
+  },
+  {
+    "word_a": "Yu-lan,",
+    "word_b": "Yu-lan,",
+    "token_a": "▁Yu",
+    "token_b": "▁Yu",
+    "logit_a": 17.439857482910156,
+    "logit_b": 17.439857482910156,
+    "prefers_a": false
+  },
+  {
+    "word_a": "Bodde",
+    "word_b": "Bodde",
+    "token_a": "▁Bod",
+    "token_b": "▁Bod",
+    "logit_a": 20.07208824157715,
+    "logit_b": 20.07208824157715,
+    "prefers_a": false
+  },
+  {
+    "word_a": "Instructions",
+    "word_b": "Instructions",
+    "token_a": "▁Instru",
+    "token_b": "▁Instru",
+    "logit_a": 36.7072639465332,
+    "logit_b": 36.7072639465332,
+    "prefers_a": false
+  },
+  {
+    "word_a": "Practical",
+    "word_b": "Practical",
+    "token_a": "▁Practic",
+    "token_b": "▁Practic",
+    "logit_a": 20.531818389892578,
+    "logit_b": 20.531818389892578,
+    "prefers_a": false
+  },
+  {
+    "word_a": "Living",
+    "word_b": "Living",
+    "token_a": "▁Living",
+    "token_b": "▁Living",
+    "logit_a": 18.760452270507812,
+    "logit_b": 18.760452270507812,
+    "prefers_a": false
+  },
+  {
+    "word_a": "Other",
+    "word_b": "Other",
+    "token_a": "▁Other",
+    "token_b": "▁Other",
+    "logit_a": 16.8714599609375,
+    "logit_b": 16.8714599609375,
+    "prefers_a": false
+  },
+  {
+    "word_a": "Neo-Confucian",
+    "word_b": "Neo-Confucian",
+    "token_a": "▁Neo",
+    "token_b": "▁Neo",
+    "logit_a": 21.965816497802734,
+    "logit_b": 21.965816497802734,
+    "prefers_a": false
+  },
+  {
+    "word_a": "Wang",
+    "word_b": "Wang",
+    "token_a": "▁Wang",
+    "token_b": "▁Wang",
+    "logit_a": 12.96769905090332,
+    "logit_b": 12.96769905090332,
+    "prefers_a": false
+  },
+  {
+    "word_a": "Yang-ming陈荣捷著",
+    "word_b": "Yang-ming陳榮捷著",
+    "token_a": "▁Yang",
+    "token_b": "▁Yang",
+    "logit_a": 23.413555145263672,
+    "logit_b": 23.413555145263672,
+    "prefers_a": false
+  },
+  {
+    "word_a": "Antonio",
+    "word_b": "Antonio",
+    "token_a": "▁Antonio",
+    "token_b": "▁Antonio",
+    "logit_a": 15.184558868408203,
+    "logit_b": 15.184558868408203,
+    "prefers_a": false
+  },
+  {
+    "word_a": "S.",
+    "word_b": "S.",
+    "token_a": "▁S",
+    "token_b": "▁S",
+    "logit_a": 22.553091049194336,
+    "logit_b": 22.553091049194336,
+    "prefers_a": false
+  },
+  {
+    "word_a": "Cua",
+    "word_b": "Cua",
+    "token_a": "▁Cu",
+    "token_b": "▁Cu",
+    "logit_a": 16.064685821533203,
+    "logit_b": 16.064685821533203,
+    "prefers_a": false
+  },
+  {
+    "word_a": "Religion",
+    "word_b": "Religion",
+    "token_a": "▁Religion",
+    "token_b": "▁Religion",
+    "logit_a": 17.657995223999023,
+    "logit_b": 17.657995223999023,
+    "prefers_a": false
+  },
+  {
+    "word_a": "Ingrid",
+    "word_b": "Ingrid",
+    "token_a": "▁Ingrid",
+    "token_b": "▁Ingrid",
+    "logit_a": 14.151729583740234,
+    "logit_b": 14.151729583740234,
+    "prefers_a": false
+  },
+  {
+    "word_a": "Fischer-Schreiber,",
+    "word_b": "Fischer-Schreiber,",
+    "token_a": "▁Fischer",
+    "token_b": "▁Fischer",
+    "logit_a": 32.22517395019531,
+    "logit_b": 32.22517395019531,
+    "prefers_a": false
+  },
+  {
+    "word_a": "Franz-Karl",
+    "word_b": "Franz-Karl",
+    "token_a": "▁Franz",
+    "token_b": "▁Franz",
+    "logit_a": 26.450172424316406,
+    "logit_b": 26.450172424316406,
+    "prefers_a": false
+  },
+  {
+    "word_a": "Ehrhard,",
+    "word_b": "Ehrhard,",
+    "token_a": "▁Eh",
+    "token_b": "▁Eh",
+    "logit_a": 22.971782684326172,
+    "logit_b": 22.971782684326172,
+    "prefers_a": false
+  },
+  {
+    "word_a": "Kurt",
+    "word_b": "Kurt",
+    "token_a": "▁Kurt",
+    "token_b": "▁Kurt",
+    "logit_a": 7.047869682312012,
+    "logit_b": 7.047869682312012,
+    "prefers_a": false
+  },
+  {
+    "word_a": "Friedrichs",
+    "word_b": "Friedrichs",
+    "token_a": "▁Friedrich",
+    "token_b": "▁Friedrich",
+    "logit_a": 19.105342864990234,
+    "logit_b": 19.105342864990234,
+    "prefers_a": false
+  },
+  {
+    "word_a": "Brian",
+    "word_b": "Brian",
+    "token_a": "▁Brian",
+    "token_b": "▁Brian",
+    "logit_a": 15.598281860351562,
+    "logit_b": 15.598281860351562,
+    "prefers_a": false
+  },
+  {
+    "word_a": "Carr,",
+    "word_b": "Carr,",
+    "token_a": "▁Car",
+    "token_b": "▁Car",
+    "logit_a": 18.990312576293945,
+    "logit_b": 18.990312576293945,
+    "prefers_a": false
+  },
+  {
+    "word_a": "Indira",
+    "word_b": "Indira",
+    "token_a": "▁Indi",
+    "token_b": "▁Indi",
+    "logit_a": 18.601594924926758,
+    "logit_b": 18.601594924926758,
+    "prefers_a": false
+  },
+  {
+    "word_a": "Mahalingam",
+    "word_b": "Mahalingam",
+    "token_a": "▁Mahal",
+    "token_b": "▁Mahal",
+    "logit_a": 29.752540588378906,
+    "logit_b": 29.752540588378906,
+    "prefers_a": false
+  },
+  {
+    "word_a": "Sanskrit",
+    "word_b": "Sanskrit",
+    "token_a": "▁San",
+    "token_b": "▁San",
+    "logit_a": 31.17691993713379,
+    "logit_b": 31.17691993713379,
+    "prefers_a": false
+  },
+  {
+    "word_a": "Terms",
+    "word_b": "Terms",
+    "token_a": "▁Terms",
+    "token_b": "▁Terms",
+    "logit_a": 15.406126022338867,
+    "logit_b": 15.406126022338867,
+    "prefers_a": false
+  },
+  {
+    "word_a": "Defined",
+    "word_b": "Defined",
+    "token_a": "▁De",
+    "token_b": "▁De",
+    "logit_a": 36.94599151611328,
+    "logit_b": 36.94599151611328,
+    "prefers_a": false
+  },
+  {
+    "word_a": "Grimes",
+    "word_b": "Grimes",
+    "token_a": "▁Grim",
+    "token_b": "▁Grim",
+    "logit_a": 26.280778884887695,
+    "logit_b": 26.280778884887695,
+    "prefers_a": false
+  }
+]
